@@ -1,0 +1,722 @@
+[
+  {
+    "subreddit": "dataisbeautiful",
+    "description": "DataIsBeautiful is for visualizations that effectively convey information. \n \n Aesthetics are an important part of information visualization, but pretty pictures are not the sole aim of this subreddit.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:24:29.949528Z"
+  },
+  {
+    "subreddit": "futurology",
+    "description": "A subreddit devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization.\n\n\n\n\n --------   You can also find us in the fediverse at - https://futurology.today",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:24:33.531720Z"
+  },
+  {
+    "subreddit": "technology",
+    "description": "Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:24:38.509864Z"
+  },
+  {
+    "subreddit": "nba",
+    "description": "A community for NBA discussion.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:24:41.920234Z"
+  },
+  {
+    "subreddit": "nfl",
+    "description": "The place to discuss all NFL related things",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:24:46.289693Z"
+  },
+  {
+    "subreddit": "chatgpt",
+    "description": "Subreddit to discuss ChatGPT and AI. Not affiliated with OpenAI. Thanks, Nat!",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:24:49.702479Z"
+  },
+  {
+    "subreddit": "programming",
+    "description": "Computer Programming",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:24:52.910138Z"
+  },
+  {
+    "subreddit": "entrepreneur",
+    "description": "Our community brings together individuals driven by a shared commitment to problem-solving, professional networking, and collaborative innovation, all with the goal of making a positive impact. We welcome a diverse range of pursuits, from side projects and small businesses to venture-backed startups and solo ventures. However, this is a space for genuine connection and exchange of ideas, not self-promotion. Please refrain from promoting personal blogs, consulting services, books, MLMs, opinions.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:24:56.768723Z"
+  },
+  {
+    "subreddit": "design",
+    "description": "Design",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:00.982826Z"
+  },
+  {
+    "subreddit": "learnprogramming",
+    "description": "A subreddit for all questions related to programming in any language.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:05.372188Z"
+  },
+  {
+    "subreddit": "productivity",
+    "description": "Tips and tricks for being more productive!",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:08.511459Z"
+  },
+  {
+    "subreddit": "compsci",
+    "description": "Computer Science Theory and Application. We share and discuss any content that computer scientists find interesting. People from all walks of life welcome, including hackers, hobbyists, professionals, and academics.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:11.725881Z"
+  },
+  {
+    "subreddit": "singularity",
+    "description": "Everything pertaining to the technological singularity and related topics, e.g. AI, human enhancement, etc.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": "attempt 2 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "time": "2025-11-03T12:25:24.709722Z"
+  },
+  {
+    "subreddit": "webdev",
+    "description": "A community dedicated to all things web development: both front-end and back-end. For more design-related questions, try /r/web_design.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:28.001148Z"
+  },
+  {
+    "subreddit": "machinelearning",
+    "description": "Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:25:31.537824Z"
+  },
+  {
+    "subreddit": "collegebasketball",
+    "description": "Your home for College Basketball on the internet. Forever.  \n\nDiscord: https://discord.gg/redditcbb  \n\nTwitter: https://twitter.com/redditCBB",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:34.829852Z"
+  },
+  {
+    "subreddit": "datascience",
+    "description": "A space for data science professionals to engage in discussions and debates on the subject of data science.",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:25:39.552061Z"
+  },
+  {
+    "subreddit": "openai",
+    "description": "OpenAI is an AI research and deployment company. OpenAI's mission is to create safe and powerful AI that benefits all of humanity. We are an unofficially-run community. OpenAI makes Sora, ChatGPT, and DALL·E 3.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:25:42.761564Z"
+  },
+  {
+    "subreddit": "characterai",
+    "description": "Character.AI lets you create and talk to advanced AI - language tutors, text adventure games, brainstorming and much more.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:25:46.944340Z"
+  },
+  {
+    "subreddit": "askacademia",
+    "description": "This subreddit is for discussing academic life, and for asking questions directed towards people involved in academia, (both science and humanities).",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": "attempt 1 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "time": "2025-11-03T12:25:52.940992Z"
+  },
+  {
+    "subreddit": "startups",
+    "description": "Welcome to /r/startups, the place to discuss startup problems and solutions. Startups are companies that are designed to grow and scale rapidly.  Be sure to read and follow all of our rules--we have specific places for common content and requests.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:25:56.102917Z"
+  },
+  {
+    "subreddit": "marketing",
+    "description": "For marketing communications + advertising industry professionals to discuss and ask questions related to marketing strategy, media planning, digital, social, search, campaigns, data science, email, user experience, content, copywriting, segmentation, attribution, data visualization, testing, optimization, and martech. We are a support network for people working at brands, businesses, agencies, vendors, and academia.",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:25:59.437881Z"
+  },
+  {
+    "subreddit": "midjourney",
+    "description": "Midjourney is an image generator that lets you explore new ideas that unlocks your creativity. ",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:02.675587Z"
+  },
+  {
+    "subreddit": "artificialinteligence",
+    "description": "A subreddit dedicated to everything Artificial Intelligence. Covering topics from AGI to AI startups. Whether you're a researcher, developer, or simply curious about AI, Jump in!!!",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:07.234032Z"
+  },
+  {
+    "subreddit": "python",
+    "description": "The official Python community for Reddit! Stay up to date with the latest news, packages, and meta information relating to the Python programming language. \n---\n\nIf you have questions or are new to Python use r/LearnPython",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:12.337905Z"
+  },
+  {
+    "subreddit": "gpt3",
+    "description": "The subreddit for AI text generation technology ",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:15.553614Z"
+  },
+  {
+    "subreddit": "cybersecurity",
+    "description": "This subreddit is for discussing cybersecurity topics, research, and emergent threats/findings.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:26:19.708464Z"
+  },
+  {
+    "subreddit": "weirddalle",
+    "description": "Weird AI Generations",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:22.989829Z"
+  },
+  {
+    "subreddit": "artificial",
+    "description": "Reddit’s home for Artificial Intelligence (AI)",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:27.986172Z"
+  },
+  {
+    "subreddit": "learnpython",
+    "description": "Subreddit for posting questions and asking for general advice about all topics related to learning python.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:26:31.155219Z"
+  },
+  {
+    "subreddit": "stablediffusion",
+    "description": "/r/StableDiffusion is an unofficial community embracing the open-source material of all related. Post art, ask questions, create discussions, contribute new tech, or browse the subreddit. It’s up to you.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:34.355164Z"
+  },
+  {
+    "subreddit": "chatgptpromptgenius",
+    "description": "Welcome to r/ChatGPTPromptGenius, the subreddit where you can find and share the best AI prompts! Our community is dedicated to curating a collection of high-quality & standardized prompts that can be used to generate creative and engaging AI conversations. \n\nWhether you're looking for inspiration or just want to see what others are doing with AI, this is the place to be!\n\nThis subreddit has a companion browser extension called AI Prompt Genius.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:26:37.633514Z"
+  },
+  {
+    "subreddit": "aiart",
+    "description": "Welcome to r/aiArt! A community dedicated to the creation and exploration of AI-generated art, including images, music, and written works. For videos please visit r/AiVideos. Whether you're experimenting with AI tools or showcasing your latest creations, this is the place to share, discuss, and inspire!",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": "attempt 3 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "time": "2025-11-03T12:27:00.046755Z"
+  },
+  {
+    "subreddit": "coding",
+    "description": "Fuck /u/spez.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:03.200928Z"
+  },
+  {
+    "subreddit": "findareddit",
+    "description": "Having trouble finding the subreddit or community you need? Post what you're looking for here and someone can suggest a community for you!",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:06.402388Z"
+  },
+  {
+    "subreddit": "statistics",
+    "description": "/r/Statistics is going dark from June 12-14th as an act of protest against Reddit's treatment of 3rd party app developers.\n\n_This community will not grant access requests during the protest. Please do not message asking to be added to the subreddit._",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:09.888659Z"
+  },
+  {
+    "subreddit": "learnmachinelearning",
+    "description": "Welcome to r/learnmachinelearning - a community of learners and educators passionate about machine learning!\n\n\nThis is your space to ask questions, share resources, and grow together in understanding ML concepts - from basic principles to advanced techniques. Whether you're writing your first neural network or diving into transformers, you'll find supportive peers here.\n\n\nFor ML research, /r/machinelearning\nFor resume review, /r/engineeringresumes\nFor ML engineers, /r/mlengineering\n",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:12.992900Z"
+  },
+  {
+    "subreddit": "localllama",
+    "description": "Subreddit to discuss AI & Llama, the large language model created by Meta AI. ",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:17.032269Z"
+  },
+  {
+    "subreddit": "sideproject",
+    "description": "r/SideProject is a subreddit for sharing and receiving constructive feedback on side projects.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:20.193276Z"
+  },
+  {
+    "subreddit": "chatgptpro",
+    "description": "Subreddit dedicated to discussions on the advanced capabilities and professional applications of ChatGPT. Having a Pro subscription is ***not*** required to participate.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:26.049289Z"
+  },
+  {
+    "subreddit": "saas",
+    "description": "Discussions and useful links for SaaS owners, online business owners, and more.",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:29.172435Z"
+  },
+  {
+    "subreddit": "devops",
+    "description": "",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:32.279635Z"
+  },
+  {
+    "subreddit": "dataengineering",
+    "description": "News & discussion on Data Engineering topics, including but not limited to: data pipelines, databases, data formats, storage, data modeling, data governance, cleansing, NoSQL, distributed systems, streaming, batch, Big Data, and workflow engines.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:35.478377Z"
+  },
+  {
+    "subreddit": "subredditsimulator",
+    "description": "Subreddit Simulator",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:27:38.983274Z"
+  },
+  {
+    "subreddit": "claudeai",
+    "description": "This is a Claude by Anthropic discussion subreddit to help you make a fully informed decision about how to use Claude and Claude Code to best effect for your own purposes. ¹⌉ Anthropic does not control or operate this subreddit or endorse views expressed here. ²⌉ If your problem requires Anthropic's help, visit https://support.anthropic.com/ This subreddit is not the right place to fix your account issues. ³⌉ For more help, check the resources below. ⁴⌉ Please read the rules before posting.\n\n",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": "attempt 1 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.', 'status': 'RESOURCE_EXHAUSTED'}}",
+    "time": "2025-11-03T12:27:51.462068Z"
+  },
+  {
+    "subreddit": "aws",
+    "description": "News, articles and tools covering Amazon Web Services (AWS), including S3, EC2, SQS, RDS, DynamoDB, IAM, CloudFormation, AWS-CDK, Route 53, CloudFront, Lambda, VPC, Cloudwatch, Glacier and more.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:55.234776Z"
+  },
+  {
+    "subreddit": "chatgptcoding",
+    "description": "Welcome to our community! This subreddit focuses on the coding side of ChatGPT - from interactions you've had with it, to tips on using it, to posting full blown creations! Make sure to read our rules before posting!\n",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:27:58.426957Z"
+  },
+  {
+    "subreddit": "experienceddevs",
+    "description": "For experienced developers. This community should be specialized subreddit facilitating discussion amongst individuals who have gained some ground in the software engineering world. \n\nAny posts or comments that are made by inexperienced individuals (outside of the weekly Ask thread) should be reported.\n\nAnything not specifically related to development or career advice that is _specific_ to Experienced Developers belongs elsewhere. Try /r/work, /r/AskHR, /r/careerguidance, or /r/OfficePolitics.",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:02.151609Z"
+  },
+  {
+    "subreddit": "node",
+    "description": "Unofficial Node.js subreddit. Discuss Node.js, JavaScript, TypeScript, and anything else in the Node.js ecosystem!",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:05.493170Z"
+  },
+  {
+    "subreddit": "digitalmarketing",
+    "description": "A place for digital marketers to come together to have professional conversations on all things digital.\n\nNo promotional posts. This rule will be strictly enforced.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:08.768211Z"
+  },
+  {
+    "subreddit": "csharp",
+    "description": "All about the object-oriented programming language C#.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:11.944072Z"
+  },
+  {
+    "subreddit": "promptengineering",
+    "description": "Prompt engineering is the application of engineering practices to the development of prompts - i.e., inputs into generative models like GPT or Midjourney.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:15.588415Z"
+  },
+  {
+    "subreddit": "sql",
+    "description": "The goal of /r/SQL is to provide a place for interesting and informative SQL content and discussions.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:19.165308Z"
+  },
+  {
+    "subreddit": "productmanagement",
+    "description": "Product Management",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:23.822200Z"
+  },
+  {
+    "subreddit": "ai_agents",
+    "description": "A place for discussion around the use of AI Agents and related tools. AI Agents are LLMs that have the ability to \"use tools\" or \"execute functions\" in an autonomous or semi-autonomous (also known as human-in-the-loop) fashion.\n\nFollow our event calendar: https://lu.ma/oss4ai\n\nJoin us on Discord! https://discord.gg/6tGkQcFjBY",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:27.118544Z"
+  },
+  {
+    "subreddit": "dotnet",
+    "description": ".NET Community, if you are using C#, VB.NET, F#, or anything  running with .NET... you are at the right place!",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:30.536582Z"
+  },
+  {
+    "subreddit": "deeplearning",
+    "description": "",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:35.606671Z"
+  },
+  {
+    "subreddit": "datasets",
+    "description": "A place to share, find, and discuss Datasets.",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:38.965431Z"
+  },
+  {
+    "subreddit": "programmerdadjokes",
+    "description": "",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:42.254809Z"
+  },
+  {
+    "subreddit": "n8n",
+    "description": "n8n is an extendable workflow automation tool. With a fair-code distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.\n\nhttps://n8n.io/",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:45.540361Z"
+  },
+  {
+    "subreddit": "dataisugly",
+    "description": "Where data goes to die. \n",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:28:48.706046Z"
+  },
+  {
+    "subreddit": "ycombinator",
+    "description": "News and discussion around Y Combinator and Y Combinator companies.  \n\nIn 2005, Y Combinator created a new model for funding early stage startups. We invest $500,000 in every startup and work intensively with the founders for three months. For the life of their company, founders have access to the most powerful community in the world, essential advice, later-stage funding and programs, recruiting resources, and exclusive deals.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:51.981935Z"
+  },
+  {
+    "subreddit": "automate",
+    "description": "r/Automate is a community with a shared interest in AI automation tools, which have historically improved the workflow and will only continue to further impact society as a whole, particularly given the recent developments in frontier LLMs and generative AI technologies, namely MCP and agentic applications.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:28:56.755506Z"
+  },
+  {
+    "subreddit": "awscertifications",
+    "description": "This subreddit focuses solely on AWS Certifications. Bring in your discussions, questions , opinions, news and comments around AWS certifications areas like prep tips, clarifications, lessons learned.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:01.198780Z"
+  },
+  {
+    "subreddit": "geminiai",
+    "description": "Gemini AI is a neural network that has been trained on a massive dataset of text and code. This dataset includes books, articles, code repositories, and other forms of text.\nhttps://www.youtube.com/watch?v=_TVnM9dmUSk",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:04.372996Z"
+  },
+  {
+    "subreddit": "aipromptprogramming",
+    "description": "This group focuses on using AI tools like ChatGPT, OpenAI API, and other automated code generators for Ai programming & prompt engineering.\n\nIt's for anyone interested in learning, sharing, and discussing how AI can be leveraged to optimize businesses or develop innovative applications. Join us for a supportive community of diverse backgrounds and skill levels!. Created by @rUv",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:07.568421Z"
+  },
+  {
+    "subreddit": "userexperience",
+    "description": "A community where professionals, enthusiasts, and individuals interested in the field of user experience can share knowledge, ask questions, and engage in discussions about various UX-related topics.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:10.694696Z"
+  },
+  {
+    "subreddit": "cogsci",
+    "description": "The interdisciplinary study of the mind and intelligence, embracing philosophy, psychology, artificial intelligence, neuroscience, linguistics, and anthropology.",
+    "human_label": 0,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:15.739880Z"
+  },
+  {
+    "subreddit": "visualization",
+    "description": "For topics related to information visualization and the design of graphs, charts, maps, etc.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:19.366746Z"
+  },
+  {
+    "subreddit": "computervision",
+    "description": "Computer Vision is the scientific subfield of AI concerned with developing algorithms to extract meaningful information from raw images, videos, and sensor data. This community is home to the academics and engineers both advancing and applying this interdisciplinary field, with backgrounds in computer science, machine learning, robotics, mathematics, and more. \nWe welcome everyone from published researchers to beginners!",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:23.010023Z"
+  },
+  {
+    "subreddit": "softwaredevelopment",
+    "description": "Software development methodologies, techniques, and tools. Not to be confused with programming. Covering Agile, RUP, Waterfall, Crystal, Extreme Programming, Scrum, Lean, Kanban and more.",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:26.720701Z"
+  },
+  {
+    "subreddit": "algorithms",
+    "description": "Computer Science for Computer Scientists",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:29.962350Z"
+  },
+  {
+    "subreddit": "indiehackers",
+    "description": "IndieHackers is a subreddit focused on people who bootstrap their way to success by building products.",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:33.959812Z"
+  },
+  {
+    "subreddit": "llmdevs",
+    "description": "A space for Enthusiasts, Developers and Researchers to discuss LLMs and their applications.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:37.081463Z"
+  },
+  {
+    "subreddit": "design_critiques",
+    "description": "Help new and amateur designers improve their designs through reviews and critiques. If you are an experienced designer, please review a submission and share your constructive suggestions!",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:40.316625Z"
+  },
+  {
+    "subreddit": "machinelearningnews",
+    "description": "We are a community of AI/ ML/Generative AI enthusiasts/researchers/journalists/writers who share interesting news and articles about the applications of AI. \n\nYou will never miss any updates on ML/AI/CV/NLP fields because we post them daily. We hope that you subscribe to us so that you'll be up-to-date with the latest developments around the world in terms of machine learning and related areas.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": null,
+    "time": "2025-11-03T12:29:45.074799Z"
+  },
+  {
+    "subreddit": "it",
+    "description": "IT: information technology.\n\nDiscussion, links, and questions about software, hardware, and the IT industry.",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:29:48.233578Z"
+  },
+  {
+    "subreddit": "bard",
+    "description": "r/Bard is a subreddit dedicated to discussions about Google's Gemini (Formerly Bard) AI. This subreddit is not affiliated with Google.",
+    "human_label": 1,
+    "llm_label": 1,
+    "raw_response": "1\n",
+    "error": "attempt 1 failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15\\nPlease retry in 9.354553912s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}, 'quotaValue': '15'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}",
+    "time": "2025-11-03T12:29:57.621010Z"
+  },
+  {
+    "subreddit": "growthhacking",
+    "description": "Welcome to world's largest Growth Hacking Reddit Community. \n\nA place for Growth Hacking practitioners and professionals to discuss and debate Growth Marketing. \n\nShare novel marketing experiments, new tools and startup growth marketing stories. ",
+    "human_label": 1,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:30:03.356827Z"
+  },
+  {
+    "subreddit": "deepdream",
+    "description": "Effective imminently, r/DeepDream is going dark for 48 hours in support of third party apps and NSFW API access. Check out /r/Save3rdPartyApps and /r/ModCoord for more information.",
+    "human_label": 0,
+    "llm_label": 0,
+    "raw_response": "0\n",
+    "error": null,
+    "time": "2025-11-03T12:30:06.590121Z"
+  }
+]
