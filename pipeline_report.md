@@ -36,8 +36,8 @@ PHASE 3: FINAL VETTING (exact_match_cleaner.py)
 -----------------------------------------------------------
 Input: Top 1M Ranked Tools
 - Initial Entries:              30,605
-- Blocklist Size:               2,701 domains
-- Noise/Irrelevant Removed:     14,959
+- Blocklist Size:               2,702 domains
+- Noise/Irrelevant Removed:     15,614
 -----------------------------------------------------------
 => FINAL GOLD DATASET: 15,646 Tools
    (File: final_tools_1M_cleaned.csv)
@@ -45,5 +45,5 @@ Input: Top 1M Ranked Tools
 ===========================================================
 TOTAL FUNNEL SUMMARY
 - Starting Raw Rows:           ~137,000+ (Marketplace + General)
-- Final Vetted AI Tools:        15,646
+- Final Vetted AI Tools:        14,991
 ===========================================================
