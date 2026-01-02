@@ -18,31 +18,32 @@ PHASE 2: MERGE, CLEAN & RANKING (aggregator2.py)
 Input: Marketplace Master + General Crawlers (Reddit/Google/GitHub)
 *Includes URL parameter stripping (utm_source, ref, etc.)*
 
-- Total Candidates to Rank:     69,336 (Unique Cleaned URLs)
-- Unranked Tools (Cut):         19,355 (27.9%)
-- Ranked Tools (Kept):          49,981 (72.1%)
+- Total Loaded Tools:           97,506
+- Unique Cleaned URLs to Rank:  69,136
+- Unranked Tools (Cut):         19,355 (28.0%)
+- Ranked Tools (Kept):          49,781 (72.0%)
 
 Ranking Breakdown:
-- Top 1 Million:                30,805 (61.6%)
-- Top 5 Million:                40,407 (80.8%)
-- Top 10 Million:               45,783 (91.6%)
+- Top 1 Million:                30,605 (61.5%)
+- Top 5 Million:                40,207 (80.8%)
+- Top 10 Million:               45,583 (91.6%)
 -----------------------------------------------------------
-=> OUTPUT: 30,805 High-Traffic Tools (Top 1M)
+=> OUTPUT: 30,605 High-Traffic Tools (Top 1M)
    (File: final_tools_1M.csv)
 
 
 PHASE 3: FINAL VETTING (exact_match_cleaner.py)
 -----------------------------------------------------------
 Input: Top 1M Ranked Tools
-- Initial Entries:              30,805
-- Blocklist Size:               2,647 domains
-- Noise/Irrelevant Removed:     14,629
+- Initial Entries:              30,605
+- Blocklist Size:               2,701 domains
+- Noise/Irrelevant Removed:     14,959
 -----------------------------------------------------------
-=> FINAL GOLD DATASET: 16,176 Tools
+=> FINAL GOLD DATASET: 15,646 Tools
    (File: final_tools_1M_cleaned.csv)
 
 ===========================================================
 TOTAL FUNNEL SUMMARY
 - Starting Raw Rows:           ~137,000+ (Marketplace + General)
-- Final Vetted AI Tools:        16,176
+- Final Vetted AI Tools:        15,646
 ===========================================================
