@@ -56,9 +56,10 @@ def main():
         print("❌ Could not find required columns!")
         return
     
-    # Exclude huggingface.co
+    # Exclude huggingface.co and github.io
     df = df[~df[domain_col].str.lower().str.contains('huggingface.co', na=False)]
-    print(f"\nAfter excluding huggingface.co: {len(df):,} entries")
+    df = df[~df[domain_col].str.lower().str.endswith('github.io', na=False)]
+    print(f"\nAfter excluding huggingface.co and github.io: {len(df):,} entries")
     
     # Convert rank to numeric
     df[rank_col] = pd.to_numeric(df[rank_col], errors='coerce')
