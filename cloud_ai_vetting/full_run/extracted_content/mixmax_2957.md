@@ -1,0 +1,328 @@
+# Mixmax
+**URL:** https://www.mixmax.com
+**Page Title:** The AI Sales Execution Platform
+--------------------
+
+We use cookies and other tracking technologies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic, including through our use of third party advertisers. By clicking "Accept" you consent to our use of these tracking technologies. Privacy Policy
+
+## Give Customers Your Undivided Attention
+
+The Mixmax AI Sales Execution Platform keeps your pipeline moving from the first outreach to the final handshake.
+no credit card required
+How it works
+
+## From prospects to long-term customers, keep everyone on track
+
+Mixmax turns signals into direction across your pipeline. You always know where to focus, what to do next, and how to keep customers happy.
+
+### We surface the signals that matter
+
+See who’s engaging and where. No guesswork, just real insights that help you prioritize your next move.
+
+### We help you engage
+
+Meet customers where they are, whether it’s email, phone, or LinkedIn. Manage it all without leaving your inbox.
+
+### We help you prep
+
+Send scheduling links right from your inbox. Mixmax helps you prepare, run, and recap meetings that move deals forward.
+
+### We keep everything in your inbox
+
+Cut through the clutter, automate follow-ups, and focus only on the messages that drive results.
+The Copilot ecosystem
+
+## Tired of generic sales AI? You’ll love the Mixmax AI Copilots
+
+Test the Mixmax Sales Execution Platform for yourself, and start winning more deals while nurturing long-term customer relationships.
+
+### Inbox Copilot
+
+Cut through noise, monitor interested replies, and follow up automatically.
+
+### Meeting Copilot
+
+Prep, run, and recap meetings that move deals and relationships forward.
+
+### Engagement Copilot
+
+Fuel your pipeline with multi-channel outreach that converts quickly.
+Enjoy a workday with fewer tabs, more progress, and a pipeline that finally feels manageable.
+Benefits
+
+## Skip the boring part and focus on the customer
+
+Mixmax helps you move faster and makes selling feel manageable again. We can’t make it easy, but we can make it fun and straightforward.
+
+### Want to move the needle every day?
+
+Identify the most important signals in your pipeline, act on them immediately, and never lose momentum.
+
+### Want to skip the busywork?
+
+Automate CRM updates, reminders, follow-ups, and summaries so you can spend your time building relationships, not managing systems.
+
+### Want to keep every deal warm?
+
+Smart automation means your deals don’t stall and your pipeline keeps flowing. Follow-ups go out on time, updates happen automatically, and every customer feels seen.
+
+### Want to work your way?
+
+Stay in your inbox, where you work best. Mixmax adapts to you, not the other way around.
+
+### Want to fall back in love with sales?
+
+Reclaim your time and the passion for your profession. Mixmax helps you focus on conversations and gives you back that spark that will translate into deals.
+
+## Connect Mixmax in minutes
+
+Sign up for your free 14-day trial, install the Inbox Extension, and see how it feels to work without friction. You’ll know exactly where to focus and what to do next.
+Trusted by 1000+ top-performing teams
+
+## More than 1,000 5 Star reviews
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+"The team loves using CTAs to book a meeting. It’s been really successful for us instead of just having an ugly link posted."
+
+### Rana Mohamed
+
+Sr. Operations Manger
+Braintrust
+
+### Leslie Venetz
+
+Founder
+The Sales-Led GTM Agency
+Mixmax makes it quick and effective to schedule meetings with customers while combining your team's calendar availability into one view. Along with their templates and sequences for outbound outreach.
+
+### Patrick Surcouf
+
+Commercial Account Manager
+Amplitude
+
+## Frequently Asked Questions
+
+### What is Mixmax?
+
+Mixmax is an AI-native Sales Execution Platform. It eliminates overwhelm by helping reps identify, prioritize, and execute the most impactful next steps so deals keep moving forward. Unlike legacy tools, Mixmax helps sellers focus on the right actions that actually move the needle by identifying the signals that matter most and taking the best next steps.
+
+### Who uses Mixmax?
+
+Mixmax is for sellers who feel overwhelmed.  Anyone who runs a sales process - sales, customer success, recruiting, fund raising, professional services, real-estate, insurance, etc. -  can use the power of Mixmax to keep their deals moving forward smoothly.
+
+### Do I need to install anything to use Mixmax?
+
+Yes, you only need to install the inbox extension for Gmail or Outlook.  From there, you can use Mixmax Copilots from directly inside your inbox.
+
+### What’s included in the trial?
+
+All Mixmax users start with a 14-day trial of the Mixmax bundle, which includes all three Copilots:  Inbox, Meeting and Engagement Copilot.  There is no credit card required during the trial period.  At the end of your trial, you can pay to stay on the Mixmax bundle, or select individual Copilots.  If you do not upgrade to any of these options, your account will be automatically converted to Mixmax Free.
+
+### Do I need technical help to get started?
+
+Mixmax is designed to be easy to set up, and even easier to use.  You generally will not need technical help to get started.  Simply sign up and install the inbox extension.   Some users need technical help connecting Mixmax to their CRM, depending on their company's security policies and permissions.
+
+### Can I customize Mixmax to fit my workflow?
+
+Yes.   Every seller has different needs and processes.   Mixmax can be customized to fit those specific needs.  Start with your selection of Copilots.  Go with the bundle (all three copilots), or select Copilots individually.  You can also add custom branding, or a dialer based on your needs.
+
+### Is Mixmax only for closing deals?
+
+Mixmax is for sellers who want to master the most important part of sales...the art of the follow-up.  This applies to the entire sales process, from prospecting new accounts, to working in-process deals, to managing existing customer relationships.
+
+### Do you offer support during the trial?
+
+Yes. Our team is always ready to help you make the most of your trial. You can access tutorials, chat with support, or join a quick onboarding call. We give you the support you need to hit the ground running.
+- Product Engagement Multichannel sequences Templates Email enhancements AI Compose AI Smart Send Scheduling One-click scheduling Round robin scheduling Shared calendar scheduling Meetings Meeting summaries Meeting follow-ups Meeting transcripts Signals AI Engagement Score AI real-time alerts Email tracking Workflows Custom workflows Sidechat Task automation Lead auto-create Integrations Salesforce HubSpot Outlook See all integrations Book more meetings with Mixmax Sales engagement directly inside your inbox Get started free
+- Engagement Multichannel sequences Templates Email enhancements AI Compose AI Smart Send
+- Multichannel sequences
+- Templates
+- Email enhancements
+- AI Compose
+- AI Smart Send
+- Scheduling One-click scheduling Round robin scheduling Shared calendar scheduling
+- One-click scheduling
+- Round robin scheduling
+- Shared calendar scheduling
+- Meetings Meeting summaries Meeting follow-ups Meeting transcripts
+- Meeting summaries
+- Meeting follow-ups
+- Meeting transcripts
+- Signals AI Engagement Score AI real-time alerts Email tracking
+- AI Engagement Score
+- AI real-time alerts
+- Email tracking
+- Workflows Custom workflows Sidechat Task automation Lead auto-create
+- Custom workflows
+- Sidechat
+- Task automation
+- Lead auto-create
+- Integrations Salesforce HubSpot Outlook See all integrations
+- Salesforce
+- HubSpot
+- Outlook
+- See all integrations
+
+### Book more meetings with Mixmax
+
+Sales engagement directly inside your inbox
+- Why Mixmax
+- Pricing
+- Customers Customer Love Case Studies
+- Customer Love
+- Case Studies
+- Resources Blog Knowledge hub Live training Mixmax Academy Mixology Podcast Product releases Software comparisons Support Webinars
+- Blog
+- Knowledge hub
+- Live training
+- Mixmax Academy
+- Mixology Podcast
+- Product releases
+- Software comparisons
+- Support
+- Webinars
+- Log in
+- Start for free
+- Request a demo
+
+--------------------

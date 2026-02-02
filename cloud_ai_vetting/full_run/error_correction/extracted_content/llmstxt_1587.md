@@ -1,0 +1,136 @@
+# llms.txt
+**URL:** https://docs.augmentcode.com/llms.txt
+**Page Title:** 
+--------------------
+
+### (Raw Extraction Fallback)
+
+# Augment
+
+## Docs
+
+- [Analytics API](https://docs.augmentcode.com/analytics/analytics-api.md): Access usage metrics and analytics for your organization.
+- [Analytics API Reference](https://docs.augmentcode.com/analytics/api-reference.md): Detailed API endpoint documentation.
+- [Overview of Analytics](https://docs.augmentcode.com/analytics/overview.md): Monitor team usage patterns and analyze Augment Code adoption across your organization.
+- [ACP Mode](https://docs.augmentcode.com/cli/acp/agent.md): Auggie is a fully compatible Agent Client Protocol (ACP) agent enabling you to bring the power of Augment to any compatible client.
+- [ACP Clients](https://docs.augmentcode.com/cli/acp/clients.md): Configure Auggie to run in any Agent Client Protocol (ACP) compatible client like Zed, Neovim, or Emacs.
+- [Using Auggie with Automation](https://docs.augmentcode.com/cli/automation/overview.md): Auggie was designed to not just be a powerful agent to write code, but to automate all the tasks that are needed to build software at scale.
+- [Service Accounts](https://docs.augmentcode.com/cli/automation/service-accounts.md)
+- [Automatic Updates](https://docs.augmentcode.com/cli/autoupgrade.md): Learn how to manage and troubleshoot Auggie CLI's automatic update feature.
+- [Custom Slash Commands](https://docs.augmentcode.com/cli/custom-commands.md): Create and manage custom slash commands for frequently-used prompts and workflows.
+- [Custom Slash Commands Examples](https://docs.augmentcode.com/cli/custom-commands-examples.md): Ready-to-use examples of custom slash commands for common development workflows.
+- [Hooks](https://docs.augmentcode.com/cli/hooks.md): Intercept and control tool execution with custom scripts
+- [Integrations and MCP](https://docs.augmentcode.com/cli/integrations.md): Expand Augment's capabilities with external tools and data sources through native integrations and Model Context Protocol (MCP) servers.
+- [Interactive mode](https://docs.augmentcode.com/cli/interactive.md): Use a rich interactive terminal experience to explore your codebase, build new features, debug issues, and integrate your tools.
+- [Prompt Enhancer](https://docs.augmentcode.com/cli/interactive/prompt-enhancer.md): Use Ctrl+P to enhance your prompts with relevant context, structure, and conventions from your codebase.
+- [Using Task Manager](https://docs.augmentcode.com/cli/interactive/task-management.md): Use /task to break down complex problems into manageable steps.
+- [Introducing Auggie CLI](https://docs.augmentcode.com/cli/overview.md): Auggie in the terminal gives you powerful agentic capabilities to analyze code, make changes, and execute tools in an interactive terminal and in your automated workflows.
+- [Tool Permissions](https://docs.augmentcode.com/cli/permissions.md): Control what tools Auggie CLI can execute with granular permission settings for security and compliance. Tool permissions configured will only work inside the CLI and not in the Augment code extension.
+- [CLI Flags and Options](https://docs.augmentcode.com/cli/reference.md): A comprehensive reference for all command-line flags available in the Auggie CLI.
+- [Rules & Guidelines](https://docs.augmentcode.com/cli/rules.md): Configure custom rules and guidelines to provide context-aware assistance in Auggie CLI.
+- [Auggie SDK](https://docs.augmentcode.com/cli/sdk.md): Build custom integrations and agents using the Auggie SDK.
+- [Python SDK](https://docs.augmentcode.com/cli/sdk-python.md): Build custom integrations and agents using the Auggie Python SDK.
+- [TypeScript SDK](https://docs.augmentcode.com/cli/sdk-typescript.md): Build custom integrations and agents using the Auggie TypeScript SDK.
+- [Login and authentication](https://docs.augmentcode.com/cli/setup-auggie/authentication.md): You will need an active account and valid session token to use Auggie CLI which you can get by following the instructions below.
+- [Install Auggie CLI](https://docs.augmentcode.com/cli/setup-auggie/install-auggie-cli.md): Install Auggie to get agentic coding capabilities in your terminal, on your server, or anywhere your code runs.
+- [Workspace context](https://docs.augmentcode.com/cli/setup-auggie/workspace-context.md): Auggie will automatically index the current working directory or directory you specify to give Augment a full view of your system.
+- [Index your workspace](https://docs.augmentcode.com/cli/setup-auggie/workspace-indexing.md): When your workspace is indexed, Augment can provide tailored code suggestions and answers based on your unique codebase, best practices, coding patterns, and preferences. You can always control what files are indexed.
+- [Agent Skills](https://docs.augmentcode.com/cli/skills.md): Extend Auggie's capabilities with specialized domain knowledge using the agentskills.io specification.
+- [Subagents](https://docs.augmentcode.com/cli/subagents.md): Configure custom agents for specific tasks to automate your workflow and share them with your team.
+- [Analytics Dashboard](https://docs.augmentcode.com/codereview/analytics-dashboard.md): Track code review metrics and measure the impact of Augment Code Review on your team.
+- [Auto-Generated PR Descriptions](https://docs.augmentcode.com/codereview/auto-generated-pr-descriptions.md): Generates comprehensive PR descriptions using Augment Code's Context Engine.
+- [Code Review Enterprise Features](https://docs.augmentcode.com/codereview/enterprise-features.md): Advanced features and capabilities available to Enterprise plan customers for Augment Code Review.
+- [Fix in Augment](https://docs.augmentcode.com/codereview/fix-with-augment.md): Automatically address issues found during code review directly using the agent in your IDE or paste the details into your preferred environment to address it yourself.
+- [Adding Context with MCP](https://docs.augmentcode.com/codereview/mcp-context.md): Connect Augment Code Review to external context sources through Model Context Protocol.
+- [Using Augment Code Review](https://docs.augmentcode.com/codereview/overview.md): A native GitHub experience to catch critical issues, comment on pull requests, and collaborate on fixes.
+- [Providing Feedback](https://docs.augmentcode.com/codereview/providing-feedback.md): Learn how to provide feedback on Augment Code Review comments directly in GitHub.
+- [Review Guidelines](https://docs.augmentcode.com/codereview/review-guidelines.md): Configure custom guidelines to help Augment Code Review focus on specific areas and domain knowledge. Learn which files are automatically skipped and how to customize file exclusions.
+- [Review Preferences](https://docs.augmentcode.com/codereview/review-preferences.md): Configure your code review preferences to customize how Augment Code Review analyzes your pull requests.
+- [Setup Guide for Enterprise](https://docs.augmentcode.com/codereview/setup-guide-enterprise.md): Configure Augment Code Review for Enterprise accounts with multi-organization support.
+- [Setup Guide for All Other Plans](https://docs.augmentcode.com/codereview/setup-guide-otherplans.md): Get started with Augment Code Review for Indie, Standard and Max plans.
+- [Troubleshooting](https://docs.augmentcode.com/codereview/troubleshooting.md): Common issues and solutions for Augment Code Review setup and configuration.
+- [User Access](https://docs.augmentcode.com/codereview/user-access.md): Manage which GitHub users can trigger Augment Code Review with allowlist mode.
+- [Custom Client](https://docs.augmentcode.com/context-services/context-connectors/advanced/custom-client.md): Build custom search clients for your applications
+- [Custom Indexer](https://docs.augmentcode.com/context-services/context-connectors/advanced/custom-indexer.md): Build a custom indexer for any data source using DirectContext
+- [Custom Store](https://docs.augmentcode.com/context-services/context-connectors/advanced/custom-store.md): Create custom storage backends for your indexes
+- [CLI Reference](https://docs.augmentcode.com/context-services/context-connectors/cli-reference.md): Complete command-line reference for Context Connectors
+- [How It Works](https://docs.augmentcode.com/context-services/context-connectors/how-it-works.md): Architecture and data flow of Context Connectors
+- [Overview](https://docs.augmentcode.com/context-services/context-connectors/overview.md): An open-source library built on the Context Engine SDK that makes diverse sources searchable across agents and apps
+- [Auto-Index with Webhooks](https://docs.augmentcode.com/context-services/context-connectors/quickstart/auto-index-webhook.md): Set up a custom webhook server to re-index on push (advanced) in 10 minutes
+- [Local MCP Server](https://docs.augmentcode.com/context-services/context-connectors/quickstart/claude-desktop-integration.md): Add codebase search to Claude Desktop, Claude Code, Cursor, or another agent in 3 minutes
+- [GitHub Actions Auto-Indexing](https://docs.augmentcode.com/context-services/context-connectors/quickstart/github-actions-indexing.md): Automatically index your repository on every push using GitHub Actions in 5 minutes
+- [Index and Search Code](https://docs.augmentcode.com/context-services/context-connectors/quickstart/index-git-repos.md): Index a Git repository and search or chat with it in 3 minutes
+- [Index Website](https://docs.augmentcode.com/context-services/context-connectors/quickstart/index-website.md): Crawl and index a static website for semantic search in 3 minutes
+- [Remote MCP Server](https://docs.augmentcode.com/context-services/context-connectors/quickstart/remote-mcp-server.md): Expose your index via MCP over HTTP for remote clients in 3 minutes
+- [Store Indexes in S3](https://docs.augmentcode.com/context-services/context-connectors/quickstart/share-with-s3.md): Store indexes in S3 for team sharing or application data management in 5 minutes
+- [Context Engine MCP](https://docs.augmentcode.com/context-services/mcp/overview.md): Plug Context Engine into any agent via the Model Context Protocol
+- [Quickstart (AntiGravity)](https://docs.augmentcode.com/context-services/mcp/quickstart-anti-gravity.md): Get started with Augment Context Engine MCP in AntiGravity in minutes
+- [Quickstart (Claude Code)](https://docs.augmentcode.com/context-services/mcp/quickstart-claude-code.md): Get started with Augment Context Engine MCP in Claude Code in minutes
+- [Quickstart (Codex)](https://docs.augmentcode.com/context-services/mcp/quickstart-codex.md): Get started with Augment Context Engine MCP in OpenAI Codex CLI in minutes
+- [Quickstart (Cursor)](https://docs.augmentcode.com/context-services/mcp/quickstart-cursor.md): Get started with Augment Context Engine MCP in Cursor in minutes
+- [Quickstart (Droid)](https://docs.augmentcode.com/context-services/mcp/quickstart-droid.md): Get started with Augment Context Engine MCP in Droid in minutes
+- [Quickstart (Gemini CLI)](https://docs.augmentcode.com/context-services/mcp/quickstart-gemini-cli.md): Get started with Augment Context Engine MCP in Gemini CLI in minutes
+- [Quickstart (GitHub Copilot)](https://docs.augmentcode.com/context-services/mcp/quickstart-github-copilot.md): Get started with Augment Context Engine MCP in GitHub Copilot in minutes
+- [Quickstart (Kilo)](https://docs.augmentcode.com/context-services/mcp/quickstart-kilo.md): Get started with Augment Context Engine MCP in Kilo in minutes
+- [Quickstart (Kiro)](https://docs.augmentcode.com/context-services/mcp/quickstart-kiro.md): Get started with Augment Context Engine MCP in Kiro in minutes
+- [Quickstart (OpenCode)](https://docs.augmentcode.com/context-services/mcp/quickstart-open-code.md): Get started with Augment Context Engine MCP in OpenCode in minutes
+- [Quickstart (Zed)](https://docs.augmentcode.com/context-services/mcp/quickstart-zed.md): Get started with Augment Context Engine MCP in Zed in minutes
+- [Overview](https://docs.augmentcode.com/context-services/overview.md): Context Services provide context for agents and apps
+- [API Reference](https://docs.augmentcode.com/context-services/sdk/api-reference.md): Complete API documentation for the Context Engine SDK
+- [Examples](https://docs.augmentcode.com/context-services/sdk/examples.md): Example applications using the Auggie SDK
+- [Quickstart](https://docs.augmentcode.com/context-services/sdk/overview.md): Get started with the Augment Context Engine SDK in minutes
+- [Introduction](https://docs.augmentcode.com/introduction.md): Augment is the developer AI platform that helps you understand code, debug issues, and ship faster because it understands your codebase. Use Agent, Next Edit, and Code Completions to get more done.
+- [Agent Integrations](https://docs.augmentcode.com/jetbrains/setup-augment/agent-integrations.md): Configure integrations for Augment Agent to access external services like GitHub, Linear, Jira, Confluence, and Notion.
+- [Install Augment for JetBrains IDEs](https://docs.augmentcode.com/jetbrains/setup-augment/install-jetbrains-ides.md): Are you ready for your new superpowers? Augment in JetBrains IDEs gives you powerful code completions integrated into your favorite text editor.
+- [Keyboard Shortcuts for JetBrains IDEs](https://docs.augmentcode.com/jetbrains/setup-augment/jetbrains-keyboard-shortcuts.md): Augment integrates with your IDE to provide keyboard shortcuts for common actions. Use these shortcuts to quickly accept suggestions, write code, and navigate your codebase.
+- [Setup Model Context Protocol servers](https://docs.augmentcode.com/jetbrains/setup-augment/mcp.md): Use Model Context Protocol (MCP) servers with Augment to expand Augment's capabilities with external tools and data sources.
+- [Index your workspace](https://docs.augmentcode.com/jetbrains/setup-augment/workspace-indexing.md): When your workspace is indexed, Augment can provide tailored code suggestions and answers based on your unique codebase, best practices, coding patterns, and preferences. You can always control what files are indexed.
+- [Using Agent](https://docs.augmentcode.com/jetbrains/using-augment/agent.md): Use Agent to complete simple and complex tasks across your workflow–implementing a feature, upgrade a dependency, or writing a pull request.
+- [Using Chat](https://docs.augmentcode.com/jetbrains/using-augment/chat.md): Use Chat to explore your codebase, quickly get up to speed on unfamiliar code, and get help working through a technical problem.
+- [Using Actions in Chat](https://docs.augmentcode.com/jetbrains/using-augment/chat-actions.md): Actions let you take common actions on code blocks without leaving Chat. Explain, improve, or find everything you need to know about your codebase.
+- [Applying code blocks from Chat](https://docs.augmentcode.com/jetbrains/using-augment/chat-apply.md): Use Chat to explore your codebase, quickly get up to speed on unfamiliar code, and get help working through a technical problem.
+- [Focusing Context in Chat](https://docs.augmentcode.com/jetbrains/using-augment/chat-context.md): You can specify context from files, folders, and external documentation in your conversation to focus your chat responses.
+- [Example Prompts for Chat](https://docs.augmentcode.com/jetbrains/using-augment/chat-prompts.md): Using natural language to interact with your codebase unlocks a whole new way of working. Learn how to get the most out of Chat with the following example prompts.
+- [Completions](https://docs.augmentcode.com/jetbrains/using-augment/completions.md): Use code completions to get more done. Augment's radical context awareness means more relevant suggestions, fewer hallucinations, and less time hunting down documentation.
+- [Using Tasklist](https://docs.augmentcode.com/jetbrains/using-augment/tasklist.md): Use Tasklist to break down complex problems into manageable steps, track progress, and collaborate with Agent on multi-step tasks.
+- [Available Models](https://docs.augmentcode.com/models/available-models.md): The LLMs currently available in Augment and how we use them.
+- [Credit-Based Pricing](https://docs.augmentcode.com/models/credit-based-pricing.md): Understand how credits work and how different models consume credits at different rates.
+- [Quickstart](https://docs.augmentcode.com/quickstart.md): Augment is the developer AI for teams that deeply understands your codebase and how you build software. Your code, your dependencies, and your best practices are all at your fingertips.
+- [Agent Integrations](https://docs.augmentcode.com/setup-augment/agent-integrations.md): Configure integrations for Augment Agent to access external services like GitHub, Linear, Jira, Confluence, Notion, Sentry, and Stripe.
+- [Rules & Guidelines for Agent and Chat](https://docs.augmentcode.com/setup-augment/guidelines.md): You can provide custom rules and guidelines written in natural language to improve Agent and Chat with your preferences, best practices, styles, and technology stack.
+- [Install Augment for Slack](https://docs.augmentcode.com/setup-augment/install-slack-app.md): Ask Augment questions about your codebase right in Slack.
+- [Install Augment for Visual Studio Code](https://docs.augmentcode.com/setup-augment/install-visual-studio-code.md): Augment in Visual Studio Code gives you powerful code completions, transformations, and chat capabilities integrated into your favorite code editor.
+- [Setup Model Context Protocol servers](https://docs.augmentcode.com/setup-augment/mcp.md): Use Model Context Protocol (MCP) servers with Augment to expand Augment's capabilities with external tools and data sources.
+- [Sign in and out](https://docs.augmentcode.com/setup-augment/sign-in.md): After you have installed the Augment extension, you will need to sign in to your account.
+- [Allow Augment traffic from static IPs](https://docs.augmentcode.com/setup-augment/static-ip-support.md): Locate Augment static IP addresses and configure firewalls, allowlists, and network policies for Augment Agent and its integrations.
+- [Secrets Manager](https://docs.augmentcode.com/setup-augment/user-secrets.md): Securely store and manage secrets for your development environment, including API keys, tokens, and credentials.
+- [Keyboard Shortcuts for Visual Studio Code](https://docs.augmentcode.com/setup-augment/vscode-keyboard-shortcuts.md): Augment integrates with your IDE to provide keyboard shortcuts for common actions. Use these shortcuts to quickly accept suggestions, write code, and navigate your codebase.
+- [Add context to your workspace](https://docs.augmentcode.com/setup-augment/workspace-context-vscode.md): You can add additional context to your workspace–such as additional repositories and folders–to give Augment a full view of your system.
+- [Index your workspace](https://docs.augmentcode.com/setup-augment/workspace-indexing.md): When your workspace is indexed, Augment can provide tailored code suggestions and answers based on your unique codebase, best practices, coding patterns, and preferences. You can always control what files are indexed.
+- [Using Teams](https://docs.augmentcode.com/teams/teams-admin-guide.md): Use Teams to collect individual Augment Code accounts (Indie, Standard, or Max plans) into a Team. Once established you can bundle billing for your organization.
+- [Feedback](https://docs.augmentcode.com/troubleshooting/feedback.md): We love feedback, and want to hear from you. We want to make the best AI-powered code assistant so you can get more done.
+- [Jetbrains UI issues](https://docs.augmentcode.com/troubleshooting/jetbrains-rendering-issues.md): Fix issues where the Augment panel is white, blank or not showing anything in JetBrains IDEs.
+- [Jetbrains panel steals focus](https://docs.augmentcode.com/troubleshooting/jetbrains-stealing-focus.md): Fix issue where the Augment panel takes focus while typing in JetBrains IDEs.
+- [Request IDs](https://docs.augmentcode.com/troubleshooting/request-id.md): Request IDs are generated with every code suggestion and chat interaction. Our team may ask you to provide the request ID when you report a bug or issue.
+- [Using Agent](https://docs.augmentcode.com/using-augment/agent.md): Use Agent to complete simple and complex tasks across your workflow–implementing a feature, upgrade a dependency, or writing a pull request.
+- [Using Chat](https://docs.augmentcode.com/using-augment/chat.md): Use Chat to explore your codebase, quickly get up to speed on unfamiliar code, and get help working through a technical problem.
+- [Using Actions in Chat](https://docs.augmentcode.com/using-augment/chat-actions.md): Actions let you take common actions on code blocks without leaving Chat. Explain, improve, or find everything you need to know about your codebase.
+- [Applying code blocks from Chat](https://docs.augmentcode.com/using-augment/chat-apply.md): Use Chat to explore your codebase, quickly get up to speed on unfamiliar code, and get help working through a technical problem.
+- [Focusing Context in Chat](https://docs.augmentcode.com/using-augment/chat-context.md): You can specify context from files, folders, and external documentation in your conversation to focus your chat responses.
+- [Example Prompts for Chat](https://docs.augmentcode.com/using-augment/chat-prompts.md): Using natural language to interact with your codebase unlocks a whole new way of working. Learn how to get the most out of Chat with the following example prompts.
+- [Completions](https://docs.augmentcode.com/using-augment/completions.md): Use code completions to get more done. Augment's radical context awareness means more relevant suggestions, fewer hallucinations, and less time hunting down documentation.
+- [Instructions](https://docs.augmentcode.com/using-augment/instructions.md): Use Instructions to write or modify blocks of code using natural language. Refactor a function, write unit tests, or craft any prompt to transform your code.
+- [Next Edit](https://docs.augmentcode.com/using-augment/next-edit.md): Use Next Edit to flow through complex changes across your codebase. Cut down the time you spend on repetitive work like refactors, library upgrades, and schema changes.
+
+- [Using Remote Agent](https://docs.augmentcode.com/using-augment/remote-agent.md): Use Remote Agent to complete tasks across your workflow–implementing a feature, upgrade a dependency, or writing a pull request–all from the cloud and with the full power of Visual Studio Code when you need it.
+- [Using Augment for Slack](https://docs.augmentcode.com/using-augment/slack.md): Chat with Augment directly in Slack to explore your codebase, get instant help, and collaborate with your team on technical problems.
+- [Using Tasklist](https://docs.augmentcode.com/using-augment/tasklist.md): Use Tasklist to break down complex problems into manageable steps, track progress, and collaborate with Agent on multi-step tasks.
+- [Install Augment for Vim and Neovim](https://docs.augmentcode.com/vim/setup-augment/install-vim-neovim.md): Augment for Vim and Neovim gives you powerful code completions and chat capabilities integrated into your favorite code editor.
+- [Commands and shortcuts for Vim and Neovim](https://docs.augmentcode.com/vim/setup-augment/vim-keyboard-shortcuts.md): Augment flexibly integrates with your editor to provide keyboard shortcuts for common actions. Customize your keymappings to quickly accept suggestions and chat with Augment.
+- [Add context to your workspace](https://docs.augmentcode.com/vim/setup-augment/workspace-context-vim.md): You can add additional context to your workspace–such as additional repositories and folders–to give Augment a full view of your system.
+- [Index your workspace](https://docs.augmentcode.com/vim/setup-augment/workspace-indexing.md): When your workspace is indexed, Augment can provide tailored code suggestions and answers based on your unique codebase, best practices, coding patterns, and preferences. You can always control what files are indexed.
+- [Chat](https://docs.augmentcode.com/vim/using-augment/vim-chat.md): Use Chat to explore your codebase, quickly get up to speed on unfamiliar code, and get help working through a technical problem.
+- [Completions](https://docs.augmentcode.com/vim/using-augment/vim-completions.md): Use code completions to get more done. Augment’s radical context awareness means more relevant suggestions, fewer hallucinations, and less time hunting down documentation.
+
+
+--------------------

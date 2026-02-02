@@ -1,0 +1,104 @@
+# Infinity Free
+**URL:** https://www.infinityfree.com
+**Page Title:** Free Web Hosting with PHP and MySQL - InfinityFree
+--------------------
+
+
+## Free Website Hosting
+
+PHP & MySQL | No ads on your site | Over 500,000 websites
+
+## Free Website Hosting for over 12 years
+
+### Fastest Free Hosting
+
+Our hosting was independently tested and found to be the fastest free hosting in the world.
+
+### 99.9% Uptime
+
+Uptime is our main priority, which is why we can proudly say we offer 99.9% uptime.
+
+### Unlimited Hosting
+
+InfinityFree is website hosting with no time limit, and no limit on the number of websites you can host.
+
+### Completely Free
+
+InfinityFree is completely free, no credit card required and no hidden fees.
+
+### No Ads on Your Site
+
+Your website is your own, we will never place advertisements on your website.
+
+### Host Any Domain
+
+Bring your own domain name or pick a free subdomain from 25+ extensions.
+
+## What you get with InfinityFree Free Hosting Features
+
+InfinityFree includes everything you could possibly need to build your website,
+                    no matter what kind of website you are working on.
+- 5 GB Disk Space
+- Unlimited Bandwidth
+- PHP 8.3
+- MySQL 8.0 / MariaDB 11.4
+- Free Subdomain Names
+- Bring Your Own Domain
+- 400 MySQL Databases
+- Free DNS Service
+- Free SSL Certificates
+- Full .htaccess Support
+
+## Host WordPress for free!
+
+With full support for PHP and MySQL, InfinityFree is a great place to host WordPress.
+                    Get a subdomain for free or bring your own domain name to build your WordPress site on.
+                    Install WordPress quickly and easily with the Softaculous Apps Installer and use it to keep
+                    WordPress up to date. Enjoy the full control over your own WordPress install and use any
+                    plugin or theme you want.
+
+## Install 400+ applications with a few clicks Softaculous Installer
+
+Use the Softaculous automatic script installer to install one of over 400 scripts,
+                            applications and CMS like WordPress with only a few clicks, and automatically keep them
+                            up to date.
+- Setting up software, like WordPress, has never been easier
+- Choose from over 400 available scripts
+- The easiest way to keep all your software up to date
+- Easily build beautiful websites without code
+- Build any website, from a landing page to an online store
+- 200+ templates Available, with full customizability
+
+## Easily build a website without code Site.pro Website Builder
+
+Use the Site.pro website builder, included with InfinityFree,
+                            to build anything from simple landing pages to fully featured online stores.
+                            All fully SEO optimized, completely mobile friendly and available in many languages.
+
+## Still have doubts? FAQ - Common questions before registration
+
+Yes, you can host your website without having to pay. Ever.
+Forget about waiting lists, InfinityFree accounts are automatically created in minutes.
+InfinityFree is free forever! There is no time limit for free hosting.
+                                You can sign up whenever you want and use it for as long as you want!
+                                Some people have been hosting their websites with us for years,
+                                without ever paying anything!
+InfinityFree provides free hosting, because we believe everyone should have the
+                                opportunity to build a presence online. Regardless of who you are, where you are
+                                and what your budget is, we believe you should be able to have a website.
+Yes, we provide free subdomains, like yourname.great-site.net and yourname.rf.gd, for you to launch your website on.
+                                So you can build a website completely for free!
+Yes, you can host your own domain name on InfinityFree.
+                                We don't provide domain registration services ourselves,
+                                but can easily use your own domain registered elsewhere with us.
+Never! We earn enough using the ads on our main site and control panel to cover
+                                the costs of free hosting.
+Absolutely not! InfinityFree is fully featured, completely free website hosting.
+                                We provide promotional offers for alternative, premium services for people
+                                looking for more, but their services are very different. InfinityFree is not a
+                                representation of these offers.
+
+## Forget the stereotypes of free hosting!
+
+
+--------------------

@@ -1,0 +1,129 @@
+# Keywords Everywhere
+**URL:** https://keywordseverywhere.com
+**Page Title:** Turn your browser into a Marketer's best friend
+--------------------
+
+Join 1,555,575 marketing professionals from
+
+## Here's what's Inside
+
+## Grow your online presence with our streamlined SEO
+                                            toolbox
+
+- Dive
+                                                deep to discover tailor-made keywords just for your business
+- Unlock
+                                                a domain's top-performing keywords with precision
+- Elevate
+                                                your SEO game for Google, YouTube, Bing, Amazon, eBay, Etsy & more
+- Browse
+                                                with an edge – get passive SEO insights as you surf
+
+## Engineer a social media blueprint that's next-level
+
+- Dive
+                                                into YouTube metrics and watch your channel soar
+- Ride
+                                                the wave of Pinterest with trend insights and key metrics
+- Harness
+                                                data-driven genius for Instagram posts that resonate
+
+## Decode the playbook behind your competitors' marketing
+                                            moves
+
+- Discover
+                                                their keyword goldmines & make them your own
+- Refine
+                                                your competitive edge by zeroing in on their top ranking pages &
+- Unlock
+                                                their backlink secrets with Moz DA and other link metrics
+
+## Marry human insight with AI prowess for content
+                                            perfection
+
+- Achieve
+                                                10x more, even solo, without a content team
+- Enhance
+                                                your content for heightened engagement
+- A
+                                                goldmine of 200+ prompts tailored for every content need
+
+## Unearth the Ecommerce Goldmine: Amazon, eBay & Etsy
+
+- Use
+                                                search volume to priortize products to launch
+- Use
+                                                the Amazon, Etsy and eBay APIs to optimize your listings
+- Find
+                                                thousands of high search intent keywords
+Install for
+Install for
+Install for
+Already installed? Sign
+                up for an API key here
+
+## Watch every Website turn into a Marketing Goldmine
+
+## 15+ Integrations. Powerful Features. Actionable Metrics.
+
+Google Search
+Google Search Console
+Google Analytics
+Google Trends
+Google Keyword Planner
+Bing
+YouTube
+Amazon
+eBay
+Etsy
+X / Twitter Metrics
+Instagram Metrics
+Google Trends Fixes
+Pinterest Metrics
+SEO Metrics
+YouTube Metrics
+Backlink Checker
+Instagram Hashtags
+Traffic Metrics
+Historical Volume
+Install for
+Install for
+Install for
+Already installed? Sign
+                up for an API key here
+Our website employs cookies and other tracking technologies to enhance your browsing experience by
+enabling essential website functionalities, improving your overall experience, gauging your interest
+in our products and services, personalizing marketing interactions, and delivering advertisements
+that are more pertinent to you.
+Cookies are small text files placed on your computer when you access a website. We
+    utilize cookies for multiple purposes to enhance your online experience on our site,
+    such as remembering your account login information.
+You have the option to adjust your preferences and refuse specific types of cookies
+    from being stored on your computer while navigating our website. Additionally, you
+    can delete any cookies already present on your device, but note that removing
+    cookies might restrict your ability to use certain features of our website.
+These essential cookies are required to deliver the services offered on our website
+    and to allow you to utilize specific features.
+Without these cookies, we are unable to offer you certain services on our
+    website.
+These cookies are utilized to offer a more personalized experience on our site and to
+    recall the preferences you set during your visits.
+For instance, we may employ functionality cookies to save your preferences
+    or retain your login information.
+These cookies gather information to analyze website traffic and understand how
+    visitors interact with our site.
+For example, these cookies may monitor the duration of your visits and the pages you
+    view, aiding us in enhancing our website for your benefit.
+The data collected via these tracking and performance cookies does not identify
+    individual visitors.
+These cookies are utilized to display advertisements that are likely to interest you
+    based on your browsing behavior.
+These cookies, provided by our content and/or advertising partners, may merge
+    information gathered from our website with other data they've independently
+    collected about your web browser's activities across their network of websites.
+If you opt to remove or disable these targeting or advertising cookies, you will
+    continue to see advertisements, but they may not be tailored to your interests.
+For any questions regarding our cookie policy and your choices, please contact
+    us.
+
+--------------------

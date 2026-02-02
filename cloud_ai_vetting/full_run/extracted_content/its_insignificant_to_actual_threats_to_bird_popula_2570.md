@@ -1,0 +1,56 @@
+# its insignificant to actual threats to bird populations like disease and starvation
+**URL:** https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/animal-deterrents/cats-and-garden-birds/are-cats-causing-bird-declines
+**Page Title:** Wildlife Garden Activities | Nature on your Doorstep
+--------------------
+
+
+## Wild Challenge
+
+Are you a family or school? Please click your relevant Wild Challenge link below to find lots of fun activities to help wildlife and explore nature. Tell us what you’ve done and work towards awards. Have you got what it takes to achieve gold?
+
+## Support wildlife this winter
+
+Get involved and help us save nature this winter. Have a go at using leaves to create a warm and cosy winter sleepover for hedgehogs and toads, or give birds a safe place to rest and raise a family by building them a cosy nestbox.
+Create a winter den for frogs, toads and newts. Amphibians like to hibernate in ...
+You can give birds a safe place to rest and raise a family by building them a co...
+Use leaves to create a warm and cosy winter sleepover for hedgehogs and toads, w...
+Set up a nestbox to give summer-visiting Swifts a place to nest and breed year a...
+
+## Get involved and help us save nature
+
+From being a scientist for an hour collecting vital data to turning your outdoor space into your own mini nature reserve, every small action can make a big difference.
+Create a winter den for frogs, toads and newts. Amphibians like to hibernate in a cool, dark and damp shelter that is sa...
+Learn how to rewild your garden and create a mini jungle for beetles and other small creatures to wander.
+Building a bat box gives them somewhere safe to roost, raise their pups and sleep during the day.
+Help birds and other wildlife in your outdoor space with a bird bath.
+Attracting butterflies to your garden is easy when you know how.
+Hedges provide excellent natural shelter, both for us and wildlife. Garden hedges protect our outdoor spaces from strong...
+Here’s how to plant poppy seeds and other easy-to-grow flowers to create a wildlife-friendly patch.
+In woodlands, fallen wood occurs naturally and many species have adapted to use this habitat. But in our increasingly ti...
+Planting Sunflowers is a fun activity for the whole family, and one of the easiest ways to provide food for birds in you...
+
+## Help wildlife together
+
+By working with others, you can level-up your efforts for nature.
+Have you ever found yourself with too many carrot seeds, and wished you could swap them for tomato seeds?
+Our guide to managing a patch of land as a community  will help you make your neighbourhood better for wildlife.
+Have you ever wondered about the role your local authority can play in helping to protect and enhance nature in your com...
+By working with others in your local area, you can level-up your efforts for nature.
+
+## Advice from experienced gardeners
+
+The winter months can be a challenge for local wildlife – and us! We’re in the coldest part of the year. Although our us...
+This month’s special feature comes from keen gardener Jenna Taylor, who is creating wildlife-friendly areas in her Oxfor...
+Author of 'Wild City' Florence Wilkinson shares what she’s been doing to make her urban garden more wildlife friendly th...
+This February, the RSPB’s Wildlife Gardener Adrian Thomas reflects on nesting season and the use of different sized nest...
+Meet London gardener and founder of The Barefoot Planter, Chauntelle Lewis, as she takes a look at how to grow fruit, he...
+Discover how to help nature by creating a thriving and naturally balanced environment in your garden or outdoor space. T...
+RSPB President Dr Amir Khan is a passionate advocate for wildlife, with a vibrant garden that’s buzzing with nature, fro...
+Help small garden creatures navigate their way around your garden and those nearby.
+Sometimes 'pests' can get a bit out of hand and many people are tempted to reach for the bug killer. Fortunately, there ...
+
+### Cookie preferences
+
+Accepting all non-essential cookies helps us to personalise your experience
+
+--------------------

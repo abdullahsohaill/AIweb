@@ -1,0 +1,82 @@
+# AI Rap Battles
+**URL:** https://boredhumans.com/rap_battles.php
+**Page Title:** 
+--------------------
+
+- - Chat with the AI girl of your dreams
+- - Use AI to write the lyrics for a song.
+- - 'The Matrix Musical' and 'Harry Potter, The Musical'.
+- - Play with lava, water, napalm and more.
+- - Talk with AI versions of famous people.
+- - AI-generated images of babies skydiving, toddlers playing in lava, celebs dressed as their names.
+- - Type what you want to see and it appears.
+- - Let the AI plan your vacation.
+- - Talk with your image to ask it questions.
+- - Need a name for your band?
+- - Our AI knows your future.
+- - Try to solve the AI-generated crime.
+- - A dystopian world powered by ChatGPT
+- - Image generator for Pokemon characters
+- - Describe the program you want to create and the AI will write the programming code for you.
+- - What do robot farts sound like?
+- - AI thoughts to inspire you.
+- - Play against the AI.
+- - Listen to podcasts 100% created by AI (title, content, image, and voice).
+- - Two beautiful photos blended together into a work of art, automatically created by computer.
+- - Our AI has secrets.
+- - These words do not exist.
+- - Do you need an idea for your story?
+- - AI-generated images of women from over 30 different countries.
+- - These anime characters do not really exist.
+- - Works in seconds for jpg and png images.
+- - Our AI Will Write A Poem For You.
+- - Our AI writes short Japanese poems.
+- - Give it a topic and our AI will write the outline of an article or blog posting for you, so you can then write the rest yourself or copy the outline into ChatGPT to finish it.
+- - Improve the resolution of a photo by up to 4x.
+- - AI will build a website for you.
+- - Create a list of anagrams from your word or phrase.
+- - Read an AI-generated anime story.
+- - The AI writes scientific papers (like on arXiv.org).
+- - Meme idea created by AI.
+- - Our AI thinks up new video games.
+- - The AI will think of an idea for a new movie.
+- - Create new episodes of your favorite TV shows.
+- - Upload a photo of your face and our AI will make it move.
+- - Upload your photo and see what you will look like when you get older.
+- - Upload a photo and see what objects our AI detects.
+- - Upload a photo (jpg, jpeg, png or gif format) and our AI will turn your face into a cartoon (this takes 2-3 minutes to run so please be patient).
+- - Interactive fiction powered by AI.
+- - Find out your future using AI.
+- - Edit photos and images just by telling the AI what you want to change.
+- - A simulation where you argue with your angry wife or husband.
+- - Set in a cold and unforgiving cyberpunk world where anything is possible.
+- - Our AI will tell you a story.
+- - A game where you go on dates with a virtual girl or guy.
+- - A database of over 5,000 AI tools.
+- - Over 1,000 prompts to help you get better results from ChatGPT.
+- - Search over 10 million images created by AI.
+- - Adopt a virtual pet: dogs, cats, koalas, dragons, and more.
+- - A virtual counselor to help you achieve your goals and make changes in your life.
+- - Helps you reframe negative thought patterns into empowering and constructive mindsets.
+- - Our AI will solve your problem.
+- - Get a short overview of the key ideas from popular books.
+- - Let the AI be your personal chef.
+- - Upload a photo and our AI will generate a story for it
+- - Writing style transfer where the AI rewrites your text in the style of somebody famous.
+- - Rap Battle, Wrestling Match, Monster Battle, Horror Movie Killers Fight, ChatGPT Battle, Boxing Match, MMA Fight, and Superhero and Villain Battle.
+- - Talk to cities such as London, Glasgow, Paris, Rome, Dublin, Mumbai, and Sydney.
+- - Which celebrity do you look like? Upload your photo.
+- - Type a word or phrase, see a video montage.
+- - Type something and our AI will speak it.
+- - Curious what your domain name is worth?
+- - Our AI will guess what you sketch.
+- - Guess the hybrid animal that does not exist.
+- - Chat with 37 classic books: Moby Dick, Dracula, Wizard of Oz, & more.
+- - Resize, rotate, compress, grayscale, flip, or crop an image.
+- - Upload your photo and our AI will guess your age.
+- - Use speech-to-text to generate transcripts.
+- - Convert your old black and white photos to color.
+- - Create pie charts, flowcharts, and Gantt charts.
+- - Chat with the AI guy of your dreams.
+
+--------------------

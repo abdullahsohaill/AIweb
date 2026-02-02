@@ -1,0 +1,144 @@
+# Stable Diffusion 3.5 Large
+**URL:** https://huggingface.co/stabilityai/stable-diffusion-3.5-large
+**Page Title:** stabilityai/stable-diffusion-3.5-large · Hugging Face
+--------------------
+
+
+## You need to agree to share your contact information to access this model
+
+This repository is publicly accessible, but you have to accept the conditions to access its files and content .
+By clicking "Agree", you agree to the License Agreement and acknowledge Stability AI's Privacy Policy .
+Log in or Sign Up to review the conditions and access this model content.
+
+## Stable Diffusion 3.5 Large
+
+## Model
+
+Stable Diffusion 3.5 Large is a Multimodal Diffusion Transformer (MMDiT) text-to-image model that features improved performance in image quality, typography, complex prompt understanding, and resource-efficiency.
+Please note: This model is released under the Stability Community License . Visit Stability AI to learn or contact us for commercial licensing details.
+
+### Model Description
+
+- Developed by: Stability AI
+- Model type: MMDiT text-to-image generative model
+- Model Description: This model generates images based on text prompts. It is a Multimodal Diffusion Transformer that use three fixed, pretrained text encoders, and with QK-normalization to improve training stability.
+
+### License
+
+- Community License: Free for research, non-commercial, and commercial use for organizations or individuals with less than $1M in total annual revenue. More details can be found in the Community License Agreement . Read more at https://stability.ai/license .
+- For individuals and organizations with annual revenue above $1M : please contact us to get an Enterprise License.
+
+### Model Sources
+
+For local or self-hosted use, we recommend ComfyUI for node-based UI inference, or diffusers or GitHub for programmatic use.
+[LINK: ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+[LINK: diffusers](https://github.com/huggingface/diffusers)
+[LINK: GitHub](https://github.com/Stability-AI/sd3.5)
+- ComfyUI: Github , Example Workflow
+ComfyUI: Github , Example Workflow
+[LINK: Github](https://github.com/comfyanonymous/ComfyUI)
+[LINK: Example Workflow](https://comfyanonymous.github.io/ComfyUI_examples/sd3/)
+- Huggingface Space: Space
+Huggingface Space: Space
+- Diffusers : See below .
+Diffusers : See below .
+- GitHub : GitHub .
+GitHub : GitHub .
+[LINK: GitHub](https://github.com/Stability-AI/sd3.5)
+- API Endpoints: Stability AI API Replicate Deepinfra
+API Endpoints:
+- Stability AI API
+[LINK: Stability AI API](https://platform.stability.ai/docs/api-reference#tag/Generate/paths/~1v2beta~1stable-image~1generate~1sd3/post)
+- Replicate
+- Deepinfra
+
+### Implementation Details
+
+- QK Normalization: Implements the QK normalization technique to improve training Stability.
+QK Normalization: Implements the QK normalization technique to improve training Stability.
+- Text Encoders： CLIPs: OpenCLIP-ViT/G , CLIP-ViT/L , context length 77 tokens T5: T5-xxl , context length 77/256 tokens at different stages of training
+Text Encoders：
+- CLIPs: OpenCLIP-ViT/G , CLIP-ViT/L , context length 77 tokens
+[LINK: OpenCLIP-ViT/G](https://github.com/mlfoundations/open_clip)
+[LINK: CLIP-ViT/L](https://github.com/openai/CLIP/tree/main)
+- T5: T5-xxl , context length 77/256 tokens at different stages of training
+- Training Data and Strategy: This model was trained on a wide variety of data, including synthetic data and filtered publicly available data.
+Training Data and Strategy:
+This model was trained on a wide variety of data, including synthetic data and filtered publicly available data.
+For more technical details of the original MMDiT architecture, please refer to the Research paper .
+
+### Model Performance
+
+See blog for our study about comparative performance in prompt adherence and aesthetic quality.
+
+## File Structure
+
+Click here to access the Files and versions tab
+
+## Using with Diffusers
+
+Upgrade to the latest version of the 🧨 diffusers library
+[LINK: 🧨 diffusers library](https://github.com/huggingface/diffusers)
+and then you can run
+
+### Quantizing the model with diffusers
+
+Reduce your VRAM usage and have the model fit on 🤏 VRAM GPUs
+
+### Fine-tuning
+
+Please see the fine-tuning guide here .
+
+## Uses
+
+### Intended Uses
+
+Intended uses include the following:
+- Generation of artworks and use in design and other artistic processes.
+- Applications in educational or creative tools.
+- Research on generative models, including understanding the limitations of generative models.
+All uses of the model must be in accordance with our Acceptable Use Policy .
+
+### Out-of-Scope Uses
+
+The model was not trained to be factual or true representations of people or events.  As such, using the model to generate such content is out-of-scope of the abilities of this model.
+
+## Safety
+
+As part of our safety-by-design and responsible AI deployment approach, we take deliberate measures to ensure Integrity starts at the early stages of development. We implement safety measures throughout the development of our models. We have implemented safety mitigations that are intended to reduce the risk of certain harms, however we recommend that developers conduct their own testing and apply additional mitigations based on their specific use cases. For more about our approach to Safety, please visit our Safety page .
+
+### Integrity Evaluation
+
+Our integrity evaluation methods include structured evaluations and red-teaming testing for certain harms.  Testing was conducted primarily in English and may not cover all possible harms.
+
+### Risks identified and mitigations:
+
+- Harmful content:  We have used filtered data sets when training our models and implemented safeguards that attempt to strike the right balance between usefulness and preventing harm. However, this does not guarantee that all possible harmful content has been removed. TAll developers and deployers should exercise caution and implement content safety guardrails based on their specific product policies and application use cases.
+- Misuse: Technical limitations and developer and end-user education can help mitigate against malicious applications of models. All users are required to adhere to our Acceptable Use Policy , including when applying fine-tuning and prompt engineering mechanisms. Please reference the Stability AI Acceptable Use Policy for information on violative uses of our products.
+- Privacy violations: Developers and deployers are encouraged to adhere to privacy regulations with techniques that respect data privacy.
+
+### Contact
+
+Please report any issues with the model or contact us:
+- Safety issues: safety@stability.ai
+- Security issues: security@stability.ai
+- Privacy issues: privacy@stability.ai
+- License and general: https://stability.ai/license
+- Enterprise license: https://stability.ai/enterprise
+
+## Model tree for stabilityai/stable-diffusion-3.5-large
+
+## Spaces using stabilityai/stable-diffusion-3.5-large 100
+
+## Collection including stabilityai/stable-diffusion-3.5-large
+
+## Paper for stabilityai/stable-diffusion-3.5-large
+
+## Run 15,000+ Models Instantly
+
+Inference Providers let you run inference on thousands of models served by our partners using a simple,
+							unified, OpenAI-compatible serverless API ( Learn more ).
+[LINK: Learn more](/docs/inference-providers)
+stabilityai/stable-diffusion-3.5-large is supported by the following Inference Providers:
+
+--------------------

@@ -1,0 +1,9 @@
+# Pinecone Console
+**URL:** https://app.pinecone.io
+**Page Title:** Sign up or log into Pinecone
+--------------------
+
+[LINK: Use SSO](https://login.pinecone.io/login?state=hKFo2SBZcTlsQ0QtZjNqRmhvbVpyYVdYUzlNenVrLXh5aGduOaFupWxvZ2luo3RpZNkgaUI2ZWgyZGVGeEJyZXZHRTZmOWNZU0pkeTJpZ3psUTWjY2lk2SBUOEkyaEc2Q2FaazUwT05McWhmN3h6a1I0WmhMcVM0Qw&client=T8I2hG6CaZk50ONLqhf7xzkR4ZhLqS4C&protocol=oauth2&scope=openid+read%3Acurrent_user+profile+email+offline_access&redirect_uri=https%3A%2F%2Fapp.pinecone.io&audience=https%3A%2F%2Fus-central1-production-console.cloudfunctions.net%2Fapi%2Fv1&sessionType=signup&response_type=code&response_mode=query&nonce=Y2JwbUx4X0djbWFSSEp4cE1HSGR1RjNSZGRwNVZnOGZMN19vV1VWZjQ0Tw%3D%3D&code_challenge=q2xzCgiypfydj_t3T4mxW327ZR63IvZm9yeaRqEypr4&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMi4yLjQifQ%3D%3D&sso=true)
+[LINK: Back to login](https://login.pinecone.io/login?state=hKFo2SBZcTlsQ0QtZjNqRmhvbVpyYVdYUzlNenVrLXh5aGduOaFupWxvZ2luo3RpZNkgaUI2ZWgyZGVGeEJyZXZHRTZmOWNZU0pkeTJpZ3psUTWjY2lk2SBUOEkyaEc2Q2FaazUwT05McWhmN3h6a1I0WmhMcVM0Qw&client=T8I2hG6CaZk50ONLqhf7xzkR4ZhLqS4C&protocol=oauth2&scope=openid+read%3Acurrent_user+profile+email+offline_access&redirect_uri=https%3A%2F%2Fapp.pinecone.io&audience=https%3A%2F%2Fus-central1-production-console.cloudfunctions.net%2Fapi%2Fv1&sessionType=login&response_type=code&response_mode=query&nonce=Y2JwbUx4X0djbWFSSEp4cE1HSGR1RjNSZGRwNVZnOGZMN19vV1VWZjQ0Tw%3D%3D&code_challenge=q2xzCgiypfydj_t3T4mxW327ZR63IvZm9yeaRqEypr4&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtcmVhY3QiLCJ2ZXJzaW9uIjoiMi4yLjQifQ%3D%3D&sso=)
+
+--------------------

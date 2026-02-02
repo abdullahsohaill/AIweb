@@ -1,0 +1,1191 @@
+# bartleby.com
+**URL:** http://www.bartleby.com
+**Page Title:** Homework Help and Textbook Solutions | bartleby
+--------------------
+
+
+## Study smarter
+
+You have homework questions, and we've got the answers! Submit your question now for instant, step-by-step solutions!* help_outline Response times may vary by subject and question complexity. Median response time is 34 minutes for paid subscribers and may be longer for promotional offers and new subjects.
+
+## Most Recent Q&A
+
+## Bartleby's Writing Tools
+
+### Your go-to resources for perfecting your writing.
+
+### Rephrase smarter, write clearer.
+
+### Write with accuracy, every time.
+
+## Popular Q&A
+
+## Millions of textbooks solutions
+
+FIND STEP-BY-STEP EXPLANATIONS TO YOUR COURSEWORK
+Tutorials in Introductory Physics
+1st edition
+Publisher : Addison Wesley
+ISBN : 9780130970695
+Applied Statics and Strength of Materials (6th Edition)
+6th edition
+Publisher : PEARSON
+ISBN : 9780133840544
+Exercises for Weather & Climate (9th Edition)
+9th edition
+Publisher : PEARSON
+ISBN : 9780134041360
+Mathematics for Elementary Teachers with Activities (5th Edition)
+5th edition
+Publisher : PEARSON
+ISBN : 9780134392790
+Starting Out with Python (4th Edition)
+4th edition
+Publisher : PEARSON
+ISBN : 9780134444321
+Applications and Investigations in Earth Science (9th Edition)
+9th edition
+Publisher : PEARSON
+ISBN : 9780134746241
+A First Course in Probability (10th Edition)
+10th edition
+Publisher : PEARSON
+ISBN : 9780134753119
+Starting Out with Java: From Control Structures through Objects (7th Edition) (What's New in Computer Science)
+7th edition
+Publisher : PEARSON
+ISBN : 9780134802213
+Introductory Mathematics for Engineering Applications
+1st edition
+Publisher : WILEY
+ISBN : 9781118141809
+Principles of Accounting Volume 2
+19th edition
+Publisher : OpenStax College
+ISBN : 9781947172609
+
+## Whatever the homework problem, we have a solution:
+
+## Need help with a specific subject?
+
+We currently accept Visa, MasterCard, American Express, Paypal, Discover and Diners Club. [Read More]
+Everyone needs a break. We get it! But pausing your subscription is better than cancelling it and here’s why:  Kick back and relax. You... [Read More]
+We do not offer refunds. However, if you cancel your subscription, you will not be billed again. [Read More]
+If you want to update your plan, please get in touch with our support team at customercare@bartleby.com or use the ‘contact us’ form on... [Read More]
+Expert Q&A helps enhance your understanding of concepts in over 30 STEM and Business subjects. Submit your toughest homework and... [Read More]
+To help ensure your questions get answered without delay or issues, follow the below tips:  Submit only one question at a time under the... [Read More]
+It’s easy and you don’t even have to be logged in! Use the search box at the top of the page. [Read More]
+Once you log in, your dashboard page will show a list of solutions you shortlisted. [Read More]
+
+## Wait, what is bartleby…?
+
+### bartleby [bahr-tuhl-bee] noun
+
+## Additional resources for students
+
+### Sample Essay Topics
+
+- Argumentative Essay
+- Compare Contrast Essay
+- Persuasive Essay Sample
+- Gun Control Essay
+- Marijuana Essay
+- Descriptive Essay
+- Gay Marriage Essay
+- Death Penalty Essay
+- Ethics Essay
+- Global Warming Essay
+- Informative Essay
+- Abortion Essay
+- Online
+- Obesity
+- Narrative
+- Classification
+- Psychology
+- Definition
+- Sociology
+- Compare
+- Leadership
+- Hamlet
+- Criminal Justice
+- Observation
+- Religion
+- Autism
+- Nursing
+- Stem Cell
+- Writing
+- Immigration
+- Effect
+- Philosophy Of Education
+- Civil War
+- American History
+- Cause And Effect
+- Adhd
+- Domestic Violence
+- Minimum Wage
+- Euthanasia
+- Civil Rights
+- College
+- Edgar Allan Poe
+- Economics
+- Globalization
+- A Good Man Is Hard To Find
+- Post Traumatic Stress
+- World War
+- Frankenstein
+- American Revolution
+- Yellow Wallpaper
+- Terrorism
+- The Things They Carried
+- Things Fall Apart
+- Child Development
+- Slavery
+- Capital Punishment
+[LINK: Capital Punishment](https://www.bartleby.com/topics/Essay-on-Capital-Punishment)
+- Communication
+- A Rose For Emily
+- Plagiarism
+- Trifles
+- Homelessness
+- Philosophy
+- Technology
+- Assisted Suicide
+- Interview
+- Othello
+- Nature Nurture
+- Poverty
+- Schizophrenia
+- Doll House
+- Process
+- Police Brutality
+- Political
+- Sonny's Blues
+- 1984
+- Cold War
+- Macbeth
+- Military
+- Gatsby
+- Career
+- Diversity
+- Wedding Speech
+- Depression
+- Holocaust
+- Welfare
+- Death Of A Salesman
+- Narrative Of The Life Of Frederick Douglass
+- Erikson
+- Affirmative Action
+- Drug Abuse
+- Hemingway Hills Like White Elephants
+- Bipolar
+- Teen Pregnancy
+- Dante Inferno
+- Motivation
+- Everyday Use
+- Reflection
+- Rhetorical
+- Social Networking
+- Child Abuse
+- Climate Change
+- Diversity Workplace
+- Personal Narrative
+- Same Sex Marriage
+- Alcohol
+- Constitution
+- Oedipus
+- Organizational Behavior
+- Anthropology
+- Proposal
+- Shirley Jackson's The Lottery
+- War On Drugs
+- Aids
+- Health
+- Movie
+- Raisin In The Sun
+- Social Work
+- Stress
+- Allegory Of The Cave
+- American Dream
+- Drinking Driving
+- The Salem Witch Trials
+- Alexander Great
+- Animal Testing
+- Education
+- Pride And Prejudice
+- Video Games
+- Dr. Jekyll And Mr. Hyde
+- Letter From A Birmingham Jail
+- Feminism
+- Racism
+- Aristotle
+- School Uniforms
+- Story Of An Hour
+- Bullying
+- Racial Profiling
+- Women Rights
+- Benjamin Franklin
+- Cloning
+- Human Trafficking
+- Prison
+- To Kill A Mockingbird
+- Abraham Lincoln
+- Finn
+- Gender Roles
+- Management
+- Media Violence
+- Poe Tell-Tale Heart
+- Cheating
+- Karl Marx
+- Solutions Essay
+- Eating Disorder
+- Hip-Hop
+- Social Problems
+- Midsummer Night Dream
+- Renaissance
+- Socrates
+- Where Are You Going, Where Have You Been
+- Beowulf
+- Foreign Policy
+- Genocide
+- Heart Of Darkness
+- Metamorphosis
+- Romeo And Juliet
+- Accounting
+- Descartes
+- Great Depression
+- Health Care Reform
+- Marketing
+- Student
+- Vietnam
+- Antigone
+- Invisible Man
+- Islam
+- The Scarlet Letter
+- Violent Video Games
+- 9-11
+- Fast Food
+- Gangs
+- Nutrition
+- Business Ethics
+- Cask Of Amontillado
+- Critical
+- Graduation Speeches
+- Illegal Immigrants
+- Inclusion
+- Legalize Marijuana
+- Autobiography
+- Epic Of Gilgamesh
+- Native Americans
+- Odyssey
+- Steroids And Sports
+- Addiction
+- Cancer
+- Eyes Watching God
+- Movie Analysis
+- Buddhism
+- Business
+- Discrimination
+- Discrimination Workplace
+- Goodman Brown
+- Obesity Children
+- Sex Education
+- Smoking
+- A&P
+- Body Image
+- Conflict
+- Divorce
+- Jean Piaget
+- Robert Frost
+- Book Report
+- Catcher In The Rye
+- Critique
+- Freud
+- Into The Wild
+- Music
+- Overpopulation
+- Wuthering Heights
+- Genetic Engineering
+- Good Country People
+- Much Ado About Nothing
+- Nonverbal Communication
+- Plato
+- Prostitution
+- Sexual Harassment
+- Underage Drinking
+- Argument
+- Bible
+- Brave New World
+- Candide
+- Drugs
+- Homosexuality
+- Lottery
+- Mass Media
+- Reviews
+- Stereotyping
+- Cyber
+- Entrepreneur
+- Obesity America
+- Pregnancy
+- Adolf Hitler
+- Annotated Bibliography
+- Art History
+- Beloved
+- Elderly
+- Gay Adoption
+- Glass Menagerie
+- Human Resource Management
+- Kant
+- Microeconomics
+- Plato Republic
+- Ready
+- Comparison
+- Gender Inequalities
+- Hiv
+- Leonardo Da Vinci
+- Social Responsibility
+- Macroeconomics
+- Animal Farm
+- Astronomy
+- Crucible
+- Expository
+- Immigrants
+- Interpersonal Communication
+- Medea
+- Single Parent
+- Araby
+- Divorce Effect
+- Frederick Douglas
+- Hamlet Revenge
+- Langston Hughes
+- Legal Drinking Age
+- Mythology
+- Native American
+- Paradise Lost
+- Steroids
+- Wilson Fences
+- Dna
+- Gender Identity
+- Machiavelli Prince
+- Malcolm X
+- Police
+- Profile
+- Shooting An Elephant
+- Steinbeck Of Mice And Men
+- Africa
+- Augustine
+- Democracy
+- Gender
+- Government
+- Joy Luck Club
+- Martin Luther King, Jr.
+- Media
+- Media Women
+- Progressive Era
+- Prohibition
+- Standardized Tests
+- Upton Sinclair The Jungle
+- Women Suffrage
+- A Very Old Man With Enormous Wings
+- Artificial Intelligence
+- Dickens Hard Times
+- Dualism
+- John Locke
+- Juvenile
+- Medical Ethics
+- Tempest
+- Advertising
+- Alcoholism
+- Civil Disobedience
+- College Admissions
+- Fences
+- Hurricane Katrina
+- Iliad
+- Internship
+- Jfk
+- Martin Luther King I Have A Dream
+- Parenting
+- Personal Goals
+- Sociological
+- To Build A Fire
+- Walt Disney
+- Western Civilization
+- World Hunger
+- A Modest Proposal
+- Amendment
+- Biology
+- Canterbury
+- Controversial Issue
+- Desiree Baby
+- Fahrenheit 451
+- Film
+- George Washington
+- Immanuel Kant
+- Marriage
+- Nietzsche
+- Perception
+- Personality
+- Picasso
+- Alzheimer
+- Chronicle Of A Death Foretold
+- Evolution
+- Hamlet Madness
+- Human Resource
+- The Color Purple
+- The Road Not Taken
+- Adam Smith
+- China
+- Christopher Columbus
+- Corporal Punishment
+- Environmental
+- Gambling
+- Identity Theft
+- Integrity
+- Medical Marijuana
+- Respect
+- Virginia Woolf Mrs. Dalloway
+- Adoption
+- Alexis De Tocqueville
+- Animal Rights
+- Architecture
+- Barn Burning
+- Christianity
+- Deaf
+- Drugs Legalization
+- Gender Differences
+- Iraq
+- Jane Eyre
+- Juvenile Delinquency
+- King Lear
+- Pop Culture
+- Teen Suicide
+- The Great Gatsby
+- Walt Whitman
+- Advertisement
+- Child Labor
+- Confucius
+- Exercise
+- Functionalist
+- Gang Violence
+- Incidents In The Life Of A Slave Girl
+- Israeli-Palestinian Conflict
+- Julius Caesar
+- Learning Styles
+- Olaudah Equiano
+- Organic Foods
+- Self-Esteem
+- Technology And Education
+- The Great Gatsby American Dream
+- Theodore Roosevelt
+- Aeneid
+- Aging
+- Alcohol Abuse
+- Ancient Rome
+- As I Lay Dying
+- Community
+- Creative Writing
+- Ethical Issue
+- Happiness
+- Harrison Bergeron
+- Health Care System
+- Movie Review
+- Thomas Hobbes
+- African History
+- Beautiful Mind
+- Creationism
+- Ethnography
+- Existence Of God
+- Frida Kahlo
+- High School
+- Imperialism
+- Industrialization
+- Latin America
+- Literature Review
+- Oscar Wilde Importance Of Being Earnest
+- Othello Jealousy
+- Poetry Analysis
+- Public Health
+- Slaughterhouse
+- Stereotypes
+- Amy Tan Two Kinds
+- Andy Warhol
+- College Tuition
+- Coming Of Age
+- Down Syndrome
+- Elie Wiesel
+- Energy
+- Gulliver Travels
+- James The Turn Of The Screw
+- Jazz
+- Napoleon
+- Parkinson
+- Racism America
+- School Prayer
+- The Picture Of Dorian Gray
+- The Rocking-Horse Winner
+- Vacation
+- War On Terror
+- Asian American
+- Awakening
+- Carver Cathedral
+- Charles Darwin
+- Cognitive Development
+- Cognitive-Behavioral Therapy
+- Communist Manifesto
+- Effects Of Technology
+- Immigration Reform
+- Isaac Newton
+- Kindred
+- Leukemia
+- Literacy
+- Louisiana Purchase
+- Manifest Destiny
+- Maya Angelou
+- Moby Dick
+- Modernism
+- Multicultural
+- Oedipus The King Fate
+- Prisons
+- Shawshank Redemption
+- Song Of Solomon
+- Tartuffe
+- Theology
+- Thomas Paine
+- Type 2 Diabetes
+- William Golding Lord Of The Flies
+- Andrew Jackson
+- Apology
+- Booker T. Washington
+- Borderline Personality Disorder
+- Conflict Resolution
+- Determinism
+- Family Values
+- Faustus
+- Homeland Security
+- Industrial Revolution
+- Literary
+- Maus
+- Mental Illness
+- Project Management
+- Public Policy
+- Reality Television
+- The Necklace
+- Unemployment Rate
+- Vincent Van Gogh
+- Vygotsky
+- A Christmas Carol
+- A Farewell To Arms
+- Albert Einstein
+- Art
+- Chrysanthemums
+- Colonialism
+- Declaration
+- Geography
+- Great Expectations
+- Internet Privacy
+- Mill
+- Personality Theories
+- Physics
+- Rene Descartes
+- Segregation
+- Special Education
+- Speech
+- Supply Chain Management
+- Vaccines
+- Youth Violence
+- A Tale Of Two Cities
+- Adolescence
+- Anorexia
+- Beowulf Hero
+- Bluest Eye
+- Child Observation
+- Dementia
+- Dr. Martin Luther King
+- Economy
+- Ernest Hemingway
+- Fashion
+- Gay
+- Gender Discrimination
+- Human Rights
+- Jewish
+- Juvenile Justice System
+- Martin Luther
+- Middle-East History
+- Roman Empire
+- Sexism
+- Sickle Cell Anemia
+- Stephen Crane Open Boat
+- Substance Abuse
+- A Doll's House Nora
+- A Lesson Before Dying
+- African American
+- Agriculture
+- Analysis
+- Bambara The Lesson
+- Capote In Cold Blood
+- Colonies
+- Counseling
+- David Hume
+- Dreams
+- Drinking
+- Enron
+- Ethical
+- Freedom
+- I Stand Here Ironing
+- Love Song Of Alfred Prufrock
+- Man's Search For Meaning
+- Math
+- Mesopotamia
+- My Papa Waltz
+- Obsessive-Compulsive Disorder
+- Organ Transplants
+- Plastic Surgery
+- Pollution
+- Pro-Life
+- Public Schools
+- Race
+- Security
+- Short Story
+- Sports
+- Swot Analysis
+- Utilitarianism
+- Wife Of Bath
+- Worn Path
+- Bill Gates
+- Case Study
+- Emotional Intelligence
+- Fahrenheit
+- Hate Crimes
+- House On Mango Street
+- Human Development
+- Identity
+- Kite Runner
+- Life Changing Experience
+- Marketing Plan
+- Maslow
+- Mental Health
+- Mise
+- Peer Pressure
+- Plato Symposium
+- Pros Cons
+- Psychological Disorders
+- Rape
+- Social Classes
+- Stranger
+- The Last Of The Mohicans
+- Their Eyes Were Watching God
+- William Blake The Lamb
+- African-American
+- Alzheimers Disease
+- An Occurrence At Owl Creek Bridge
+- Anxiety
+- Baseball
+- Bram Stoker Dracula
+- Don Quixote
+- Education Goals
+- Enlightenment
+- Exemplification
+- Exploratory
+- Family
+- Gender Media
+- Henry Viii
+- Immigrant
+- Life Experience
+- Matrix
+- Medieval
+- Merchant Of Venice
+- New England Colonies
+- Outsourcing Jobs
+- Personal Development Plan
+- Personal Experience
+- Qualitative
+- Responsibility
+- Revolution
+- Rhetorical Analysis
+- Serial Killers
+- The Social Contract
+- Usa Patriot Act
+- Volunteering
+- Wide Sargasso Sea
+- William Blake
+- American Government
+- Amish
+- Antonia
+- Battle Royal
+- Business Plan
+- Caribbean
+- Charlemagne
+- Clockwork Orange
+- Columbian Exchange
+- Debate
+- Deforestation
+- Federalism
+- Freedom Of Speech
+- Goethe Faust
+- Honor
+- Internet
+- Interracial
+- Like Water For Chocolate
+- Love
+- Media Influence
+- Nicomachean Ethics
+- Organ Donation
+- Personal Statement
+- Pornography
+- Privacy
+- Raymond Carver
+- Rime Of The Ancient Mariner
+- Rogerian Argument
+- Ronald Reagan
+- School Violence
+- Subculture
+- Synthesis
+- Tobacco
+- Women In Combat
+- A Modest Proposal Satire
+- Amadeus
+- Atomic Bomb
+- Compensation
+- Computers
+- Corruption
+- Cry The Beloved Country
+- Death Of A Salesman American Dream
+- Drugs Alcohol
+- Everyman
+- Fracking
+- Hipaa
+- Hunting
+- International
+- James Joyce
+- Kingston Woman Warrior
+- Ku Klux Klan
+- Labor Unions
+- Learning Disability
+- Mark Twain
+- Mask Of The Red Death
+- Medical Records
+- Mexican War
+- Nikola
+- Ordinary Men
+- Poetry
+- Poverty In America
+- Salvador Dali
+- School Shootings
+- Self Assessment
+- Sleep Deprivation
+- Small Business
+- Sonnet
+- Spanking
+- Teaching
+- Wiesel Night
+- 12 Angry Men
+- 20Th Century
+- Alice's Adventures In Wonderland
+- American Civil War
+- Augustus Caesar
+- Australia
+- Bartleby The Scrivener
+- Birth Control
+- Black Death
+- Blake The Tyger
+- Bless Me Ultima
+- Breast Cancer
+- Child Poverty
+- Civilization
+- Concert Review
+- Crime
+- Cuban Missile Crisis
+- Culture
+- Disease
+- Drug Testing
+- Dulce Et Decorum Est
+- Early Childhood Education
+- Emily Dickinson
+- Ethical Dilemma
+- Finance
+- Financial Analysis
+- First Amendment
+- Flew
+- Foster Care
+- Gilgamesh
+- Grapes Of Wrath
+- His Coy Mistress
+- Hispanic
+- Hume
+- Jane Austen
+- M Butterfly
+- Macbeth Ambition
+- Machiavelli
+- Masculinity
+- Mozart
+- Operations Management
+- Poem
+- Portrait Artist Young Man
+- Recidivism
+- Reconstruction
+- Renewable Energy
+- Roaring Twenties
+- Scientific Method
+- Suicide
+- Sustainability
+- Teaching Philosophy
+- University
+- Utopia
+- W.E.B Dubois
+- Watergate Scandal
+- White Collar Crime
+- Women Military
+- Woodrow Wilson
+- Workplace
+- Yoga
+- A Clean, Well-Lighted Place
+- Antigone Tragic Hero
+- Article Review
+- Beethoven
+- Birthmark
+- Bob Marley
+- Cathedral
+- Communism
+- Conformity
+- Consumerism
+- Cosmetic Surgery
+- Cultural Anthropology
+- Daisy Miller
+- Disparities
+- Dracula
+- Existentialism
+- Fdr
+- Friendship
+- Gandhi
+- Gilgamesh Hero
+- Gone With The Wind
+- Hamlet Character
+- Hamlet Delay
+- Harriet Tubman
+- Hero
+- Human Sexuality
+- Hypertension
+- Israel
+- James Joyce Eveline
+- Media Eating Disorders
+- Memory
+- Mentor
+- Milton Friedman
+- Minister's Black Veil
+- Monopoly
+- More Utopia
+- Oedipus The King Blindness
+- Oil Spill
+- Patriotism
+- Persepolis
+- Probation
+- Race Class
+- Risk Management
+- Science Vs. Religion
+- Sexuality
+- Social Inequality
+- Social Stratification
+- Tattoos
+- Teamwork
+- Television
+- The Red Badge Of Courage
+- Thesis
+- Transgender
+- Women
+- All Quiet On The Western Front
+- American Literature
+- Angels In America
+- B.F. Skinner
+- Battered Women
+- Bully
+- Cat On A Hot Tin Roof
+- Cell Phones
+- Censorship
+- Chaucer Miller's Tale
+- Classical Conditioning
+- Cognitive Psychology
+- Crime And Punishment
+- Cultural Diversity
+- Developmental Psychology
+- Enron Scandal
+- Example
+- Fossil Fuels
+- French Revolution
+- Gilded Age
+- Goblin Market
+- Hamlet Ophelia
+- Handmaid Tale
+- Humorous Wedding Speech
+- Incarceration
+- Income Inequality
+- Intercultural Communication
+- Interest Groups
+- John Kennedy
+- Junk Food
+- Kate Chopin
+- Leadership Styles
+- Miss Brill
+- Nafta
+- Nat Turner
+- Nazi Propaganda
+- Nelson Mandela
+- Network Security
+- Oedipus The King Irony
+- Plath Daddy
+- Police Corruption
+- Population
+- Protestant Reformation
+- Public Administration
+- Queen Elizabeth
+- Second Amendment
+- Self-Reflection
+- Sexual Abuse
+- Sir Gawain And The Green Knight
+- Social Psychology
+- Statistics Project
+- Steve Jobs
+- Success
+- Taming Of The Shrew
+- The Killer Angels
+- The Sun Also Rises
+- The Time Machine
+- Thomas Aquinas
+- Tuesdays With Morrie
+- Twelfth
+- Values
+- Violence
+- Alcoholics
+- Amazing Grace
+- American Culture
+- American Education System
+- Ancient Civilizations
+- Ancient Egyptian
+- Anzia Yezierska Bread Givers
+- Attachment Theory
+- Basketball
+- Battle Of Gettysburg
+- Behaviorism
+- Bowling For Columbine
+- Brain
+- Breast
+- Bulimia Nervosa
+- Business Law
+- Childhood Memories
+- Congress
+- Copyright
+- Criminology
+- Crito
+- Diabetes Mellitus
+- Dissociative Identity Disorder
+- E-Commerce
+- Economic Recession
+- Effective Communication
+- Financial Crisis
+- Fraud
+- Gender Stereotypes
+- Genre
+- George Orwell
+- Health Promotion
+- Heart Of Darkness Racism
+- Henry Ford
+- Heroes
+- Homeless
+- Imperialism American
+- Imperialism European
+- J.R.R. Tolkien The Hobbit
+- Jamaica Kincaid
+- Jazz Concert
+- John Knowles A Separate Peace
+- John Maynard Keynes
+- Journalism
+- King Arthur
+- Language Development
+- Lenin
+- Macbeth Power
+- Madame Bovary
+- Media Bias
+- Michelangelo
+- Milgram Experiment
+- Morality
+- Multiple Sclerosis
+- Music Therapy
+- National Debt
+- New Deal
+- Ode On A Grecian Urn
+- Oil Drilling
+- Oresteia
+- Organizational
+- Organizational Culture
+- Organized Crime
+- Othello Iago
+- Paul's Case
+- Performance Enhancing Drugs
+- Postpartum Depression
+- Prison System
+- Relationship
+- Romanticism
+- Schindler
+- Sense And Sensibility
+- Serial
+- Shakespeare Sonnet 18
+- Sociological Perspective
+- Soldier's Home
+- Spanish-American War
+- Special Slang Or Jargon
+- Sport Psychology
+- Student Loans
+- Sula
+- The Bell Jar
+- The Legend Of Sleepy Hollow
+- Thomas Edison
+- Thomas Jefferson
+- Time Management
+- Unexamined Life
+- Walden
+- Whitman Song Of Myself
+- Workplace Violence
+- Aggression
+- Aids Africa
+- Al Capone
+- Analytical
+- Anne Bradstreet
+- Anorexia Nervosa
+- Blade Runner
+- Book Review
+- Caffeine
+- Capitalism
+[LINK: Capitalism](https://www.bartleby.com/topics/Capitalism-Essay)
+- Cardiovascular System
+- Charter Schools
+- Christian
+- Civil War Reconstruction
+- Code Of Ethics
+- Conspiracy Theory
+- Coral Reefs
+- Criminal Investigation
+- Cuban Revolution
+- Customer
+- Database
+- Decision
+- Disabilities
+- Discrimination Racial
+- Divorce Impact
+- Drug Trafficking
+- Emancipation Proclamation
+- Environmental Ethics
+- Ethical Dilemmas
+- Genesis
+- International Business
+- Keynesian Economics
+- Lung Cancer
+- Manager
+- Mechanical Engineering
+- Media Censorship
+- Meditation
+- Minorities
+- My Last Duchess
+- Nigeria
+- Nike
+- No Child Left
+
+### Literary Analysis
+
+- Poetry
+- Fiction
+- Bible
+- Harvard Classics
+- Bartlett's Quotations
+- Shakespeare
+- World Factbook
+- Quotations
+- Strunk's Style
+- Saints
+- Poems of Places
+- Modern Poetry
+- Proverbs & Maxims
+- U.S. Inaugurals
+- Anthologies
+- Nathaniel Hawthorne
+- William Wordsworth
+- Reference
+- Nonfiction
+- Anatomy
+- Previous Features
+- Sigmund Freud
+- T.S. Eliot
+- Emily Dickinson
+- Walt Whitman
+- Robert Frost
+- World Literature
+- American Literature
+- Wit and Humor
+- English Prose
+- Ghost Stories
+- Short Stories
+- Aeschylus
+- Æsop
+- Alcott
+- Andersen
+- Anderson
+- Arabian Nights
+- Aristophanes
+- Austen J.
+- Balzac H.
+- Beaumont & Fletcher
+- Bjšrnson, B.
+- Brown, C.B.
+- Browning, R.
+- World's Orations
+- Cry for Justice
+- Spirit of Man
+- Colonial Prose
+- Modern Essays
+- American Essays
+- 16c. Critical Essays
+- American Documents
+- English Essays
+- Essays: Engl./Amer.
+- Classics Lectures
+- Lit./Phil. Essays
+- Prefaces & Prologues
+- Scientific Papers
+- Voyages & Travels
+- 40,000 Quotations
+- Dictionary of Quotations
+- Grocott's Quotations
+- Hoyt's Quotations
+- Prose Quotations
+- Respectfully Quoted
+- Short Sayings
+- English Proverbs
+- Curious Proverbs
+- Dictionary of Similes
+- French Wit and Wisdom
+- Reader's Digest
+- Dictionary of Authors
+- Lit History
+- Oxford English Verse
+- Oxford Victorian Verse
+- Oxford Mystical Verse
+- Oxford Ballads
+- Oxford French Verse
+- Oxford Latin Verse
+- Oxford Australasian
+- Oxford Canadian Verse
+- World's Best Poetry
+- English Poets
+- Daily Poems
+- Yale American Verse
+- American Anthology
+- American Verse
+- American Song Book
+- Victorian Anthology
+- Elizabethan Anthology
+- Restoration Anthology
+- Browse by Primary Authors
+- Browse by Subjects
+- Browse by Title
+- Buy the books on Bartleby
+- Download free e-books
+- Top 150
+
+--------------------

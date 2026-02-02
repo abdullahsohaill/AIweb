@@ -1,0 +1,19 @@
+# **free cancellations**
+**URL:** https://news.airbnb.com/extenuating-circumstances-policy-activated-around-the-world
+**Page Title:** Extenuating Circumstances Policy Activated Around the World
+--------------------
+
+
+## Help us improve your experience
+
+In response to the extraordinary events and global disruption to travel caused by COVID-19, today we are announcing updated coverage under Airbnb’s Extenuating Circumstances policy. Airbnb’s Extenuating Circumstances policy allows hosts and guests to cancel eligible reservations with no charge or penalty. This policy now applies to existing reservations for stays and Airbnb Experiences made on or before March 14, 2020, with check-in dates between March 14, 2020 and April 14, 2020.
+This policy applies to bookings of places to stay and Airbnb Experiences in every country and region around the world, with the exception of domestic travel in mainland China which is scheduled to return to normal rules on April 1. To learn more about our Extenuating Circumstances policy for COVID-19, click here .
+We understand that this announcement will impact hosts around the world, many of whom depend on the economics they generate on Airbnb. We will be working in the days and weeks ahead to identify tools and initiatives to support our hosts during these very challenging times.  Many of us are hosts ourselves and we understand this is a difficult time. We have worked to find a balance between supporting hosts and protecting the well-being of our community and we will find additional ways to help our hosts. It’s also important to note that Airbnb will not collect any fees or benefit in any way from any reservations cancelled under this policy. We’re in this together.
+We want to thank all of those hosts around the world who have generously provided guests cancellations outside of their existing cancellation policies. We examined Airbnb reservations that were canceled in the last month and found that 86 percent of the money that would have been spent by guests on these reservations was returned to them in the form of refunds.
+To help our community get their questions answered faster, we are regularly updating our Help Center with the latest information and guidance from the World Health Organization and governmental and health authorities – our main page for updates has already had millions of views. We’ve also added a banner to our homepage letting our community know they can cancel without charge and receive a full refund.
+If you’re considering making changes to an upcoming trip, we recommend visiting the Trips section of the Airbnb website or app, and selecting your reservation to find resources for changing or canceling your trip.
+We will continue to assess the situation and will provide further information as it becomes available.
+While we greatly appreciate that millions of travelers are still booking trips on Airbnb for all types of local, short-term and longer-term stays, we strongly advise all travelers to carefully review and select cancellation policies that are right for them given the COVID-19 outlook. Our hosts are ready and eager to support the community with a wide variety of flexible travel options. And though travel has been significantly impacted by the virus, we do know travel remains incredibly important and we are working to provide tools and policies to best support our hosts and guests during these unusual times.
+*Note: The Airbnb Extenuating Circumstances Policy does not apply to Luxe or Luxury Retreats reservations, which are subject to a separate Luxe Guest Refund Policy .
+
+--------------------

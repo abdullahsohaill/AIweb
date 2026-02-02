@@ -1,0 +1,64 @@
+# turn on JavaScript
+**URL:** https://enable-javascript.com
+**Page Title:** How to enable JavaScript in your browser and why
+--------------------
+
+
+## How to enable JavaScript in your browser
+
+## Nowadays almost all web pages contain JavaScript, a scripting programming language that runs on visitor's web browser. It makes web pages functional for specific purposes and if disabled for some reason, the content or the functionality of the web page can be limited or unavailable. Here you can find instructions on how to enable (activate) JavaScript in five most commonly used browsers.
+
+## Instructions for web developers
+
+You may want to consider linking to this site, to educate any script-disabled users on how to enable JavaScript in five most commonly used browsers. You are free to use the code below and modify it according to your needs.
+- The instructions for your browser are put at the top of the page
+- All the images are inlined, full-size, for easy perusing
+- This developer-centric message is out of the way.
+
+### Google Chrome
+
+- On the web browser menu click on the "Customize and control Google Chrome" and select "Settings".
+- In the "Settings" section click on the "Show advanced settings..."
+- Under the the "Privacy" click on the "Content settings...".
+- When the dialog window opens, look for the "JavaScript" section and select "Allow all sites to run JavaScript (recommended)".
+- Click on the "OK" button to close it.
+- Close the "Settings" tab.
+- Click on the "Reload this page" button of the web browser to refresh the page.
+
+### Mozilla Firefox
+
+- In the address bar, type about:config and press Enter.
+- Click "I'll be careful, I promise" if a warning message appears.
+- In the search box, search for javascript.enabled
+- Toggle the "javascript.enabled" preference (right-click and select "Toggle" or double-click the preference) to change the value from "false" to "true".
+- Click on the "Reload current page" button of the web browser to refresh the page.
+
+### Apple Safari
+
+- On the web browser menu click on the "Edit" and select "Preferences".
+- In the "Preferences" window select the "Security" tab.
+- In the "Security" tab section "Web content" mark the "Enable JavaScript" checkbox.
+- Click on the "Reload the current page" button of the web browser to refresh the page.
+
+### Opera
+
+- 1. Click on Opera icon "Menu" and than "Settings".
+- 2. Click on "Websites" and then choose "Allow all sites to run JavaScript (recommended)"
+- 3. Click on the "Reload" button of the web browser to refresh the page.
+
+### Internet Explorer
+
+- On web browser menu click "Tools" and select "Internet Options"
+- In the "Internet Options" window select the "Security" tab.
+- On the "Security" tab click on the "Custom level..." button.
+- When the "Security Settings - Internet Zone" dialog window opens, look for the "Scripting" section.
+- In the "Active Scripting" item select "Enable".
+- When the "Warning!" window pops out asking "Are you sure you want to change the settings for this zone?" select "Yes".
+- In the "Internet Options" window click on the "OK" button to close it.
+- Click on the "Refresh" button of the web browser to refresh the page.
+Programming, designing, testing, getting user feedback and writing materials for this website was done by Toni Podmanicki with help of Paul Irish & Jeremy Hill. Thanks to all those who helped and contributed in any way. Hope you find this page useful.
+Paul Irish Jeremy Hill Ivana Rončević English Luis Nell Deutsch Jorrit Salverda Nederlands Leandro D'Onofrio Español Davis Peixoto Português Giacomo Ratta Italiano Erland Wiencke Norsk Anton Kulakov Русский David Martin Français Jan Myler Česky Kyo Nagashima 日本語 Joon Kyung 한국어 Tamás Antal Magyar Sitdhibong Laokok ไทย Jesse Veluz Filipino Uğur Eskici Türkçe Sanny Gaddafi Bahasa Indonesia Samuel Ondrek Slovenčina Daniel Szymanek Polski Abdelhak Mitidji Arabic Mert Sahinoglu Urdu
+Vapehuset SidesMedia BuyCheapestFollowers SSL checker IBAN Views4you SocialBoss
+How to enable JavaScript in your browser and why https://www.enable-javascript.com
+
+--------------------

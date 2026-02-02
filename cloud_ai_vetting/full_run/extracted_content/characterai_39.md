@@ -1,0 +1,30 @@
+# Character.AI
+**URL:** https://character.ai
+**Page Title:** character.ai | AI Chat, Reimagined–Your Words. Your World.
+--------------------
+
+### (Raw Extraction Fallback)
+
+Sign Up to Chat
+Login
+Get access to
+10M+ Characters
+
+Sign up in just ten seconds
+
+Continue with Google
+Continue with Apple
+OR
+Continue with email
+By continuing, you agree with the Terms and Privacy Policy
+About
+Careers
+Safety Center
+Blog
+Cookie Policy
+Privacy Policy
+Terms of Service
+Charms Terms of Use
+?
+
+--------------------

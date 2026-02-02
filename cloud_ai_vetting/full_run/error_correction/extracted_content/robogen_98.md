@@ -1,0 +1,170 @@
+# RoboGen
+**URL:** https://robogen-ai.github.io
+**Page Title:** RoboGen
+--------------------
+
+
+## R o b o G e n : Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+
+### ICML 2024
+
+[LINK: Yufei Wang](https://yufeiwang63.github.io/)
+[LINK: Feng Chen](https://robogen-ai.github.io)
+[LINK: Tsun-Hsuan Wang](https://zswang666.github.io/)
+[LINK: Yian Wang](https://wangyian-me.github.io/)
+[LINK: David Held](http://davheld.github.io/)
+[LINK: Code](https://github.com/Genesis-Embodied-AI/RoboGen)
+
+## Abstract
+
+We present RoboGen, a generative robotic agent that automatically learns diverse
+robotic skills at scale via generative simulation. RoboGen leverages the latest
+advancements in foundation and generative models. Instead of directly using or
+adapting these models to produce policies or low-level actions, we advocate for
+a generative scheme, which uses these models to automatically generate diversified tasks, scenes, and training supervisions, thereby scaling up robotic skill
+learning with minimal human supervision. Our approach equips a robotic agent
+with a self-guided propose-generate-learn cycle: the agent first proposes interesting tasks and skills to develop, and then generates corresponding simulation
+environments by populating pertinent objects and assets with proper spatial configurations. Afterwards, the agent decomposes the proposed high-level task into
+sub-tasks, selects the optimal learning approach (reinforcement learning, motion
+planning, or trajectory optimization), generates required training supervision, and
+then learns policies to acquire the proposed skill. Our work attempts to extract the
+extensive and versatile knowledge embedded in large-scale models and transfer
+them to the field of robotics. Our fully generative pipeline can be queried repeatedly, producing an endless stream of skill demonstrations associated with diverse
+tasks and environments. RoboGen is simulated and rendered with Genesis , a multi-material multi-solver generative simulation engine for general-purpose robot learning.
+[LINK: Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+
+## RoboGen Pipeline
+
+## Long-horizon task generation and learning
+
+## RoboGen generated tasks, scenes, training supervisions, and learned skills
+
+Please select an image below to view the results.
+
+## Gallery
+
+Change lamp light direction
+Pull lever to start coffee brewing
+Store the toy into the storage
+Stand upright and walk forward using only hind legs
+Bend noodle into a U-shape
+Open stapler lid
+Jump up
+Retrieve the gold bar from safe
+Flatten the rice ball
+Do a headstand
+Uncover trashcan lid
+Close the drawer of the table
+Heat up a bowl of soup in microwave
+Kick the soccer ball to the left
+Fold the chair
+Spin clockwise without right hind foot touching the ground
+Walk forward
+Retrieve the toy car from box
+Jump backward
+Flip leftward
+Slide in table drawer
+Do a headstand
+Store the apple in refrigerator
+Lift up toilet lid
+Set the clock back by 5 minutes
+Flip backward
+Take jumps forward
+Throw trash away
+Walk backward
+Lie face down and cawl forward
+Do a headstead
+Slide window halfway
+Load dish into dishwasher
+Stay balanced and move forward
+Climp up the stairs
+Run forward fast
+Open microwave door
+Arrange three different cans in a row
+Walk backward
+Unload the milk from cart
+Open the door of trash can
+Pull drawer out
+Take out a bottle of water from fridge
+Tilt display screen
+Flip rightward
+Flip rightward
+Press and rotate dispenser lid
+Put a book in the drawer
+Cut the dough in half
+Rotate globe horizontally
+Collapse chair
+Turn on faucet
+Store a toy inside the box
+Close dispenser lid
+Flip backward
+Turn off faucet
+Jump as high as possible
+Put an toy into the storage
+Direct and press dispenser
+Flip forward
+Do a backflip
+Lift up kettle lid
+Kick the soccer ball to the left
+Crawl forward
+Flush the toilet
+Open washing machine door
+Raise laptop screen
+Activate water faucet
+Slide both windows
+Rotate fan rotor
+Open fridges freezer door
+Twist kettle handle
+Open oven door
+Jump higher than 5 meters
+Spin left without using right hind leg
+Flip forward
+Run backward fast using only front and left hind legs
+Take a big jump backward
+Pull out the top drawer of the cabinet
+Press the button to turn on the printer
+Close trashcan lid
+Run forward
+Shut toilet lid
+Push the ball forward
+Open box lid halfway
+Push the ball forward
+Wrap the dumpling wrapper
+Lift box lid
+Spin leftward
+Crawl backward at 1m/s
+Start dishwasher by pressing the start button
+Opening both refrigerator doors
+Shape the dough into a baguette
+Jump over the hurdle
+Close window
+Slide down display screen
+Put a fruit into a fruit bowl
+Jump and kick the basketball
+Turning on coffee machine using the knob
+Turn rightward continuously
+Flip forward
+Open door
+Kick the soccer ball to the right
+Extend suitcase handle
+Spin clockwise
+Lift up the dumpling
+Stand upright on two hind legs
+Spin clockwise
+Rotate bucket handle
+Draw out drawer
+Do a backflip and kick the soccer ball to the right
+Remove pot lid
+Close laptop screen
+Roll out the doll
+Spin counter-clockwise
+Close door
+Put filling onto the wrapper
+Turn on lamp by pressing the toggle button
+Move clock ahead for daylight saving
+Shut the oven door
+
+## BibTeX
+
+
+--------------------

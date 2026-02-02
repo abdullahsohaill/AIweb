@@ -1,0 +1,45 @@
+# NoodleTools
+**URL:** https://www.noodletools.com
+**Page Title:** NoodleTools
+--------------------
+
+
+## A research platform. An educational mindset.
+
+Designed by educators. Powered by technology. Tested by time.
+
+## For individual inquiry and collaborative research, NoodleTools:
+
+### Paves the way for original, high-quality work
+
+NoodleTools gives students a systematic but flexible framework for navigating the tangled web of research. Students develop expert critical-thinking skills, gain confidence, and replace patchwriting and plagiarism with synthesis.
+
+### Grows with students, novice to expert
+
+From a novice’s research question to a graduate student’s thesis, the three levels of NoodleTools provide a mental model for research and a common language across faculty and disciplines.
+
+### Supports teaching in the moment
+
+NoodleTools pulls back the curtain so that you can offer early, in-context feedback on students’ work at predictable bottlenecks and ahead of the writing space.
+
+### Gives you access to experts
+
+We are educators, citation specialists, primary source authorities, and academic researchers. That expertise is baked into our platform design and services.
+
+## Smart Tools. Smart Teaching. Smart Research.
+
+### Effective & proactive teaching
+
+- Set up and start teaching in minutes.
+- Track students’ progress, provide in-context feedback.
+- No advertising. Student-friendly privacy policy.
+Teach responsively
+
+### A student’s research companion
+
+- Cite your sources and organize your notes.
+- Get help with MLA, APA and Chicago-style citations.
+- Collaborate in real-time from anywhere.
+Discover a better way
+
+--------------------

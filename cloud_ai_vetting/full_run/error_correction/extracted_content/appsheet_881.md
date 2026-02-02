@@ -1,0 +1,120 @@
+# AppSheet
+**URL:** https://about.appsheet.com/home
+**Page Title:** Google AppSheet | Build apps with no code
+--------------------
+
+
+## Supercharge your work with no-code
+
+- Intuitive tools
+- Adapt how you work
+- Automate work
+- Unify apps and data
+- Security
+- News
+- FAQs
+
+### Create with intuitive tools
+
+## Harness AI to create and power intelligent apps
+
+- Go from idea to app in minutes
+- Simply describe what you want your app to do and let Gemini do the work
+- Infuse AI into your apps to make them more intelligent and user-friendly
+
+## Create apps that adapt to how you work
+
+- Create apps for Google Chat and publish them with one click
+- Capture rich data using forms, barcodes, locations, signatures, and photo format
+- Store your data in AppSheet’s built-in database
+- Customize features, design, security, and branding
+- Embed critical apps and information in Google Docs with Smart Chips
+
+## Automate work that flows
+
+- Send and automate email, SMS, and Push notifications
+- Build workflow logic with triggers, conditions, and branches
+- Incorporate AI and machine learning including intelligent document processing and optical character recognition
+- Call and process responses from connected Google Apps Script functions
+
+## Unify your apps and data
+
+- Integrate with Google Workspace via Gmail, Google Sheets, Apps Script, and Chat integrations
+- Connect to third-party apps like Office 365, Dropbox, and Salesforce
+- Customize features, UX, security, and branding
+- Integrate with Big Query, SQL databases, Apigee, REST APIs, and OData
+
+## Manage data and creators, safely and securely
+
+## Govern with assurance
+
+- Select from a rich library of App governance policies or create your own
+- Manage teams in an organization
+- Set guardrails and gain visibility with a true no-code development platform
+- Built-in security controls, encryption and verification everywhere with a Zero Trust approach
+- The data that companies, schools, and government agencies put into AppSheet is not controlled or managed by AppSheet - you retain full control
+
+## Explore how customers are driving impact with AppSheet
+
+## “AppSheet allowed us to build an Inventory Logistics App with just one person over a couple of days, a task that would have previously taken several months to achieve by several developers.”
+
+## “Our citizen developers like that AppSheet is close to the Spreadsheet model, has email/role based access control, offers offline/mobile access, along with other features for quick wins.”
+
+## “AppSheet has evened the playing field for small vs large businesses. We can develop and deploy custom, in-house built apps quickly to meet our exact needs, without hiring an outside firm.”
+
+## “In only two days, we created an AppSheet app to manage shopping mall incidents in real time, and made it available to 200 people on their phones.”
+
+## “With AppSheet, employees can automate their own processes - from reporting service vehicle usage to gathering data on site - without the need for a developer or worrying about the cost.”
+
+## “With a mobile workforce spread over a large part of the country AppSheet has helped us reduce the number of trips to the office, empowering our workforce to work better remotely.”
+
+## “We cannot afford to spend too much time on corporate applications such as claims, training and onboarding... AppSheet enables us to prioritize our development work so we maximize our contribution to the business.”
+
+ALL THE LATEST Learn more about Google AppSheet
+- TUTORIAL How to create an app Learn the basics of how to create an app using AppSheet. Learn how
+TUTORIAL
+How to create an app
+Learn the basics of how to create an app using AppSheet.
+- Templates Build faster with templates Get started with app templates for your industry, use case, or department. Explore templates
+Templates
+Build faster with templates
+Get started with app templates for your industry, use case, or department.
+- Discover How real people use AppSheet Explore how people are using AppSheet to work smarter and make an impact. Read stories
+Discover
+How real people use AppSheet
+Explore how people are using AppSheet to work smarter and make an impact.
+- Integration Better with Google Workspace Discover how AppSheet and Google Workspace work together to help you connect, create, and collaborate. Learn more
+Integration
+Better with Google Workspace
+Discover how AppSheet and Google Workspace work together to help you connect, create, and collaborate.
+- Discover The Total Economic Impact of Google Workspace This TEI study shows how Workspace and AppSheet drive transformation. Learn how
+Discover
+The Total Economic Impact of Google Workspace
+This TEI study shows how Workspace and AppSheet drive transformation.
+
+## Find the answers you need
+
+## What do I need to get started?
+
+Not much! All you need to do is connect AppSheet to your favorite cloud data storage provider, such as Google Drive, Office 365, Dropbox, and Salesforce. Learn more about connecting an initial data source here .
+
+## What types of applications can be built with AppSheet?
+
+AppSheet apps work great on both desktop and mobile devices, and are used for a variety of business use cases including project management, operations, field work, human resources, sales, and marketing.
+
+## Does AppSheet really not require any coding?
+
+AppSheet is a true no-code platform, which means anyone can build rich apps and automated processes without writing a line of code. The AppSheet Editor helps make creation easier by automatically generating app prototypes and providing smart suggestions for quick customizations. AppSheet also uses spreadsheet-like expressions to incorporate advanced logic to do things like filter data, create dynamic UI elements, and set up workflow automations.
+
+## What other data sources does AppSheet integrate with?
+
+In addition to Google Sheets and Google Drive, AppSheet apps can connect to hosted Excel files, Cloud SQL, Apigee, Azure SQL, AWS, Salesforce objects, Smartsheet, OData, & more.
+
+## Is AppSheet included in Google Workspace?
+
+Basic applications can be created and shared with small teams in any Workspace account. In order to scale and share apps with larger teams, licenses and an AppSheet subscription is required - AppSheet Core licenses are automatically included in some versions of Workspace Enterprise. Contact Workspace sales for more information .
+
+## Build your app today, with AppSheet
+
+
+--------------------

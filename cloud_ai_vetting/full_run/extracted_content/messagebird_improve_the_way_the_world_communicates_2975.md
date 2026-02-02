@@ -1,0 +1,110 @@
+# MessageBird: Improve the Way the World Communicates
+**URL:** https://messagebird.com
+**Page Title:** Unified CRM for Marketing, Service & Payments | Bird
+--------------------
+
+
+## Marketing built for the AI era.
+
+The complete platform for enterprise brands to acquire, convert, and retain customers across every channel—powered by AI that actually understands your business.
+Contact sales
+Start for free
+Fortune 500 companies
+that depend on Bird
+Customer Data Platform
+Every signal, unified and current
+Custom Data Modeling
+Objects and segments for your business
+Multichannel Orchestration
+Reach customers anywhere
+Smart Personalization
+Marketing that runs itself
+Enterprise Infrastructure
+APIs and security that scale
+Predictive Analytics
+See revenue before it happens
+
+## Turn scattered customer data into revenue growth.
+
+Every interaction feeds into a unified customer view that powers personalized experiences, targeted campaigns, and intelligent automation across every touchpoint.
+Start for free
+Contact sales
+
+### Transform visitors into lifetime customers.
+
+AI-powered journeys that adapt to each customer's behavior. From first click to loyal advocate, Bird orchestrates every touchpoint for maximum impact.
+Marketing platform
+
+### Make all your data instantly actionable.
+
+Connect every data source into one intelligent platform. Create custom objects, model complex relationships, and build segments that drive better marketing decisions.
+Data platform
+
+### Let AI handle the repetitive work.
+
+Set up campaigns once and let Bird's automation optimize, personalize, and improve them continuously. Your marketing runs itself while you focus on growth.
+Marketing automation
+
+### Own your customer communication.
+
+Reach customers on email, SMS, WhatsApp, and beyond with infrastructure built for enterprise scale and deliverability that actually works.
+Communication channels
+
+## Businesses that turn customer data
+into intelligent experiences.
+
+Start for free
+Contact sales
+340%
+Higher conversion rates with AI-powered cart recovery and personalized recommendations.
+Ecommerce solutions
+94.4%
+SMS deliverability improved
++300%
+Partner onboarding efficiency
+161%
+Open rate improvement
+Fortune 500 companies
+that depend on Bird
+Go live in minutes
+Pre-built connectors for every major platform.
+Complete data picture
+Pull from every source, push to every system.
+Enterprise data security
+Encryption, granular access control, build for AI systems.
+Certified compliance
+Meet the highest global standards for AI and data processing.
+Development
+
+## Enterprise-ready APIs for developers who want to build custom experiences.
+
+Contact sales
+Start for free
+For teams that need direct programmatic access, Bird also offers comprehensive APIs that power messaging infrastructure for thousands of companies worldwide.
+[LINK: SMS API Global SMS delivery with <2.5 second delivery for 95% of messages. Local numbers in 140+ countries, with automatic failover. Learn more](./developer/sms-api)
+SMS API
+Global SMS delivery with <2.5 second delivery for 95% of messages. Local numbers in 140+ countries, with automatic failover.
+Learn more
+[LINK: Email API Own and operate the channels: 40% of world's email and SMS with 99.95% SLA-backed uptime. Learn more](./developer/email-api)
+Email API
+Own and operate the channels: 40% of world's email and SMS with 99.95% SLA-backed uptime.
+Learn more
+[LINK: Voice API Two-way voice calling with global coverage. Perfect for authentication, notifications, and customer engagement. Learn more](./developer/voice-api)
+Voice API
+Two-way voice calling with global coverage. Perfect for authentication, notifications, and customer engagement.
+Learn more
+[LINK: WhatsApp Business API Send rich media messages with AI-optimized timing. Perfect for AI-triggered customer service and personalized engagement. Learn more](./developer/whatsapp-api)
+WhatsApp Business API
+Send rich media messages with AI-optimized timing. Perfect for AI-triggered customer service and personalized engagement.
+Learn more
+[LINK: Specialized tools PowerMTA for high-volume sending, Momentum MTA for custom control, recipient validation, inbox tracking, and competitive intelligence. Learn more](./developer/email/email-on-prem/power-mta)
+Specialized tools
+PowerMTA for high-volume sending, Momentum MTA for custom control, recipient validation, inbox tracking, and competitive intelligence.
+Learn more
+The complete AI-native platform that scales with your business.
+Contact sales
+Start for free
+© 2026 Bird
+Contact Support
+
+--------------------

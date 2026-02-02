@@ -1,0 +1,86 @@
+# Tray.ai
+**URL:** https://tray.ai
+**Page Title:** AI for business automation - Tray.ai
+--------------------
+
+AI orchestration platform
+
+## The fastest way to turn AI and agents into business performance
+
+way to turn AI and agents into business performance
+IN THE PRESS • DEC 2025
+
+## As seen on CNBC: Tray and the future of enterprise AI
+
+Rich Waldron joins CNBC’s Jon Fortt to talk about how enterprises are deploying AI agents across their business.
+
+## Merlin Agent Builder
+
+### Build agents people actually use
+
+Tray Merlin Agent Builder makes it easy to go from idea to a live agent your teams put to work. No complexity. No custom workarounds. Agents stay grounded in your data, keep context across every interaction, and can be deployed to Slack, web apps, or APIs. All from one place.
+
+## Bring MCP under IT control with Tray Agent Gateway
+
+AI teams are spinning up MCP servers and tools faster than IT can secure them. Agent Gateway, built into Merlin Agent Builder, gives IT one governed environment to define, manage, and publish MCP safely across the enterprise.
+
+## What makes Tray different
+
+In this short video, our CEO and CTO share why Merlin Agent Builder isn't just another way to build agents. It's built on an AI-ready iPaaS. That means agents can take action across your stack, follow your governance, and stay maintainable as they scale.
+Launch AI agents where they'll have immediate impact. Our pre-built accelerators are designed for real use cases, with the tools and templates teams need to move fast. Many enterprise IT teams start with the ITSM Agent and then expand into knowledge and support.
+Do more than answer HR questions. Automate PTO, policy checks, profile updates, and more with built-in connections to Workday and BambooHR.
+Take action, not just tickets. Automate resolution by connecting directly to the apps and systems your team already uses.
+Move knowledge, not just surface it. Route answers from internal docs into agents, workflows, and tools your team already uses.
+Resolve common customer issues automatically. Triage, respond, and escalate with built-in integrations to your support systems.
+
+## The AI orchestration platform
+
+Thrive in a dynamic environment with constantly evolving AI technologies. Drive all AI, integration, and automation initiatives from a single, composable platform. Build intelligent agents and deliver microservices. Scalability and governance guaranteed.
+Fast
+
+## 10x faster results
+
+Accelerate integration and automation delivery with a powerful low-code, AI-augmented builder for business technologists and development teams.
+Flexible
+
+## Infuse AI into business processes
+
+Legacy iPaaS measures dev time in months. Now, quickly prototype apps and adapt to new AI capabilities in minutes with our AI Palette.
+Safe
+
+## Trusted AI data integration
+
+Safely leverage data across your stack. Our Enterprise Core provides governance and scale for anything you build. Merlin Guardian protects sensitive data in AI processes.
+FOR IT LEADERS
+
+## Make the best choices about the agents you build
+
+### Apollo deflects nearly 40% of IT tickets with Tray
+
+Started with one IT agent, then scaled across dozens of use cases
+Bring MCP under IT control
+A self-guided look at the product
+See what your IT team gets back
+
+### Not all agents are worth building
+
+See Gartner's view on which agents pay off and which ones slow teams down
+How Life360 avoided agent sprawl
+Endless possibilities
+
+## What will you build?
+
+Stay ahead
+
+## Business value that wins
+
+### ROI achieved
+
+### integrations for over 1 million customers
+
+### boost in data delivery and reporting
+
+### integrations across 60+ apps
+
+
+--------------------

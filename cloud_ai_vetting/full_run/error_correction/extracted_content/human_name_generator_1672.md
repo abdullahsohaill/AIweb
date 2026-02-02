@@ -1,0 +1,1468 @@
+# Human Name Generator
+**URL:** https://swtorista.com/names/human
+**Page Title:** Human Name Generator
+--------------------
+
+- Home
+- Updates What is in Update 7.8? Overview Galactic Threads (new story) Dantooine Biomes Dantooine Stronghold PvP Season 9 Events Cartel Market 2026 Roadmap Update 7.8 Guides SWTOR Dantooine Biomes Secret Datapads Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR PvP Seasons 9 Guide and Rewards Starting the 7.8 “Galactic Threads” Storyline – What’s Required and Where to Go + Bugs / Issues What to expect in Update 7.8 in SWTOR! Pursuit of Ruin / Galactic Threads SWTOR Twitch Drops Guide SWTOR Orbital Core Quest Guide Wreckage on Dantooine Quest Guide SWTOR Level 80 Gearing Guide Fastest Level 80 Solo Gearing in SWTOR Update 7.8 News Update 7.8c New Cartel Market Additions! Shadow Sentry Armor and Sabers! SWTOR Patch Notes – Update 7.8c SWTOR Official Interview with Samantha Béart (voice of Darth Nul) aka Karlach from Baldur’s Gate 3! Executive Producer Letter – Q4 2025 (8.0 Mentioned!) Inspired-by and Holiday SWTOR Cartel Sale! SWTOR Patch Notes – Update 7.8a SWTOR Not Currently Launching on Mac (Black Screen) Update 7.8 – UPDATE: FIX AVAILABLE! Star Wars: Fate of the Old Republic – New Star Wars Video Game Announced! Update 7.8 Class Changes Update 7.8 New Cartel Market Additions! Reforged Havoc Squad, Yavin Decorations Free SWTOR Reward! Twilight Acklay Mount Twitch Drop Until Jan. 5th SWTOR Patch Notes – Update 7.8 SWTOR 7.8 Update “Pursuit of Ruin” Launches December 9, 2025! SWTOR Master the Fight: Mobile Market Edition Bundle – November 25, 2025 to January 13, 2026 – $99 for 180 days sub time, 5,500 CC, mobile GTN/mailbox, unique mount and metallic dyes Livestream Sale Announcement! 50% Off ALL Collections Sale – til. December 9th! Starting Now! What was in Update 7.7.1? Overview Galactic Season 9 Activity Finder Updates F2P Improvements Class Changes Subscriber ‘Event’ Cartel Market New Items Character Modernization & Customization New Hair Colors Update 7.6.1 Guides What to expect in Update 7.6.1 in SWTOR! – LAUNCH DATE: March 11, 2025 Dantooine Spring Abundance Festival Event Guide SWTOR Czerka Experimental Combat Enhancer and Tying Up Loose Ends Achievement Guide Update 7.6.1 News 7.6.1 Developer Livestream on Wednesday February 26 at 11 AM Pacific! Update 7.6.1 is coming out on Tuesday March 11, 2025! Dantooine’s Spring Abundance Festival and 7.6.1 Launching March 11th! The Dantooine Spring Abundance Festival has returned! New Rewards (March 11 – April 8) Galactic Season 8 “Rising Powers” New Rewards, Objectives, Vendor Rotation and Dark vs Light Boss Changes Patch Notes Update 7.6.1 – Rising Powers 7.6.1 “Rising Powers” New Cartel Market Additions! New Basilisk Droids Customizations: Gold, Silver, Black-Red, White-Red Character Modernization Updates on the PTS Now! Character Modernization appearance changes screenshots form the PTS April 2025 Events! Bounty Contracts 1st – 7th, Swoop Rally 15th – 21st, Corellia Rakghouls 29th – May 5th Executive Producer Letter – Q1 2025 Relentless Replication Master Mode Coming to the PTS Today! FREE STUFF! Purple Jubilee Hover Pod pet (ends April 30) FREE STUFF FOR SUBSCRIBERS! Naboo Type-C Speeder Mount (ends May 23) FREE STUFF CODE! Amethyst Vulptilla Minipet (ends May 30) Swtorista Attack of the Third Special Community Event + Birthday Bash! Saturday May 3, 2025 Star Wars Celebration 2025 LIVE SWTOR Featurette – Short Interview & Future Story Trailer! Master the Fight: Storm I Edition Bundle – April 29 – June 17, 2025 – $99 for 180 days sub time, 5,500, unique mount and metallic dyes May 2025 Events! Double EXP May 1st – 16th, Gree Event 13th – 19th, Dantooine Pirates 27th – June 2nd May the 4th Star Wars Sales & Deals 2025! May the 4th Star Wars Gaming Super Sales & Deals 2025! FREE SWTOR pet! Log in May 1st to May 16th for a free B25-SAL Probe Droid Mini-Pet (plus double xp and 50% collections sale!) Happy May the 4th Be With You! May The Fourth Collections Sale May 1- 16! 70% Off Tons of Stuff! (UPDATE May 4, new items added!) What was in Update 7.7? Overview PvP Season 8 New Dynamic Encounter Planets 7 New Dynamic Encounter Mounts Master Mode XR-53 Boss New Gold Augments New Eras Window & Mission Log Nar Shaddaa Nightlife July 8 Map Improvements Character Modernizations & Companion Graphical Fixes Preview Window Fixes New Cartel Market Items Small Class Changes Update 7.7 Guides SWTOR Augments Guide Dynamic Encounters Guide in SWTOR SWTOR How to Craft Augments Guide Master Mode Relentless Replication Propagator Core XR-53 Guide Dynamic Encounters SWTOR Dantooine Dynamic Encounters List and Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR Dantooine Biome Dynamic Encounters Secrets and Achievements Guide Biome Dynamic Encounters on Dantooine coming in Update 7.8! SWTOR Ilum Dynamic Encounters Guide SWTOR Korriban Dynamic Encounters Guide SWTOR Hutta Dynamic Encounters Guide SWTOR Dromund Kaas Dynamic Encounters Guide SWTOR Ord Mantell Dynamic Encounters Guide SWTOR Tython Dynamic Encounters Guide SWTOR Coruscant Dynamic Encounters Guide SWTOR Dynamic Encounter Achievements Guide SWTOR Tatooine Dynamic Encounters Guide SWTOR Hoth Dynamic Encounters Guide Update 7.7 News June 2025 Events! Bounty Contracts 10th – 16th, Swoop Rally 24th – 30th Imperial Operative SWTOR Cartel Market Sale 50% – 90% Off New Dynamic Encounter Rewards Update 7.7 (Decorations and Mounts) New Twitch Drop Campaign Live! Umbaran Holo-Rancor Mount – Until June 25th Update 7.7 “Dynamic Worlds” New Cartel Market Additions! Andor-inspired Imperial Director’s Armor, Guerilla Commander’s Armor, Nightlife Decoration Bundle, and Manaan Mini-sub Upcoming Story, Story Delay and Voice Actor’s Strike Update 7.7 Class Changes Patch Notes Update 7.7 – Dynamic Worlds Developer Character Modernization Updates going into 7.7 95 New Twi’lek colors! Game Update 7.7 developer livestream coming May 8th New Augments on SWTOR Public Test Server What was in Update 7.6.1? Overview Galactic Season 8 Uprising Special Powers New Basilisk Rewards New Dynamic Encounter Achievements New Cartel Items Past Updates Update 7.8 Update 7.7.1 Update 7.7 Update 7.6.1 Update 7.6 Update 7.5.1 Update 7.5 Update 7.4.1 Update 7.4 Update 7.3.1 Update 7.3 Update 7.2.1 Update 7.2 Update 7.1.1
+- What is in Update 7.8? Overview Galactic Threads (new story) Dantooine Biomes Dantooine Stronghold PvP Season 9 Events Cartel Market 2026 Roadmap Update 7.8 Guides SWTOR Dantooine Biomes Secret Datapads Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR PvP Seasons 9 Guide and Rewards Starting the 7.8 “Galactic Threads” Storyline – What’s Required and Where to Go + Bugs / Issues What to expect in Update 7.8 in SWTOR! Pursuit of Ruin / Galactic Threads SWTOR Twitch Drops Guide SWTOR Orbital Core Quest Guide Wreckage on Dantooine Quest Guide SWTOR Level 80 Gearing Guide Fastest Level 80 Solo Gearing in SWTOR Update 7.8 News Update 7.8c New Cartel Market Additions! Shadow Sentry Armor and Sabers! SWTOR Patch Notes – Update 7.8c SWTOR Official Interview with Samantha Béart (voice of Darth Nul) aka Karlach from Baldur’s Gate 3! Executive Producer Letter – Q4 2025 (8.0 Mentioned!) Inspired-by and Holiday SWTOR Cartel Sale! SWTOR Patch Notes – Update 7.8a SWTOR Not Currently Launching on Mac (Black Screen) Update 7.8 – UPDATE: FIX AVAILABLE! Star Wars: Fate of the Old Republic – New Star Wars Video Game Announced! Update 7.8 Class Changes Update 7.8 New Cartel Market Additions! Reforged Havoc Squad, Yavin Decorations Free SWTOR Reward! Twilight Acklay Mount Twitch Drop Until Jan. 5th SWTOR Patch Notes – Update 7.8 SWTOR 7.8 Update “Pursuit of Ruin” Launches December 9, 2025! SWTOR Master the Fight: Mobile Market Edition Bundle – November 25, 2025 to January 13, 2026 – $99 for 180 days sub time, 5,500 CC, mobile GTN/mailbox, unique mount and metallic dyes Livestream Sale Announcement! 50% Off ALL Collections Sale – til. December 9th! Starting Now! What was in Update 7.7.1? Overview Galactic Season 9 Activity Finder Updates F2P Improvements Class Changes Subscriber ‘Event’ Cartel Market New Items Character Modernization & Customization New Hair Colors Update 7.6.1 Guides What to expect in Update 7.6.1 in SWTOR! – LAUNCH DATE: March 11, 2025 Dantooine Spring Abundance Festival Event Guide SWTOR Czerka Experimental Combat Enhancer and Tying Up Loose Ends Achievement Guide Update 7.6.1 News 7.6.1 Developer Livestream on Wednesday February 26 at 11 AM Pacific! Update 7.6.1 is coming out on Tuesday March 11, 2025! Dantooine’s Spring Abundance Festival and 7.6.1 Launching March 11th! The Dantooine Spring Abundance Festival has returned! New Rewards (March 11 – April 8) Galactic Season 8 “Rising Powers” New Rewards, Objectives, Vendor Rotation and Dark vs Light Boss Changes Patch Notes Update 7.6.1 – Rising Powers 7.6.1 “Rising Powers” New Cartel Market Additions! New Basilisk Droids Customizations: Gold, Silver, Black-Red, White-Red Character Modernization Updates on the PTS Now! Character Modernization appearance changes screenshots form the PTS April 2025 Events! Bounty Contracts 1st – 7th, Swoop Rally 15th – 21st, Corellia Rakghouls 29th – May 5th Executive Producer Letter – Q1 2025 Relentless Replication Master Mode Coming to the PTS Today! FREE STUFF! Purple Jubilee Hover Pod pet (ends April 30) FREE STUFF FOR SUBSCRIBERS! Naboo Type-C Speeder Mount (ends May 23) FREE STUFF CODE! Amethyst Vulptilla Minipet (ends May 30) Swtorista Attack of the Third Special Community Event + Birthday Bash! Saturday May 3, 2025 Star Wars Celebration 2025 LIVE SWTOR Featurette – Short Interview & Future Story Trailer! Master the Fight: Storm I Edition Bundle – April 29 – June 17, 2025 – $99 for 180 days sub time, 5,500, unique mount and metallic dyes May 2025 Events! Double EXP May 1st – 16th, Gree Event 13th – 19th, Dantooine Pirates 27th – June 2nd May the 4th Star Wars Sales & Deals 2025! May the 4th Star Wars Gaming Super Sales & Deals 2025! FREE SWTOR pet! Log in May 1st to May 16th for a free B25-SAL Probe Droid Mini-Pet (plus double xp and 50% collections sale!) Happy May the 4th Be With You! May The Fourth Collections Sale May 1- 16! 70% Off Tons of Stuff! (UPDATE May 4, new items added!) What was in Update 7.7? Overview PvP Season 8 New Dynamic Encounter Planets 7 New Dynamic Encounter Mounts Master Mode XR-53 Boss New Gold Augments New Eras Window & Mission Log Nar Shaddaa Nightlife July 8 Map Improvements Character Modernizations & Companion Graphical Fixes Preview Window Fixes New Cartel Market Items Small Class Changes Update 7.7 Guides SWTOR Augments Guide Dynamic Encounters Guide in SWTOR SWTOR How to Craft Augments Guide Master Mode Relentless Replication Propagator Core XR-53 Guide Dynamic Encounters SWTOR Dantooine Dynamic Encounters List and Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR Dantooine Biome Dynamic Encounters Secrets and Achievements Guide Biome Dynamic Encounters on Dantooine coming in Update 7.8! SWTOR Ilum Dynamic Encounters Guide SWTOR Korriban Dynamic Encounters Guide SWTOR Hutta Dynamic Encounters Guide SWTOR Dromund Kaas Dynamic Encounters Guide SWTOR Ord Mantell Dynamic Encounters Guide SWTOR Tython Dynamic Encounters Guide SWTOR Coruscant Dynamic Encounters Guide SWTOR Dynamic Encounter Achievements Guide SWTOR Tatooine Dynamic Encounters Guide SWTOR Hoth Dynamic Encounters Guide Update 7.7 News June 2025 Events! Bounty Contracts 10th – 16th, Swoop Rally 24th – 30th Imperial Operative SWTOR Cartel Market Sale 50% – 90% Off New Dynamic Encounter Rewards Update 7.7 (Decorations and Mounts) New Twitch Drop Campaign Live! Umbaran Holo-Rancor Mount – Until June 25th Update 7.7 “Dynamic Worlds” New Cartel Market Additions! Andor-inspired Imperial Director’s Armor, Guerilla Commander’s Armor, Nightlife Decoration Bundle, and Manaan Mini-sub Upcoming Story, Story Delay and Voice Actor’s Strike Update 7.7 Class Changes Patch Notes Update 7.7 – Dynamic Worlds Developer Character Modernization Updates going into 7.7 95 New Twi’lek colors! Game Update 7.7 developer livestream coming May 8th New Augments on SWTOR Public Test Server What was in Update 7.6.1? Overview Galactic Season 8 Uprising Special Powers New Basilisk Rewards New Dynamic Encounter Achievements New Cartel Items Past Updates Update 7.8 Update 7.7.1 Update 7.7 Update 7.6.1 Update 7.6 Update 7.5.1 Update 7.5 Update 7.4.1 Update 7.4 Update 7.3.1 Update 7.3 Update 7.2.1 Update 7.2 Update 7.1.1
+- What is in Update 7.8? Overview Galactic Threads (new story) Dantooine Biomes Dantooine Stronghold PvP Season 9 Events Cartel Market 2026 Roadmap Update 7.8 Guides SWTOR Dantooine Biomes Secret Datapads Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR PvP Seasons 9 Guide and Rewards Starting the 7.8 “Galactic Threads” Storyline – What’s Required and Where to Go + Bugs / Issues What to expect in Update 7.8 in SWTOR! Pursuit of Ruin / Galactic Threads SWTOR Twitch Drops Guide SWTOR Orbital Core Quest Guide Wreckage on Dantooine Quest Guide SWTOR Level 80 Gearing Guide Fastest Level 80 Solo Gearing in SWTOR Update 7.8 News Update 7.8c New Cartel Market Additions! Shadow Sentry Armor and Sabers! SWTOR Patch Notes – Update 7.8c SWTOR Official Interview with Samantha Béart (voice of Darth Nul) aka Karlach from Baldur’s Gate 3! Executive Producer Letter – Q4 2025 (8.0 Mentioned!) Inspired-by and Holiday SWTOR Cartel Sale! SWTOR Patch Notes – Update 7.8a SWTOR Not Currently Launching on Mac (Black Screen) Update 7.8 – UPDATE: FIX AVAILABLE! Star Wars: Fate of the Old Republic – New Star Wars Video Game Announced! Update 7.8 Class Changes Update 7.8 New Cartel Market Additions! Reforged Havoc Squad, Yavin Decorations Free SWTOR Reward! Twilight Acklay Mount Twitch Drop Until Jan. 5th SWTOR Patch Notes – Update 7.8 SWTOR 7.8 Update “Pursuit of Ruin” Launches December 9, 2025! SWTOR Master the Fight: Mobile Market Edition Bundle – November 25, 2025 to January 13, 2026 – $99 for 180 days sub time, 5,500 CC, mobile GTN/mailbox, unique mount and metallic dyes Livestream Sale Announcement! 50% Off ALL Collections Sale – til. December 9th! Starting Now!
+- What is in Update 7.8? Overview Galactic Threads (new story) Dantooine Biomes Dantooine Stronghold PvP Season 9 Events Cartel Market 2026 Roadmap
+- Overview
+- Galactic Threads (new story)
+- Dantooine Biomes
+- Dantooine Stronghold
+- PvP Season 9
+- Events
+- Cartel Market
+- 2026 Roadmap
+- Update 7.8 Guides SWTOR Dantooine Biomes Secret Datapads Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR PvP Seasons 9 Guide and Rewards Starting the 7.8 “Galactic Threads” Storyline – What’s Required and Where to Go + Bugs / Issues What to expect in Update 7.8 in SWTOR! Pursuit of Ruin / Galactic Threads SWTOR Twitch Drops Guide SWTOR Orbital Core Quest Guide Wreckage on Dantooine Quest Guide SWTOR Level 80 Gearing Guide Fastest Level 80 Solo Gearing in SWTOR
+- SWTOR Dantooine Biomes Secret Datapads Guide
+- SWTOR Dantooine Biome Dynamic Encounters Guide
+- SWTOR PvP Seasons 9 Guide and Rewards
+- Starting the 7.8 “Galactic Threads” Storyline – What’s Required and Where to Go + Bugs / Issues
+- What to expect in Update 7.8 in SWTOR! Pursuit of Ruin / Galactic Threads
+- SWTOR Twitch Drops Guide
+- SWTOR Orbital Core Quest Guide
+- Wreckage on Dantooine Quest Guide
+- SWTOR Level 80 Gearing Guide
+- Fastest Level 80 Solo Gearing in SWTOR
+- Update 7.8 News Update 7.8c New Cartel Market Additions! Shadow Sentry Armor and Sabers! SWTOR Patch Notes – Update 7.8c SWTOR Official Interview with Samantha Béart (voice of Darth Nul) aka Karlach from Baldur’s Gate 3! Executive Producer Letter – Q4 2025 (8.0 Mentioned!) Inspired-by and Holiday SWTOR Cartel Sale! SWTOR Patch Notes – Update 7.8a SWTOR Not Currently Launching on Mac (Black Screen) Update 7.8 – UPDATE: FIX AVAILABLE! Star Wars: Fate of the Old Republic – New Star Wars Video Game Announced! Update 7.8 Class Changes Update 7.8 New Cartel Market Additions! Reforged Havoc Squad, Yavin Decorations Free SWTOR Reward! Twilight Acklay Mount Twitch Drop Until Jan. 5th SWTOR Patch Notes – Update 7.8 SWTOR 7.8 Update “Pursuit of Ruin” Launches December 9, 2025! SWTOR Master the Fight: Mobile Market Edition Bundle – November 25, 2025 to January 13, 2026 – $99 for 180 days sub time, 5,500 CC, mobile GTN/mailbox, unique mount and metallic dyes Livestream Sale Announcement! 50% Off ALL Collections Sale – til. December 9th! Starting Now!
+- Update 7.8c New Cartel Market Additions! Shadow Sentry Armor and Sabers!
+- SWTOR Patch Notes – Update 7.8c
+- SWTOR Official Interview with Samantha Béart (voice of Darth Nul) aka Karlach from Baldur’s Gate 3!
+- Executive Producer Letter – Q4 2025 (8.0 Mentioned!)
+- Inspired-by and Holiday SWTOR Cartel Sale!
+- SWTOR Patch Notes – Update 7.8a
+- SWTOR Not Currently Launching on Mac (Black Screen) Update 7.8 – UPDATE: FIX AVAILABLE!
+- Star Wars: Fate of the Old Republic – New Star Wars Video Game Announced!
+- Update 7.8 Class Changes
+- Update 7.8 New Cartel Market Additions! Reforged Havoc Squad, Yavin Decorations
+- Free SWTOR Reward! Twilight Acklay Mount Twitch Drop Until Jan. 5th
+- SWTOR Patch Notes – Update 7.8
+- SWTOR 7.8 Update “Pursuit of Ruin” Launches December 9, 2025!
+- SWTOR Master the Fight: Mobile Market Edition Bundle – November 25, 2025 to January 13, 2026 – $99 for 180 days sub time, 5,500 CC, mobile GTN/mailbox, unique mount and metallic dyes
+- Livestream Sale Announcement! 50% Off ALL Collections Sale – til. December 9th! Starting Now!
+- What was in Update 7.7.1? Overview Galactic Season 9 Activity Finder Updates F2P Improvements Class Changes Subscriber ‘Event’ Cartel Market New Items Character Modernization & Customization New Hair Colors Update 7.6.1 Guides What to expect in Update 7.6.1 in SWTOR! – LAUNCH DATE: March 11, 2025 Dantooine Spring Abundance Festival Event Guide SWTOR Czerka Experimental Combat Enhancer and Tying Up Loose Ends Achievement Guide Update 7.6.1 News 7.6.1 Developer Livestream on Wednesday February 26 at 11 AM Pacific! Update 7.6.1 is coming out on Tuesday March 11, 2025! Dantooine’s Spring Abundance Festival and 7.6.1 Launching March 11th! The Dantooine Spring Abundance Festival has returned! New Rewards (March 11 – April 8) Galactic Season 8 “Rising Powers” New Rewards, Objectives, Vendor Rotation and Dark vs Light Boss Changes Patch Notes Update 7.6.1 – Rising Powers 7.6.1 “Rising Powers” New Cartel Market Additions! New Basilisk Droids Customizations: Gold, Silver, Black-Red, White-Red Character Modernization Updates on the PTS Now! Character Modernization appearance changes screenshots form the PTS April 2025 Events! Bounty Contracts 1st – 7th, Swoop Rally 15th – 21st, Corellia Rakghouls 29th – May 5th Executive Producer Letter – Q1 2025 Relentless Replication Master Mode Coming to the PTS Today! FREE STUFF! Purple Jubilee Hover Pod pet (ends April 30) FREE STUFF FOR SUBSCRIBERS! Naboo Type-C Speeder Mount (ends May 23) FREE STUFF CODE! Amethyst Vulptilla Minipet (ends May 30) Swtorista Attack of the Third Special Community Event + Birthday Bash! Saturday May 3, 2025 Star Wars Celebration 2025 LIVE SWTOR Featurette – Short Interview & Future Story Trailer! Master the Fight: Storm I Edition Bundle – April 29 – June 17, 2025 – $99 for 180 days sub time, 5,500, unique mount and metallic dyes May 2025 Events! Double EXP May 1st – 16th, Gree Event 13th – 19th, Dantooine Pirates 27th – June 2nd May the 4th Star Wars Sales & Deals 2025! May the 4th Star Wars Gaming Super Sales & Deals 2025! FREE SWTOR pet! Log in May 1st to May 16th for a free B25-SAL Probe Droid Mini-Pet (plus double xp and 50% collections sale!) Happy May the 4th Be With You! May The Fourth Collections Sale May 1- 16! 70% Off Tons of Stuff! (UPDATE May 4, new items added!)
+- What was in Update 7.7.1? Overview Galactic Season 9 Activity Finder Updates F2P Improvements Class Changes Subscriber ‘Event’ Cartel Market New Items Character Modernization & Customization New Hair Colors
+- Overview
+- Galactic Season 9
+- Activity Finder Updates
+- F2P Improvements
+- Class Changes
+- Subscriber ‘Event’
+- Cartel Market New Items
+- Character Modernization & Customization
+- New Hair Colors
+- Update 7.6.1 Guides What to expect in Update 7.6.1 in SWTOR! – LAUNCH DATE: March 11, 2025 Dantooine Spring Abundance Festival Event Guide SWTOR Czerka Experimental Combat Enhancer and Tying Up Loose Ends Achievement Guide
+- What to expect in Update 7.6.1 in SWTOR! – LAUNCH DATE: March 11, 2025
+- Dantooine Spring Abundance Festival Event Guide
+- SWTOR Czerka Experimental Combat Enhancer and Tying Up Loose Ends Achievement Guide
+- Update 7.6.1 News 7.6.1 Developer Livestream on Wednesday February 26 at 11 AM Pacific! Update 7.6.1 is coming out on Tuesday March 11, 2025! Dantooine’s Spring Abundance Festival and 7.6.1 Launching March 11th! The Dantooine Spring Abundance Festival has returned! New Rewards (March 11 – April 8) Galactic Season 8 “Rising Powers” New Rewards, Objectives, Vendor Rotation and Dark vs Light Boss Changes Patch Notes Update 7.6.1 – Rising Powers 7.6.1 “Rising Powers” New Cartel Market Additions! New Basilisk Droids Customizations: Gold, Silver, Black-Red, White-Red Character Modernization Updates on the PTS Now! Character Modernization appearance changes screenshots form the PTS April 2025 Events! Bounty Contracts 1st – 7th, Swoop Rally 15th – 21st, Corellia Rakghouls 29th – May 5th Executive Producer Letter – Q1 2025 Relentless Replication Master Mode Coming to the PTS Today! FREE STUFF! Purple Jubilee Hover Pod pet (ends April 30) FREE STUFF FOR SUBSCRIBERS! Naboo Type-C Speeder Mount (ends May 23) FREE STUFF CODE! Amethyst Vulptilla Minipet (ends May 30) Swtorista Attack of the Third Special Community Event + Birthday Bash! Saturday May 3, 2025 Star Wars Celebration 2025 LIVE SWTOR Featurette – Short Interview & Future Story Trailer! Master the Fight: Storm I Edition Bundle – April 29 – June 17, 2025 – $99 for 180 days sub time, 5,500, unique mount and metallic dyes May 2025 Events! Double EXP May 1st – 16th, Gree Event 13th – 19th, Dantooine Pirates 27th – June 2nd May the 4th Star Wars Sales & Deals 2025! May the 4th Star Wars Gaming Super Sales & Deals 2025! FREE SWTOR pet! Log in May 1st to May 16th for a free B25-SAL Probe Droid Mini-Pet (plus double xp and 50% collections sale!) Happy May the 4th Be With You! May The Fourth Collections Sale May 1- 16! 70% Off Tons of Stuff! (UPDATE May 4, new items added!)
+- 7.6.1 Developer Livestream on Wednesday February 26 at 11 AM Pacific!
+- Update 7.6.1 is coming out on Tuesday March 11, 2025!
+- Dantooine’s Spring Abundance Festival and 7.6.1 Launching March 11th!
+- The Dantooine Spring Abundance Festival has returned! New Rewards (March 11 – April 8)
+- Galactic Season 8 “Rising Powers” New Rewards, Objectives, Vendor Rotation and Dark vs Light Boss Changes
+- Patch Notes Update 7.6.1 – Rising Powers
+- 7.6.1 “Rising Powers” New Cartel Market Additions!
+- New Basilisk Droids Customizations: Gold, Silver, Black-Red, White-Red
+- Character Modernization Updates on the PTS Now!
+- Character Modernization appearance changes screenshots form the PTS
+- April 2025 Events! Bounty Contracts 1st – 7th, Swoop Rally 15th – 21st, Corellia Rakghouls 29th – May 5th
+- Executive Producer Letter – Q1 2025
+- Relentless Replication Master Mode Coming to the PTS Today!
+- FREE STUFF! Purple Jubilee Hover Pod pet (ends April 30)
+- FREE STUFF FOR SUBSCRIBERS! Naboo Type-C Speeder Mount (ends May 23)
+- FREE STUFF CODE! Amethyst Vulptilla Minipet (ends May 30)
+- Swtorista Attack of the Third Special Community Event + Birthday Bash! Saturday May 3, 2025
+- Star Wars Celebration 2025 LIVE SWTOR Featurette – Short Interview & Future Story Trailer!
+- Master the Fight: Storm I Edition Bundle – April 29 – June 17, 2025 – $99 for 180 days sub time, 5,500, unique mount and metallic dyes
+- May 2025 Events! Double EXP May 1st – 16th, Gree Event 13th – 19th, Dantooine Pirates 27th – June 2nd
+- May the 4th Star Wars Sales & Deals 2025!
+- May the 4th Star Wars Gaming Super Sales & Deals 2025!
+- FREE SWTOR pet! Log in May 1st to May 16th for a free B25-SAL Probe Droid Mini-Pet (plus double xp and 50% collections sale!)
+- Happy May the 4th Be With You!
+- May The Fourth Collections Sale May 1- 16! 70% Off Tons of Stuff! (UPDATE May 4, new items added!)
+- What was in Update 7.7? Overview PvP Season 8 New Dynamic Encounter Planets 7 New Dynamic Encounter Mounts Master Mode XR-53 Boss New Gold Augments New Eras Window & Mission Log Nar Shaddaa Nightlife July 8 Map Improvements Character Modernizations & Companion Graphical Fixes Preview Window Fixes New Cartel Market Items Small Class Changes Update 7.7 Guides SWTOR Augments Guide Dynamic Encounters Guide in SWTOR SWTOR How to Craft Augments Guide Master Mode Relentless Replication Propagator Core XR-53 Guide Dynamic Encounters SWTOR Dantooine Dynamic Encounters List and Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR Dantooine Biome Dynamic Encounters Secrets and Achievements Guide Biome Dynamic Encounters on Dantooine coming in Update 7.8! SWTOR Ilum Dynamic Encounters Guide SWTOR Korriban Dynamic Encounters Guide SWTOR Hutta Dynamic Encounters Guide SWTOR Dromund Kaas Dynamic Encounters Guide SWTOR Ord Mantell Dynamic Encounters Guide SWTOR Tython Dynamic Encounters Guide SWTOR Coruscant Dynamic Encounters Guide SWTOR Dynamic Encounter Achievements Guide SWTOR Tatooine Dynamic Encounters Guide SWTOR Hoth Dynamic Encounters Guide Update 7.7 News June 2025 Events! Bounty Contracts 10th – 16th, Swoop Rally 24th – 30th Imperial Operative SWTOR Cartel Market Sale 50% – 90% Off New Dynamic Encounter Rewards Update 7.7 (Decorations and Mounts) New Twitch Drop Campaign Live! Umbaran Holo-Rancor Mount – Until June 25th Update 7.7 “Dynamic Worlds” New Cartel Market Additions! Andor-inspired Imperial Director’s Armor, Guerilla Commander’s Armor, Nightlife Decoration Bundle, and Manaan Mini-sub Upcoming Story, Story Delay and Voice Actor’s Strike Update 7.7 Class Changes Patch Notes Update 7.7 – Dynamic Worlds Developer Character Modernization Updates going into 7.7 95 New Twi’lek colors! Game Update 7.7 developer livestream coming May 8th New Augments on SWTOR Public Test Server
+- What was in Update 7.7? Overview PvP Season 8 New Dynamic Encounter Planets 7 New Dynamic Encounter Mounts Master Mode XR-53 Boss New Gold Augments New Eras Window & Mission Log Nar Shaddaa Nightlife July 8 Map Improvements Character Modernizations & Companion Graphical Fixes Preview Window Fixes New Cartel Market Items Small Class Changes
+- Overview
+- PvP Season 8
+- New Dynamic Encounter Planets
+- 7 New Dynamic Encounter Mounts
+- Master Mode XR-53 Boss
+- New Gold Augments
+- New Eras Window & Mission Log
+- Nar Shaddaa Nightlife July 8
+- Map Improvements
+- Character Modernizations & Companion Graphical Fixes
+- Preview Window Fixes
+- New Cartel Market Items
+- Small Class Changes
+- Update 7.7 Guides SWTOR Augments Guide Dynamic Encounters Guide in SWTOR SWTOR How to Craft Augments Guide Master Mode Relentless Replication Propagator Core XR-53 Guide
+- SWTOR Augments Guide
+- Dynamic Encounters Guide in SWTOR
+- SWTOR How to Craft Augments Guide
+- Master Mode Relentless Replication Propagator Core XR-53 Guide
+- Dynamic Encounters SWTOR Dantooine Dynamic Encounters List and Guide SWTOR Dantooine Biome Dynamic Encounters Guide SWTOR Dantooine Biome Dynamic Encounters Secrets and Achievements Guide Biome Dynamic Encounters on Dantooine coming in Update 7.8! SWTOR Ilum Dynamic Encounters Guide SWTOR Korriban Dynamic Encounters Guide SWTOR Hutta Dynamic Encounters Guide SWTOR Dromund Kaas Dynamic Encounters Guide SWTOR Ord Mantell Dynamic Encounters Guide SWTOR Tython Dynamic Encounters Guide SWTOR Coruscant Dynamic Encounters Guide SWTOR Dynamic Encounter Achievements Guide SWTOR Tatooine Dynamic Encounters Guide SWTOR Hoth Dynamic Encounters Guide
+- SWTOR Dantooine Dynamic Encounters List and Guide
+- SWTOR Dantooine Biome Dynamic Encounters Guide
+- SWTOR Dantooine Biome Dynamic Encounters Secrets and Achievements Guide
+- Biome Dynamic Encounters on Dantooine coming in Update 7.8!
+- SWTOR Ilum Dynamic Encounters Guide
+- SWTOR Korriban Dynamic Encounters Guide
+- SWTOR Hutta Dynamic Encounters Guide
+- SWTOR Dromund Kaas Dynamic Encounters Guide
+- SWTOR Ord Mantell Dynamic Encounters Guide
+- SWTOR Tython Dynamic Encounters Guide
+- SWTOR Coruscant Dynamic Encounters Guide
+- SWTOR Dynamic Encounter Achievements Guide
+- SWTOR Tatooine Dynamic Encounters Guide
+- SWTOR Hoth Dynamic Encounters Guide
+- Update 7.7 News June 2025 Events! Bounty Contracts 10th – 16th, Swoop Rally 24th – 30th Imperial Operative SWTOR Cartel Market Sale 50% – 90% Off New Dynamic Encounter Rewards Update 7.7 (Decorations and Mounts) New Twitch Drop Campaign Live! Umbaran Holo-Rancor Mount – Until June 25th Update 7.7 “Dynamic Worlds” New Cartel Market Additions! Andor-inspired Imperial Director’s Armor, Guerilla Commander’s Armor, Nightlife Decoration Bundle, and Manaan Mini-sub Upcoming Story, Story Delay and Voice Actor’s Strike Update 7.7 Class Changes Patch Notes Update 7.7 – Dynamic Worlds Developer Character Modernization Updates going into 7.7 95 New Twi’lek colors! Game Update 7.7 developer livestream coming May 8th New Augments on SWTOR Public Test Server
+- June 2025 Events! Bounty Contracts 10th – 16th, Swoop Rally 24th – 30th
+- Imperial Operative SWTOR Cartel Market Sale 50% – 90% Off
+- New Dynamic Encounter Rewards Update 7.7 (Decorations and Mounts)
+- New Twitch Drop Campaign Live! Umbaran Holo-Rancor Mount – Until June 25th
+- Update 7.7 “Dynamic Worlds” New Cartel Market Additions! Andor-inspired Imperial Director’s Armor, Guerilla Commander’s Armor, Nightlife Decoration Bundle, and Manaan Mini-sub
+- Upcoming Story, Story Delay and Voice Actor’s Strike
+- Update 7.7 Class Changes
+- Patch Notes Update 7.7 – Dynamic Worlds
+- Developer Character Modernization Updates going into 7.7
+[LINK: Developer Character Modernization Updates going into 7.7](https://swtorista.com/articles/swtor-developer-character-modernization-updates-going-into-7-7/)
+- 95 New Twi’lek colors!
+- Game Update 7.7 developer livestream coming May 8th
+[LINK: Game Update 7.7 developer livestream coming May 8th](https://swtorista.com/articles/swtor-game-update-7-7-developer-livestream-coming-may-8th/)
+- New Augments on SWTOR Public Test Server
+- What was in Update 7.6.1? Overview Galactic Season 8 Uprising Special Powers New Basilisk Rewards New Dynamic Encounter Achievements New Cartel Items Past Updates Update 7.8 Update 7.7.1 Update 7.7 Update 7.6.1 Update 7.6 Update 7.5.1 Update 7.5 Update 7.4.1 Update 7.4 Update 7.3.1 Update 7.3 Update 7.2.1 Update 7.2 Update 7.1.1
+- What was in Update 7.6.1? Overview Galactic Season 8 Uprising Special Powers New Basilisk Rewards New Dynamic Encounter Achievements New Cartel Items
+- Overview
+- Galactic Season 8
+- Uprising Special Powers
+- New Basilisk Rewards
+- New Dynamic Encounter Achievements
+- New Cartel Items
+- Past Updates Update 7.8 Update 7.7.1 Update 7.7 Update 7.6.1 Update 7.6 Update 7.5.1 Update 7.5 Update 7.4.1 Update 7.4 Update 7.3.1 Update 7.3 Update 7.2.1 Update 7.2 Update 7.1.1
+- Update 7.8
+- Update 7.7.1
+- Update 7.7
+- Update 7.6.1
+- Update 7.6
+- Update 7.5.1
+- Update 7.5
+- Update 7.4.1
+- Update 7.4
+- Update 7.3.1
+- Update 7.3
+- Update 7.2.1
+- Update 7.2
+- Update 7.1.1
+- Guides Beginner’s Guides Which Class Should I Play? SWTOR Guide Free-to-Play Tips (F2P) How to Play Star Wars: The Old Republic How to Get New Armor Level 70 Commander’s Token Character Creation What is Star Wars: The Old Republic? Playing SWTOR With a Friend Quickbars Guide The Ultimate Guide of Community Guides Choosing a Class! Outfitter Guide Easiest Classes to Play Second Combat Style Guide Combat Styles Guide How to Level Up Fast Tips for New Players Is SWTOR worth returning to in 2026? Is SWTOR worth trying in 2026? Gear Augments Guide What are Tech Fragments for? Tactical Items Guide How to Solo Veteran Mode Red Reaper in Stealth and Bait Earpiece Trick Low-Level Gearing Guide 7.0 Recommended Gear Chart Hyde and Zeek Guide Legendary Implants Fastest Way to Gear Up at Level 80 Fastest Level 80 Solo Gearing Level 80 Gearing Guide Relics Guide Combat Training Dummy Locations How to use StarParse Difficult Fight Tips Basic Class Guides Free-to-play, Preferred, and Subscribing Play as Preferred Tips & Transitioning Tips Do Free-to-Play and Preferred players get less XP? Subscriber Tips Is SWTOR worth subscribing to? How much do the SWTOR Expansions cost? What’s the best way to subscribe to SWTOR? SWTOR’s Free-to-Play compared to other online games Free-to-Play Crystals Low-Level Gearing Guide Free-to-play vs Preferred vs Subscriber Guide Content Guides Bonus Series Quests Dark Side Corruption Dark vs Light Bosses Guide Dark vs Light Token Rewards Guide Dynamic Encounters Guide Eternal Championship Guide Flashpoint Levels Guide Groupfinder Flashpoints How to Earn Dark Side Points How to Earn Light Side Points How to Get Cartel Market Certificates How to Level Slower – White Acute Module Guide How to Make Credits How to Roleplay Guide How to use a SWTOR Security Key & Get 100 free Cartel Coins per month! How to use Discord with SWTOR How to use the GTN Guide Legendary Player Status Guide Social Ranks and Rewards Guide Super Easy Conquest Objectives, Solo Conquest & Crafting Acronyms Character Appearance Guide Chat Guide Companions Guide Conquest Guide Daily Login Reward Guide Dark vs Light Guide Datacrons Guide Date Night Guide Decorations Guide Fast Levelling Checklist Flashpoints & Operations Guide Galactic Seasons Guide and Rewards – Season 9, Flashpoint Resurgence! Galactic Starfighter Guide Guild Perks Guide How to PvP Guide Legacy and Character Unlocks Guide Legacy Guide Low-level Conquest Guide Master’s Datacron Guide Pets Guide Reputation Guide Security Key Guide Solo Story Order Guide Space Missions Guide Stronghold Guide Twitch Drops Guide Uprisings Guide User Interface Tips and Tricks World Boss Guide Tips for Returning SWTOR Players What can you do with Cartel Market Certificates? What to do at Level 80 Reputation Guides Dantooine Spring Abundance Festival Event Guide G.A.M.E. Reputation Guide Gree Event Guide Kuat Drive Yards Reputation Guide Life Day Event Guide (SWTOR) Messengers of the Cold Moon Reputation Guide Onderon Daily and Reputation Guide Rakghoul Event Guide Black Hole Daily Guide Bounty Contract Event Guide CZ-198 Reputation and Daily Area Guide Dantooine Biome Dynamic Encounters Guide Dantooine Pirate Incursion Event Guide Feast of Prosperity Event Guide GSI Reputation Guide Iokath Daily Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Makeb Reputation and Daily Area Guide Manaan Daily Area Guide Nar Shaddaa Nightlife Event Guide Orbital Core Quest Guide Oricon Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Rishi Reputation and Daily Area Guide Ruhnuk Daily Guide Section X Reputation and Daily Area Guide Space Missions Guide Swoop Event Guide Voss Daily Guide Yavin 4 Reputation and Daily Area Guide Ziost Reputation and Daily Area Guide The Master’s Top Secret Army Reputation and Dark Spores Guide The Shadow Syndicate Reputation & Underworld Syndicate Plans Underworld Exchange Reputation Voss Interpreter’s Retreat Armor Wreckage on Dantooine Quest Guide Event Guides Bounty Contract Event Guide Double XP Event Guide Dantooine Pirate Incursion Event Guide Gree Event Guide Gree Event PvP Achievements Guide Swoop Event Guide Rakghoul Event Guide Dantooine Spring Abundance Festival Event Guide Nar Shaddaa Nightlife Event Guide Feast of Prosperity Event Guide Anniversary Event Guide & Free Rewards Life Day Event Guide (SWTOR) Flashpoints Assault on Tython Flashpoint Guide Athiss Flashpoint Guide Battle of Ilum Flashpoint Guide Battle of Rishi Flashpoint Guide Black Talon Flashpoint Guide Blood Hunt Flashpoint Guide Boarding Party Flashpoint Guide Cademimu Flashpoint Guide Colicoid War Game Flashpoint Guide Crisis on Umbara Flashpoint Guide Czerka Core Meltdown Flashpoint Guide Czerka Corporate Labs Flashpoint Guide Depths of Manaan Flashpoint Guide Directive 7 Flashpoint Guide Esseles Flashpoint Guide False Emperor Flashpoint Guide Foundry Flashpoint Guide Hammer Station Flashpoint Guide Kaon Under Siege Flashpoint Guide Korriban Incursion Flashpoint Guide Legacy of the Rakata Flashpoint Guide Lost Island Flashpoint Guide Maelstrom Prison Flashpoint Guide Mandalorian Raiders Flashpoint Guide Nathema Conspiracy Flashpoint Guide Objective Meridian Flashpoint Guide Red Reaper Flashpoint Guide Ruins of Nul Flashpoint Guide Secrets of the Enclave Flashpoint Guide Shrine of Silence Voss Flashpoint Guide Spirit of Vengeance Flashpoint Guide Taral V Flashpoint Guide Traitor Among the Chiss Flashpoint Guide Uprisings Landing Party Uprising Guide Firefrost Uprising Guide Fractured Uprising Guide Done and Dusted Uprising Guide Crimson Fang Uprising Guide Destroyer of Worlds Uprising Guide Inferno Uprising Guide Divided We Fall Uprising Guide Trench Runner Uprising Guide Trial and Error Uprising Guide Uprisings Guide Daily Areas Ziost Reputation and Daily Area Guide Yavin 4 Reputation and Daily Area Guide Voss Interpreter’s Retreat Guide Voss Daily Guide Section X Reputation and Daily Area Guide Ruhnuk Daily Guide Rishi Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Oricon Reputation and Daily Area Guide Manaan Daily Area Guide Makeb Reputation and Daily Area Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Iokath Daily Guide CZ-198 Reputation and Daily Area Guide Black Hole Daily Guide Basilisk Prototype Ventures Guide B3-S1 Basilisk Droid Upgrade Track Secrets Interactive Maps Datacrons Lore Objects Beastmaster Achievement Champion Achievements Other Secrets Quests Nar Shaddaa Nightlife Event Quest The Dragon’s Maw Chapter Guide / Chapter 6 KOTET Puzzle Guide How to unlock the Shroud of Memory Chapter Remote Trading Post Guide Lane Vizla + Basilisk Droid Quest Guide Seeker Droid Quest Guide – Weapons of Chaos / Buried Evils Quest List & Guide Alliance Guide – Companion Alerts, Alliance Specialists and Star Fortress Companions Companion Recruitment Guide Companion Gifts Guide Companions List Companion Gifts List and Chart Companion Customizations List Companions Guide Guilds & Servers How to Pick a Server How to Transfer Servers Guild Heraldry The SWTOR Guild Finder Roleplay Servers & Roleplay Guilds (RP Servers) Server Merges How to Create a Great Guild How to Find a Great Guild PvP Valor Guide & Rewards PvP Medals List PvP Gear How to PvP Guide PvP Seasons 9 Guide and Rewards Warzones Alderaan Civil War Warzone PvP Guide Odessen Proving Grounds Warzone PvP Guide Novare Coast Warzone PvP Guide Huttball Warzone PvP Guide Ancient Hypergate Warzone PvP Guide Voidstar Warzone PvP Guide Yavin Ruins Warzone PvP Guide Operations Master Mode Relentless Replication Propagator Core XR-53 Guide Propagator Core XR-53 Guide Swtorista SWTOR live anniversary event! December 20, 2022 R-4 Anomaly Story Mode Guide How to Join Your First Operation Toborro’s Courtyard Through the Groupfinder Guide Karagga’s Palace Operation Guide Eternity Vault Operation Guide
+- Beginner’s Guides Which Class Should I Play? SWTOR Guide Free-to-Play Tips (F2P) How to Play Star Wars: The Old Republic How to Get New Armor Level 70 Commander’s Token Character Creation What is Star Wars: The Old Republic? Playing SWTOR With a Friend Quickbars Guide The Ultimate Guide of Community Guides Choosing a Class! Outfitter Guide Easiest Classes to Play Second Combat Style Guide Combat Styles Guide How to Level Up Fast Tips for New Players Is SWTOR worth returning to in 2026? Is SWTOR worth trying in 2026? Gear Augments Guide What are Tech Fragments for? Tactical Items Guide How to Solo Veteran Mode Red Reaper in Stealth and Bait Earpiece Trick Low-Level Gearing Guide 7.0 Recommended Gear Chart Hyde and Zeek Guide Legendary Implants Fastest Way to Gear Up at Level 80 Fastest Level 80 Solo Gearing Level 80 Gearing Guide Relics Guide Combat Training Dummy Locations How to use StarParse Difficult Fight Tips Basic Class Guides Free-to-play, Preferred, and Subscribing Play as Preferred Tips & Transitioning Tips Do Free-to-Play and Preferred players get less XP? Subscriber Tips Is SWTOR worth subscribing to? How much do the SWTOR Expansions cost? What’s the best way to subscribe to SWTOR? SWTOR’s Free-to-Play compared to other online games Free-to-Play Crystals Low-Level Gearing Guide Free-to-play vs Preferred vs Subscriber Guide Content Guides Bonus Series Quests Dark Side Corruption Dark vs Light Bosses Guide Dark vs Light Token Rewards Guide Dynamic Encounters Guide Eternal Championship Guide Flashpoint Levels Guide Groupfinder Flashpoints How to Earn Dark Side Points How to Earn Light Side Points How to Get Cartel Market Certificates How to Level Slower – White Acute Module Guide How to Make Credits How to Roleplay Guide How to use a SWTOR Security Key & Get 100 free Cartel Coins per month! How to use Discord with SWTOR How to use the GTN Guide Legendary Player Status Guide Social Ranks and Rewards Guide Super Easy Conquest Objectives, Solo Conquest & Crafting Acronyms Character Appearance Guide Chat Guide Companions Guide Conquest Guide Daily Login Reward Guide Dark vs Light Guide Datacrons Guide Date Night Guide Decorations Guide Fast Levelling Checklist Flashpoints & Operations Guide Galactic Seasons Guide and Rewards – Season 9, Flashpoint Resurgence! Galactic Starfighter Guide Guild Perks Guide How to PvP Guide Legacy and Character Unlocks Guide Legacy Guide Low-level Conquest Guide Master’s Datacron Guide Pets Guide Reputation Guide Security Key Guide Solo Story Order Guide Space Missions Guide Stronghold Guide Twitch Drops Guide Uprisings Guide User Interface Tips and Tricks World Boss Guide Tips for Returning SWTOR Players What can you do with Cartel Market Certificates? What to do at Level 80 Reputation Guides Dantooine Spring Abundance Festival Event Guide G.A.M.E. Reputation Guide Gree Event Guide Kuat Drive Yards Reputation Guide Life Day Event Guide (SWTOR) Messengers of the Cold Moon Reputation Guide Onderon Daily and Reputation Guide Rakghoul Event Guide Black Hole Daily Guide Bounty Contract Event Guide CZ-198 Reputation and Daily Area Guide Dantooine Biome Dynamic Encounters Guide Dantooine Pirate Incursion Event Guide Feast of Prosperity Event Guide GSI Reputation Guide Iokath Daily Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Makeb Reputation and Daily Area Guide Manaan Daily Area Guide Nar Shaddaa Nightlife Event Guide Orbital Core Quest Guide Oricon Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Rishi Reputation and Daily Area Guide Ruhnuk Daily Guide Section X Reputation and Daily Area Guide Space Missions Guide Swoop Event Guide Voss Daily Guide Yavin 4 Reputation and Daily Area Guide Ziost Reputation and Daily Area Guide The Master’s Top Secret Army Reputation and Dark Spores Guide The Shadow Syndicate Reputation & Underworld Syndicate Plans Underworld Exchange Reputation Voss Interpreter’s Retreat Armor Wreckage on Dantooine Quest Guide Event Guides Bounty Contract Event Guide Double XP Event Guide Dantooine Pirate Incursion Event Guide Gree Event Guide Gree Event PvP Achievements Guide Swoop Event Guide Rakghoul Event Guide Dantooine Spring Abundance Festival Event Guide Nar Shaddaa Nightlife Event Guide Feast of Prosperity Event Guide Anniversary Event Guide & Free Rewards Life Day Event Guide (SWTOR) Flashpoints Assault on Tython Flashpoint Guide Athiss Flashpoint Guide Battle of Ilum Flashpoint Guide Battle of Rishi Flashpoint Guide Black Talon Flashpoint Guide Blood Hunt Flashpoint Guide Boarding Party Flashpoint Guide Cademimu Flashpoint Guide Colicoid War Game Flashpoint Guide Crisis on Umbara Flashpoint Guide Czerka Core Meltdown Flashpoint Guide Czerka Corporate Labs Flashpoint Guide Depths of Manaan Flashpoint Guide Directive 7 Flashpoint Guide Esseles Flashpoint Guide False Emperor Flashpoint Guide Foundry Flashpoint Guide Hammer Station Flashpoint Guide Kaon Under Siege Flashpoint Guide Korriban Incursion Flashpoint Guide Legacy of the Rakata Flashpoint Guide Lost Island Flashpoint Guide Maelstrom Prison Flashpoint Guide Mandalorian Raiders Flashpoint Guide Nathema Conspiracy Flashpoint Guide Objective Meridian Flashpoint Guide Red Reaper Flashpoint Guide Ruins of Nul Flashpoint Guide Secrets of the Enclave Flashpoint Guide Shrine of Silence Voss Flashpoint Guide Spirit of Vengeance Flashpoint Guide Taral V Flashpoint Guide Traitor Among the Chiss Flashpoint Guide Uprisings Landing Party Uprising Guide Firefrost Uprising Guide Fractured Uprising Guide Done and Dusted Uprising Guide Crimson Fang Uprising Guide Destroyer of Worlds Uprising Guide Inferno Uprising Guide Divided We Fall Uprising Guide Trench Runner Uprising Guide Trial and Error Uprising Guide Uprisings Guide Daily Areas Ziost Reputation and Daily Area Guide Yavin 4 Reputation and Daily Area Guide Voss Interpreter’s Retreat Guide Voss Daily Guide Section X Reputation and Daily Area Guide Ruhnuk Daily Guide Rishi Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Oricon Reputation and Daily Area Guide Manaan Daily Area Guide Makeb Reputation and Daily Area Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Iokath Daily Guide CZ-198 Reputation and Daily Area Guide Black Hole Daily Guide Basilisk Prototype Ventures Guide B3-S1 Basilisk Droid Upgrade Track Secrets Interactive Maps Datacrons Lore Objects Beastmaster Achievement Champion Achievements Other Secrets Quests Nar Shaddaa Nightlife Event Quest The Dragon’s Maw Chapter Guide / Chapter 6 KOTET Puzzle Guide How to unlock the Shroud of Memory Chapter Remote Trading Post Guide Lane Vizla + Basilisk Droid Quest Guide Seeker Droid Quest Guide – Weapons of Chaos / Buried Evils Quest List & Guide Alliance Guide – Companion Alerts, Alliance Specialists and Star Fortress Companions Companion Recruitment Guide Companion Gifts Guide Companions List Companion Gifts List and Chart Companion Customizations List Companions Guide Guilds & Servers How to Pick a Server How to Transfer Servers Guild Heraldry The SWTOR Guild Finder Roleplay Servers & Roleplay Guilds (RP Servers) Server Merges How to Create a Great Guild How to Find a Great Guild PvP Valor Guide & Rewards PvP Medals List PvP Gear How to PvP Guide PvP Seasons 9 Guide and Rewards Warzones Alderaan Civil War Warzone PvP Guide Odessen Proving Grounds Warzone PvP Guide Novare Coast Warzone PvP Guide Huttball Warzone PvP Guide Ancient Hypergate Warzone PvP Guide Voidstar Warzone PvP Guide Yavin Ruins Warzone PvP Guide Operations Master Mode Relentless Replication Propagator Core XR-53 Guide Propagator Core XR-53 Guide Swtorista SWTOR live anniversary event! December 20, 2022 R-4 Anomaly Story Mode Guide How to Join Your First Operation Toborro’s Courtyard Through the Groupfinder Guide Karagga’s Palace Operation Guide Eternity Vault Operation Guide
+- Beginner’s Guides Which Class Should I Play? SWTOR Guide Free-to-Play Tips (F2P) How to Play Star Wars: The Old Republic How to Get New Armor Level 70 Commander’s Token Character Creation What is Star Wars: The Old Republic? Playing SWTOR With a Friend Quickbars Guide The Ultimate Guide of Community Guides Choosing a Class! Outfitter Guide Easiest Classes to Play Second Combat Style Guide Combat Styles Guide How to Level Up Fast Tips for New Players Is SWTOR worth returning to in 2026? Is SWTOR worth trying in 2026? Gear Augments Guide What are Tech Fragments for? Tactical Items Guide How to Solo Veteran Mode Red Reaper in Stealth and Bait Earpiece Trick Low-Level Gearing Guide 7.0 Recommended Gear Chart Hyde and Zeek Guide Legendary Implants Fastest Way to Gear Up at Level 80 Fastest Level 80 Solo Gearing Level 80 Gearing Guide Relics Guide Combat Training Dummy Locations How to use StarParse Difficult Fight Tips Basic Class Guides Free-to-play, Preferred, and Subscribing Play as Preferred Tips & Transitioning Tips Do Free-to-Play and Preferred players get less XP? Subscriber Tips Is SWTOR worth subscribing to? How much do the SWTOR Expansions cost? What’s the best way to subscribe to SWTOR? SWTOR’s Free-to-Play compared to other online games Free-to-Play Crystals Low-Level Gearing Guide Free-to-play vs Preferred vs Subscriber Guide
+- Beginner’s Guides Which Class Should I Play? SWTOR Guide Free-to-Play Tips (F2P) How to Play Star Wars: The Old Republic How to Get New Armor Level 70 Commander’s Token Character Creation What is Star Wars: The Old Republic? Playing SWTOR With a Friend Quickbars Guide The Ultimate Guide of Community Guides Choosing a Class! Outfitter Guide Easiest Classes to Play Second Combat Style Guide Combat Styles Guide How to Level Up Fast Tips for New Players Is SWTOR worth returning to in 2026? Is SWTOR worth trying in 2026?
+- Which Class Should I Play? SWTOR Guide
+- Free-to-Play Tips (F2P)
+- How to Play Star Wars: The Old Republic
+- How to Get New Armor
+- Level 70 Commander’s Token Character Creation
+- What is Star Wars: The Old Republic?
+- Playing SWTOR With a Friend
+- Quickbars Guide
+- The Ultimate Guide of Community Guides
+- Choosing a Class!
+- Outfitter Guide
+- Easiest Classes to Play
+- Second Combat Style Guide
+- Combat Styles Guide
+- How to Level Up Fast
+- Tips for New Players
+- Is SWTOR worth returning to in 2026?
+- Is SWTOR worth trying in 2026?
+- Gear Augments Guide What are Tech Fragments for? Tactical Items Guide How to Solo Veteran Mode Red Reaper in Stealth and Bait Earpiece Trick Low-Level Gearing Guide 7.0 Recommended Gear Chart Hyde and Zeek Guide Legendary Implants Fastest Way to Gear Up at Level 80 Fastest Level 80 Solo Gearing Level 80 Gearing Guide Relics Guide
+- Augments Guide
+- What are Tech Fragments for?
+- Tactical Items Guide
+- How to Solo Veteran Mode Red Reaper in Stealth and Bait Earpiece Trick
+- Low-Level Gearing Guide
+- 7.0 Recommended Gear Chart
+- Hyde and Zeek Guide
+- Legendary Implants
+- Fastest Way to Gear Up at Level 80
+- Fastest Level 80 Solo Gearing
+- Level 80 Gearing Guide
+- Relics Guide
+- Combat Training Dummy Locations How to use StarParse Difficult Fight Tips Basic Class Guides
+- Training Dummy Locations
+- How to use StarParse
+- Difficult Fight Tips
+- Basic Class Guides
+- Free-to-play, Preferred, and Subscribing Play as Preferred Tips & Transitioning Tips Do Free-to-Play and Preferred players get less XP? Subscriber Tips Is SWTOR worth subscribing to? How much do the SWTOR Expansions cost? What’s the best way to subscribe to SWTOR? SWTOR’s Free-to-Play compared to other online games Free-to-Play Crystals Low-Level Gearing Guide Free-to-play vs Preferred vs Subscriber Guide
+- Play as Preferred Tips & Transitioning Tips
+- Do Free-to-Play and Preferred players get less XP?
+- Subscriber Tips
+- Is SWTOR worth subscribing to?
+- How much do the SWTOR Expansions cost?
+- What’s the best way to subscribe to SWTOR?
+- SWTOR’s Free-to-Play compared to other online games
+- Free-to-Play Crystals
+- Low-Level Gearing Guide
+- Free-to-play vs Preferred vs Subscriber Guide
+- Content Guides Bonus Series Quests Dark Side Corruption Dark vs Light Bosses Guide Dark vs Light Token Rewards Guide Dynamic Encounters Guide Eternal Championship Guide Flashpoint Levels Guide Groupfinder Flashpoints How to Earn Dark Side Points How to Earn Light Side Points How to Get Cartel Market Certificates How to Level Slower – White Acute Module Guide How to Make Credits How to Roleplay Guide How to use a SWTOR Security Key & Get 100 free Cartel Coins per month! How to use Discord with SWTOR How to use the GTN Guide Legendary Player Status Guide Social Ranks and Rewards Guide Super Easy Conquest Objectives, Solo Conquest & Crafting Acronyms Character Appearance Guide Chat Guide Companions Guide Conquest Guide Daily Login Reward Guide Dark vs Light Guide Datacrons Guide Date Night Guide Decorations Guide Fast Levelling Checklist Flashpoints & Operations Guide Galactic Seasons Guide and Rewards – Season 9, Flashpoint Resurgence! Galactic Starfighter Guide Guild Perks Guide How to PvP Guide Legacy and Character Unlocks Guide Legacy Guide Low-level Conquest Guide Master’s Datacron Guide Pets Guide Reputation Guide Security Key Guide Solo Story Order Guide Space Missions Guide Stronghold Guide Twitch Drops Guide Uprisings Guide User Interface Tips and Tricks World Boss Guide Tips for Returning SWTOR Players What can you do with Cartel Market Certificates? What to do at Level 80
+- Content Guides Bonus Series Quests Dark Side Corruption Dark vs Light Bosses Guide Dark vs Light Token Rewards Guide Dynamic Encounters Guide Eternal Championship Guide Flashpoint Levels Guide Groupfinder Flashpoints How to Earn Dark Side Points How to Earn Light Side Points How to Get Cartel Market Certificates How to Level Slower – White Acute Module Guide How to Make Credits How to Roleplay Guide How to use a SWTOR Security Key & Get 100 free Cartel Coins per month! How to use Discord with SWTOR How to use the GTN Guide Legendary Player Status Guide Social Ranks and Rewards Guide Super Easy Conquest Objectives, Solo Conquest & Crafting Acronyms Character Appearance Guide Chat Guide Companions Guide Conquest Guide Daily Login Reward Guide Dark vs Light Guide Datacrons Guide Date Night Guide Decorations Guide Fast Levelling Checklist Flashpoints & Operations Guide Galactic Seasons Guide and Rewards – Season 9, Flashpoint Resurgence! Galactic Starfighter Guide Guild Perks Guide How to PvP Guide Legacy and Character Unlocks Guide Legacy Guide Low-level Conquest Guide Master’s Datacron Guide Pets Guide Reputation Guide Security Key Guide Solo Story Order Guide Space Missions Guide Stronghold Guide Twitch Drops Guide Uprisings Guide User Interface Tips and Tricks World Boss Guide Tips for Returning SWTOR Players What can you do with Cartel Market Certificates? What to do at Level 80
+- Bonus Series Quests
+- Dark Side Corruption
+- Dark vs Light Bosses Guide
+- Dark vs Light Token Rewards Guide
+- Dynamic Encounters Guide
+- Eternal Championship Guide
+- Flashpoint Levels Guide
+- Groupfinder Flashpoints
+- How to Earn Dark Side Points
+- How to Earn Light Side Points
+- How to Get Cartel Market Certificates
+- How to Level Slower – White Acute Module Guide
+- How to Make Credits
+- How to Roleplay Guide
+- How to use a SWTOR Security Key & Get 100 free Cartel Coins per month!
+- How to use Discord with SWTOR
+- How to use the GTN Guide
+- Legendary Player Status Guide
+- Social Ranks and Rewards Guide
+- Super Easy Conquest Objectives, Solo Conquest & Crafting
+- Acronyms
+- Character Appearance Guide
+- Chat Guide
+- Companions Guide
+- Conquest Guide
+- Daily Login Reward Guide
+- Dark vs Light Guide
+- Datacrons Guide
+- Date Night Guide
+- Decorations Guide
+- Fast Levelling Checklist
+- Flashpoints & Operations Guide
+- Galactic Seasons Guide and Rewards – Season 9, Flashpoint Resurgence!
+- Galactic Starfighter Guide
+- Guild Perks Guide
+- How to PvP Guide
+- Legacy and Character Unlocks Guide
+- Legacy Guide
+- Low-level Conquest Guide
+- Master’s Datacron Guide
+- Pets Guide
+- Reputation Guide
+- Security Key Guide
+- Solo Story Order Guide
+- Space Missions Guide
+- Stronghold Guide
+- Twitch Drops Guide
+- Uprisings Guide
+- User Interface Tips and Tricks
+- World Boss Guide
+- Tips for Returning SWTOR Players
+- What can you do with Cartel Market Certificates?
+- What to do at Level 80
+- Reputation Guides Dantooine Spring Abundance Festival Event Guide G.A.M.E. Reputation Guide Gree Event Guide Kuat Drive Yards Reputation Guide Life Day Event Guide (SWTOR) Messengers of the Cold Moon Reputation Guide Onderon Daily and Reputation Guide Rakghoul Event Guide Black Hole Daily Guide Bounty Contract Event Guide CZ-198 Reputation and Daily Area Guide Dantooine Biome Dynamic Encounters Guide Dantooine Pirate Incursion Event Guide Feast of Prosperity Event Guide GSI Reputation Guide Iokath Daily Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Makeb Reputation and Daily Area Guide Manaan Daily Area Guide Nar Shaddaa Nightlife Event Guide Orbital Core Quest Guide Oricon Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Rishi Reputation and Daily Area Guide Ruhnuk Daily Guide Section X Reputation and Daily Area Guide Space Missions Guide Swoop Event Guide Voss Daily Guide Yavin 4 Reputation and Daily Area Guide Ziost Reputation and Daily Area Guide The Master’s Top Secret Army Reputation and Dark Spores Guide The Shadow Syndicate Reputation & Underworld Syndicate Plans Underworld Exchange Reputation Voss Interpreter’s Retreat Armor Wreckage on Dantooine Quest Guide Event Guides Bounty Contract Event Guide Double XP Event Guide Dantooine Pirate Incursion Event Guide Gree Event Guide Gree Event PvP Achievements Guide Swoop Event Guide Rakghoul Event Guide Dantooine Spring Abundance Festival Event Guide Nar Shaddaa Nightlife Event Guide Feast of Prosperity Event Guide Anniversary Event Guide & Free Rewards Life Day Event Guide (SWTOR)
+- Reputation Guides Dantooine Spring Abundance Festival Event Guide G.A.M.E. Reputation Guide Gree Event Guide Kuat Drive Yards Reputation Guide Life Day Event Guide (SWTOR) Messengers of the Cold Moon Reputation Guide Onderon Daily and Reputation Guide Rakghoul Event Guide Black Hole Daily Guide Bounty Contract Event Guide CZ-198 Reputation and Daily Area Guide Dantooine Biome Dynamic Encounters Guide Dantooine Pirate Incursion Event Guide Feast of Prosperity Event Guide GSI Reputation Guide Iokath Daily Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Makeb Reputation and Daily Area Guide Manaan Daily Area Guide Nar Shaddaa Nightlife Event Guide Orbital Core Quest Guide Oricon Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Rishi Reputation and Daily Area Guide Ruhnuk Daily Guide Section X Reputation and Daily Area Guide Space Missions Guide Swoop Event Guide Voss Daily Guide Yavin 4 Reputation and Daily Area Guide Ziost Reputation and Daily Area Guide The Master’s Top Secret Army Reputation and Dark Spores Guide The Shadow Syndicate Reputation & Underworld Syndicate Plans Underworld Exchange Reputation Voss Interpreter’s Retreat Armor Wreckage on Dantooine Quest Guide
+- Dantooine Spring Abundance Festival Event Guide
+- G.A.M.E. Reputation Guide
+- Gree Event Guide
+- Kuat Drive Yards Reputation Guide
+- Life Day Event Guide (SWTOR)
+- Messengers of the Cold Moon Reputation Guide
+- Onderon Daily and Reputation Guide
+- Rakghoul Event Guide
+- Black Hole Daily Guide
+- Bounty Contract Event Guide
+- CZ-198 Reputation and Daily Area Guide
+- Dantooine Biome Dynamic Encounters Guide
+- Dantooine Pirate Incursion Event Guide
+- Feast of Prosperity Event Guide
+- GSI Reputation Guide
+- Iokath Daily Guide
+- Kessan’s Landing Daily Area and Ord Mantell Reputation Guide
+- Makeb Reputation and Daily Area Guide
+- Manaan Daily Area Guide
+- Nar Shaddaa Nightlife Event Guide
+- Orbital Core Quest Guide
+- Oricon Reputation and Daily Area Guide
+- Ossus Reputation and Daily Area Guide
+- Rishi Reputation and Daily Area Guide
+- Ruhnuk Daily Guide
+- Section X Reputation and Daily Area Guide
+- Space Missions Guide
+- Swoop Event Guide
+- Voss Daily Guide
+- Yavin 4 Reputation and Daily Area Guide
+- Ziost Reputation and Daily Area Guide
+- The Master’s Top Secret Army Reputation and Dark Spores Guide
+- The Shadow Syndicate Reputation & Underworld Syndicate Plans
+- Underworld Exchange Reputation
+- Voss Interpreter’s Retreat Armor
+- Wreckage on Dantooine Quest Guide
+- Event Guides Bounty Contract Event Guide Double XP Event Guide Dantooine Pirate Incursion Event Guide Gree Event Guide Gree Event PvP Achievements Guide Swoop Event Guide Rakghoul Event Guide Dantooine Spring Abundance Festival Event Guide Nar Shaddaa Nightlife Event Guide Feast of Prosperity Event Guide Anniversary Event Guide & Free Rewards Life Day Event Guide (SWTOR)
+- Bounty Contract Event Guide
+- Double XP Event Guide
+- Dantooine Pirate Incursion Event Guide
+- Gree Event Guide
+- Gree Event PvP Achievements Guide
+- Swoop Event Guide
+- Rakghoul Event Guide
+- Dantooine Spring Abundance Festival Event Guide
+- Nar Shaddaa Nightlife Event Guide
+- Feast of Prosperity Event Guide
+- Anniversary Event Guide & Free Rewards
+- Life Day Event Guide (SWTOR)
+- Flashpoints Assault on Tython Flashpoint Guide Athiss Flashpoint Guide Battle of Ilum Flashpoint Guide Battle of Rishi Flashpoint Guide Black Talon Flashpoint Guide Blood Hunt Flashpoint Guide Boarding Party Flashpoint Guide Cademimu Flashpoint Guide Colicoid War Game Flashpoint Guide Crisis on Umbara Flashpoint Guide Czerka Core Meltdown Flashpoint Guide Czerka Corporate Labs Flashpoint Guide Depths of Manaan Flashpoint Guide Directive 7 Flashpoint Guide Esseles Flashpoint Guide False Emperor Flashpoint Guide Foundry Flashpoint Guide Hammer Station Flashpoint Guide Kaon Under Siege Flashpoint Guide Korriban Incursion Flashpoint Guide Legacy of the Rakata Flashpoint Guide Lost Island Flashpoint Guide Maelstrom Prison Flashpoint Guide Mandalorian Raiders Flashpoint Guide Nathema Conspiracy Flashpoint Guide Objective Meridian Flashpoint Guide Red Reaper Flashpoint Guide Ruins of Nul Flashpoint Guide Secrets of the Enclave Flashpoint Guide Shrine of Silence Voss Flashpoint Guide Spirit of Vengeance Flashpoint Guide Taral V Flashpoint Guide Traitor Among the Chiss Flashpoint Guide Uprisings Landing Party Uprising Guide Firefrost Uprising Guide Fractured Uprising Guide Done and Dusted Uprising Guide Crimson Fang Uprising Guide Destroyer of Worlds Uprising Guide Inferno Uprising Guide Divided We Fall Uprising Guide Trench Runner Uprising Guide Trial and Error Uprising Guide Uprisings Guide
+- Flashpoints Assault on Tython Flashpoint Guide Athiss Flashpoint Guide Battle of Ilum Flashpoint Guide Battle of Rishi Flashpoint Guide Black Talon Flashpoint Guide Blood Hunt Flashpoint Guide Boarding Party Flashpoint Guide Cademimu Flashpoint Guide Colicoid War Game Flashpoint Guide Crisis on Umbara Flashpoint Guide Czerka Core Meltdown Flashpoint Guide Czerka Corporate Labs Flashpoint Guide Depths of Manaan Flashpoint Guide Directive 7 Flashpoint Guide Esseles Flashpoint Guide False Emperor Flashpoint Guide Foundry Flashpoint Guide Hammer Station Flashpoint Guide Kaon Under Siege Flashpoint Guide Korriban Incursion Flashpoint Guide Legacy of the Rakata Flashpoint Guide Lost Island Flashpoint Guide Maelstrom Prison Flashpoint Guide Mandalorian Raiders Flashpoint Guide Nathema Conspiracy Flashpoint Guide Objective Meridian Flashpoint Guide Red Reaper Flashpoint Guide Ruins of Nul Flashpoint Guide Secrets of the Enclave Flashpoint Guide Shrine of Silence Voss Flashpoint Guide Spirit of Vengeance Flashpoint Guide Taral V Flashpoint Guide Traitor Among the Chiss Flashpoint Guide
+- Assault on Tython Flashpoint Guide
+- Athiss Flashpoint Guide
+- Battle of Ilum Flashpoint Guide
+- Battle of Rishi Flashpoint Guide
+- Black Talon Flashpoint Guide
+- Blood Hunt Flashpoint Guide
+- Boarding Party Flashpoint Guide
+- Cademimu Flashpoint Guide
+- Colicoid War Game Flashpoint Guide
+- Crisis on Umbara Flashpoint Guide
+- Czerka Core Meltdown Flashpoint Guide
+- Czerka Corporate Labs Flashpoint Guide
+- Depths of Manaan Flashpoint Guide
+- Directive 7 Flashpoint Guide
+- Esseles Flashpoint Guide
+- False Emperor Flashpoint Guide
+- Foundry Flashpoint Guide
+- Hammer Station Flashpoint Guide
+- Kaon Under Siege Flashpoint Guide
+- Korriban Incursion Flashpoint Guide
+- Legacy of the Rakata Flashpoint Guide
+- Lost Island Flashpoint Guide
+- Maelstrom Prison Flashpoint Guide
+- Mandalorian Raiders Flashpoint Guide
+- Nathema Conspiracy Flashpoint Guide
+- Objective Meridian Flashpoint Guide
+- Red Reaper Flashpoint Guide
+- Ruins of Nul Flashpoint Guide
+- Secrets of the Enclave Flashpoint Guide
+- Shrine of Silence Voss Flashpoint Guide
+- Spirit of Vengeance Flashpoint Guide
+- Taral V Flashpoint Guide
+- Traitor Among the Chiss Flashpoint Guide
+- Uprisings Landing Party Uprising Guide Firefrost Uprising Guide Fractured Uprising Guide Done and Dusted Uprising Guide Crimson Fang Uprising Guide Destroyer of Worlds Uprising Guide Inferno Uprising Guide Divided We Fall Uprising Guide Trench Runner Uprising Guide Trial and Error Uprising Guide Uprisings Guide
+- Landing Party Uprising Guide
+- Firefrost Uprising Guide
+- Fractured Uprising Guide
+- Done and Dusted Uprising Guide
+- Crimson Fang Uprising Guide
+- Destroyer of Worlds Uprising Guide
+- Inferno Uprising Guide
+- Divided We Fall Uprising Guide
+- Trench Runner Uprising Guide
+- Trial and Error Uprising Guide
+- Uprisings Guide
+- Daily Areas Ziost Reputation and Daily Area Guide Yavin 4 Reputation and Daily Area Guide Voss Interpreter’s Retreat Guide Voss Daily Guide Section X Reputation and Daily Area Guide Ruhnuk Daily Guide Rishi Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Oricon Reputation and Daily Area Guide Manaan Daily Area Guide Makeb Reputation and Daily Area Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Iokath Daily Guide CZ-198 Reputation and Daily Area Guide Black Hole Daily Guide Basilisk Prototype Ventures Guide B3-S1 Basilisk Droid Upgrade Track Secrets Interactive Maps Datacrons Lore Objects Beastmaster Achievement Champion Achievements Other Secrets Quests Nar Shaddaa Nightlife Event Quest The Dragon’s Maw Chapter Guide / Chapter 6 KOTET Puzzle Guide How to unlock the Shroud of Memory Chapter Remote Trading Post Guide Lane Vizla + Basilisk Droid Quest Guide Seeker Droid Quest Guide – Weapons of Chaos / Buried Evils Quest List & Guide Alliance Guide – Companion Alerts, Alliance Specialists and Star Fortress
+- Daily Areas Ziost Reputation and Daily Area Guide Yavin 4 Reputation and Daily Area Guide Voss Interpreter’s Retreat Guide Voss Daily Guide Section X Reputation and Daily Area Guide Ruhnuk Daily Guide Rishi Reputation and Daily Area Guide Ossus Reputation and Daily Area Guide Oricon Reputation and Daily Area Guide Manaan Daily Area Guide Makeb Reputation and Daily Area Guide Kessan’s Landing Daily Area and Ord Mantell Reputation Guide Iokath Daily Guide CZ-198 Reputation and Daily Area Guide Black Hole Daily Guide Basilisk Prototype Ventures Guide B3-S1 Basilisk Droid Upgrade Track
+- Ziost Reputation and Daily Area Guide
+- Yavin 4 Reputation and Daily Area Guide
+- Voss Interpreter’s Retreat Guide
+- Voss Daily Guide
+- Section X Reputation and Daily Area Guide
+- Ruhnuk Daily Guide
+- Rishi Reputation and Daily Area Guide
+- Ossus Reputation and Daily Area Guide
+- Oricon Reputation and Daily Area Guide
+- Manaan Daily Area Guide
+- Makeb Reputation and Daily Area Guide
+- Kessan’s Landing Daily Area and Ord Mantell Reputation Guide
+- Iokath Daily Guide
+- CZ-198 Reputation and Daily Area Guide
+- Black Hole Daily Guide
+- Basilisk Prototype Ventures Guide
+- B3-S1 Basilisk Droid Upgrade Track
+- Secrets Interactive Maps Datacrons Lore Objects Beastmaster Achievement Champion Achievements Other Secrets
+- Interactive Maps
+- Datacrons
+- Lore Objects
+- Beastmaster Achievement
+- Champion Achievements
+- Other Secrets
+- Quests Nar Shaddaa Nightlife Event Quest The Dragon’s Maw Chapter Guide / Chapter 6 KOTET Puzzle Guide How to unlock the Shroud of Memory Chapter Remote Trading Post Guide Lane Vizla + Basilisk Droid Quest Guide Seeker Droid Quest Guide – Weapons of Chaos / Buried Evils Quest List & Guide Alliance Guide – Companion Alerts, Alliance Specialists and Star Fortress
+- Nar Shaddaa Nightlife Event Quest
+- The Dragon’s Maw Chapter Guide / Chapter 6 KOTET Puzzle Guide
+- How to unlock the Shroud of Memory Chapter
+- Remote Trading Post Guide
+- Lane Vizla + Basilisk Droid Quest Guide
+- Seeker Droid Quest Guide – Weapons of Chaos / Buried Evils
+- Quest List & Guide
+- Alliance Guide – Companion Alerts, Alliance Specialists and Star Fortress
+- Companions Companion Recruitment Guide Companion Gifts Guide Companions List Companion Gifts List and Chart Companion Customizations List Companions Guide Guilds & Servers How to Pick a Server How to Transfer Servers Guild Heraldry The SWTOR Guild Finder Roleplay Servers & Roleplay Guilds (RP Servers) Server Merges How to Create a Great Guild How to Find a Great Guild PvP Valor Guide & Rewards PvP Medals List PvP Gear How to PvP Guide PvP Seasons 9 Guide and Rewards Warzones Alderaan Civil War Warzone PvP Guide Odessen Proving Grounds Warzone PvP Guide Novare Coast Warzone PvP Guide Huttball Warzone PvP Guide Ancient Hypergate Warzone PvP Guide Voidstar Warzone PvP Guide Yavin Ruins Warzone PvP Guide Operations Master Mode Relentless Replication Propagator Core XR-53 Guide Propagator Core XR-53 Guide Swtorista SWTOR live anniversary event! December 20, 2022 R-4 Anomaly Story Mode Guide How to Join Your First Operation Toborro’s Courtyard Through the Groupfinder Guide Karagga’s Palace Operation Guide Eternity Vault Operation Guide
+- Companions Companion Recruitment Guide Companion Gifts Guide Companions List Companion Gifts List and Chart Companion Customizations List Companions Guide
+- Companion Recruitment Guide
+- Companion Gifts Guide
+- Companions List
+- Companion Gifts List and Chart
+- Companion Customizations List
+- Companions Guide
+- Guilds & Servers How to Pick a Server How to Transfer Servers Guild Heraldry The SWTOR Guild Finder Roleplay Servers & Roleplay Guilds (RP Servers) Server Merges How to Create a Great Guild How to Find a Great Guild
+- How to Pick a Server
+- How to Transfer Servers
+- Guild Heraldry
+- The SWTOR Guild Finder
+- Roleplay Servers & Roleplay Guilds (RP Servers)
+- Server Merges
+- How to Create a Great Guild
+- How to Find a Great Guild
+- PvP Valor Guide & Rewards PvP Medals List PvP Gear How to PvP Guide PvP Seasons 9 Guide and Rewards
+- Valor Guide & Rewards
+- PvP Medals List
+- PvP Gear
+- How to PvP Guide
+- PvP Seasons 9 Guide and Rewards
+- Warzones Alderaan Civil War Warzone PvP Guide Odessen Proving Grounds Warzone PvP Guide Novare Coast Warzone PvP Guide Huttball Warzone PvP Guide Ancient Hypergate Warzone PvP Guide Voidstar Warzone PvP Guide Yavin Ruins Warzone PvP Guide
+- Alderaan Civil War Warzone PvP Guide
+- Odessen Proving Grounds Warzone PvP Guide
+- Novare Coast Warzone PvP Guide
+- Huttball Warzone PvP Guide
+- Ancient Hypergate Warzone PvP Guide
+- Voidstar Warzone PvP Guide
+- Yavin Ruins Warzone PvP Guide
+- Operations Master Mode Relentless Replication Propagator Core XR-53 Guide Propagator Core XR-53 Guide Swtorista SWTOR live anniversary event! December 20, 2022 R-4 Anomaly Story Mode Guide How to Join Your First Operation Toborro’s Courtyard Through the Groupfinder Guide Karagga’s Palace Operation Guide Eternity Vault Operation Guide
+- Master Mode Relentless Replication Propagator Core XR-53 Guide
+- Propagator Core XR-53 Guide
+- Swtorista SWTOR live anniversary event! December 20, 2022
+- R-4 Anomaly Story Mode Guide
+- How to Join Your First Operation
+- Toborro’s Courtyard Through the Groupfinder Guide
+- Karagga’s Palace Operation Guide
+- Eternity Vault Operation Guide
+- Beginner Choose a Class Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Choose a Species Mirialan Rattataki Pureblood Miraluka Human Zabrak Twi'lek Cyborg Chiss Cathar Togruta Nautolan Explore How to Play Which class? Tips Story Gear Class Guides Outfitter Flashpoints Companions GTN Credits Speeder Quests Crafting Beginner Guides What is Star Wars: The Old Republic? Is SWTOR worth playing? How to Play SWTOR Tips for New Players How to Choose a Class Which Class Should I Play? Easiest Classes to Play How to Choose a Species Story Order Guide Free-to-Play Tips Basic Class Guides Low-Level Gear Guide Companion Guide How to Craft Guide Flashpoints Guide PvP Guide Find a Guild Accessibility Guides
+- Choose a Class Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Choose a Species Mirialan Rattataki Pureblood Miraluka Human Zabrak Twi'lek Cyborg Chiss Cathar Togruta Nautolan Explore How to Play Which class? Tips Story Gear Class Guides Outfitter Flashpoints Companions GTN Credits Speeder Quests Crafting Beginner Guides What is Star Wars: The Old Republic? Is SWTOR worth playing? How to Play SWTOR Tips for New Players How to Choose a Class Which Class Should I Play? Easiest Classes to Play How to Choose a Species Story Order Guide Free-to-Play Tips Basic Class Guides Low-Level Gear Guide Companion Guide How to Craft Guide Flashpoints Guide PvP Guide Find a Guild Accessibility Guides
+- Choose a Class Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Choose a Species Mirialan Rattataki Pureblood Miraluka Human Zabrak Twi'lek Cyborg Chiss Cathar Togruta Nautolan
+- Choose a Class Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent
+- Jedi Knight
+- Jedi Consular
+- Trooper
+- Smuggler
+- Sith Warrior
+- Sith Inquisitor
+- Bounty Hunter
+- Imperial Agent
+- Choose a Species Mirialan Rattataki Pureblood Miraluka Human Zabrak Twi'lek Cyborg Chiss Cathar Togruta Nautolan
+- Mirialan
+- Rattataki
+- Pureblood
+- Miraluka
+- Human
+- Zabrak
+- Twi'lek
+- Cyborg
+- Chiss
+- Cathar
+- Togruta
+- Nautolan
+- Explore How to Play Which class? Tips Story Gear Class Guides Outfitter Flashpoints Companions GTN Credits Speeder Quests Crafting
+- Explore How to Play Which class? Tips Story Gear Class Guides Outfitter Flashpoints Companions GTN Credits Speeder Quests Crafting
+- How to Play
+- Which class?
+- Tips
+- Story
+- Gear
+- Class Guides
+- Outfitter
+- Flashpoints
+- Companions
+- GTN
+- Credits
+- Speeder
+- Quests
+- Crafting
+- Beginner Guides What is Star Wars: The Old Republic? Is SWTOR worth playing? How to Play SWTOR Tips for New Players How to Choose a Class Which Class Should I Play? Easiest Classes to Play How to Choose a Species Story Order Guide Free-to-Play Tips Basic Class Guides Low-Level Gear Guide Companion Guide How to Craft Guide Flashpoints Guide PvP Guide Find a Guild Accessibility Guides
+- Beginner Guides What is Star Wars: The Old Republic? Is SWTOR worth playing? How to Play SWTOR Tips for New Players How to Choose a Class Which Class Should I Play? Easiest Classes to Play How to Choose a Species Story Order Guide Free-to-Play Tips Basic Class Guides Low-Level Gear Guide Companion Guide How to Craft Guide Flashpoints Guide PvP Guide Find a Guild Accessibility Guides
+- What is Star Wars: The Old Republic?
+- Is SWTOR worth playing?
+- How to Play SWTOR
+- Tips for New Players
+- How to Choose a Class
+- Which Class Should I Play?
+- Easiest Classes to Play
+- How to Choose a Species
+- Story Order Guide
+- Free-to-Play Tips
+- Basic Class Guides
+- Low-Level Gear Guide
+- Companion Guide
+- How to Craft Guide
+- Flashpoints Guide
+- PvP Guide
+- Find a Guild
+- Accessibility Guides
+- Level 80 What to do at Level 80 What to do at Level 80 Gear at Level 80 Learn to Play Your Class Story Reputation Events Flashpoints Operations Galactic Seasons Conquest PvP Galactic Starfighter World Bosses Craft Earn Credits Find a Guild Exploring Datacrons Strongholds Eternal Championship Fashion Dynamic Encounters Biomes Basilisk Gearing Level 80 Gearing Guide Fastest Level 80 Solo Gearing Fastest Way to Gear Up at Level 80 Legendary Implants Guide Relics Guide Augments Guide
+- What to do at Level 80 What to do at Level 80 Gear at Level 80 Learn to Play Your Class Story Reputation Events Flashpoints Operations Galactic Seasons Conquest PvP Galactic Starfighter World Bosses Craft Earn Credits Find a Guild Exploring Datacrons Strongholds Eternal Championship Fashion Dynamic Encounters Biomes Basilisk Gearing Level 80 Gearing Guide Fastest Level 80 Solo Gearing Fastest Way to Gear Up at Level 80 Legendary Implants Guide Relics Guide Augments Guide
+- What to do at Level 80 What to do at Level 80 Gear at Level 80 Learn to Play Your Class Story Reputation Events Flashpoints Operations Galactic Seasons Conquest PvP Galactic Starfighter World Bosses Craft Earn Credits Find a Guild Exploring Datacrons Strongholds Eternal Championship Fashion Dynamic Encounters Biomes Basilisk
+- What to do at Level 80 What to do at Level 80 Gear at Level 80 Learn to Play Your Class Story Reputation Events Flashpoints Operations Galactic Seasons Conquest PvP Galactic Starfighter World Bosses Craft Earn Credits Find a Guild Exploring Datacrons Strongholds Eternal Championship Fashion Dynamic Encounters Biomes Basilisk
+- What to do at Level 80
+- Gear at Level 80
+- Learn to Play Your Class
+- Story
+- Reputation
+- Events
+- Flashpoints
+- Operations
+- Galactic Seasons
+- Conquest
+- PvP
+- Galactic Starfighter
+- World Bosses
+- Craft
+- Earn Credits
+- Find a Guild
+- Exploring
+- Datacrons
+- Strongholds
+- Eternal Championship
+- Fashion
+- Dynamic Encounters
+- Biomes
+- Basilisk
+- Gearing Level 80 Gearing Guide Fastest Level 80 Solo Gearing Fastest Way to Gear Up at Level 80 Legendary Implants Guide Relics Guide Augments Guide
+- Gearing Level 80 Gearing Guide Fastest Level 80 Solo Gearing Fastest Way to Gear Up at Level 80 Legendary Implants Guide Relics Guide Augments Guide
+- Level 80 Gearing Guide
+- Fastest Level 80 Solo Gearing
+- Fastest Way to Gear Up at Level 80
+- Legendary Implants Guide
+- Relics Guide
+- Augments Guide
+- Classes Choose a Class Choose a Class Easiest Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Basic Class Guides Guardian Defense Vigilance Focus Juggernaut Immortal Vengeance Rage Sentinel Watchman Combat Concentration Marauder Annihilation Carnage Fury Sage Telekinetics Balance Seer Sorcerer Lightning Madness Corruption Shadow Kinetic Combat Infiltration Serenity Assassin Darkness Deception Hatred Commando Combat Medic Gunnery Assault Specialist Mercenary Bodyguard Arsenal Innovative Ordnance Vanguard Shield Specialist Plasmatech Tactics Powertech Shield Tech Pyrotech Advanced Prototype Gunslinger Sharpshooter Saboteur Dirty Fighting Sniper Marksmanship Engineering Virulence Scoundrel Sawbones Scrapper Ruffian Operative Medicine Concealment Lethality Force Mirror Abilities Guardian / Juggernaut Defense / Immortal Vigilance / Vengeance Focus / Rage Sentinel / Marauder Watchman / Annihilation Combat / Carnage Concentration / Fury Shadow / Assassin Kinetic Combat / Darkness Infiltration / Deception Serenity / Hatred Sage / Sorcerer Seer / Corruption Telekinetics / Lightning Balance / Madness Tech Mirror Abilities Commando / Mercenary Combat Medic / Bodyguard Gunnery / Arsenal Assault Specialist / Innovative Ordnance Vanguard / Powertech Shield Specialist / Shield Tech Plasmatech / Pyrotech Tactics / Advanced Prototype Gunslinger / Sniper Sharpshooter / Marksmanship Saboteur / Engineering Dirty Fighting / Virulence Scoundrel / Operative Sawbones / Medicine Scrapper / Concealment Ruffian / Lethality
+- Choose a Class Choose a Class Easiest Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Basic Class Guides Guardian Defense Vigilance Focus Juggernaut Immortal Vengeance Rage Sentinel Watchman Combat Concentration Marauder Annihilation Carnage Fury Sage Telekinetics Balance Seer Sorcerer Lightning Madness Corruption Shadow Kinetic Combat Infiltration Serenity Assassin Darkness Deception Hatred Commando Combat Medic Gunnery Assault Specialist Mercenary Bodyguard Arsenal Innovative Ordnance Vanguard Shield Specialist Plasmatech Tactics Powertech Shield Tech Pyrotech Advanced Prototype Gunslinger Sharpshooter Saboteur Dirty Fighting Sniper Marksmanship Engineering Virulence Scoundrel Sawbones Scrapper Ruffian Operative Medicine Concealment Lethality Force Mirror Abilities Guardian / Juggernaut Defense / Immortal Vigilance / Vengeance Focus / Rage Sentinel / Marauder Watchman / Annihilation Combat / Carnage Concentration / Fury Shadow / Assassin Kinetic Combat / Darkness Infiltration / Deception Serenity / Hatred Sage / Sorcerer Seer / Corruption Telekinetics / Lightning Balance / Madness Tech Mirror Abilities Commando / Mercenary Combat Medic / Bodyguard Gunnery / Arsenal Assault Specialist / Innovative Ordnance Vanguard / Powertech Shield Specialist / Shield Tech Plasmatech / Pyrotech Tactics / Advanced Prototype Gunslinger / Sniper Sharpshooter / Marksmanship Saboteur / Engineering Dirty Fighting / Virulence Scoundrel / Operative Sawbones / Medicine Scrapper / Concealment Ruffian / Lethality
+- Choose a Class Choose a Class Easiest Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent
+- Choose a Class Choose a Class Easiest Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent
+- Easiest
+- Jedi Knight
+- Jedi Consular
+- Trooper
+- Smuggler
+- Sith Warrior
+- Sith Inquisitor
+- Bounty Hunter
+- Imperial Agent
+- Basic Class Guides Guardian Defense Vigilance Focus Juggernaut Immortal Vengeance Rage Sentinel Watchman Combat Concentration Marauder Annihilation Carnage Fury Sage Telekinetics Balance Seer Sorcerer Lightning Madness Corruption Shadow Kinetic Combat Infiltration Serenity Assassin Darkness Deception Hatred Commando Combat Medic Gunnery Assault Specialist Mercenary Bodyguard Arsenal Innovative Ordnance Vanguard Shield Specialist Plasmatech Tactics Powertech Shield Tech Pyrotech Advanced Prototype Gunslinger Sharpshooter Saboteur Dirty Fighting Sniper Marksmanship Engineering Virulence Scoundrel Sawbones Scrapper Ruffian Operative Medicine Concealment Lethality
+- Basic Class Guides Guardian Defense Vigilance Focus Juggernaut Immortal Vengeance Rage Sentinel Watchman Combat Concentration Marauder Annihilation Carnage Fury Sage Telekinetics Balance Seer Sorcerer Lightning Madness Corruption Shadow Kinetic Combat Infiltration Serenity Assassin Darkness Deception Hatred Commando Combat Medic Gunnery Assault Specialist Mercenary Bodyguard Arsenal Innovative Ordnance Vanguard Shield Specialist Plasmatech Tactics Powertech Shield Tech Pyrotech Advanced Prototype Gunslinger Sharpshooter Saboteur Dirty Fighting Sniper Marksmanship Engineering Virulence Scoundrel Sawbones Scrapper Ruffian Operative Medicine Concealment Lethality
+- Guardian
+- Defense
+- Vigilance
+- Focus
+- Juggernaut
+- Immortal
+- Vengeance
+- Rage
+- Sentinel
+- Watchman
+- Combat
+- Concentration
+- Marauder
+- Annihilation
+- Carnage
+- Fury
+- Sage
+- Telekinetics
+- Balance
+- Seer
+- Sorcerer
+- Lightning
+- Madness
+- Corruption
+- Shadow
+- Kinetic Combat
+- Infiltration
+- Serenity
+- Assassin
+- Darkness
+- Deception
+- Hatred
+- Commando
+- Combat Medic
+- Gunnery
+- Assault Specialist
+- Mercenary
+- Bodyguard
+- Arsenal
+- Innovative Ordnance
+- Vanguard
+- Shield Specialist
+- Plasmatech
+- Tactics
+- Powertech
+- Shield Tech
+- Pyrotech
+- Advanced Prototype
+- Gunslinger
+- Sharpshooter
+- Saboteur
+- Dirty Fighting
+- Sniper
+- Marksmanship
+- Engineering
+- Virulence
+- Scoundrel
+- Sawbones
+- Scrapper
+- Ruffian
+- Operative
+- Medicine
+- Concealment
+- Lethality
+- Force Mirror Abilities Guardian / Juggernaut Defense / Immortal Vigilance / Vengeance Focus / Rage Sentinel / Marauder Watchman / Annihilation Combat / Carnage Concentration / Fury Shadow / Assassin Kinetic Combat / Darkness Infiltration / Deception Serenity / Hatred Sage / Sorcerer Seer / Corruption Telekinetics / Lightning Balance / Madness
+- Force Mirror Abilities Guardian / Juggernaut Defense / Immortal Vigilance / Vengeance Focus / Rage Sentinel / Marauder Watchman / Annihilation Combat / Carnage Concentration / Fury Shadow / Assassin Kinetic Combat / Darkness Infiltration / Deception Serenity / Hatred Sage / Sorcerer Seer / Corruption Telekinetics / Lightning Balance / Madness
+- Guardian / Juggernaut
+- Defense / Immortal
+- Vigilance / Vengeance
+- Focus / Rage
+- Sentinel / Marauder
+- Watchman / Annihilation
+- Combat / Carnage
+- Concentration / Fury
+- Shadow / Assassin
+- Kinetic Combat / Darkness
+- Infiltration / Deception
+- Serenity / Hatred
+- Sage / Sorcerer
+- Seer / Corruption
+- Telekinetics / Lightning
+- Balance / Madness
+- Tech Mirror Abilities Commando / Mercenary Combat Medic / Bodyguard Gunnery / Arsenal Assault Specialist / Innovative Ordnance Vanguard / Powertech Shield Specialist / Shield Tech Plasmatech / Pyrotech Tactics / Advanced Prototype Gunslinger / Sniper Sharpshooter / Marksmanship Saboteur / Engineering Dirty Fighting / Virulence Scoundrel / Operative Sawbones / Medicine Scrapper / Concealment Ruffian / Lethality
+- Tech Mirror Abilities Commando / Mercenary Combat Medic / Bodyguard Gunnery / Arsenal Assault Specialist / Innovative Ordnance Vanguard / Powertech Shield Specialist / Shield Tech Plasmatech / Pyrotech Tactics / Advanced Prototype Gunslinger / Sniper Sharpshooter / Marksmanship Saboteur / Engineering Dirty Fighting / Virulence Scoundrel / Operative Sawbones / Medicine Scrapper / Concealment Ruffian / Lethality
+- Commando / Mercenary
+- Combat Medic / Bodyguard
+- Gunnery / Arsenal
+- Assault Specialist / Innovative Ordnance
+- Vanguard / Powertech
+- Shield Specialist / Shield Tech
+- Plasmatech / Pyrotech
+- Tactics / Advanced Prototype
+- Gunslinger / Sniper
+- Sharpshooter / Marksmanship
+- Saboteur / Engineering
+- Dirty Fighting / Virulence
+- Scoundrel / Operative
+- Sawbones / Medicine
+- Scrapper / Concealment
+- Ruffian / Lethality
+- Companions Companions Companions Guide Companions List Companion Gifts Guide Companion Gifts List and Chart Companion Romance Guide Companion Recruitment Guide Companion Customizations
+- Companions Companions Guide Companions List Companion Gifts Guide Companion Gifts List and Chart Companion Romance Guide Companion Recruitment Guide Companion Customizations
+- Companions Companions Guide Companions List Companion Gifts Guide Companion Gifts List and Chart Companion Romance Guide Companion Recruitment Guide Companion Customizations
+- Companions Companions Guide Companions List Companion Gifts Guide Companion Gifts List and Chart Companion Romance Guide Companion Recruitment Guide Companion Customizations
+- Companions Guide
+- Companions List
+- Companion Gifts Guide
+- Companion Gifts List and Chart
+- Companion Romance Guide
+- Companion Recruitment Guide
+- Companion Customizations
+- Crafting Crafting Guides How to Craft Choose a Crew Skill Armormech Armstech Artifice Biochem Cybertech Synthweaving Crafting Fast Guides How to Craft Fast Fast Armormech Fast Armstech Fast Artifice Fast Biochem Fast Cybertech Fast Synthweaving Materials Gathering Guide Armormech Materials Armstech Materials Artifice Materials Biochem Materials Cybertech Materials Synthweaving Materials Rare Materials Guide White Materials Guide Jawa Junk Choose a Crew Skill Which crew skill should I choose? Craftable Armors 10 Craftable Sith Armors 10 Craftable Bounty Hunter Armors 10 Craftable Agent Armors 15 Craftable Jedi Robes 10 Street-Smart Craftable Smuggler Armors 10 Awesome Craftable Trooper Armors Craftable Weapons How to Craft a Lightsaber Craftable Blaster Rifles Craftable Blaster Cannons Craftable Blaster Pistols Craftable Sniper Rifles Craftable Double-Bladed Lightsabers Craftable Lightsabers Craftable Items How to Craft Decorations Crafting for Conquest Craftable SWTOR Dyes Craftable Speeders with Cybertech Crafting Skill Craftable Lightsaber Color Crystals Useful Crafted Items Augments Medpacs, Stims and Adrenals All Crafted Armors Synthweaving Crafting Tree Armormech Crafting Tree Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Archived Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Cosmetic Crafted Items Crafted Decorations Crafted Mounts Crafted Dyes Crafted Crystals All Crafted Weapons Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics
+- Crafting Guides How to Craft Choose a Crew Skill Armormech Armstech Artifice Biochem Cybertech Synthweaving Crafting Fast Guides How to Craft Fast Fast Armormech Fast Armstech Fast Artifice Fast Biochem Fast Cybertech Fast Synthweaving Materials Gathering Guide Armormech Materials Armstech Materials Artifice Materials Biochem Materials Cybertech Materials Synthweaving Materials Rare Materials Guide White Materials Guide Jawa Junk Choose a Crew Skill Which crew skill should I choose? Craftable Armors 10 Craftable Sith Armors 10 Craftable Bounty Hunter Armors 10 Craftable Agent Armors 15 Craftable Jedi Robes 10 Street-Smart Craftable Smuggler Armors 10 Awesome Craftable Trooper Armors Craftable Weapons How to Craft a Lightsaber Craftable Blaster Rifles Craftable Blaster Cannons Craftable Blaster Pistols Craftable Sniper Rifles Craftable Double-Bladed Lightsabers Craftable Lightsabers Craftable Items How to Craft Decorations Crafting for Conquest Craftable SWTOR Dyes Craftable Speeders with Cybertech Crafting Skill Craftable Lightsaber Color Crystals Useful Crafted Items Augments Medpacs, Stims and Adrenals All Crafted Armors Synthweaving Crafting Tree Armormech Crafting Tree Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Archived Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Cosmetic Crafted Items Crafted Decorations Crafted Mounts Crafted Dyes Crafted Crystals All Crafted Weapons Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics
+- Crafting Guides How to Craft Choose a Crew Skill Armormech Armstech Artifice Biochem Cybertech Synthweaving
+- Crafting Guides How to Craft Choose a Crew Skill Armormech Armstech Artifice Biochem Cybertech Synthweaving
+- How to Craft
+- Choose a Crew Skill
+- Armormech
+- Armstech
+- Artifice
+- Biochem
+- Cybertech
+- Synthweaving
+- Crafting Fast Guides How to Craft Fast Fast Armormech Fast Armstech Fast Artifice Fast Biochem Fast Cybertech Fast Synthweaving
+- Crafting Fast Guides How to Craft Fast Fast Armormech Fast Armstech Fast Artifice Fast Biochem Fast Cybertech Fast Synthweaving
+- How to Craft Fast
+- Fast Armormech
+- Fast Armstech
+- Fast Artifice
+- Fast Biochem
+- Fast Cybertech
+- Fast Synthweaving
+- Materials Gathering Guide Armormech Materials Armstech Materials Artifice Materials Biochem Materials Cybertech Materials Synthweaving Materials Rare Materials Guide White Materials Guide Jawa Junk
+- Materials Gathering Guide Armormech Materials Armstech Materials Artifice Materials Biochem Materials Cybertech Materials Synthweaving Materials Rare Materials Guide White Materials Guide Jawa Junk
+- Gathering Guide
+- Armormech Materials
+- Armstech Materials
+- Artifice Materials
+- Biochem Materials
+- Cybertech Materials
+- Synthweaving Materials
+- Rare Materials Guide
+- White Materials Guide
+- Jawa Junk
+- Choose a Crew Skill Which crew skill should I choose? Craftable Armors 10 Craftable Sith Armors 10 Craftable Bounty Hunter Armors 10 Craftable Agent Armors 15 Craftable Jedi Robes 10 Street-Smart Craftable Smuggler Armors 10 Awesome Craftable Trooper Armors Craftable Weapons How to Craft a Lightsaber Craftable Blaster Rifles Craftable Blaster Cannons Craftable Blaster Pistols Craftable Sniper Rifles Craftable Double-Bladed Lightsabers Craftable Lightsabers Craftable Items How to Craft Decorations Crafting for Conquest Craftable SWTOR Dyes Craftable Speeders with Cybertech Crafting Skill Craftable Lightsaber Color Crystals
+- Choose a Crew Skill Which crew skill should I choose?
+Which crew skill should I choose?
+- Craftable Armors 10 Craftable Sith Armors 10 Craftable Bounty Hunter Armors 10 Craftable Agent Armors 15 Craftable Jedi Robes 10 Street-Smart Craftable Smuggler Armors 10 Awesome Craftable Trooper Armors
+- 10 Craftable Sith Armors
+- 10 Craftable Bounty Hunter Armors
+- 10 Craftable Agent Armors
+- 15 Craftable Jedi Robes
+- 10 Street-Smart Craftable Smuggler Armors
+- 10 Awesome Craftable Trooper Armors
+- Craftable Weapons How to Craft a Lightsaber Craftable Blaster Rifles Craftable Blaster Cannons Craftable Blaster Pistols Craftable Sniper Rifles Craftable Double-Bladed Lightsabers Craftable Lightsabers
+- How to Craft a Lightsaber
+- Craftable Blaster Rifles
+- Craftable Blaster Cannons
+- Craftable Blaster Pistols
+- Craftable Sniper Rifles
+- Craftable Double-Bladed Lightsabers
+- Craftable Lightsabers
+- Craftable Items How to Craft Decorations Crafting for Conquest Craftable SWTOR Dyes Craftable Speeders with Cybertech Crafting Skill Craftable Lightsaber Color Crystals
+- How to Craft Decorations
+- Crafting for Conquest
+- Craftable SWTOR Dyes
+- Craftable Speeders with Cybertech Crafting Skill
+- Craftable Lightsaber Color Crystals
+- Useful Crafted Items Augments Medpacs, Stims and Adrenals All Crafted Armors Synthweaving Crafting Tree Armormech Crafting Tree Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Archived Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics
+- Useful Crafted Items Augments Medpacs, Stims and Adrenals
+- Augments
+- Medpacs, Stims and Adrenals
+- All Crafted Armors Synthweaving Crafting Tree Armormech Crafting Tree Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Archived Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics
+- Synthweaving Crafting Tree
+- Armormech Crafting Tree
+- Armormech
+- Armormech Trainer
+- Armormech Schematics
+- Armormech Reverse Engineer
+- Armormech Set Bonus Schematics
+- Synthweaving
+- Synthweaving Trainer
+- Synthweaving Schematics
+- Synthweaving Reverse Engineer
+- Synthweaving Set Bonus Schematics
+- Archived
+- Archived Battlemaster Schematics
+- Archived War Hero Schematics
+- Archived Elite War Hero Schematics
+- Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4)
+- Armormech Archived Schematics from Trainer
+- Synthweaving Archived Schematics from Trainer
+- Archived Armormech Rise of the Hutt Cartel Schematics
+- Archived Synthweaving Rise of the Hutt Cartel Schematics
+- Cosmetic Crafted Items Crafted Decorations Crafted Mounts Crafted Dyes Crafted Crystals All Crafted Weapons Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics
+- Cosmetic Crafted Items Crafted Decorations Crafted Mounts Crafted Dyes Crafted Crystals
+- Crafted Decorations
+- Crafted Mounts
+- Crafted Dyes
+- Crafted Crystals
+- All Crafted Weapons Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics
+- Armstech
+- Armstech Trainer
+- Armstech Schematics
+- Armstech Reverse Engineer
+- Artifice
+- Artifice Trainer
+- Artifice Schematics
+- Artifice Reverse Engineer
+- Archived
+- Archived Armstech Trainer
+- Archived Armstech Trainer Special
+- Archived Armstech Trainer Unique
+- Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics
+- Archived Armstech Schematics
+- Archived Armstech Iokath / Gemini Schematics
+- Archived Artifice Trainer
+- Archived Artifice Trainer Unique
+- Archived Artifice Schematics
+- Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics
+- Archived Artifice Iokath / Gemini Schematics
+- Events Events Events Calendar Galactic Seasons PvP Seasons Bounty Event Double XP Event Feast of Prosperity Gree Event Life Day Nightlife Event Pirate Incursion Event Rakghoul Event Spring Abundance Festival Swoop Event
+- Events Events Calendar Galactic Seasons PvP Seasons Bounty Event Double XP Event Feast of Prosperity Gree Event Life Day Nightlife Event Pirate Incursion Event Rakghoul Event Spring Abundance Festival Swoop Event
+- Events Events Calendar Galactic Seasons PvP Seasons Bounty Event Double XP Event Feast of Prosperity Gree Event Life Day Nightlife Event Pirate Incursion Event Rakghoul Event Spring Abundance Festival Swoop Event
+- Events Events Calendar Galactic Seasons PvP Seasons Bounty Event Double XP Event Feast of Prosperity Gree Event Life Day Nightlife Event Pirate Incursion Event Rakghoul Event Spring Abundance Festival Swoop Event
+- Events Calendar
+- Galactic Seasons
+- PvP Seasons
+- Bounty Event
+- Double XP Event
+- Feast of Prosperity
+- Gree Event
+- Life Day
+- Nightlife Event
+- Pirate Incursion Event
+- Rakghoul Event
+- Spring Abundance Festival
+- Swoop Event
+- Maps Interactive Maps Alderaan Interactive Exploration Map Balmorra Interactive Exploration Map Belsavis Interactive Exploration Map Corellia Interactive Exploration Map Coruscant Interactive Exploration Map Dromund Kaas Interactive Exploration Map Hoth Interactive Exploration Map Hutta Interactive Exploration Map Ilum Interactive Exploration Map Korriban Interactive Exploration Map Nar Shaddaa Interactive Exploration Map Ord Mantell Interactive Exploration Map Quesh Interactive Exploration Map Taris Interactive Exploration Map Tatooine Interactive Exploration Map Tython Interactive Exploration Map Voss Interactive Exploration Map Expansion Maps Yavin 4 Interactive Exploration Map Datacrons Dantooine Culinarian Secret Achievement Dantooine Treasure Hunter and D. Suffy’s Note Secret Achievement Dantooine Cipher Secret Achievement Ossus Epic of the Exiled Knight and Dawn of the Exiled Knight Secret Achievement Ossus Cipher Secret Achievement Onderonian Botanist Secret Achievement Guide So Tiny, So Hungry Flirron-Friend Secret Pet Onderon Achievement Guide Nar Shaddaa Nightlife Drop Rates and Percentages Talisman Collector Yavin 4 Secret Achievement Speaker for the Dead Secret Achievement No Sensor Left Behind Secret Achievement Yavin 4 Faction Espionage Secret Achievement Tundra and Mountain Tauntaun Mount Guide Flashpoint Unique Rewards Guide Rare Blue and Purple World Drop Gear Corporate Communications CZ-198 Secret quest and CZ-W4 Observer Pet Guide Mek-Sha Decorations Mission Guide Mek-Sha We’re Wanted Men Quest, The Death Sentence on Twelve Systems Secret Achievement and Honorary Bouncer’s Badge Guide A Killik Home of My Own Secret Achievment and Killik Mound Decoration Guide EXPANSION – Broken Lance Champion Achievement Guide Planet Maps Loremaster Achievement Guide Kessan’s Landing Hidden Achievements Guide Kessan’s Landing Grazer Whisperer Secret Hidden Achievement Kessan’s Landing Geothermal Shielding Guide Kessan’s Landing Ord Mantell Secret Datacron & Lava Problems Quest Guide Secret Alderaan Stronghold Achievement Guide – The Thranta Also Rises Flameshell Mewvorr Secret Voss Interpreter’s Retreat Pet Guide Interpreter’s Retreat Hidden Achievements Guide Combat Styles Light/Dark Flip Guide S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Ruhnuk Hidden Lore Object and Codex Entries Wraid Night Secret Achievement Guide Tineback Tamer Secret Achievement Guide Relic Hunt on Ruhnuk Guide Ruhnuk Datacron Guide Secret Magenta Adegan Crystal Guide Nerf Herder Secret Pet Achievement Guide List of Everything Taunlet Secret Pet Quest Guide Manaan Achievements Guide HK-51 Guide Datacrons Guide Ancient Gree Relays Event Quest Guide Secret Junior Research Project Gree Event Achievement Guide Steam Achievements List & Guide Special Operation Mounts Orokeet Secret Pet Quest Star Fortress Secret Achievements Ood Bnar’s Datacron and Weapon Tuning Lore Objects Dantooine Lore Objects Onderon Lore Objects Corellia Lore Objects Tatooine Lore Objects Ilum Lore Objects Quesh Lore Objects Belsavis Lore Objects Voss Lore Objects Nar Shaddaa Lore Objects Taris Lore Objects Coruscant Lore Objects Ord Mantell Lore Objects Hutta Lore Objects Tython Lore Objects Korriban Lore Objects Hoth Lore Objects Balmorra Lore Objects Dromund Kaas Lore Objects Alderaan Lore Objects Beastmaster Achievements Beast-Lord of Onderon Beastmaster Achievement Guide Beastmaster of Quesh Achievement Guide Beastmaster of Voss Achievement Guide Beastmaster of Nar Shaddaa Achievement Guide Beastmaster of Hoth Achievement Guide Beastmaster of Belsavis Achievement Guide Beastmaster of Ord Mantell Achievement Guide Beastmaster of Tython Achievement Guide Beastmaster of Taris (Republic) Achievement Guide Beastmaster of Korriban Achievement Guide Beastmaster of Hutta Achievement Guide Imperial Beastmaster of Balmorra Achievement Guide Beastmaster of Tatooine Achievement Guide Beastmaster of Coruscant Achievement Guide Beastmaster of Dromund Kaas Achievement Guide Beastmaster of Alderaan Achievement Guide Champion Achievements Yavin 4 Seeking Out Prey Champion Achievement Guide Tyrant of Hoth Champion Achievement Guide Tyrant of Balmorra Champion Achievement Guide Liberator of Ilum! Champion Achievement Guide Tyrant of Ilum! Champion Achievement Guide Liberator of Hoth Champion Achievement Guide Tyrant of Taris (Imperial) Champion Achievement Guide Tyrant of Quesh Champion Achievement Guide Champion of Tatooine Achievement Guide Champion of Belsavis Achievement Guide Champion of Voss Achievement Guide Cleaning Up the Street Elites Nar Shaddaa Champion Achievement Guide Coruscant’s Most Wanted Champion Achievement Guide Corellia’s Most Wanted Champion Achievement Guide Hutta’s Most Wanted Champion Achievement Guide Hoth’s Most Wanted Champion Achievement Guide Korriban Conquest Champion Achievement Guide Liberator of Balmorra Champion Achievement Guide Liberator of Ord Mantell Champion Achievement Guide Liberator of Quesh Champion Achievement Guide Liberator of Taris (Republic) Champion Achievement Guide Liberator of Tython Champion Achievement Guide Tyrant of Dromund Kaas Champion Achievement Guide Ilum’s Most Wanted! Champion Achievement Guide
+- Interactive Maps Alderaan Interactive Exploration Map Balmorra Interactive Exploration Map Belsavis Interactive Exploration Map Corellia Interactive Exploration Map Coruscant Interactive Exploration Map Dromund Kaas Interactive Exploration Map Hoth Interactive Exploration Map Hutta Interactive Exploration Map Ilum Interactive Exploration Map Korriban Interactive Exploration Map Nar Shaddaa Interactive Exploration Map Ord Mantell Interactive Exploration Map Quesh Interactive Exploration Map Taris Interactive Exploration Map Tatooine Interactive Exploration Map Tython Interactive Exploration Map Voss Interactive Exploration Map Expansion Maps Yavin 4 Interactive Exploration Map Datacrons Dantooine Culinarian Secret Achievement Dantooine Treasure Hunter and D. Suffy’s Note Secret Achievement Dantooine Cipher Secret Achievement Ossus Epic of the Exiled Knight and Dawn of the Exiled Knight Secret Achievement Ossus Cipher Secret Achievement Onderonian Botanist Secret Achievement Guide So Tiny, So Hungry Flirron-Friend Secret Pet Onderon Achievement Guide Nar Shaddaa Nightlife Drop Rates and Percentages Talisman Collector Yavin 4 Secret Achievement Speaker for the Dead Secret Achievement No Sensor Left Behind Secret Achievement Yavin 4 Faction Espionage Secret Achievement Tundra and Mountain Tauntaun Mount Guide Flashpoint Unique Rewards Guide Rare Blue and Purple World Drop Gear Corporate Communications CZ-198 Secret quest and CZ-W4 Observer Pet Guide Mek-Sha Decorations Mission Guide Mek-Sha We’re Wanted Men Quest, The Death Sentence on Twelve Systems Secret Achievement and Honorary Bouncer’s Badge Guide A Killik Home of My Own Secret Achievment and Killik Mound Decoration Guide EXPANSION – Broken Lance Champion Achievement Guide Planet Maps Loremaster Achievement Guide Kessan’s Landing Hidden Achievements Guide Kessan’s Landing Grazer Whisperer Secret Hidden Achievement Kessan’s Landing Geothermal Shielding Guide Kessan’s Landing Ord Mantell Secret Datacron & Lava Problems Quest Guide Secret Alderaan Stronghold Achievement Guide – The Thranta Also Rises Flameshell Mewvorr Secret Voss Interpreter’s Retreat Pet Guide Interpreter’s Retreat Hidden Achievements Guide Combat Styles Light/Dark Flip Guide S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Ruhnuk Hidden Lore Object and Codex Entries Wraid Night Secret Achievement Guide Tineback Tamer Secret Achievement Guide Relic Hunt on Ruhnuk Guide Ruhnuk Datacron Guide Secret Magenta Adegan Crystal Guide Nerf Herder Secret Pet Achievement Guide List of Everything Taunlet Secret Pet Quest Guide Manaan Achievements Guide HK-51 Guide Datacrons Guide Ancient Gree Relays Event Quest Guide Secret Junior Research Project Gree Event Achievement Guide Steam Achievements List & Guide Special Operation Mounts Orokeet Secret Pet Quest Star Fortress Secret Achievements Ood Bnar’s Datacron and Weapon Tuning Lore Objects Dantooine Lore Objects Onderon Lore Objects Corellia Lore Objects Tatooine Lore Objects Ilum Lore Objects Quesh Lore Objects Belsavis Lore Objects Voss Lore Objects Nar Shaddaa Lore Objects Taris Lore Objects Coruscant Lore Objects Ord Mantell Lore Objects Hutta Lore Objects Tython Lore Objects Korriban Lore Objects Hoth Lore Objects Balmorra Lore Objects Dromund Kaas Lore Objects Alderaan Lore Objects Beastmaster Achievements Beast-Lord of Onderon Beastmaster Achievement Guide Beastmaster of Quesh Achievement Guide Beastmaster of Voss Achievement Guide Beastmaster of Nar Shaddaa Achievement Guide Beastmaster of Hoth Achievement Guide Beastmaster of Belsavis Achievement Guide Beastmaster of Ord Mantell Achievement Guide Beastmaster of Tython Achievement Guide Beastmaster of Taris (Republic) Achievement Guide Beastmaster of Korriban Achievement Guide Beastmaster of Hutta Achievement Guide Imperial Beastmaster of Balmorra Achievement Guide Beastmaster of Tatooine Achievement Guide Beastmaster of Coruscant Achievement Guide Beastmaster of Dromund Kaas Achievement Guide Beastmaster of Alderaan Achievement Guide Champion Achievements Yavin 4 Seeking Out Prey Champion Achievement Guide Tyrant of Hoth Champion Achievement Guide Tyrant of Balmorra Champion Achievement Guide Liberator of Ilum! Champion Achievement Guide Tyrant of Ilum! Champion Achievement Guide Liberator of Hoth Champion Achievement Guide Tyrant of Taris (Imperial) Champion Achievement Guide Tyrant of Quesh Champion Achievement Guide Champion of Tatooine Achievement Guide Champion of Belsavis Achievement Guide Champion of Voss Achievement Guide Cleaning Up the Street Elites Nar Shaddaa Champion Achievement Guide Coruscant’s Most Wanted Champion Achievement Guide Corellia’s Most Wanted Champion Achievement Guide Hutta’s Most Wanted Champion Achievement Guide Hoth’s Most Wanted Champion Achievement Guide Korriban Conquest Champion Achievement Guide Liberator of Balmorra Champion Achievement Guide Liberator of Ord Mantell Champion Achievement Guide Liberator of Quesh Champion Achievement Guide Liberator of Taris (Republic) Champion Achievement Guide Liberator of Tython Champion Achievement Guide Tyrant of Dromund Kaas Champion Achievement Guide Ilum’s Most Wanted! Champion Achievement Guide
+- Interactive Maps Alderaan Interactive Exploration Map Balmorra Interactive Exploration Map Belsavis Interactive Exploration Map Corellia Interactive Exploration Map Coruscant Interactive Exploration Map Dromund Kaas Interactive Exploration Map Hoth Interactive Exploration Map Hutta Interactive Exploration Map Ilum Interactive Exploration Map Korriban Interactive Exploration Map Nar Shaddaa Interactive Exploration Map Ord Mantell Interactive Exploration Map Quesh Interactive Exploration Map Taris Interactive Exploration Map Tatooine Interactive Exploration Map Tython Interactive Exploration Map Voss Interactive Exploration Map Expansion Maps Yavin 4 Interactive Exploration Map
+- Interactive Maps Alderaan Interactive Exploration Map Balmorra Interactive Exploration Map Belsavis Interactive Exploration Map Corellia Interactive Exploration Map Coruscant Interactive Exploration Map Dromund Kaas Interactive Exploration Map Hoth Interactive Exploration Map Hutta Interactive Exploration Map Ilum Interactive Exploration Map Korriban Interactive Exploration Map Nar Shaddaa Interactive Exploration Map Ord Mantell Interactive Exploration Map Quesh Interactive Exploration Map Taris Interactive Exploration Map Tatooine Interactive Exploration Map Tython Interactive Exploration Map Voss Interactive Exploration Map
+- Alderaan Interactive Exploration Map
+- Balmorra Interactive Exploration Map
+- Belsavis Interactive Exploration Map
+- Corellia Interactive Exploration Map
+- Coruscant Interactive Exploration Map
+- Dromund Kaas Interactive Exploration Map
+- Hoth Interactive Exploration Map
+- Hutta Interactive Exploration Map
+- Ilum Interactive Exploration Map
+- Korriban Interactive Exploration Map
+- Nar Shaddaa Interactive Exploration Map
+- Ord Mantell Interactive Exploration Map
+- Quesh Interactive Exploration Map
+- Taris Interactive Exploration Map
+- Tatooine Interactive Exploration Map
+- Tython Interactive Exploration Map
+- Voss Interactive Exploration Map
+- Expansion Maps Yavin 4 Interactive Exploration Map
+- Yavin 4 Interactive Exploration Map
+- Datacrons Dantooine Culinarian Secret Achievement Dantooine Treasure Hunter and D. Suffy’s Note Secret Achievement Dantooine Cipher Secret Achievement Ossus Epic of the Exiled Knight and Dawn of the Exiled Knight Secret Achievement Ossus Cipher Secret Achievement Onderonian Botanist Secret Achievement Guide So Tiny, So Hungry Flirron-Friend Secret Pet Onderon Achievement Guide Nar Shaddaa Nightlife Drop Rates and Percentages Talisman Collector Yavin 4 Secret Achievement Speaker for the Dead Secret Achievement No Sensor Left Behind Secret Achievement Yavin 4 Faction Espionage Secret Achievement Tundra and Mountain Tauntaun Mount Guide Flashpoint Unique Rewards Guide Rare Blue and Purple World Drop Gear Corporate Communications CZ-198 Secret quest and CZ-W4 Observer Pet Guide Mek-Sha Decorations Mission Guide Mek-Sha We’re Wanted Men Quest, The Death Sentence on Twelve Systems Secret Achievement and Honorary Bouncer’s Badge Guide A Killik Home of My Own Secret Achievment and Killik Mound Decoration Guide EXPANSION – Broken Lance Champion Achievement Guide Planet Maps Loremaster Achievement Guide Kessan’s Landing Hidden Achievements Guide Kessan’s Landing Grazer Whisperer Secret Hidden Achievement Kessan’s Landing Geothermal Shielding Guide Kessan’s Landing Ord Mantell Secret Datacron & Lava Problems Quest Guide Secret Alderaan Stronghold Achievement Guide – The Thranta Also Rises Flameshell Mewvorr Secret Voss Interpreter’s Retreat Pet Guide Interpreter’s Retreat Hidden Achievements Guide Combat Styles Light/Dark Flip Guide S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Ruhnuk Hidden Lore Object and Codex Entries Wraid Night Secret Achievement Guide Tineback Tamer Secret Achievement Guide Relic Hunt on Ruhnuk Guide Ruhnuk Datacron Guide Secret Magenta Adegan Crystal Guide Nerf Herder Secret Pet Achievement Guide List of Everything Taunlet Secret Pet Quest Guide Manaan Achievements Guide HK-51 Guide Datacrons Guide Ancient Gree Relays Event Quest Guide Secret Junior Research Project Gree Event Achievement Guide Steam Achievements List & Guide Special Operation Mounts Orokeet Secret Pet Quest Star Fortress Secret Achievements Ood Bnar’s Datacron and Weapon Tuning
+- Datacrons Dantooine Culinarian Secret Achievement Dantooine Treasure Hunter and D. Suffy’s Note Secret Achievement Dantooine Cipher Secret Achievement Ossus Epic of the Exiled Knight and Dawn of the Exiled Knight Secret Achievement Ossus Cipher Secret Achievement Onderonian Botanist Secret Achievement Guide So Tiny, So Hungry Flirron-Friend Secret Pet Onderon Achievement Guide Nar Shaddaa Nightlife Drop Rates and Percentages Talisman Collector Yavin 4 Secret Achievement Speaker for the Dead Secret Achievement No Sensor Left Behind Secret Achievement Yavin 4 Faction Espionage Secret Achievement Tundra and Mountain Tauntaun Mount Guide Flashpoint Unique Rewards Guide Rare Blue and Purple World Drop Gear Corporate Communications CZ-198 Secret quest and CZ-W4 Observer Pet Guide Mek-Sha Decorations Mission Guide Mek-Sha We’re Wanted Men Quest, The Death Sentence on Twelve Systems Secret Achievement and Honorary Bouncer’s Badge Guide A Killik Home of My Own Secret Achievment and Killik Mound Decoration Guide EXPANSION – Broken Lance Champion Achievement Guide Planet Maps Loremaster Achievement Guide Kessan’s Landing Hidden Achievements Guide Kessan’s Landing Grazer Whisperer Secret Hidden Achievement Kessan’s Landing Geothermal Shielding Guide Kessan’s Landing Ord Mantell Secret Datacron & Lava Problems Quest Guide Secret Alderaan Stronghold Achievement Guide – The Thranta Also Rises Flameshell Mewvorr Secret Voss Interpreter’s Retreat Pet Guide Interpreter’s Retreat Hidden Achievements Guide Combat Styles Light/Dark Flip Guide S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Ruhnuk Hidden Lore Object and Codex Entries Wraid Night Secret Achievement Guide Tineback Tamer Secret Achievement Guide Relic Hunt on Ruhnuk Guide Ruhnuk Datacron Guide Secret Magenta Adegan Crystal Guide Nerf Herder Secret Pet Achievement Guide List of Everything Taunlet Secret Pet Quest Guide Manaan Achievements Guide HK-51 Guide Datacrons Guide Ancient Gree Relays Event Quest Guide Secret Junior Research Project Gree Event Achievement Guide Steam Achievements List & Guide Special Operation Mounts Orokeet Secret Pet Quest Star Fortress Secret Achievements Ood Bnar’s Datacron and Weapon Tuning
+- Dantooine Culinarian Secret Achievement
+- Dantooine Treasure Hunter and D. Suffy’s Note Secret Achievement
+- Dantooine Cipher Secret Achievement
+- Ossus Epic of the Exiled Knight and Dawn of the Exiled Knight Secret Achievement
+- Ossus Cipher Secret Achievement
+- Onderonian Botanist Secret Achievement Guide
+- So Tiny, So Hungry Flirron-Friend Secret Pet Onderon Achievement Guide
+- Nar Shaddaa Nightlife Drop Rates and Percentages
+- Talisman Collector Yavin 4 Secret Achievement
+- Speaker for the Dead Secret Achievement
+- No Sensor Left Behind Secret Achievement
+- Yavin 4 Faction Espionage Secret Achievement
+- Tundra and Mountain Tauntaun Mount Guide
+- Flashpoint Unique Rewards Guide
+- Rare Blue and Purple World Drop Gear
+- Corporate Communications CZ-198 Secret quest and CZ-W4 Observer Pet Guide
+- Mek-Sha Decorations Mission Guide
+- Mek-Sha We’re Wanted Men Quest, The Death Sentence on Twelve Systems Secret Achievement and Honorary Bouncer’s Badge Guide
+- A Killik Home of My Own Secret Achievment and Killik Mound Decoration Guide
+- EXPANSION – Broken Lance Champion Achievement Guide
+- Planet Maps
+- Loremaster Achievement Guide
+- Kessan’s Landing Hidden Achievements Guide
+- Kessan’s Landing Grazer Whisperer Secret Hidden Achievement
+- Kessan’s Landing Geothermal Shielding Guide
+- Kessan’s Landing Ord Mantell Secret Datacron & Lava Problems Quest Guide
+- Secret Alderaan Stronghold Achievement Guide – The Thranta Also Rises
+- Flameshell Mewvorr Secret Voss Interpreter’s Retreat Pet Guide
+- Interpreter’s Retreat Hidden Achievements Guide
+- Combat Styles Light/Dark Flip Guide
+- S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors)
+- Ruhnuk Hidden Lore Object and Codex Entries
+- Wraid Night Secret Achievement Guide
+- Tineback Tamer Secret Achievement Guide
+- Relic Hunt on Ruhnuk Guide
+- Ruhnuk Datacron Guide
+- Secret Magenta Adegan Crystal Guide
+- Nerf Herder Secret Pet Achievement Guide
+- List of Everything
+- Taunlet Secret Pet Quest Guide
+- Manaan Achievements Guide
+- HK-51 Guide
+- Datacrons Guide
+- Ancient Gree Relays Event Quest Guide
+- Secret Junior Research Project Gree Event Achievement Guide
+- Steam Achievements List & Guide
+- Special Operation Mounts
+- Orokeet Secret Pet Quest
+- Star Fortress Secret Achievements
+- Ood Bnar’s Datacron and Weapon Tuning
+- Lore Objects Dantooine Lore Objects Onderon Lore Objects Corellia Lore Objects Tatooine Lore Objects Ilum Lore Objects Quesh Lore Objects Belsavis Lore Objects Voss Lore Objects Nar Shaddaa Lore Objects Taris Lore Objects Coruscant Lore Objects Ord Mantell Lore Objects Hutta Lore Objects Tython Lore Objects Korriban Lore Objects Hoth Lore Objects Balmorra Lore Objects Dromund Kaas Lore Objects Alderaan Lore Objects
+- Lore Objects Dantooine Lore Objects Onderon Lore Objects Corellia Lore Objects Tatooine Lore Objects Ilum Lore Objects Quesh Lore Objects Belsavis Lore Objects Voss Lore Objects Nar Shaddaa Lore Objects Taris Lore Objects Coruscant Lore Objects Ord Mantell Lore Objects Hutta Lore Objects Tython Lore Objects Korriban Lore Objects Hoth Lore Objects Balmorra Lore Objects Dromund Kaas Lore Objects Alderaan Lore Objects
+- Dantooine Lore Objects
+- Onderon Lore Objects
+- Corellia Lore Objects
+- Tatooine Lore Objects
+- Ilum Lore Objects
+- Quesh Lore Objects
+- Belsavis Lore Objects
+- Voss Lore Objects
+- Nar Shaddaa Lore Objects
+- Taris Lore Objects
+- Coruscant Lore Objects
+- Ord Mantell Lore Objects
+- Hutta Lore Objects
+- Tython Lore Objects
+- Korriban Lore Objects
+- Hoth Lore Objects
+- Balmorra Lore Objects
+- Dromund Kaas Lore Objects
+- Alderaan Lore Objects
+- Beastmaster Achievements Beast-Lord of Onderon Beastmaster Achievement Guide Beastmaster of Quesh Achievement Guide Beastmaster of Voss Achievement Guide Beastmaster of Nar Shaddaa Achievement Guide Beastmaster of Hoth Achievement Guide Beastmaster of Belsavis Achievement Guide Beastmaster of Ord Mantell Achievement Guide Beastmaster of Tython Achievement Guide Beastmaster of Taris (Republic) Achievement Guide Beastmaster of Korriban Achievement Guide Beastmaster of Hutta Achievement Guide Imperial Beastmaster of Balmorra Achievement Guide Beastmaster of Tatooine Achievement Guide Beastmaster of Coruscant Achievement Guide Beastmaster of Dromund Kaas Achievement Guide Beastmaster of Alderaan Achievement Guide Champion Achievements Yavin 4 Seeking Out Prey Champion Achievement Guide Tyrant of Hoth Champion Achievement Guide Tyrant of Balmorra Champion Achievement Guide Liberator of Ilum! Champion Achievement Guide Tyrant of Ilum! Champion Achievement Guide Liberator of Hoth Champion Achievement Guide Tyrant of Taris (Imperial) Champion Achievement Guide Tyrant of Quesh Champion Achievement Guide Champion of Tatooine Achievement Guide Champion of Belsavis Achievement Guide Champion of Voss Achievement Guide Cleaning Up the Street Elites Nar Shaddaa Champion Achievement Guide Coruscant’s Most Wanted Champion Achievement Guide Corellia’s Most Wanted Champion Achievement Guide Hutta’s Most Wanted Champion Achievement Guide Hoth’s Most Wanted Champion Achievement Guide Korriban Conquest Champion Achievement Guide Liberator of Balmorra Champion Achievement Guide Liberator of Ord Mantell Champion Achievement Guide Liberator of Quesh Champion Achievement Guide Liberator of Taris (Republic) Champion Achievement Guide Liberator of Tython Champion Achievement Guide Tyrant of Dromund Kaas Champion Achievement Guide Ilum’s Most Wanted! Champion Achievement Guide
+- Beastmaster Achievements Beast-Lord of Onderon Beastmaster Achievement Guide Beastmaster of Quesh Achievement Guide Beastmaster of Voss Achievement Guide Beastmaster of Nar Shaddaa Achievement Guide Beastmaster of Hoth Achievement Guide Beastmaster of Belsavis Achievement Guide Beastmaster of Ord Mantell Achievement Guide Beastmaster of Tython Achievement Guide Beastmaster of Taris (Republic) Achievement Guide Beastmaster of Korriban Achievement Guide Beastmaster of Hutta Achievement Guide Imperial Beastmaster of Balmorra Achievement Guide Beastmaster of Tatooine Achievement Guide Beastmaster of Coruscant Achievement Guide Beastmaster of Dromund Kaas Achievement Guide Beastmaster of Alderaan Achievement Guide
+- Beast-Lord of Onderon Beastmaster Achievement Guide
+- Beastmaster of Quesh Achievement Guide
+- Beastmaster of Voss Achievement Guide
+- Beastmaster of Nar Shaddaa Achievement Guide
+- Beastmaster of Hoth Achievement Guide
+- Beastmaster of Belsavis Achievement Guide
+- Beastmaster of Ord Mantell Achievement Guide
+- Beastmaster of Tython Achievement Guide
+- Beastmaster of Taris (Republic) Achievement Guide
+- Beastmaster of Korriban Achievement Guide
+- Beastmaster of Hutta Achievement Guide
+- Imperial Beastmaster of Balmorra Achievement Guide
+- Beastmaster of Tatooine Achievement Guide
+- Beastmaster of Coruscant Achievement Guide
+- Beastmaster of Dromund Kaas Achievement Guide
+- Beastmaster of Alderaan Achievement Guide
+- Champion Achievements Yavin 4 Seeking Out Prey Champion Achievement Guide Tyrant of Hoth Champion Achievement Guide Tyrant of Balmorra Champion Achievement Guide Liberator of Ilum! Champion Achievement Guide Tyrant of Ilum! Champion Achievement Guide Liberator of Hoth Champion Achievement Guide Tyrant of Taris (Imperial) Champion Achievement Guide Tyrant of Quesh Champion Achievement Guide Champion of Tatooine Achievement Guide Champion of Belsavis Achievement Guide Champion of Voss Achievement Guide Cleaning Up the Street Elites Nar Shaddaa Champion Achievement Guide Coruscant’s Most Wanted Champion Achievement Guide Corellia’s Most Wanted Champion Achievement Guide Hutta’s Most Wanted Champion Achievement Guide Hoth’s Most Wanted Champion Achievement Guide Korriban Conquest Champion Achievement Guide Liberator of Balmorra Champion Achievement Guide Liberator of Ord Mantell Champion Achievement Guide Liberator of Quesh Champion Achievement Guide Liberator of Taris (Republic) Champion Achievement Guide Liberator of Tython Champion Achievement Guide Tyrant of Dromund Kaas Champion Achievement Guide Ilum’s Most Wanted! Champion Achievement Guide
+- Yavin 4 Seeking Out Prey Champion Achievement Guide
+- Tyrant of Hoth Champion Achievement Guide
+- Tyrant of Balmorra Champion Achievement Guide
+- Liberator of Ilum! Champion Achievement Guide
+- Tyrant of Ilum! Champion Achievement Guide
+- Liberator of Hoth Champion Achievement Guide
+- Tyrant of Taris (Imperial) Champion Achievement Guide
+- Tyrant of Quesh Champion Achievement Guide
+- Champion of Tatooine Achievement Guide
+- Champion of Belsavis Achievement Guide
+- Champion of Voss Achievement Guide
+- Cleaning Up the Street Elites Nar Shaddaa Champion Achievement Guide
+- Coruscant’s Most Wanted Champion Achievement Guide
+- Corellia’s Most Wanted Champion Achievement Guide
+- Hutta’s Most Wanted Champion Achievement Guide
+- Hoth’s Most Wanted Champion Achievement Guide
+- Korriban Conquest Champion Achievement Guide
+- Liberator of Balmorra Champion Achievement Guide
+- Liberator of Ord Mantell Champion Achievement Guide
+- Liberator of Quesh Champion Achievement Guide
+- Liberator of Taris (Republic) Champion Achievement Guide
+- Liberator of Tython Champion Achievement Guide
+- Tyrant of Dromund Kaas Champion Achievement Guide
+- Ilum’s Most Wanted! Champion Achievement Guide
+- Accessibility Accessibility Accessibility Hub All Accessibility guides and info One-Handed Playing with one hand or limited mobility Deaf Playing while deaf or hearing-impaired Blind Playing while visually impaired or with low vision Colorblind Playing with colorblindness and settings options Anxiety Playing with general anxiety or social anxiety
+- Accessibility Accessibility Hub All Accessibility guides and info One-Handed Playing with one hand or limited mobility Deaf Playing while deaf or hearing-impaired Blind Playing while visually impaired or with low vision Colorblind Playing with colorblindness and settings options Anxiety Playing with general anxiety or social anxiety
+- Accessibility Accessibility Hub All Accessibility guides and info One-Handed Playing with one hand or limited mobility Deaf Playing while deaf or hearing-impaired Blind Playing while visually impaired or with low vision Colorblind Playing with colorblindness and settings options Anxiety Playing with general anxiety or social anxiety
+- Accessibility Accessibility Hub All Accessibility guides and info One-Handed Playing with one hand or limited mobility Deaf Playing while deaf or hearing-impaired Blind Playing while visually impaired or with low vision Colorblind Playing with colorblindness and settings options Anxiety Playing with general anxiety or social anxiety
+- Custom Search Sort by: Relevance Relevance Date
+- -- Divider --
+- News
+- Guide
+- Videos
+- Armor Armor Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Categories Cartel Market Crafting Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Retired Crafting Schematics Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Gearing Gearing 7.0 Tionese Columi Rakata Hazardous and Virulent Systech Activities Dynamic Encounters Tech Fragments Set Bonus / Kai Zykken Tech Fragments Reputation and Events Voss Interpreter's Retreat Eternal Chapters Gear Eternal Championship Dark vs Light Alliance Crates Flashpoints Legacy Vendor Social Star Fortress Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Seasons Vendor PvP Seasons Vendor Seasonal PvP Seasons Vendor Ranked PvP Seasons Track Unbuyable Special Credits Adaptive Vendor Planetary Specialty Vendors Planet Vendors Light and Dark Vendors Collector's Edition Random Fitted Rare World Drops Rare Heroic Drops Pristine World Drops And Crafted Randomized Armors Forgotten Troves World Boss Only Drops Low-Level Only Starter Sets Low Level Heroics/Conquest MK-2 Rishi Pirate Low Level Quest Rewards from 7.0 Underworld Exchange / Cartel Reputation Retired Styles Bounty Hunter Imperial Agent Jedi Jedi Consular Jedi Knight Sith Sith Inquisitor Sith Warrior Smuggler Trooper Alderaan Ancient Lore Civilian Clothing Corporate Cybernetics Environment Eternal Empire Exarchs Formal Hoth Huttball KOTOR Mandalorian Onderon Oricon Ossan Outlander Pilot Pirate Revanite Revealing Single Piece SWTOR Tatooine Uniform Aspect Legacy Gear Back Butt Cape Cape Boots Animated-Boots Armored-Boots Basic-Boots Bootstraps Clawed-Boots Cuffed-Boots Footwraps Knife-Boots Sandals Thigh-High Bracers Bracelets Unique-Bracers Wristwraps Chestpiece Bodysuit Light Jacket Simple Jedi Robes Trenchcoat Gloves Fingerless Gloves Sharp Claw Gloves Headpiece Brimmed Hat Captain Hat Chin Guard Circlet / Headband Eyepatch Face Cover Fancy Hat Goggles Headset Helmet Hood Mask No Hood Rebreather Samurai Helmet Skull Cap Unique Hat Legs Bikini Bottom Cybernetic Legs Leg Wraps Loose Pants Pants Plated Leg Armor Short Skirt Shorts Skirt Split Pants Other Cartel Stats Visual Animated Camouflage Glowing Pieces Head Chest Legs Boots Gloves Belt Front Back Twi'lek Colors Red Orange Blue Green Yellow Purple Pink Gray White Black Brown
+- Armor Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Categories Cartel Market Crafting Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Retired Crafting Schematics Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Gearing Gearing 7.0 Tionese Columi Rakata Hazardous and Virulent Systech Activities Dynamic Encounters Tech Fragments Set Bonus / Kai Zykken Tech Fragments Reputation and Events Voss Interpreter's Retreat Eternal Chapters Gear Eternal Championship Dark vs Light Alliance Crates Flashpoints Legacy Vendor Social Star Fortress Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Seasons Vendor PvP Seasons Vendor Seasonal PvP Seasons Vendor Ranked PvP Seasons Track Unbuyable Special Credits Adaptive Vendor Planetary Specialty Vendors Planet Vendors Light and Dark Vendors Collector's Edition Random Fitted Rare World Drops Rare Heroic Drops Pristine World Drops And Crafted Randomized Armors Forgotten Troves World Boss Only Drops Low-Level Only Starter Sets Low Level Heroics/Conquest MK-2 Rishi Pirate Low Level Quest Rewards from 7.0 Underworld Exchange / Cartel Reputation Retired Styles Bounty Hunter Imperial Agent Jedi Jedi Consular Jedi Knight Sith Sith Inquisitor Sith Warrior Smuggler Trooper Alderaan Ancient Lore Civilian Clothing Corporate Cybernetics Environment Eternal Empire Exarchs Formal Hoth Huttball KOTOR Mandalorian Onderon Oricon Ossan Outlander Pilot Pirate Revanite Revealing Single Piece SWTOR Tatooine Uniform Aspect Legacy Gear Back Butt Cape Cape Boots Animated-Boots Armored-Boots Basic-Boots Bootstraps Clawed-Boots Cuffed-Boots Footwraps Knife-Boots Sandals Thigh-High Bracers Bracelets Unique-Bracers Wristwraps Chestpiece Bodysuit Light Jacket Simple Jedi Robes Trenchcoat Gloves Fingerless Gloves Sharp Claw Gloves Headpiece Brimmed Hat Captain Hat Chin Guard Circlet / Headband Eyepatch Face Cover Fancy Hat Goggles Headset Helmet Hood Mask No Hood Rebreather Samurai Helmet Skull Cap Unique Hat Legs Bikini Bottom Cybernetic Legs Leg Wraps Loose Pants Pants Plated Leg Armor Short Skirt Shorts Skirt Split Pants Other Cartel Stats Visual Animated Camouflage Glowing Pieces Head Chest Legs Boots Gloves Belt Front Back Twi'lek Colors Red Orange Blue Green Yellow Purple Pink Gray White Black Brown
+- Armor Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Categories Cartel Market Crafting Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Retired Crafting Schematics Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Gearing Gearing 7.0 Tionese Columi Rakata Hazardous and Virulent Systech Activities Dynamic Encounters Tech Fragments Set Bonus / Kai Zykken Tech Fragments Reputation and Events Voss Interpreter's Retreat Eternal Chapters Gear Eternal Championship Dark vs Light Alliance Crates Flashpoints Legacy Vendor Social Star Fortress Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Seasons Vendor PvP Seasons Vendor Seasonal PvP Seasons Vendor Ranked PvP Seasons Track Unbuyable Special Credits Adaptive Vendor Planetary Specialty Vendors Planet Vendors Light and Dark Vendors Collector's Edition Random Fitted Rare World Drops Rare Heroic Drops Pristine World Drops And Crafted Randomized Armors Forgotten Troves World Boss Only Drops Low-Level Only Starter Sets Low Level Heroics/Conquest MK-2 Rishi Pirate Low Level Quest Rewards from 7.0 Underworld Exchange / Cartel Reputation Retired Styles Bounty Hunter Imperial Agent Jedi Jedi Consular Jedi Knight Sith Sith Inquisitor Sith Warrior Smuggler Trooper Alderaan Ancient Lore Civilian Clothing Corporate Cybernetics Environment Eternal Empire Exarchs Formal Hoth Huttball KOTOR Mandalorian Onderon Oricon Ossan Outlander Pilot Pirate Revanite Revealing Single Piece SWTOR Tatooine Uniform Aspect Legacy Gear Back Butt Cape Cape Boots Animated-Boots Armored-Boots Basic-Boots Bootstraps Clawed-Boots Cuffed-Boots Footwraps Knife-Boots Sandals Thigh-High Bracers Bracelets Unique-Bracers Wristwraps Chestpiece Bodysuit Light Jacket Simple Jedi Robes Trenchcoat Gloves Fingerless Gloves Sharp Claw Gloves Headpiece Brimmed Hat Captain Hat Chin Guard Circlet / Headband Eyepatch Face Cover Fancy Hat Goggles Headset Helmet Hood Mask No Hood Rebreather Samurai Helmet Skull Cap Unique Hat Legs Bikini Bottom Cybernetic Legs Leg Wraps Loose Pants Pants Plated Leg Armor Short Skirt Shorts Skirt Split Pants Other Cartel Stats Visual Animated Camouflage Glowing Pieces Head Chest Legs Boots Gloves Belt Front Back Twi'lek Colors Red Orange Blue Green Yellow Purple Pink Gray White Black Brown
+- Armor Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Categories Cartel Market Crafting Armormech Armormech Trainer Armormech Schematics Armormech Reverse Engineer Armormech Set Bonus Schematics Synthweaving Synthweaving Trainer Synthweaving Schematics Synthweaving Reverse Engineer Synthweaving Set Bonus Schematics Retired Crafting Schematics Archived Battlemaster Schematics Archived War Hero Schematics Archived Elite War Hero Schematics Archived Crafting Eternal Commander (MK-4 and White MK-14), Gemini (MK-4) Iokath (MK-4) Armormech Archived Schematics from Trainer Synthweaving Archived Schematics from Trainer Archived Armormech Rise of the Hutt Cartel Schematics Archived Synthweaving Rise of the Hutt Cartel Schematics Gearing Gearing 7.0 Tionese Columi Rakata Hazardous and Virulent Systech Activities Dynamic Encounters Tech Fragments Set Bonus / Kai Zykken Tech Fragments Reputation and Events Voss Interpreter's Retreat Eternal Chapters Gear Eternal Championship Dark vs Light Alliance Crates Flashpoints Legacy Vendor Social Star Fortress Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Seasons Vendor PvP Seasons Vendor Seasonal PvP Seasons Vendor Ranked PvP Seasons Track Unbuyable Special Credits Adaptive Vendor Planetary Specialty Vendors Planet Vendors Light and Dark Vendors Collector's Edition Random Fitted Rare World Drops Rare Heroic Drops Pristine World Drops And Crafted Randomized Armors Forgotten Troves World Boss Only Drops Low-Level Only Starter Sets Low Level Heroics/Conquest MK-2 Rishi Pirate Low Level Quest Rewards from 7.0 Underworld Exchange / Cartel Reputation Retired Styles Bounty Hunter Imperial Agent Jedi Jedi Consular Jedi Knight Sith Sith Inquisitor Sith Warrior Smuggler Trooper Alderaan Ancient Lore Civilian Clothing Corporate Cybernetics Environment Eternal Empire Exarchs Formal Hoth Huttball KOTOR Mandalorian Onderon Oricon Ossan Outlander Pilot Pirate Revanite Revealing Single Piece SWTOR Tatooine Uniform Aspect Legacy Gear Back Butt Cape Cape Boots Animated-Boots Armored-Boots Basic-Boots Bootstraps Clawed-Boots Cuffed-Boots Footwraps Knife-Boots Sandals Thigh-High Bracers Bracelets Unique-Bracers Wristwraps Chestpiece Bodysuit Light Jacket Simple Jedi Robes Trenchcoat Gloves Fingerless Gloves Sharp Claw Gloves Headpiece Brimmed Hat Captain Hat Chin Guard Circlet / Headband Eyepatch Face Cover Fancy Hat Goggles Headset Helmet Hood Mask No Hood Rebreather Samurai Helmet Skull Cap Unique Hat Legs Bikini Bottom Cybernetic Legs Leg Wraps Loose Pants Pants Plated Leg Armor Short Skirt Shorts Skirt Split Pants Other Cartel Stats Visual Animated Camouflage Glowing Pieces Head Chest Legs Boots Gloves Belt Front Back Twi'lek Colors Red Orange Blue Green Yellow Purple Pink Gray White Black Brown
+- Fashion Fashion Trooper Smuggler Jedi Knight Jedi Consular Bounty Hunter Imperial Agent Sith Warrior Sith Inquisitor Player Outfits See Newest Outfits See All Outfits Fashion Contests Share Your Outfit Styles Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Mandalorian Cosplay Pilot Formal Droids Pirate Casual Party Alderaan Hoth Tatooine Top Ten Armors Top 10 Bounty Hunter Armor Sets Top 10 Jedi Knight Armors Top 10 Mandalorian Armors Top 10 Imperial Agent Armors Top 10 Smuggler Armors Top 10 Sith Warrior Armors Top 10 Sith Inquisitor Sets Top 10 Jedi Consular Armors Top 10 Trooper Armors Top Ten Armors – Updated Top 10 Jedi Consular Armors – Updated! Top 10 Sith Inquisitor Armors – Updated! Weapons Top 10 Blaster Rifles Top 10 Sniper Rifles Top 10 Blaster Pistols Top 10 Elegant Jedi Lightsabers Top 10 Double-bladed Lightsabers Top 10 Lightsabers Fashion Showcase Fashion Showcase – Sporefall Explorer Fashion Showcase – Sith Alchemy Fashion Showcase – Delving Deep on Ilum Fashion Showcase – Red & Purple 30+ Inexpensive Specialty Goods Planetary Outfits Fashion Showcase #12 Fashion Showcase #11 Fashion Showcase #10 Fashion Showcase #9 Fashion Showcase #8 Fashion Showcase #7 Fashion Showcase #6 Fashion Showcase #5 Fashion Showcase #4 Fashion Showcase #3 Fashion Showcase #2 Fashion Headgear that Hide Hoods Amazing SWTOR Screenshot Locations Cartel Market Crystals Guide Ultimate Screenshot Guide Fitted Armor and Ancient Armaments S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Titles Guide Collector’s Edition Vendor Access Unlock Legacy Vendor Armor Sets 30+ Inexpensive Specialty Goods Planetary Outfits New Planetary Specialty Goods Armor Sets Dyes Guide Flairs Guide Pets Guide Toys Guide Mounts Guide Fashion Showcase Crystals How to Preview Items Collections Guide How to Get Cool Armor Poe Dameron (Pilot) SWTOR Outfit and Character Customization Captain Phasma SWTOR Outfit and Character Customization How to Look like Kylo Ren (Character Customization and Outfit) How to Look like Rey (Character Customization and Outfit)
+- Fashion Trooper Smuggler Jedi Knight Jedi Consular Bounty Hunter Imperial Agent Sith Warrior Sith Inquisitor Player Outfits See Newest Outfits See All Outfits Fashion Contests Share Your Outfit Styles Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Mandalorian Cosplay Pilot Formal Droids Pirate Casual Party Alderaan Hoth Tatooine Top Ten Armors Top 10 Bounty Hunter Armor Sets Top 10 Jedi Knight Armors Top 10 Mandalorian Armors Top 10 Imperial Agent Armors Top 10 Smuggler Armors Top 10 Sith Warrior Armors Top 10 Sith Inquisitor Sets Top 10 Jedi Consular Armors Top 10 Trooper Armors Top Ten Armors – Updated Top 10 Jedi Consular Armors – Updated! Top 10 Sith Inquisitor Armors – Updated! Weapons Top 10 Blaster Rifles Top 10 Sniper Rifles Top 10 Blaster Pistols Top 10 Elegant Jedi Lightsabers Top 10 Double-bladed Lightsabers Top 10 Lightsabers Fashion Showcase Fashion Showcase – Sporefall Explorer Fashion Showcase – Sith Alchemy Fashion Showcase – Delving Deep on Ilum Fashion Showcase – Red & Purple 30+ Inexpensive Specialty Goods Planetary Outfits Fashion Showcase #12 Fashion Showcase #11 Fashion Showcase #10 Fashion Showcase #9 Fashion Showcase #8 Fashion Showcase #7 Fashion Showcase #6 Fashion Showcase #5 Fashion Showcase #4 Fashion Showcase #3 Fashion Showcase #2 Fashion Headgear that Hide Hoods Amazing SWTOR Screenshot Locations Cartel Market Crystals Guide Ultimate Screenshot Guide Fitted Armor and Ancient Armaments S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Titles Guide Collector’s Edition Vendor Access Unlock Legacy Vendor Armor Sets 30+ Inexpensive Specialty Goods Planetary Outfits New Planetary Specialty Goods Armor Sets Dyes Guide Flairs Guide Pets Guide Toys Guide Mounts Guide Fashion Showcase Crystals How to Preview Items Collections Guide How to Get Cool Armor Poe Dameron (Pilot) SWTOR Outfit and Character Customization Captain Phasma SWTOR Outfit and Character Customization How to Look like Kylo Ren (Character Customization and Outfit) How to Look like Rey (Character Customization and Outfit)
+- Fashion Trooper Smuggler Jedi Knight Jedi Consular Bounty Hunter Imperial Agent Sith Warrior Sith Inquisitor
+- Fashion Trooper Smuggler Jedi Knight Jedi Consular Bounty Hunter Imperial Agent Sith Warrior Sith Inquisitor
+- Player Outfits See Newest Outfits See All Outfits Fashion Contests Share Your Outfit Styles Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Mandalorian Cosplay Pilot Formal Droids Pirate Casual Party Alderaan Hoth Tatooine
+- Player Outfits See Newest Outfits See All Outfits Fashion Contests Share Your Outfit
+- See Newest Outfits
+- See All Outfits
+- Fashion Contests
+- Share Your Outfit
+- Styles Jedi Knight Jedi Consular Trooper Smuggler Sith Warrior Sith Inquisitor Bounty Hunter Imperial Agent Mandalorian Cosplay Pilot Formal Droids Pirate Casual Party Alderaan Hoth Tatooine
+- Jedi Knight
+- Jedi Consular
+- Trooper
+- Smuggler
+- Sith Warrior
+- Sith Inquisitor
+- Bounty Hunter
+- Imperial Agent
+- Mandalorian
+- Cosplay
+- Pilot
+- Formal
+- Droids
+- Pirate
+- Casual
+- Party
+- Alderaan
+- Hoth
+- Tatooine
+- Top Ten Armors Top 10 Bounty Hunter Armor Sets Top 10 Jedi Knight Armors Top 10 Mandalorian Armors Top 10 Imperial Agent Armors Top 10 Smuggler Armors Top 10 Sith Warrior Armors Top 10 Sith Inquisitor Sets Top 10 Jedi Consular Armors Top 10 Trooper Armors Top Ten Armors – Updated Top 10 Jedi Consular Armors – Updated! Top 10 Sith Inquisitor Armors – Updated! Weapons Top 10 Blaster Rifles Top 10 Sniper Rifles Top 10 Blaster Pistols Top 10 Elegant Jedi Lightsabers Top 10 Double-bladed Lightsabers Top 10 Lightsabers
+- Top Ten Armors Top 10 Bounty Hunter Armor Sets Top 10 Jedi Knight Armors Top 10 Mandalorian Armors Top 10 Imperial Agent Armors Top 10 Smuggler Armors Top 10 Sith Warrior Armors Top 10 Sith Inquisitor Sets Top 10 Jedi Consular Armors Top 10 Trooper Armors
+- Top 10 Bounty Hunter Armor Sets
+- Top 10 Jedi Knight Armors
+- Top 10 Mandalorian Armors
+- Top 10 Imperial Agent Armors
+- Top 10 Smuggler Armors
+- Top 10 Sith Warrior Armors
+- Top 10 Sith Inquisitor Sets
+- Top 10 Jedi Consular Armors
+- Top 10 Trooper Armors
+- Top Ten Armors – Updated Top 10 Jedi Consular Armors – Updated! Top 10 Sith Inquisitor Armors – Updated!
+- Top 10 Jedi Consular Armors – Updated!
+- Top 10 Sith Inquisitor Armors – Updated!
+- Weapons Top 10 Blaster Rifles Top 10 Sniper Rifles Top 10 Blaster Pistols Top 10 Elegant Jedi Lightsabers Top 10 Double-bladed Lightsabers Top 10 Lightsabers
+- Top 10 Blaster Rifles
+- Top 10 Sniper Rifles
+- Top 10 Blaster Pistols
+- Top 10 Elegant Jedi Lightsabers
+- Top 10 Double-bladed Lightsabers
+- Top 10 Lightsabers
+- Fashion Showcase Fashion Showcase – Sporefall Explorer Fashion Showcase – Sith Alchemy Fashion Showcase – Delving Deep on Ilum Fashion Showcase – Red & Purple 30+ Inexpensive Specialty Goods Planetary Outfits Fashion Showcase #12 Fashion Showcase #11 Fashion Showcase #10 Fashion Showcase #9 Fashion Showcase #8 Fashion Showcase #7 Fashion Showcase #6 Fashion Showcase #5 Fashion Showcase #4 Fashion Showcase #3 Fashion Showcase #2 Fashion Headgear that Hide Hoods Amazing SWTOR Screenshot Locations Cartel Market Crystals Guide Ultimate Screenshot Guide Fitted Armor and Ancient Armaments S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Titles Guide Collector’s Edition Vendor Access Unlock Legacy Vendor Armor Sets 30+ Inexpensive Specialty Goods Planetary Outfits New Planetary Specialty Goods Armor Sets Dyes Guide Flairs Guide Pets Guide Toys Guide Mounts Guide Fashion Showcase Crystals How to Preview Items Collections Guide How to Get Cool Armor Poe Dameron (Pilot) SWTOR Outfit and Character Customization Captain Phasma SWTOR Outfit and Character Customization How to Look like Kylo Ren (Character Customization and Outfit) How to Look like Rey (Character Customization and Outfit)
+- Fashion Showcase Fashion Showcase – Sporefall Explorer Fashion Showcase – Sith Alchemy Fashion Showcase – Delving Deep on Ilum Fashion Showcase – Red & Purple 30+ Inexpensive Specialty Goods Planetary Outfits Fashion Showcase #12 Fashion Showcase #11 Fashion Showcase #10 Fashion Showcase #9 Fashion Showcase #8 Fashion Showcase #7 Fashion Showcase #6 Fashion Showcase #5 Fashion Showcase #4 Fashion Showcase #3 Fashion Showcase #2
+- Fashion Showcase – Sporefall Explorer
+- Fashion Showcase – Sith Alchemy
+- Fashion Showcase – Delving Deep on Ilum
+- Fashion Showcase – Red & Purple
+- 30+ Inexpensive Specialty Goods Planetary Outfits
+- Fashion Showcase #12
+- Fashion Showcase #11
+- Fashion Showcase #10
+- Fashion Showcase #9
+- Fashion Showcase #8
+- Fashion Showcase #7
+- Fashion Showcase #6
+- Fashion Showcase #5
+- Fashion Showcase #4
+- Fashion Showcase #3
+- Fashion Showcase #2
+- Fashion Headgear that Hide Hoods Amazing SWTOR Screenshot Locations Cartel Market Crystals Guide Ultimate Screenshot Guide Fitted Armor and Ancient Armaments S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors) Titles Guide Collector’s Edition Vendor Access Unlock Legacy Vendor Armor Sets 30+ Inexpensive Specialty Goods Planetary Outfits New Planetary Specialty Goods Armor Sets Dyes Guide Flairs Guide Pets Guide Toys Guide Mounts Guide Fashion Showcase Crystals How to Preview Items Collections Guide How to Get Cool Armor Poe Dameron (Pilot) SWTOR Outfit and Character Customization Captain Phasma SWTOR Outfit and Character Customization How to Look like Kylo Ren (Character Customization and Outfit) How to Look like Rey (Character Customization and Outfit)
+- Headgear that Hide Hoods
+- Amazing SWTOR Screenshot Locations
+- Cartel Market Crystals Guide
+- Ultimate Screenshot Guide
+- Fitted Armor and Ancient Armaments
+- S3T-BNS Set Bonus Armors, Titles and Achievements (formerly Kai Zykken armors)
+- Titles Guide
+- Collector’s Edition Vendor Access Unlock
+- Legacy Vendor Armor Sets
+- 30+ Inexpensive Specialty Goods Planetary Outfits
+- New Planetary Specialty Goods Armor Sets
+- Dyes Guide
+- Flairs Guide
+- Pets Guide
+- Toys Guide
+- Mounts Guide
+- Fashion Showcase
+- Crystals
+- How to Preview Items
+- Collections Guide
+- How to Get Cool Armor
+- Poe Dameron (Pilot) SWTOR Outfit and Character Customization
+- Captain Phasma SWTOR Outfit and Character Customization
+- How to Look like Kylo Ren (Character Customization and Outfit)
+- How to Look like Rey (Character Customization and Outfit)
+- Weapons Weapons Lightsabers Double-Bladed Lightsabers Vibroswords Double-Bladed Vibroswords Blaster Pistols Blaster Rifles Sniper Rifles Blaster Cannons Categories Cartel Market Crafting Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Crafting Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics Gearing Gearing 7.0 Tionese Columi Rakata Thyrsian Supreme Decurion Noble Decurion Elite Decurion Hazardous and Virulent Systech Activities Tech Fragments Reputation and Events Special Reputation Vendor Manaan Reputation Manaan Flashpoint Feast of Prosperity Event CZ-198 Reputation Life Day Event Ossus Reputation Rakghoul Event Onderon Reputation Relics of the Gree Event Bounty Contract Event Nightlife Event Dantooine Spring Abundance Festival Event Story Shadow of Revan Story Eternal Chapters Rewards Attuned KOTET Chapter 1 KOTFE Chapter 2 KOTFE Chapter 15 Eternal Championship Dark vs Light Operations Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Valor Vendor Credits Adaptive Vendor Planet Vendors Planet Vendors - Tatooine Planet Vendors - Voss Planet Vendors - Ossus Random Fitted Rare Blue World Drops Rare Heroic Drops Randomized Weapons Citadel Low-Level Only Starter Weapons Low Level Quest Rewards Low Level Conquest and Flashpoint Boss Drops Sha'tek Companions Companions Alliance Companions Original Companions RotHC Companions Shadow of Revan Retired Legacy Vendor Retired Very Low Level Quest Rewards Retired Older Low Level Quest Rewards Devoted Allies Type Blaster Cannon Blaster Pistol Blaster Rifle Double Bladed Lightsaber Double Bladed Vibrosword Lightsaber Sniper Rifle Vibroblade Vibrosword Styles Animated Bowcaster Color - Blue Color - Golden Color - Green Color - Orange Color - Pink or Purple Color - Red Crystal Showing Curved Elegant Holster HUD Katana Laser-Sight Leather Lightsaber Handle Minigun Muzzle Flash Onderonian Pike Pirate Pointy Spinning Thin Blade Unstable Blade Vented Wooden Handle More Sounds
+- Weapons Lightsabers Double-Bladed Lightsabers Vibroswords Double-Bladed Vibroswords Blaster Pistols Blaster Rifles Sniper Rifles Blaster Cannons Categories Cartel Market Crafting Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Crafting Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics Gearing Gearing 7.0 Tionese Columi Rakata Thyrsian Supreme Decurion Noble Decurion Elite Decurion Hazardous and Virulent Systech Activities Tech Fragments Reputation and Events Special Reputation Vendor Manaan Reputation Manaan Flashpoint Feast of Prosperity Event CZ-198 Reputation Life Day Event Ossus Reputation Rakghoul Event Onderon Reputation Relics of the Gree Event Bounty Contract Event Nightlife Event Dantooine Spring Abundance Festival Event Story Shadow of Revan Story Eternal Chapters Rewards Attuned KOTET Chapter 1 KOTFE Chapter 2 KOTFE Chapter 15 Eternal Championship Dark vs Light Operations Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Valor Vendor Credits Adaptive Vendor Planet Vendors Planet Vendors - Tatooine Planet Vendors - Voss Planet Vendors - Ossus Random Fitted Rare Blue World Drops Rare Heroic Drops Randomized Weapons Citadel Low-Level Only Starter Weapons Low Level Quest Rewards Low Level Conquest and Flashpoint Boss Drops Sha'tek Companions Companions Alliance Companions Original Companions RotHC Companions Shadow of Revan Retired Legacy Vendor Retired Very Low Level Quest Rewards Retired Older Low Level Quest Rewards Devoted Allies Type Blaster Cannon Blaster Pistol Blaster Rifle Double Bladed Lightsaber Double Bladed Vibrosword Lightsaber Sniper Rifle Vibroblade Vibrosword Styles Animated Bowcaster Color - Blue Color - Golden Color - Green Color - Orange Color - Pink or Purple Color - Red Crystal Showing Curved Elegant Holster HUD Katana Laser-Sight Leather Lightsaber Handle Minigun Muzzle Flash Onderonian Pike Pirate Pointy Spinning Thin Blade Unstable Blade Vented Wooden Handle More Sounds
+- Weapons Lightsabers Double-Bladed Lightsabers Vibroswords Double-Bladed Vibroswords Blaster Pistols Blaster Rifles Sniper Rifles Blaster Cannons Categories Cartel Market Crafting Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Crafting Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics Gearing Gearing 7.0 Tionese Columi Rakata Thyrsian Supreme Decurion Noble Decurion Elite Decurion Hazardous and Virulent Systech Activities Tech Fragments Reputation and Events Special Reputation Vendor Manaan Reputation Manaan Flashpoint Feast of Prosperity Event CZ-198 Reputation Life Day Event Ossus Reputation Rakghoul Event Onderon Reputation Relics of the Gree Event Bounty Contract Event Nightlife Event Dantooine Spring Abundance Festival Event Story Shadow of Revan Story Eternal Chapters Rewards Attuned KOTET Chapter 1 KOTFE Chapter 2 KOTFE Chapter 15 Eternal Championship Dark vs Light Operations Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Valor Vendor Credits Adaptive Vendor Planet Vendors Planet Vendors - Tatooine Planet Vendors - Voss Planet Vendors - Ossus Random Fitted Rare Blue World Drops Rare Heroic Drops Randomized Weapons Citadel Low-Level Only Starter Weapons Low Level Quest Rewards Low Level Conquest and Flashpoint Boss Drops Sha'tek Companions Companions Alliance Companions Original Companions RotHC Companions Shadow of Revan Retired Legacy Vendor Retired Very Low Level Quest Rewards Retired Older Low Level Quest Rewards Devoted Allies Type Blaster Cannon Blaster Pistol Blaster Rifle Double Bladed Lightsaber Double Bladed Vibrosword Lightsaber Sniper Rifle Vibroblade Vibrosword Styles Animated Bowcaster Color - Blue Color - Golden Color - Green Color - Orange Color - Pink or Purple Color - Red Crystal Showing Curved Elegant Holster HUD Katana Laser-Sight Leather Lightsaber Handle Minigun Muzzle Flash Onderonian Pike Pirate Pointy Spinning Thin Blade Unstable Blade Vented Wooden Handle More Sounds
+- Weapons Lightsabers Double-Bladed Lightsabers Vibroswords Double-Bladed Vibroswords Blaster Pistols Blaster Rifles Sniper Rifles Blaster Cannons Categories Cartel Market Crafting Armstech Armstech Trainer Armstech Schematics Armstech Reverse Engineer Artifice Artifice Trainer Artifice Schematics Artifice Reverse Engineer Archived Crafting Archived Armstech Trainer Archived Armstech Trainer Special Archived Armstech Trainer Unique Archived Armstech Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Armstech Schematics Archived Armstech Iokath / Gemini Schematics Archived Artifice Trainer Archived Artifice Trainer Unique Archived Artifice Schematics Archived Artifice Rise of the Hutt Cartel and Shadow of Revan Schematics Archived Artifice Iokath / Gemini Schematics Gearing Gearing 7.0 Tionese Columi Rakata Thyrsian Supreme Decurion Noble Decurion Elite Decurion Hazardous and Virulent Systech Activities Tech Fragments Reputation and Events Special Reputation Vendor Manaan Reputation Manaan Flashpoint Feast of Prosperity Event CZ-198 Reputation Life Day Event Ossus Reputation Rakghoul Event Onderon Reputation Relics of the Gree Event Bounty Contract Event Nightlife Event Dantooine Spring Abundance Festival Event Story Shadow of Revan Story Eternal Chapters Rewards Attuned KOTET Chapter 1 KOTFE Chapter 2 KOTFE Chapter 15 Eternal Championship Dark vs Light Operations Galactic Seasons Galactic Seasons Vendor Galactic Seasons Track PvP Seasons PvP Valor Vendor Credits Adaptive Vendor Planet Vendors Planet Vendors - Tatooine Planet Vendors - Voss Planet Vendors - Ossus Random Fitted Rare Blue World Drops Rare Heroic Drops Randomized Weapons Citadel Low-Level Only Starter Weapons Low Level Quest Rewards Low Level Conquest and Flashpoint Boss Drops Sha'tek Companions Companions Alliance Companions Original Companions RotHC Companions Shadow of Revan Retired Legacy Vendor Retired Very Low Level Quest Rewards Retired Older Low Level Quest Rewards Devoted Allies Type Blaster Cannon Blaster Pistol Blaster Rifle Double Bladed Lightsaber Double Bladed Vibrosword Lightsaber Sniper Rifle Vibroblade Vibrosword Styles Animated Bowcaster Color - Blue Color - Golden Color - Green Color - Orange Color - Pink or Purple Color - Red Crystal Showing Curved Elegant Holster HUD Katana Laser-Sight Leather Lightsaber Handle Minigun Muzzle Flash Onderonian Pike Pirate Pointy Spinning Thin Blade Unstable Blade Vented Wooden Handle More Sounds
+- Decorations
+- Everything
+- Quests
+- Names
+- Mounts
+- Pets
+- Crystals
+- Dyes
+- Flairs
+- Titles
+- Gifts
+- Codex
+- Datacrons
+- Lore Story Secrets of the Enclave Mails Secrets of the Enclave Story Mails from Echoes of Oblivion Echoes of Oblivion Story Codex Entries Galactic History of the Old Republic Lore Entries Planet and Locations of the Old Republic Lore Entries Beasts of the Old Republic Lore Entries Persons of Note Class-Specific Old Republic Lore Entries Persons of Note Galaxy Old Republic Lore Entries Korriban, Dromund Kaas, Sith and The Empire Old Republic Lore Entries Rakghouls and Taris Old Republic Lore Entries Zakuul, Iokath, Nathema and The Old Gods Old Republic Lore Entries Additional Planets Old Republic Lore Entries Expansion Planets Old Republic Lore Entries Technology and Ships Old Republic Lore Entries Tython, Coruscant and Jedi Old Republic Lore Entries Mandalorian Old Republic Lore Entries Species of the Old Republic Lore Entries Music Music from Secrets of the Enclave Quest Summaries Quest by Quest Story Guides The Story so Far as the Game Begins Korriban – Quest by Quest Story Guide (Class & Planet) Black Talon (Flashpoint) – Story Guide Hutta – Quest by Quest Story Guide (Class & Planet) Dromund Kaas – Quest by Quest Story Guide (Class & Planet) Balmorra (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 2 (Empire) Nar Shaddaa (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 1 (Empire) – Advanced Class Training (Obsolete but Interesting) Interlude 3 (Empire) Hammer Station (Flashpoint) – Story Guide Balmorra Bonus Series (Empire) – Quest by Quest Story Guide Athiss (Flashpoint) – Story Guide Short Stories Quite A Story To Tell – SWTOR Short Story Trading Scars – SWTOR Short Story Seeing Red – SWTOR Short Story Bottled Fury – SWTOR Short Story Snare – SWTOR Short Story
+- Story Secrets of the Enclave Mails Secrets of the Enclave Story Mails from Echoes of Oblivion Echoes of Oblivion Story Codex Entries Galactic History of the Old Republic Lore Entries Planet and Locations of the Old Republic Lore Entries Beasts of the Old Republic Lore Entries Persons of Note Class-Specific Old Republic Lore Entries Persons of Note Galaxy Old Republic Lore Entries Korriban, Dromund Kaas, Sith and The Empire Old Republic Lore Entries Rakghouls and Taris Old Republic Lore Entries Zakuul, Iokath, Nathema and The Old Gods Old Republic Lore Entries Additional Planets Old Republic Lore Entries Expansion Planets Old Republic Lore Entries Technology and Ships Old Republic Lore Entries Tython, Coruscant and Jedi Old Republic Lore Entries Mandalorian Old Republic Lore Entries Species of the Old Republic Lore Entries Music Music from Secrets of the Enclave Quest Summaries Quest by Quest Story Guides The Story so Far as the Game Begins Korriban – Quest by Quest Story Guide (Class & Planet) Black Talon (Flashpoint) – Story Guide Hutta – Quest by Quest Story Guide (Class & Planet) Dromund Kaas – Quest by Quest Story Guide (Class & Planet) Balmorra (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 2 (Empire) Nar Shaddaa (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 1 (Empire) – Advanced Class Training (Obsolete but Interesting) Interlude 3 (Empire) Hammer Station (Flashpoint) – Story Guide Balmorra Bonus Series (Empire) – Quest by Quest Story Guide Athiss (Flashpoint) – Story Guide Short Stories Quite A Story To Tell – SWTOR Short Story Trading Scars – SWTOR Short Story Seeing Red – SWTOR Short Story Bottled Fury – SWTOR Short Story Snare – SWTOR Short Story
+- Story Secrets of the Enclave Mails Secrets of the Enclave Story Mails from Echoes of Oblivion Echoes of Oblivion Story Codex Entries Galactic History of the Old Republic Lore Entries Planet and Locations of the Old Republic Lore Entries Beasts of the Old Republic Lore Entries Persons of Note Class-Specific Old Republic Lore Entries Persons of Note Galaxy Old Republic Lore Entries Korriban, Dromund Kaas, Sith and The Empire Old Republic Lore Entries Rakghouls and Taris Old Republic Lore Entries Zakuul, Iokath, Nathema and The Old Gods Old Republic Lore Entries Additional Planets Old Republic Lore Entries Expansion Planets Old Republic Lore Entries Technology and Ships Old Republic Lore Entries Tython, Coruscant and Jedi Old Republic Lore Entries Mandalorian Old Republic Lore Entries Species of the Old Republic Lore Entries
+- Story Secrets of the Enclave Mails Secrets of the Enclave Story Mails from Echoes of Oblivion Echoes of Oblivion Story
+- Secrets of the Enclave Mails
+- Secrets of the Enclave Story
+- Mails from Echoes of Oblivion
+- Echoes of Oblivion Story
+- Codex Entries Galactic History of the Old Republic Lore Entries Planet and Locations of the Old Republic Lore Entries Beasts of the Old Republic Lore Entries Persons of Note Class-Specific Old Republic Lore Entries Persons of Note Galaxy Old Republic Lore Entries Korriban, Dromund Kaas, Sith and The Empire Old Republic Lore Entries Rakghouls and Taris Old Republic Lore Entries Zakuul, Iokath, Nathema and The Old Gods Old Republic Lore Entries Additional Planets Old Republic Lore Entries Expansion Planets Old Republic Lore Entries Technology and Ships Old Republic Lore Entries Tython, Coruscant and Jedi Old Republic Lore Entries Mandalorian Old Republic Lore Entries Species of the Old Republic Lore Entries
+- Galactic History of the Old Republic Lore Entries
+- Planet and Locations of the Old Republic Lore Entries
+- Beasts of the Old Republic Lore Entries
+- Persons of Note Class-Specific Old Republic Lore Entries
+- Persons of Note Galaxy Old Republic Lore Entries
+- Korriban, Dromund Kaas, Sith and The Empire Old Republic Lore Entries
+- Rakghouls and Taris Old Republic Lore Entries
+- Zakuul, Iokath, Nathema and The Old Gods Old Republic Lore Entries
+- Additional Planets Old Republic Lore Entries
+- Expansion Planets Old Republic Lore Entries
+- Technology and Ships Old Republic Lore Entries
+- Tython, Coruscant and Jedi Old Republic Lore Entries
+- Mandalorian Old Republic Lore Entries
+- Species of the Old Republic Lore Entries
+- Music Music from Secrets of the Enclave Quest Summaries Quest by Quest Story Guides The Story so Far as the Game Begins Korriban – Quest by Quest Story Guide (Class & Planet) Black Talon (Flashpoint) – Story Guide Hutta – Quest by Quest Story Guide (Class & Planet) Dromund Kaas – Quest by Quest Story Guide (Class & Planet) Balmorra (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 2 (Empire) Nar Shaddaa (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 1 (Empire) – Advanced Class Training (Obsolete but Interesting) Interlude 3 (Empire) Hammer Station (Flashpoint) – Story Guide Balmorra Bonus Series (Empire) – Quest by Quest Story Guide Athiss (Flashpoint) – Story Guide
+- Music Music from Secrets of the Enclave
+- Music from Secrets of the Enclave
+- Quest Summaries Quest by Quest Story Guides The Story so Far as the Game Begins Korriban – Quest by Quest Story Guide (Class & Planet) Black Talon (Flashpoint) – Story Guide Hutta – Quest by Quest Story Guide (Class & Planet) Dromund Kaas – Quest by Quest Story Guide (Class & Planet) Balmorra (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 2 (Empire) Nar Shaddaa (Empire) – Quest by Quest Story Guide (Class & Planet) Interlude 1 (Empire) – Advanced Class Training (Obsolete but Interesting) Interlude 3 (Empire) Hammer Station (Flashpoint) – Story Guide Balmorra Bonus Series (Empire) – Quest by Quest Story Guide Athiss (Flashpoint) – Story Guide
+- Quest by Quest Story Guides
+- The Story so Far as the Game Begins
+- Korriban – Quest by Quest Story Guide (Class & Planet)
+- Black Talon (Flashpoint) – Story Guide
+- Hutta – Quest by Quest Story Guide (Class & Planet)
+- Dromund Kaas – Quest by Quest Story Guide (Class & Planet)
+- Balmorra (Empire) – Quest by Quest Story Guide (Class & Planet)
+- Interlude 2 (Empire)
+- Nar Shaddaa (Empire) – Quest by Quest Story Guide (Class & Planet)
+- Interlude 1 (Empire) – Advanced Class Training (Obsolete but Interesting)
+- Interlude 3 (Empire)
+- Hammer Station (Flashpoint) – Story Guide
+- Balmorra Bonus Series (Empire) – Quest by Quest Story Guide
+- Athiss (Flashpoint) – Story Guide
+- Short Stories Quite A Story To Tell – SWTOR Short Story Trading Scars – SWTOR Short Story Seeing Red – SWTOR Short Story Bottled Fury – SWTOR Short Story Snare – SWTOR Short Story
+- Short Stories Quite A Story To Tell – SWTOR Short Story Trading Scars – SWTOR Short Story Seeing Red – SWTOR Short Story Bottled Fury – SWTOR Short Story Snare – SWTOR Short Story
+- Quite A Story To Tell – SWTOR Short Story
+- Trading Scars – SWTOR Short Story
+- Seeing Red – SWTOR Short Story
+- Bottled Fury – SWTOR Short Story
+- Snare – SWTOR Short Story
+- Toys
+- Tunings
+- Emotes
+- Achievements
+- + More
+
+## Human Name Generator
+
+Humans are the most common and most wide-spread species in the Star Wars universe, and their names are equally varied.
+If you are looking to name your character in Star Wars: The Old Republic or in any other roleplaying game, you can use my Human Name Generator to generate names for your character automatically that will fit in well with the lore and setting of the Old Republic for Human and their culture!
+
+## Human Names
+
+Looking for a generic human unique name for your character? Try one of these out!
+Refresh the page to get a new batch of generated Human names! If a name is already taken, click the plus + sign for more options!
+- Pagoas +
+- Kabeix +
+- Ta'taloi +
+- Jarunese +
+- Potha +
+- Bamiselb +
+- Vekki +
+- Xelli +
+- Kilannu +
+- Qukory +
+- Exeaura +
+- Phurd +
+- Drurnon +
+- Ka'ni +
+- Pilirari +
+
+## Human First & Last Names
+
+Refresh the page to get a new batch of generated Human first and last names!
+- Jor Jorresa
+- Zisyola Warraran
+- Iri Ardene
+- Lodonje Knarre
+- Bru Janellel
+- Chas Kenhulor
+- Bus Dille
+- Kyavon Sereshel
+- Grephel Sedesca
+- Mesh Micunepu
+- Zierye Jonar
+- Kram Babak
+- Aza Barriki
+- Mikik Loarede
+- Dei Bareamar
+- Vol Avellarr
+- Buca Zascani
+- Rardi Cannin
+
+## Last Names Like Skywalker
+
+One of the most famous human names in Star Wars is Luke Skywalker , whose name is a mix of a very common first name, and a last name that's a noun and a verb.
+Refresh the page to get a new batch of generated Human names! If a name is already taken, click the plus + sign for more options!
+- Darkrunner
+- Deathguider
+- Timescreamer
+- Forcewalker
+- Sunbreaker
+- Dawntraveler
+- Soulgazer
+- Windkiller
+- Lossstrider
+- Spacetempter
+- Minddreamer
+- Starwrither
+
+## Human Naming Rules
+
+Humans do not seem to have any canon naming rules or suggestions, mainly because they come from so many different places and distinct cultures. From made up on the spot names like Han 'Solo' , family names like Leia Organa, to names that you get because your parents have them like Luke Skywalker, it's impossible to create a true generator. So I threw the list of existing human names in the generator I built for the other species and you can see what it popped out!
+
+## Human Canon Names
+
+There are over 13,000 human names logged across various Star Wars Media, so I decided to built my name generator only on human names form the Old Republic era. These are names of existing Human characters in Star Wars: The Old Republic and in other Star Wars media. These names likely can't be used in the character creator as they may be restricted, but you can use them as inspiration for your Human, and this is the list I use to pull information from for my Human name generator.
+- Acina
+- Dabrin
+- Revald
+- Riserre
+- Alex Dei-Licoli
+- Alma
+- Amzartho
+- Andronikos Revel
+- Ardon
+- Avitla
+- Azarea Balawii
+- Ba'teil
+- Barik
+- Bendick
+- Blyes
+- Bouris Ulgo
+- Braden
+- Bragan
+- Brel Orus
+- Burne
+- Cala Brin
+- Callef
+- Cam Brell
+- Nerril
+- Revinal Orzik
+- Rikdine
+- Tyrus
+- Celestra
+- Chemish
+- Barleos Choid
+- Tyrus
+- Vorgath
+- Jakker
+- Madine
+- Raste
+- Ballala
+- Corso Riggs
+- Cote
+- Dareg
+- Darek
+- Dekay
+- Derrik Reed
+- Derrin Weller
+- Godera
+- Lokin
+- Dregg
+- Eidgar Dheas
+- Elara Dorne
+- Ellis
+- Brukkara
+- Hetter
+- Temple
+- Drage
+- Farn
+- Ferrus
+- Haken
+- Foreman Rhamm
+- Forris
+- Gabe Dovaro
+- Garon Jard
+- Garvimm
+- Garza
+- Aakars
+- Gianna
+- Gizmel Gam
+- Gorry
+- Harkun
+- Harlas
+- Harron Tavus
+- Horis Thul
+- Hurd
+- Hurwell
+- Iero
+- Jaen Kett
+- Jaesa Willsaam
+- Janarus
+- Jaric Kaedan
+- Jaynes
+- Jerridan
+- Jonas Balkar
+- Keeper
+- Kellik
+- Kendrel
+- Kira Carsen
+- Jailer Knash
+- Bex Kolos
+- Krevan
+- Exar Kun
+- Lamalla Rann
+- Lana Beniko
+- Lekern Renald
+- Lew Brell
+- Liam Dentiri
+- Hollis
+- Iresso
+- Isric
+- Kieral
+- Lyne
+- Pierce
+- Sylas
+- Vekarr
+- Linh
+- Benna Lodd
+- Loonda
+- Fulminiss
+- Varacen
+- Baron Lorn
+- Kean Ma'Sheavor
+- Major Pucenisco
+- Malavai Quinn
+- Shian
+- Mekks
+- Mira
+- Morant
+- Nad'alin
+- Nan-Dijer
+- Odar
+- Orgus Din
+- Ortosin
+- Paul
+- Peters
+- Milo Phipps
+- Leen
+- Pyther
+- Qo'el
+- Reki
+- Relnex
+- Renning
+- Revan
+- Rex Geer
+- Risha
+- Rycus Kilran
+- Ryso
+- Sanju Pyne
+- Sarala
+- Satele Shan
+- Michyl
+- Sedyn Kyne
+- Selanno
+- Jolis
+- Shiden
+- Shiraben Dheas
+- Shura
+- Skavak
+- Sulan
+- Masha
+- Syo Bakarn
+- Syreena
+- Tager'na
+- Talos Drellik
+- Tamin
+- Tarro Blood
+- Jalba
+- Tobas Grell
+- Torian Cadera
+- Toth
+- Travi Pott
+- Trix Skylan
+- Trix-Tala
+- Trymbo
+- Vandal
+- Varless
+- Vector
+- Vessex Ulgo
+- Vexx
+- Viidu
+- Volik
+- Warren Sedoru
+- Waxx
+- Wesner
+- Xenteel
+- Xorem
+- Xuss
+- Yerk
+- Yuon Par
+- Zash
+- Ephran Zell
+- Zi'am
+
+## Custom Last Name
+
+Want to assemble your own 'Skywalker' style last name? Here's the custom set of words I threw into my name generator, see if you can put together a combo that you like! I've also included a bunch of names similar to 'Luke' - short, sweet and traditional.
+- Adam
+- Andy
+- Anne
+- Aron
+- Ben
+- Blake
+- Cale
+- Dan
+- David
+- Eli
+- Elon
+- Eve
+- Gabe
+- Grace
+- Gwen
+- Jace
+- Jack
+- Jake
+- James
+- Jane
+- Jay
+- Jean
+- Jess
+- Joan
+- John
+- Jonas
+- Josh
+- Leah
+- Lily
+- Luke
+- Mark
+- Matt
+- Mike
+- Nick
+- Noah
+- Paul
+- Pete
+- Ray
+- Rey
+- Sam
+- Saul
+- Seth
+- Thad
+- Dark
+- Dawn
+- Day
+- Death
+- Dream
+- Force
+- Gate
+- Hope
+- Ice
+- Life
+- Light
+- Loss
+- Mind
+- Moon
+- Night
+- Noon
+- Past
+- Sand
+- Sky
+- Soul
+- Space
+- Star
+- Sun
+- Time
+- Wind
+- Wish
+- Breaker
+- Dreamer
+- Finder
+- Gazer
+- Guider
+- Killer
+- Roamer
+- Runner
+- Screamer
+- Seer
+- Stealer
+- Strider
+- Tempter
+- Traveler
+- Walker
+- Writher
+
+### Other SWTOR Name Generators
+
+### Name Guides
+
+The best way to reach me is by messaging me on Discord @Swtorista (may need to add as friend first), or even better come say hi live on Twitch in the weekday mornings, 8 - 10 AM Pacific. You're welcome to message me on discord with any comments about my guides or with questions about the game! If you want to report an error, post it on the Website Discord.
+- Discord @Swtorista (best way to contact, join or request friends then message)
+- Email swtorista@gmail.com
+- Bluesky @swtorista.com
+- Reddit /u/swtorista
+- Twitch Swtorista (comment while live)
+- Youtube (not preferred for communication)
+- Patreon (not preferred for communication)
+- Twitter @swtorista (not used anymore)
+Support projects on this website by making a pledge on Patreon!
+Did you find one of my guides useful? I'd love to hear it!
+About | Privacy Policy | Advertising
+
+## Your Use of Our Content
+
+The content we make available on this website [and through our other channels] (the “Service”) was created, developed, compiled, prepared, revised, selected, and/or arranged by us, using our own methods and judgment, and through the expenditure of substantial time and effort. This Service and the content we make available are proprietary, and are protected by these Terms of Service (which is a contract between us and you), copyright laws, and other intellectual property laws and treaties. This Service is also protected as a collective work or compilation under U.S. copyright and other laws and treaties. We provide it for your personal, non-commercial use only.
+You may not use, and may not authorize any third party to use, this Service or any content we make available on this Service in any manner that (i) is a source of or substitute for the Service or the content; (ii) affects our ability to earn money in connection with the Service or the content; or (iii) competes with the Service we provide. These restrictions apply to any robot, spider, scraper, web crawler, or other automated means or any similar manual process, or any software used to access the Service. You further agree not to violate the restrictions in any robot exclusion headers of this Service, if any, or bypass or circumvent other measures employed to prevent or limit access to the Service by automated means.
+
+--------------------

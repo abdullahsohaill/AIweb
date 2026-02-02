@@ -1,0 +1,188 @@
+# GitPython
+**URL:** https://gitpython.readthedocs.io
+**Page Title:** GitPython Documentation — GitPython 3.1.46 documentation
+--------------------
+
+- GitPython Documentation
+- View page source
+
+## GitPython Documentation 
+
+- Overview / Install Requirements Installing GitPython Limitations Getting Started API Reference Source Code Questions and Answers Issue Tracker License Information
+- Requirements
+- Installing GitPython
+- Limitations
+- Getting Started
+- API Reference
+[LINK: API Reference](intro.html#api-reference)
+- Source Code
+- Questions and Answers
+- Issue Tracker
+- License Information
+- GitPython Quick Start Tutorial git.Repo Trees & Blobs Usage More Resources
+- git.Repo
+- Trees & Blobs
+- Usage
+- More Resources
+- GitPython Tutorial Meet the Repo type Examining References Modifying References Understanding Objects The Commit object The Tree object The Index Object Handling Remotes Submodule Handling Obtaining Diff Information Switching Branches Initializing a repository Using git directly Object Databases Git Command Debugging and Customization And even more …
+- Meet the Repo type
+- Examining References
+- Modifying References
+- Understanding Objects
+- The Commit object
+- The Tree object
+- The Index Object
+- Handling Remotes
+- Submodule Handling
+- Obtaining Diff Information
+- Switching Branches
+- Initializing a repository
+- Using git directly
+- Object Databases
+- Git Command Debugging and Customization
+- And even more …
+- API Reference Top-Level Objects.Base Objects.Blob Objects.Commit Objects.Tag Objects.Tree Objects.Functions Objects.Submodule.base Objects.Submodule.root Objects.Submodule.util Objects.Util Index.Base Index.Functions Index.Types Index.Util GitCmd Config Diff Exceptions Refs.symbolic Refs.reference Refs.head Refs.tag Refs.remote Refs.log Remote Repo.Base Repo.Functions Compat DB Types Util
+- Top-Level
+- Objects.Base
+- Objects.Blob
+- Objects.Commit
+- Objects.Tag
+- Objects.Tree
+- Objects.Functions
+- Objects.Submodule.base
+- Objects.Submodule.root
+- Objects.Submodule.util
+- Objects.Util
+- Index.Base
+- Index.Functions
+- Index.Types
+- Index.Util
+- GitCmd
+- Config
+- Diff
+- Exceptions
+- Refs.symbolic
+- Refs.reference
+- Refs.head
+- Refs.tag
+- Refs.remote
+- Refs.log
+- Remote
+- Repo.Base
+- Repo.Functions
+- Compat
+- Types
+- Util
+- Roadmap
+- Changelog 3.1.46 3.1.45 3.1.44 3.1.43 3.1.42 3.1.41 3.1.40 3.1.38 3.1.37 3.1.36 3.1.35 3.1.34 3.1.33 3.1.32 3.1.31 3.1.30 3.1.29 3.1.28 3.1.27 3.1.26 3.1.25 3.1.24 3.1.23 (YANKED) 3.1.20 (YANKED) 3.1.19 (YANKED) 3.1.18 3.1.17 3.1.16 (YANKED) 3.1.15 (YANKED) 3.1.14 3.1.13 3.1.12 3.1.11 3.1.10 3.1.9 3.1.8 3.1.7 3.1.6 3.1.5 3.1.4 3.1.3 3.1.2 3.1.1 3.1.0 3.0.9 3.0.8 3.0.7 3.0.6 3.0.5 - Bugfixes 3.0.4 - Bugfixes 3.0.3 - Bugfixes 3.0.2 - Bugfixes 3.0.1 - Bugfixes and performance improvements 3.0.0 - Remove Python 2 support 2.1.15 2.1.14 2.1.13 - Bring back Python 2.7 support 2.1.12 - Bugfixes and Features 2.1.11 - Bugfixes 2.1.10 - Bugfixes 2.1.9 - Dropping support for Python 2.6 2.1.8 - bugfixes 2.1.6 - bugfixes 2.1.3 - Bugfixes 2.1.1 - Bugfixes 2.1.0 - Much better windows support! 2.0.9 - Bugfixes 2.0.8 - Features and Bugfixes 2.0.7 - New Features 2.0.6 - Fixes and Features 2.0.5 - Fixes 2.0.4 - Fixes 2.0.3 - Fixes 2.0.2 - Fixes 2.0.1 - Fixes 2.0.0 - Features 1.0.2 - Fixes 1.0.1 - Fixes 1.0.0 - Notes 0.3.7 - Fixes 0.3.6 - Features 0.3.5 - Bugfixes 0.3.4 - Python 3 Support 0.3.3 0.3.2.1 0.3.2 0.3.2 RC1 0.3.1 Beta 2 0.3.1 Beta 1 0.3.0 Beta 2 0.3.0 Beta 1 0.2 Beta 2 0.2 0.1.6 0.1.5 0.1.4.1 0.1.4 0.1.2 0.1.1 0.1.0
+- 3.1.46
+- 3.1.45
+- 3.1.44
+- 3.1.43
+- 3.1.42
+- 3.1.41
+- 3.1.40
+- 3.1.38
+- 3.1.37
+- 3.1.36
+- 3.1.35
+- 3.1.34
+- 3.1.33
+- 3.1.32
+- 3.1.31
+- 3.1.30
+- 3.1.29
+- 3.1.28
+- 3.1.27
+- 3.1.26
+- 3.1.25
+- 3.1.24
+- 3.1.23 (YANKED)
+- 3.1.20 (YANKED)
+- 3.1.19 (YANKED)
+- 3.1.18
+- 3.1.17
+- 3.1.16 (YANKED)
+- 3.1.15 (YANKED)
+- 3.1.14
+- 3.1.13
+- 3.1.12
+- 3.1.11
+- 3.1.10
+- 3.1.9
+- 3.1.8
+- 3.1.7
+- 3.1.6
+- 3.1.5
+- 3.1.4
+- 3.1.3
+- 3.1.2
+- 3.1.1
+- 3.1.0
+- 3.0.9
+- 3.0.8
+- 3.0.7
+- 3.0.6
+- 3.0.5 - Bugfixes
+- 3.0.4 - Bugfixes
+- 3.0.3 - Bugfixes
+- 3.0.2 - Bugfixes
+- 3.0.1 - Bugfixes and performance improvements
+- 3.0.0 - Remove Python 2 support
+- 2.1.15
+- 2.1.14
+- 2.1.13 - Bring back Python 2.7 support
+- 2.1.12 - Bugfixes and Features
+- 2.1.11 - Bugfixes
+- 2.1.10 - Bugfixes
+- 2.1.9 - Dropping support for Python 2.6
+- 2.1.8 - bugfixes
+- 2.1.6 - bugfixes
+- 2.1.3 - Bugfixes
+- 2.1.1 - Bugfixes
+- 2.1.0 - Much better windows support!
+- 2.0.9 - Bugfixes
+- 2.0.8 - Features and Bugfixes
+- 2.0.7 - New Features
+- 2.0.6 - Fixes and Features
+- 2.0.5 - Fixes
+- 2.0.4 - Fixes
+- 2.0.3 - Fixes
+- 2.0.2 - Fixes
+- 2.0.1 - Fixes
+- 2.0.0 - Features
+- 1.0.2 - Fixes
+- 1.0.1 - Fixes
+- 1.0.0 - Notes
+- 0.3.7 - Fixes
+- 0.3.6 - Features
+- 0.3.5 - Bugfixes
+- 0.3.4 - Python 3 Support
+- 0.3.3
+- 0.3.2.1
+- 0.3.2
+- 0.3.2 RC1
+- 0.3.1 Beta 2
+- 0.3.1 Beta 1
+- 0.3.0 Beta 2
+- 0.3.0 Beta 1
+- 0.2 Beta 2
+- 0.2
+- 0.1.6
+- 0.1.5
+- 0.1.4.1
+- 0.1.4
+- 0.1.2
+- 0.1.1
+- 0.1.0
+
+## Indices and tables 
+
+- Index
+Index
+- Module Index
+Module Index
+- Search Page
+Search Page
+
+--------------------

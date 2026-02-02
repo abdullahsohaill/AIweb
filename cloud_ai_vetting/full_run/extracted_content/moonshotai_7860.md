@@ -1,0 +1,75 @@
+# Moonshot.ai
+**URL:** http://Moonshot.ai
+**Page Title:** Moonshot AI
+--------------------
+
+扫码下载 Kimi APP
+你好，
+欢迎探索月之暗面
+寻求将能源转化为智能的最优解
+
+## 最新研究
+
+[LINK: Kimi K2 Open Agentic Intelligence 2025-07-11](https://moonshotai.github.io/Kimi-K2/)
+
+## Kimi K2
+
+## Open Agentic Intelligence
+
+2025-07-11
+[LINK: Kimi K2 Thinking 2025-11-06](https://moonshotai.github.io/Kimi-K2/thinking.html)
+
+## Kimi K2 Thinking
+
+2025-11-06
+
+## Kimi-K2-Instruct-0905
+
+2025-09-05
+[LINK: Kimi-Researcher 2025-06-20](https://moonshotai.github.io/Kimi-Researcher/)
+
+## Kimi-Researcher
+
+2025-06-20
+[LINK: Kimi-Dev 2025-06-17](https://github.com/MoonshotAI/Kimi-Dev)
+
+## Kimi-Dev
+
+2025-06-17
+[LINK: Kimi-Audio 2025-04-26](https://github.com/MoonshotAI/Kimi-Audio)
+
+## Kimi-Audio
+
+2025-04-26
+[LINK: Kimina-Prover 预览版 2025-04-15](https://github.com/MoonshotAI/Kimina-Prover-Preview)
+
+## Kimina-Prover 预览版
+
+2025-04-15
+[LINK: Kimi-VL 2025-04-10](https://github.com/MoonshotAI/Kimi-VL)
+
+## Kimi-VL
+
+2025-04-10
+[LINK: Muon is Scalable for LLM Training 2025-02-23](https://github.com/MoonshotAI/Moonlight)
+
+## Muon is Scalable for LLM Training
+
+2025-02-23
+[LINK: MoBA 混合块注意力机制 2025-02-18](https://github.com/MoonshotAI/MoBA)
+
+## MoBA 混合块注意力机制
+
+2025-02-18
+[LINK: Kimi k1.5：强化学习的规模化扩展 2025-01-20](https://github.com/MoonshotAI/Kimi-k1.5)
+
+## Kimi k1.5：强化学习的规模化扩展
+
+2025-01-20
+[LINK: Mooncake: 以 KVCache 为中心的分离式LLM服务架构 2024-06-26](https://github.com/kvcache-ai/Mooncake/)
+
+## Mooncake: 以 KVCache 为中心的分离式LLM服务架构
+
+2024-06-26
+
+--------------------

@@ -1,0 +1,225 @@
+# llms.txt
+**URL:** https://docs.replit.com/llms.txt
+**Page Title:** 
+--------------------
+
+### (Raw Extraction Fallback)
+
+# Replit
+
+## Docs
+
+- [Earning with Replit Bounties](https://docs.replit.com/additional-resources/bounties/bounty-hunting.md): Bounties on Replit allow you to request and pay for coding tasks or project work using a platform-specific currency called Cycles. When you have a specific need—such as developing a new product, needing coding help for a personal project, or requiring API integration—you can create a Bounty. This acts as a job posting that other members, known as Bounty Hunters, can accept to complete the specified task.
+- [Bounty Templates](https://docs.replit.com/additional-resources/bounties/bounty-templates.md): Learn how to communicate effectively during bounty projects with templates for both bounty hunters and posters to use throughout the process.
+- [Frequently Asked Questions (FAQ)](https://docs.replit.com/additional-resources/bounties/faq.md): Learn how to post and complete Bounties on Replit, including pricing guidelines, payment processes, and best practices for both Bounty Posters and Hunters.
+- [Resources for Bounty Hunters](https://docs.replit.com/additional-resources/bounties/hunter-resources.md): Find templates, portfolio tips, and tutorials to help you succeed as a Replit bounty hunter. Learn how to showcase your work and build your skills.
+- [Posting and awarding a Bounty](https://docs.replit.com/additional-resources/bounties/posting-a-bounty.md): Learn how to post a bounty, manage applications, and review work submissions on Replit's bounty platform to get help with your projects.
+- [Replit Cheat Sheet](https://docs.replit.com/additional-resources/cheat-sheet.md): A handy cheat sheet summarizing the key features and functionalities of Replit.
+- [The Graphical Command Line Interface](https://docs.replit.com/additional-resources/clui-graphical-cli.md): Learn how to use CLUI, Replit's interactive command bar that lets you perform various actions across your Account, Workspace, and through Shortcuts.
+- [Google Authentication in Python and Flask](https://docs.replit.com/additional-resources/google-auth-in-flask.md): Learn how to implement Google OAuth authentication in a Flask app on Replit, including user login and Google Sheets API integration.
+- [Streaming native graphics using VNC](https://docs.replit.com/additional-resources/streaming-native-graphics-vnc.md): Replit offers virtual network computing (VNC) functionality. VNC is a mature virtual desktop protocol that allows your Replit App to stream a native desktop to your web browser. This protocol allows native applications (developed in Python, Java, C++, etc.) to open desktop windows as they would on any physical computer.
+- [Publishing and Database Billing](https://docs.replit.com/billing/about-usage-based-billing.md): Learn how Replit bills for publishing and databases, including outbound data transfer, compute units, requests, and PostgreSQL usage metrics.
+- [Replit AI Billing](https://docs.replit.com/billing/ai-billing.md): Learn how billing and credits work for Replit AI features including Agent usage, checkpoints, and managing your spend.
+- [Publishing costs](https://docs.replit.com/billing/deployment-pricing.md): Flexible publishing costs that scale with your app's needs. Pay only for what you use with transparent, credit-based billing.
+- [Managing Your Spend](https://docs.replit.com/billing/managing-spend.md): Control AI costs and monitor spending with usage alerts, budgets, Plan Mode, and autonomy settings. Learn strategies to optimize your Replit usage and reduce unnecessary token consumption.
+- [App Storage Billing](https://docs.replit.com/billing/object-storage-billing.md): Learn how Replit charges for App Storage.
+- [Replit Core](https://docs.replit.com/billing/plans/replit-core.md): Learn about Replit Core membership features including powerful AI tools, high-performance workspaces, and one-click publishing.
+- [Starter Plan](https://docs.replit.com/billing/plans/starter-plan.md): Learn about the Starter plan features, limitations, and what you can build for Free.
+- [Analytics Dashboard](https://docs.replit.com/billing/teams-billing/analytics-dashboard.md): View activity, resource usage, published apps, and costs with the Enterprise Analytics Dashboard.
+- [Cancellation](https://docs.replit.com/billing/teams-billing/cancellation.md): Learn how to cancel your organization subscription and understand what happens to your resources when you delete your organization.
+- [Managing Seats](https://docs.replit.com/billing/teams-billing/managing-seats.md): Learn how to add and remove seats in your organization, including prorated billing and scheduling changes for the next billing period.
+- [Overview](https://docs.replit.com/billing/teams-billing/overview.md): Learn about seat pricing and usage-based billing for Replit Teams, including how invoicing works and monthly credit allocations per team member.
+- [Billing](https://docs.replit.com/category/billing.md): Replit's billing system helps you optimize your spending on the platform.
+- [Bounties](https://docs.replit.com/category/bounties.md): Learn how to earn Cycles by completing coding tasks or post your own Bounties to get help with development projects on Replit.
+- [Cloud Services](https://docs.replit.com/category/cloud-services.md): Learn how to publish your Replit Apps and manage cloud storage and databases to build production-ready applications.
+- [Legal and Security](https://docs.replit.com/category/legal-and-security.md): Learn about Replit's policies on security, privacy, licensing, usage limits, and other legal matters to help you use the platform safely and effectively.
+- [Replit AI](https://docs.replit.com/category/replit-ai.md): Replit's AI-powered tools help you turn ideas into production-ready apps.
+- [Replit Apps](https://docs.replit.com/category/replit-apps.md): Replit Apps help you transform your ideas into apps anyone can access, anywhere.
+- [Overview](https://docs.replit.com/category/replit-deployments.md): Share your Replit Apps with the world in just a few clicks.
+- [Overview](https://docs.replit.com/category/replit-workspace.md): The Replit workspace is an environment where you can create apps and write code in a single browser tab without any installation or setup. From the workspace, you can create, run, and publish your apps from any device.
+- [Storage and Databases](https://docs.replit.com/category/storage-and-databases.md): Learn about file storage and database options on Replit.
+- [Replit Teams and Enterprise](https://docs.replit.com/category/teams.md): Have your team build production-ready customer apps and business tools faster with Replit.
+- [Workspace Features](https://docs.replit.com/category/workspace-features.md): The Replit workspace features are a comprehensive set of tools that power your app creation experience.
+- [About Publishing](https://docs.replit.com/cloud-services/deployments/about-deployments.md): Publishing is a way to release a snapshot of your Replit App, ensuring that changes made within the editor don't disrupt the production build. Customize run and build commands, and connect your published app to a `<app-name>.replit.app` or a custom domain.
+- [Autoscale Deployments](https://docs.replit.com/cloud-services/deployments/autoscale-deployments.md): Autoscale Deployments publish your Replit App to cloud servers that adjust automatically to handle your app's traffic and workload.
+- [Custom Domains](https://docs.replit.com/cloud-services/deployments/custom-domains.md): Use your domain name for your Replit published apps to showcase your app from a professional, branded web address.
+- [Domain Purchasing](https://docs.replit.com/cloud-services/deployments/domain-purchasing.md): Purchase and connect domains for your Replit published apps directly within the platform to make your apps accessible with custom URLs.
+- [Enable Feedback Widget](https://docs.replit.com/cloud-services/deployments/enable-feedback.md): Enable feedback collection on your published deployments to gather insights directly from your users.
+- [Published App Monitoring](https://docs.replit.com/cloud-services/deployments/monitoring-a-deployment.md): The Publishing tool provides real-time insights for your published Replit Apps.
+- [Private Deployments](https://docs.replit.com/cloud-services/deployments/private-deployments.md): Control access to your published app without any code configuration.
+- [Reserved VM Deployments](https://docs.replit.com/cloud-services/deployments/reserved-vm-deployments.md): Reserved VM Deployments publish your Replit App to an always-on cloud server.
+- [Scheduled Deployments](https://docs.replit.com/cloud-services/deployments/scheduled-deployments.md): Scheduled deployments run your Replit App tasks on a schedule with minimal setup.
+- [Static Deployments](https://docs.replit.com/cloud-services/deployments/static-deployments.md): Static Deployments publish your static websites and frontend apps to a cost-effective cloud server.
+- [Static Deployment Configuration](https://docs.replit.com/cloud-services/deployments/static-deployments-advanced.md): Static deployments let you control the HTTP headers, routing rules, and URL rewrites for your static website.
+- [App Storage](https://docs.replit.com/cloud-services/storage-and-databases/object-storage.md): App Storage is Replit's built-in file storage that lets your app easily host and save uploads like images, videos, and documents.
+- [Production Databases](https://docs.replit.com/cloud-services/storage-and-databases/production-databases.md): Learn how to safely manage and publish database changes in production environments.
+- [Key-Value Store](https://docs.replit.com/cloud-services/storage-and-databases/replit-database.md): A simple, built-in key-value database for your Replit Apps with no configuration required.
+- [Database](https://docs.replit.com/cloud-services/storage-and-databases/sql-database.md): Replit Database is a SQL database built-in to your Replit App. It allows you to store and retrieve data for your app and users.
+- [FAQ](https://docs.replit.com/faq.md): Find answers to common questions about Replit, including account management, troubleshooting, billing support, and using key features.
+- [Introduction](https://docs.replit.com/getting-started/intro-replit.md): Replit is the fastest way to go from idea to app. Create and publish full-stack apps from your browser with AI at your fingertips—no installation or setup required.
+- [Build your first App](https://docs.replit.com/getting-started/quickstarts/ask-ai.md): Create an interactive piano app using Replit Agent in just a few minutes.
+- [Replit App in ChatGPT](https://docs.replit.com/getting-started/quickstarts/build-in-chatgpt.md): Learn how to build a Replit App directly from ChatGPT.
+- [Connect your app to a SQL database](https://docs.replit.com/getting-started/quickstarts/database-connection.md): Learn how to connect to your Replit database from your Replit App.
+- [Import from Bolt](https://docs.replit.com/getting-started/quickstarts/import-from-bolt.md): Learn how to import Bolt projects into Replit by exporting to GitHub first, then importing with Agent assistance.
+- [Import from Figma](https://docs.replit.com/getting-started/quickstarts/import-from-figma.md): Learn how to import Figma designs into Replit and convert them into functional React applications.
+- [Import from GitHub](https://docs.replit.com/getting-started/quickstarts/import-from-github.md): Learn how to import GitHub repositories into Replit using rapid import or guided import methods.
+- [Import from Lovable](https://docs.replit.com/getting-started/quickstarts/import-from-lovable.md): Learn how to import Lovable projects into Replit by exporting to GitHub first, then importing with Agent assistance.
+- [Import from Vercel](https://docs.replit.com/getting-started/quickstarts/import-from-vercel.md): Learn how to import Vercel projects into Replit by linking your GitHub repository and letting Agent handle the setup.
+- [Import from ZIP](https://docs.replit.com/getting-started/quickstarts/import-from-zip.md): Learn how to import ZIP files into Replit by uploading your compressed project and letting Agent handle the setup.
+- [Manage App Storage in JavaScript](https://docs.replit.com/getting-started/quickstarts/object-storage-javascript.md): Learn how to use the JavaScript App Storage client library to manage files from your Replit App.
+- [Manage App Storage in Python](https://docs.replit.com/getting-started/quickstarts/object-storage-python.md): Learn how to use the Python App Storage client library to manage files from your Replit App.
+- [Remix an App](https://docs.replit.com/getting-started/quickstarts/remix-an-app.md): Learn how to create a **Remix** as a starting point for your app. A Remix is a Replit App started from a publicly shared Replit App.
+- [Reporting Abuse on Replit](https://docs.replit.com/legal-and-security-info/abuse-report.md): At Replit, we strive to maintain a safe and welcoming environment for all our users. If you encounter abusive, harmful, or inappropriate content, we encourage you to report it immediately. We have established multiple channels to address various types of concerns efficiently. Here's how you can help
+- [Account Inactivity](https://docs.replit.com/legal-and-security-info/account-inactivity.md): Learn about Replit's account inactivity policy, when accounts may be terminated, and how paid subscriptions affect account status.
+- [Copyright claims and takedown requests](https://docs.replit.com/legal-and-security-info/copyright-claims-takedown-requests.md): Learn how to submit DMCA takedown requests for copyrighted content or private information on Replit Apps and understand the required documentation process.
+- [Deleting your data](https://docs.replit.com/legal-and-security-info/deleting-your-data.md): Learn how to permanently delete your account and personal information from Replit using either the web browser or mobile app.
+- [Licensing information](https://docs.replit.com/legal-and-security-info/licensing-info.md): Learn how public and private Replit Apps are licensed, including MIT license details and how to specify custom licenses for your projects.
+- [Security](https://docs.replit.com/legal-and-security-info/security.md): Your code, applications, and data are important. We're committed to protecting them—Replit's security is our security, too.
+- [Strike system FAQ](https://docs.replit.com/legal-and-security-info/strike-system-faq.md): Learn about warnings, banned community access, and site bans in Replit.
+- [Support Policy](https://docs.replit.com/legal-and-security-info/support-policy.md): Replit offers different support options for all Replit users.
+- [Trust and Safety at Replit](https://docs.replit.com/legal-and-security-info/trust-and-safety.md): At Replit, we strive to create a fun and creative community that is also trusted and safe. To achieve this goal, we have implemented rules and policies that promote positive behavior and protect our users. In this document, you will find a summary of our key rules, tips on how to report any concerns, and information on where you can learn more.
+- [Usage Quota & Limits](https://docs.replit.com/legal-and-security-info/usage.md): Learn about Replit's resource limits, including CPU, RAM, storage, and network restrictions that apply to Replit Apps based on your plan.
+- [Replit web accessibility statement](https://docs.replit.com/legal-and-security-info/web-accessibility.md): Learn about Replit's commitment to web accessibility, WCAG 2.1 compliance goals, current accessibility status, and how to provide feedback about accessibility features.
+- [Replit in ChatGPT](https://docs.replit.com/platforms/chatgpt.md): Build real apps by talking to ChatGPT. Create, update, and inspect Replit Apps from a single conversation.
+- [Replit Desktop App](https://docs.replit.com/platforms/desktop-app.md): The Replit Desktop App for macOS, Windows, and Linux lets you create apps using all Replit's tools in a focused coding environment.
+- [Replit Mobile App](https://docs.replit.com/platforms/mobile-app.md): The Replit Mobile App for iOS and Android lets you create apps using all of Replit's tools on the go.
+- [App Storage JavaScript SDK](https://docs.replit.com/reference/object-storage-javascript-sdk.md): The Replit App Storage Client is the official JavaScript SDK for managing interactions with Replit App Storage. This lets you programmatically copy, delete, upload, and download files within Replit App Storage buckets.
+- [App Storage Python SDK](https://docs.replit.com/reference/object-storage-python-sdk.md): The Replit App Storage Client is the official Python SDK for managing interactions with Replit App Storage. This lets you programmatically copy, delete, upload, and download objects within Replit App Storage buckets.
+- [Collaboration](https://docs.replit.com/replit-app/collaborate.md): One of the great parts about Replit is that _everything_ you make can be shared with the world. Since your code is hosted in the cloud, it's as simple as one click!
+- [Replit App Configuration](https://docs.replit.com/replit-app/configuration.md): Learn how to configure your Replit App using .replit and replit.nix files to manage dependencies, run commands, environment variables, and deployment settings.
+- [Import](https://docs.replit.com/replit-app/import-to-replit.md): Importing projects and designs from external tools into Replit Agent Apps.
+- [Replit App Visibility](https://docs.replit.com/replit-app/visibility.md): Learn how to create and manage private Replit Apps with a Core membership or Teams Pro account. Control access to your projects with privacy settings.
+- [Dependency Management](https://docs.replit.com/replit-workspace/dependency-management.md): Replit supports a variety of languages and dependency management systems through the Dependencies tool. This section will cover the different types of dependencies and how to manage them in your Replit App.
+- [Keyboard Shortcuts](https://docs.replit.com/replit-workspace/keyboard-shortcuts.md): Learn how to view, add, and modify keyboard shortcuts that can boost your productivity in Replit.
+- [Ports](https://docs.replit.com/replit-workspace/ports.md): Learn how ports work in Replit's cloud environment, including port forwarding, configuration, and troubleshooting for your web applications.
+- [Replit Auth](https://docs.replit.com/replit-workspace/replit-auth.md): Add user accounts, personalized experiences, and secure access control to your app. Enterprise-grade authentication that works with a single Agent prompt.
+- [Replit Themes](https://docs.replit.com/replit-workspace/replit-themes.md): Personalize your workspace with custom color schemes, syntax highlighting, and UI preferences, or explore and use themes created by the community.
+- [SSH](https://docs.replit.com/replit-workspace/ssh.md): Learn how to set up and use SSH to connect your local development environment to Replit Apps for secure remote access and file synchronization.
+- [Developer Frameworks](https://docs.replit.com/replit-workspace/templates.md): If your Replit App can be used as a good starting point for other project, you might want to submit it as a developer framework! Let's learn what a Replit developer framework is and how to make a good one.
+- [Workflows](https://docs.replit.com/replit-workspace/workflows.md): A Workflow is a easily configurable 'Run' button that can run any command(s) you'd like.
+- [Console](https://docs.replit.com/replit-workspace/workspace-features/console.md): Console shows the output of running your Replit App code, informing you of activity and errors.
+- [File History](https://docs.replit.com/replit-workspace/workspace-features/file-history.md): To make sure you never lose any of your work, Replit auto-saves your code as you write. If you ever lose an edit to your code that you'd like to recover, rewind back in time with File History.
+- [Using the Git pane](https://docs.replit.com/replit-workspace/workspace-features/git-interface.md): The Git pane streamlines version control directly in your workspace, making code tracking, branch management, and collaboration seamless.
+- [Multiplayer](https://docs.replit.com/replit-workspace/workspace-features/multiplayer.md): Multiplayer lets you collaborate in real time with other users on your Replit App.
+- [Preview](https://docs.replit.com/replit-workspace/workspace-features/preview.md): The Preview workspace tool lets you instantly view and interact with your web app.
+- [Secrets](https://docs.replit.com/replit-workspace/workspace-features/secrets.md): The Secrets workspace tool lets you securely store sensitive information your app needs as encrypted environment variables.
+- [Security and Privacy Scanner](https://docs.replit.com/replit-workspace/workspace-features/security-scanner.md): Scan your Replit App for high-impact security and privacy vulnerabilities, then fix them before you publish.
+- [Shell](https://docs.replit.com/replit-workspace/workspace-features/shell.md): Shell is a command-line tool that lets you run commands in your Replit App's workspace.
+- [User Settings](https://docs.replit.com/replit-workspace/workspace-features/user-settings.md): User Settings let you personalize your workspace across all apps. These settings help you create your ideal development environment.
+- [Version control](https://docs.replit.com/replit-workspace/workspace-features/version-control.md): Track changes, collaborate with others, and manage your code's evolution using Replit's integrated version control tools.
+- [Replit Agent](https://docs.replit.com/replitai/agent.md): Replit Agent uses AI to set up and create apps from scratch. Describe your app in everyday language, and it can set up and create your Replit App in minutes.
+- [Agents & Automations](https://docs.replit.com/replitai/agents-and-automations.md): Build intelligent agents, chatbots, and automated workflows using Replit Agent. Create Slackbots, Telegram bots, scheduled automations, and more.
+- [App Testing](https://docs.replit.com/replitai/app-testing.md): Agent's self-testing feature that validates your app's functionality using an actual browser, with visual feedback and automatic issue resolution.
+- [App Themes](https://docs.replit.com/replitai/app-themes.md): Customize your app's visual appearance with color schemes and themes. Create, manage, and apply themes to new and existing apps.
+- [Autonomy Level](https://docs.replit.com/replitai/autonomy-level.md): Control Agent's level of autonomy (how often it reviews its code & makes changes without intervention).
+- [Native mobile apps](https://docs.replit.com/replitai/building-mobile-apps.md): Go from idea to App Store. Build a native mobile app with Agent, test on your phone, and publish with a guided flow.
+- [Checkpoints and Rollbacks](https://docs.replit.com/replitai/checkpoints-and-rollbacks.md): Learn how checkpoints automatically save your work and how rollbacks let you undo changes.
+- [Connectors for Organizations](https://docs.replit.com/replitai/connectors-for-organizations.md): Centralize and manage app connectors across Teams and Enterprise Workspaces with admin controls, scoped permissions, and audit tracking.
+- [Design Mode](https://docs.replit.com/replitai/design-mode.md): Create beautiful interactive designs and static websites in under 2 minutes with better visual quality than ever.
+- [Fast Mode](https://docs.replit.com/replitai/fast-mode.md): Make targeted changes in seconds with Agent's Fast mode. Up to 5x faster and typically cheaper per prompt than autonomous mode.
+- [General Agent](https://docs.replit.com/replitai/general-agent.md): General Agent is a powerful variant of Replit Agent designed to work with any project type or framework, offering enhanced flexibility and broader workflow support
+- [Image generation](https://docs.replit.com/replitai/image-generation.md): Generate AI images directly in Replit and seamlessly integrate them into your projects with Agent's image generation capabilities.
+- [Agent integrations](https://docs.replit.com/replitai/integrations.md): Agent supports numerous integrations enabled automatically when your prompt contains specific keywords.
+- [MCP directory](https://docs.replit.com/replitai/mcp/directory.md): Browse featured Model Context Protocol servers that connect Replit Agent to your tools.
+- [Figma MCP integration](https://docs.replit.com/replitai/mcp/figma.md): Connect Agent to your Figma files via MCP to explore layers, extract design data, capture screenshots, and generate starter code from designs.
+- [MCP install links](https://docs.replit.com/replitai/mcp/install-links.md): Generate direct install links for Model Context Protocol servers.
+- [MCP Servers Overview](https://docs.replit.com/replitai/mcp/overview.md): Learn how to connect Replit Agent to external tools with the Model Context Protocol.
+- [Message Queue](https://docs.replit.com/replitai/message-queue.md): Schedule follow-up tasks for Replit Agent while it's working. Queue messages to be executed in order after each Agent work loop completion.
+- [Open in Replit](https://docs.replit.com/replitai/open-in-replit.md): Build a new Replit App with a link from your app or website.
+- [Plan Mode](https://docs.replit.com/replitai/plan-mode.md): Plan mode allows you to brainstorm ideas, plan work, and collaborate with Replit Agent without editing your app's code or data.
+- [Replit AI Integrations](https://docs.replit.com/replitai/replit-ai-integrations.md): Use AI models from providers like OpenAI, Anthropic, Google, and OpenRouter without requiring your own developer account or API key.
+- [replit.md](https://docs.replit.com/replitai/replit-dot-md.md): `replit.md` is a special file that customizes Agent's behavior in your project. Define your preferences, coding style, and project context to help Agent build exactly what you want.
+- [Stripe Payments Integration](https://docs.replit.com/replitai/stripe-payments.md): Add payments and subscriptions to your app with Stripe using Agent, test safely in a sandbox, then go live with your own Stripe account.
+- [Visual Editor](https://docs.replit.com/replitai/visual-editor.md): Replit's Visual Editor empowers you to make direct visual edits to your app's UI in the preview, with seamless source code updates.
+- [Warehouse Connectors](https://docs.replit.com/replitai/warehouse-connectors.md): Connect Replit Agent to BigQuery, Databricks, and Snowflake to build data-driven applications.
+- [Web Search](https://docs.replit.com/replitai/web-search.md): Agent searches the web and fetches current information to build apps with up-to-date information, latest documentation, and accurate details from across the internet.
+- [Enterprise Privacy Settings](https://docs.replit.com/teams/enterprise-privacy-settings.md): Configure organization-wide privacy, security, and source control settings to protect your team's code and deployments.
+- [Roles, Groups and Access](https://docs.replit.com/teams/identity-and-access-management/groups-and-permissions.md): Control team member access with roles and groups. Roles provide default access levels (Admin, Member, Guest, Viewer), while custom groups offer fine-grained access control for specific team members.
+- [Managing Members](https://docs.replit.com/teams/identity-and-access-management/managing-members.md): You can manage members on your Replit team to control access, collaboration, and permissions across your organization's apps and projects.
+- [Access Management](https://docs.replit.com/teams/identity-and-access-management/repl-access-management.md): Learn how to control access and visibility settings for Replit Apps through the workspace interface, including group permissions and user roles.
+- [SAML](https://docs.replit.com/teams/identity-and-access-management/saml.md): Learn how to set up and manage SAML single sign-on authentication for your Replit Enterprise Team, including domain configuration and Identity Provider setup.
+- [SCIM](https://docs.replit.com/teams/identity-and-access-management/scim.md): Learn how to set up and manage SCIM to simplify provisioning and managing user roles within your Replit Enterprise Team.
+- [Transfer App to Teams](https://docs.replit.com/teams/identity-and-access-management/transfer-app-to-teams.md): Move personal apps to team workspaces for collaboration
+- [Viewer Seats](https://docs.replit.com/teams/identity-and-access-management/viewer-seats.md): Learn how to set up and manage viewer seats for your Replit Team.
+- [Information Security](https://docs.replit.com/teams/information-security/overview.md): Learn about Replit's security practices, data protection, and compliance standards
+- [Projects Overview](https://docs.replit.com/teams/projects/overview.md): Learn how to use Projects in Replit Teams for collaborative development, version control, and managing multiple Replit Apps with git-based workflows.
+- [Conflict Resolution in Projects](https://docs.replit.com/teams/projects/resolving-conflicts.md): Learn how to handle and resolve merge conflicts when multiple team members make changes to the same files in a Replit Project.
+- [Public Profiles](https://docs.replit.com/teams/public_profiles.md): Learn how to create and customize your organization's public profile on Replit to showcase your brand, products, and public Replit Apps to the community.
+- [Replit Core Sponsorships](https://docs.replit.com/teams/replit-core-sponsorships.md): Learn how to gift Replit Core subscriptions to developers outside your organization through sponsorships for hackathons, bootcamps, and other events.
+- [Legacy Teams Pro shut down (August 14th, 2025)](https://docs.replit.com/teams/teams-pro-shutdown.md)
+- [Build a Notion-powered website](https://docs.replit.com/tutorials/build-a-notion-powered-website.md): Learn how to build a website that uses Notion as a Content Management System (CMS) with Replit Agent.
+- [Build and launch a mobile app](https://docs.replit.com/tutorials/build-and-launch-a-mobile-app.md): Build a native iOS app with Agent, test it on your phone with Expo Go, and publish through TestFlight to the App Store.
+- [Design vs. App Mode](https://docs.replit.com/tutorials/design-vs-build-mode.md): Learn the difference between Design and App modes in Replit, and when to use each for your projects.
+- [Efficient prompting with Replit AI](https://docs.replit.com/tutorials/effective-prompting.md): Learn principles and see examples for writing effective prompts when using Replit Agent.
+- [Building Mobile Apps with Expo and Replit](https://docs.replit.com/tutorials/expo-on-replit.md): Replit is the fastest way to create and publish cross-platform mobile apps using Expo, without any setup or configuration.
+- [How to vibe code effectively](https://docs.replit.com/tutorials/how-to-vibe-code.md): Learn essential skills to effectively guide Replit Agent, turning your ideas into functional applications faster.
+- [Learn about MCP in 3 minutes](https://docs.replit.com/tutorials/mcp-in-3.md): Learn how to use Model Context Protocol (MCP) to give AI models access to tools, data sources, and real-world capabilities in just 3 minutes.
+- [Mobile app troubleshooting](https://docs.replit.com/tutorials/mobile-app-troubleshooting.md): Fix common issues when building mobile apps with Expo and React Native on Replit.
+- [Plan vs. Build Mode](https://docs.replit.com/tutorials/plan-vs-build-mode.md): Learn the difference between Plan and Build modes in Replit, and how to combine them for more effective development.
+- [Share a database across multiple apps](https://docs.replit.com/tutorials/share-database-across-apps.md): Learn how to expose your Replit database as a REST API to share data securely across multiple apps and external services.
+- [Replit's built-in security features](https://docs.replit.com/tutorials/vibe-code-securely.md): Learn about the security features built into Replit.
+- [Security checklist for vibe coding](https://docs.replit.com/tutorials/vibe-code-security-checklist.md): Follow this comprehensive security checklist to ensure your vibe coded applications follow best security practices.
+- [Vibe coding 101: from idea to published app](https://docs.replit.com/tutorials/vibe-coding-101.md): Learn how to go from an idea to a published application using Replit Agent, featuring an interactive map visualization project.
+- [December 13, 2024](https://docs.replit.com/updates/2024/12/13/changelog.md): Assistant launch, improved Agent, usage updates, and more.
+- [December 20, 2024](https://docs.replit.com/updates/2024/12/20/changelog.md): Snow Mode, custom Assistant prompts, package installs, Agent updates, and platform improvements.
+- [December 27, 2024](https://docs.replit.com/updates/2024/12/27/changelog.md): Integrations improvements, Replit Teams updates, build notifications, and database polish.
+- [January 3, 2025](https://docs.replit.com/updates/2025/01/03/changelog.md): 2 min read
+- [January 10, 2025](https://docs.replit.com/updates/2025/01/10/changelog.md): 2 min read
+- [January 17, 2025](https://docs.replit.com/updates/2025/01/17/changelog.md): 2 min read
+- [January 24, 2025](https://docs.replit.com/updates/2025/01/24/changelog.md): 2 min read
+- [January 31, 2025](https://docs.replit.com/updates/2025/01/31/changelog.md): 2 min read
+- [February 7, 2025](https://docs.replit.com/updates/2025/02/07/changelog.md): 2 min read
+- [February 14, 2025](https://docs.replit.com/updates/2025/02/14/changelog.md): 2 min read
+- [February 21, 2025](https://docs.replit.com/updates/2025/02/21/changelog.md): 2 min read
+- [February 28, 2025](https://docs.replit.com/updates/2025/02/28/changelog.md): 2 min read
+- [March 7, 2025](https://docs.replit.com/updates/2025/03/07/changelog.md): 2 min read
+- [March 14, 2025](https://docs.replit.com/updates/2025/03/14/changelog.md): 2 min read
+- [March 21, 2025](https://docs.replit.com/updates/2025/03/21/changelog.md): 2 min read
+- [March 28, 2025](https://docs.replit.com/updates/2025/03/28/changelog.md): 2 min read
+- [April 4, 2025](https://docs.replit.com/updates/2025/04/04/changelog.md): 2 min read
+- [April 11, 2025](https://docs.replit.com/updates/2025/04/11/changelog.md): 2 min read
+- [April 18, 2025](https://docs.replit.com/updates/2025/04/18/changelog.md): 2 min read
+- [April 25, 2025](https://docs.replit.com/updates/2025/04/25/changelog.md): 2 min read
+- [May 2, 2025](https://docs.replit.com/updates/2025/05/02/changelog.md): 2 min read
+- [May 9, 2025](https://docs.replit.com/updates/2025/05/09/changelog.md): 2 min read
+- [May 16, 2025](https://docs.replit.com/updates/2025/05/16/changelog.md): 2 min read
+- [May 23, 2025](https://docs.replit.com/updates/2025/05/23/changelog.md): 2 min read
+- [May 30, 2025](https://docs.replit.com/updates/2025/05/30/changelog.md): 2 min read
+- [June 6, 2025](https://docs.replit.com/updates/2025/06/06/changelog.md): 2 min read
+- [June 13, 2025](https://docs.replit.com/updates/2025/06/13/changelog.md): 2 min read
+- [June 20, 2025](https://docs.replit.com/updates/2025/06/20/changelog.md): 2 min read
+- [June 27, 2025](https://docs.replit.com/updates/2025/06/27/changelog.md): 2 min read
+- [July 4, 2025](https://docs.replit.com/updates/2025/07/04/changelog.md): 2 min read
+- [July 11, 2025](https://docs.replit.com/updates/2025/07/11/changelog.md): 2 min read
+- [July 18, 2025](https://docs.replit.com/updates/2025/07/18/changelog.md): 2 min read
+- [July 25, 2025](https://docs.replit.com/updates/2025/07/25/changelog.md): 2 min read
+- [August 1, 2025](https://docs.replit.com/updates/2025/08/01/changelog.md): 2 min read
+- [August 8, 2025](https://docs.replit.com/updates/2025/08/08/changelog.md): 2 min read
+- [August 15, 2025](https://docs.replit.com/updates/2025/08/15/changelog.md): 1 min read
+- [August 22, 2025](https://docs.replit.com/updates/2025/08/22/changelog.md): 2 min read
+- [August 29, 2025](https://docs.replit.com/updates/2025/08/29/changelog.md): 2 min read
+- [September 5, 2025](https://docs.replit.com/updates/2025/09/05/changelog.md): 2 min read
+- [September 12, 2025](https://docs.replit.com/updates/2025/09/12/changelog.md): 2 min read
+- [September 19, 2025](https://docs.replit.com/updates/2025/09/19/changelog.md): 2 min read
+- [September 26, 2025](https://docs.replit.com/updates/2025/09/26/changelog.md): 2 min read
+- [October 3, 2025](https://docs.replit.com/updates/2025/10/03/changelog.md): 2 min read
+- [October 10, 2025](https://docs.replit.com/updates/2025/10/10/changelog.md): 2 min read
+- [October 17, 2025](https://docs.replit.com/updates/2025/10/17/changelog.md): 2 min read
+- [October 24, 2025](https://docs.replit.com/updates/2025/10/24/changelog.md): 2 min read
+- [October 31, 2025](https://docs.replit.com/updates/2025/10/31/changelog.md): 2 min read
+- [November 07, 2025](https://docs.replit.com/updates/2025/11/07/changelog.md): 2 min read
+- [November 16, 2025](https://docs.replit.com/updates/2025/11/16/changelog.md): 2 min read
+- [November 21, 2025](https://docs.replit.com/updates/2025/11/21/changelog.md): 2 min read
+- [November 26, 2025](https://docs.replit.com/updates/2025/11/26/changelog.md): 2 min read
+- [December 05, 2025](https://docs.replit.com/updates/2025/12/05/changelog.md): 1 min read
+- [December 12, 2025](https://docs.replit.com/updates/2025/12/12/changelog.md): 2 min read
+- [December 19, 2025](https://docs.replit.com/updates/2025/12/19/changelog.md): 2m read
+- [December 26, 2025](https://docs.replit.com/updates/2025/12/26/changelog.md): 2 min read
+- [January 02, 2026](https://docs.replit.com/updates/2026/01/02/changelog.md): 2 min read
+- [January 09, 2026](https://docs.replit.com/updates/2026/01/09/changelog.md): 2 min read
+- [January 16, 2026](https://docs.replit.com/updates/2026/01/16/changelog.md): 3 min read
+- [January 23, 2026](https://docs.replit.com/updates/2026/01/23/changelog.md): 2 min read
+- [January 30, 2026](https://docs.replit.com/updates/2026/01/30/changelog.md): 1 min read
+
+
+--------------------

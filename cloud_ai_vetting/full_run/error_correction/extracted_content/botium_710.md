@@ -1,0 +1,179 @@
+# Botium
+**URL:** https://botium-docs.readthedocs.io
+**Page Title:** Botium - Bots Testing Bots — Botium documentation
+--------------------
+
+- Botium - Bots Testing Bots
+- Edit on GitHub
+[LINK: Edit on GitHub](https://github.com/codeforequity-at/botium-docs/blob/master/docs/index.rst)
+
+## Botium - Bots Testing Bots 
+
+- Selenium is the de-facto-standard for testing web applications.
+Selenium is the de-facto-standard for testing web applications.
+- Appium is the de-facto-standard for testing smartphone applications.
+Appium is the de-facto-standard for testing smartphone applications.
+- Botium is for testing conversational AI.
+Botium is for testing conversational AI.
+Botium is free and Open Source, and available on Github .
+[LINK: available on Github](https://github.com/codeforequity-at/botium-core)
+Table of Contents:
+- Quickstart … with Mocha … with Botium CLI
+- … with Mocha
+- … with Botium CLI
+- What is Botium Who should use Botium ? Understanding the Botium Stack Botium Core, the heart and brain of Botium Botium CLI, the swiss army knife of Botium Botium Bindings, the glue to bind Botium to test runners Botium Crawler, like a website crawler Botium Box, the management and reporting platform of Botium Botium Platform: Everything you need to run Botium in the Enterprise How do I get it ? How do I get help ? Enterprise Support
+- Who should use Botium ?
+- Understanding the Botium Stack Botium Core, the heart and brain of Botium Botium CLI, the swiss army knife of Botium Botium Bindings, the glue to bind Botium to test runners Botium Crawler, like a website crawler Botium Box, the management and reporting platform of Botium Botium Platform: Everything you need to run Botium in the Enterprise
+- Botium Core, the heart and brain of Botium
+- Botium CLI, the swiss army knife of Botium
+- Botium Bindings, the glue to bind Botium to test runners
+- Botium Crawler, like a website crawler
+- Botium Box, the management and reporting platform of Botium
+- Botium Platform: Everything you need to run Botium in the Enterprise
+- How do I get it ?
+- How do I get help ? Enterprise Support
+- Enterprise Support
+- Testing Conversational AI Conversational Flow Testing Hello, World! The Botium Basics Identification of Test Cases Writing Test Cases for a conversational flow Writing Utterance Lists Dealing with Uncertainty Generating a Test Report Utterance/Convo Expansion Enabling Convo Expansion Utterance Expansion End-2-End Testing (Chatbot User Interfaces) Safe Assumptions when testing a chatbot user interface Botium Webdriver Connector Voice Testing (Voice-Enabled Chatbots)
+- Conversational Flow Testing Hello, World! The Botium Basics Identification of Test Cases Writing Test Cases for a conversational flow Writing Utterance Lists Dealing with Uncertainty Generating a Test Report
+- Hello, World! The Botium Basics
+- Identification of Test Cases
+- Writing Test Cases for a conversational flow
+- Writing Utterance Lists
+- Dealing with Uncertainty
+- Generating a Test Report
+- Utterance/Convo Expansion Enabling Convo Expansion Utterance Expansion
+- Enabling Convo Expansion
+- Utterance Expansion
+- End-2-End Testing (Chatbot User Interfaces) Safe Assumptions when testing a chatbot user interface Botium Webdriver Connector
+- Safe Assumptions when testing a chatbot user interface
+- Botium Webdriver Connector
+- Voice Testing (Voice-Enabled Chatbots)
+- User Manual Writing Chatbot Test Cases Anatomy of a Botium Project Skipping/Ignoring Files and Test Cases Utterance Expansion Running Chatbot Test Cases Botium CLI vs Botium Bindings Using Botium CLI Using Botium Bindings Configuration with Capabilities Configuration Source Connector/Chatbot Technology Selection Generic Capabilities Specific Capabilities Scripting Capabilities Excel Parsing Capabilities CSV Parsing Capabilities Rate Limiting Configuring Generic Retry Behaviour Botium CLI Installation Usage Botium Capabilities configuration Commands Botium Bindings Installation Usage Botium Capabilities configuration Botium Bindings configuration Test Runner Configuration Test Runner Timeouts Running Tests in Parallel Botium Crawler Installation Using as CLI tool with Botium CLI crawler-run command crawler-feedback command Using as library - API Docs Botium Grid Starting the Botium Grid Agent Using the Botium Agent Security
+- Writing Chatbot Test Cases Anatomy of a Botium Project Skipping/Ignoring Files and Test Cases Utterance Expansion
+- Anatomy of a Botium Project
+- Skipping/Ignoring Files and Test Cases
+- Utterance Expansion
+- Running Chatbot Test Cases Botium CLI vs Botium Bindings Using Botium CLI Using Botium Bindings
+- Botium CLI vs Botium Bindings
+- Using Botium CLI
+- Using Botium Bindings
+- Configuration with Capabilities Configuration Source Connector/Chatbot Technology Selection Generic Capabilities Specific Capabilities Scripting Capabilities Excel Parsing Capabilities CSV Parsing Capabilities Rate Limiting Configuring Generic Retry Behaviour
+- Configuration Source
+- Connector/Chatbot Technology Selection
+- Generic Capabilities
+- Specific Capabilities
+- Scripting Capabilities
+- Excel Parsing Capabilities
+- CSV Parsing Capabilities
+- Rate Limiting
+- Configuring Generic Retry Behaviour
+- Botium CLI Installation Usage Botium Capabilities configuration Commands
+- Installation
+- Usage
+- Botium Capabilities configuration
+- Commands
+- Botium Bindings Installation Usage Botium Capabilities configuration Botium Bindings configuration Test Runner Configuration Test Runner Timeouts Running Tests in Parallel
+- Installation
+- Usage
+- Botium Capabilities configuration
+- Botium Bindings configuration
+- Test Runner Configuration
+- Test Runner Timeouts
+- Running Tests in Parallel
+- Botium Crawler Installation Using as CLI tool with Botium CLI crawler-run command crawler-feedback command Using as library - API Docs
+- Installation
+- Using as CLI tool with Botium CLI
+- crawler-run command
+- crawler-feedback command
+- Using as library - API Docs
+[LINK: Using as library - API Docs](04_usage/index.html#using-as-library-api-docs)
+- Botium Grid Starting the Botium Grid Agent Using the Botium Agent Security
+- Starting the Botium Grid Agent
+- Using the Botium Agent
+- Security
+- Technical Reference BotiumScript Concepts Convos Partial Convos Utterances Scripting Memory Asserters and Logic Hooks User Input Methods Supported File Formats Composing in Text files Composing in Excel files Composing in CSV files Composing in YAML files Composing in JSON files Composing in Markdown files Using the Scripting Memory Scripting Memory Variables Scripting Memory Functions Scripting Memory Files Using Asserters Buttons Asserter Media Asserter Forms Asserter JSONPath Asserter Extending JSONPath Asserter Response Length Asserter NLP Asserter (Intents, Entities, Confidence) Text Asserters Cards Asserter Bot Reply Count Asserters Negation Register Asserter as Global Asserter Using Logic Hooks PAUSE WAITFORBOT INCLUDE SET_SCRIPTING_MEMORY ASSIGN_SCRIPTING_MEMORY CLEAR_SCRIPTING_MEMORY SKIP_BOT_UNCONSUMED UPDATE_CUSTOM Using User Inputs BUTTON MEDIA FORM Global Arguments
+- BotiumScript Concepts Convos Partial Convos Utterances Scripting Memory Asserters and Logic Hooks User Input Methods
+- Convos
+- Partial Convos
+- Utterances
+- Scripting Memory
+- Asserters and Logic Hooks
+- User Input Methods
+- Supported File Formats Composing in Text files Composing in Excel files Composing in CSV files Composing in YAML files Composing in JSON files Composing in Markdown files
+- Composing in Text files
+- Composing in Excel files
+- Composing in CSV files
+- Composing in YAML files
+- Composing in JSON files
+- Composing in Markdown files
+- Using the Scripting Memory Scripting Memory Variables Scripting Memory Functions Scripting Memory Files
+- Scripting Memory Variables
+- Scripting Memory Functions
+- Scripting Memory Files
+- Using Asserters Buttons Asserter Media Asserter Forms Asserter JSONPath Asserter Extending JSONPath Asserter Response Length Asserter NLP Asserter (Intents, Entities, Confidence) Text Asserters Cards Asserter Bot Reply Count Asserters Negation Register Asserter as Global Asserter
+- Buttons Asserter
+- Media Asserter
+- Forms Asserter
+- JSONPath Asserter
+- Extending JSONPath Asserter
+- Response Length Asserter
+- NLP Asserter (Intents, Entities, Confidence)
+- Text Asserters
+- Cards Asserter
+- Bot Reply Count Asserters
+- Negation
+- Register Asserter as Global Asserter
+- Using Logic Hooks PAUSE WAITFORBOT INCLUDE SET_SCRIPTING_MEMORY ASSIGN_SCRIPTING_MEMORY CLEAR_SCRIPTING_MEMORY SKIP_BOT_UNCONSUMED UPDATE_CUSTOM
+- PAUSE
+- WAITFORBOT
+- INCLUDE
+- SET_SCRIPTING_MEMORY
+- ASSIGN_SCRIPTING_MEMORY
+- CLEAR_SCRIPTING_MEMORY
+- SKIP_BOT_UNCONSUMED
+- UPDATE_CUSTOM
+- Using User Inputs BUTTON MEDIA FORM Global Arguments
+- BUTTON
+- MEDIA
+- FORM
+- Global Arguments
+- Botium Connectors Supported technologies Generic HTTP(S)/JSON Connector Features Mustache Variables Connecting Generic HTTP(S)/JSON chatbot to Botium Supported Capabilities Plugging in Custom Functionality HTTP Session Setup (“Ping” Request) HTTP Session Welcome (Start Request) HTTP Session Teardown (“Stop” Request) HTTP(S) Inbound Messages HTTP(S) Polling User Authentication HTTP(S) Proxy Support Dealing with SSL Certificates Using Scripting Memory within Mustache Templates
+- Supported technologies
+- Generic HTTP(S)/JSON Connector Features Mustache Variables Connecting Generic HTTP(S)/JSON chatbot to Botium Supported Capabilities Plugging in Custom Functionality HTTP Session Setup (“Ping” Request) HTTP Session Welcome (Start Request) HTTP Session Teardown (“Stop” Request) HTTP(S) Inbound Messages HTTP(S) Polling User Authentication HTTP(S) Proxy Support Dealing with SSL Certificates Using Scripting Memory within Mustache Templates
+- Features
+- Mustache Variables
+- Connecting Generic HTTP(S)/JSON chatbot to Botium
+- Supported Capabilities
+- Plugging in Custom Functionality
+- HTTP Session Setup (“Ping” Request)
+- HTTP Session Welcome (Start Request)
+- HTTP Session Teardown (“Stop” Request)
+- HTTP(S) Inbound Messages
+- HTTP(S) Polling
+- User Authentication
+- HTTP(S) Proxy Support
+- Dealing with SSL Certificates
+- Using Scripting Memory within Mustache Templates
+- Community Botium Champions Contribution Guide Prerequisites Guidelines for code contributions First Steps - Botium Core Developing Botium Connectors Developing Custom Asserters Developing Botium Logic Hooks Developing Custom Hooks As NPM module As Javascript file Custom File Format Precompiler Configuration capabilities JSON_TO_JSON_JSONPATH Precompiler SCRIPTED Precompiler
+- Botium Champions
+- Contribution Guide Prerequisites Guidelines for code contributions First Steps - Botium Core
+- Prerequisites
+- Guidelines for code contributions
+- First Steps - Botium Core
+- Developing Botium Connectors
+- Developing Custom Asserters
+- Developing Botium Logic Hooks
+- Developing Custom Hooks As NPM module As Javascript file
+- As NPM module
+- As Javascript file
+- Custom File Format Precompiler Configuration capabilities JSON_TO_JSON_JSONPATH Precompiler SCRIPTED Precompiler
+- Configuration capabilities
+- JSON_TO_JSON_JSONPATH Precompiler
+- SCRIPTED Precompiler
+- Troubleshooting Enable Logging Additional logfiles Problems with Installation Getting help
+- Enable Logging Additional logfiles
+- Additional logfiles
+- Problems with Installation
+- Getting help
+
+--------------------

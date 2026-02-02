@@ -1,0 +1,116 @@
+# https://www.thecolor.com/
+**URL:** https://www.thecolor.com
+**Page Title:** 5,689+ Free Online Coloring Pages | TheColor.com
+--------------------
+
+
+## Categories
+
+- 4x4 Off Road
+- Aesops Fables
+- Airplanes
+- Alphabet
+- Amusement Park
+- Animal Activities
+- Animals Baby
+- Animals Endangered
+- Animals Farm
+- Animals General
+- Animals Jungle
+- Animals Safari
+- Animals Silly
+- Arabian Nights Tales
+- Baby
+- Ballernias Ballet
+- Baseball Players
+- Basketball Players
+- Beach
+- Bible Stories
+- Bird
+- Birthday
+- Bizarre Food
+- Boats Watercraft
+- Cars
+- Cats
+- Celebrations
+- Circus
+- Continents
+- Coronavirus COVID 19
+- Cryptids
+- Dinosaur
+- Dogs
+- Ethnic Wear
+- Fairy Tale
+- Famous Actors
+- Famous Actresses
+- Famous Explorers
+- Famous MMA Fighters
+- Famous Paintings
+- Famous People
+- Famous Places
+- Fantasy
+- Fast Food
+- Flowers
+- Football
+- Football Players
+- Fruit
+- General
+- Great Inventions
+- Greek Mythology
+- Grimm's Fairy Tales
+- Helicopters
+- Hip Hop Rap Stars
+- Historical Figures
+- Holidays
+- Insect
+- Internet Leaders
+- Mermaids, Undersea
+- Monsters
+- Monster Trucks
+- Motorcycles Dirtbike
+- Movies
+- Musical Instruments
+- Nature
+- Numbers
+- Nursery Rhymes
+- Occupations
+- Pets
+- Planets
+- Pop Stars
+- Prehistoric Birds
+- Prehistoric Mammals
+- Princes Princesses
+- Pro Wrestling
+- Rainbows, Unicorns
+- School
+- Sea Life
+- Shapes
+- Soccer Players
+- Sports
+- Spy Gadgets
+- Supercars Prototypes
+- Superheroes
+- Super Villains
+- Sweet Treats
+- Tanks
+- The 1970s
+- The Mosaic Quartet
+- Toys
+- Trains Locomotives
+- Trucks
+- US President
+- Vegetables
+- Vehicle
+- Venomous Creatures
+- World Leaders
+- World Of Tomorrow
+- Zodiac Signs
+- Chapters
+- descriptions off , selected
+- captions settings , opens captions settings dialog
+- captions off , selected
+This is a modal window.
+Beginning of dialog window. Escape will cancel and close the window.
+End of dialog window.
+
+--------------------

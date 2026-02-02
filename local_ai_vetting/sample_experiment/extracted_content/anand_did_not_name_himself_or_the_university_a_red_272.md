@@ -1,0 +1,254 @@
+# Anand\] did not name himself or the university, a [Reddit
+**URL:** https://www.hindustantimes.com/topic/reddit
+**Page Title:** Reddit: Get Latest News, Photos and Videos along with latest updates on Reddit | Hindustan Times
+--------------------
+
+- Home
+- E-Paper
+- India News
+- IND vs NZ Live Cricket Score
+- World News
+- Entertainment
+- Lifestyle
+- Cities
+- Trending
+- Astrology
+- HTCity
+- WPL 2026
+- Horoscope 2026
+- US News
+- HT Premium
+- HT The Next Voice
+- Games
+- HT Bangla
+- HT Telugu
+- Business
+- Real Estate
+- Education
+- Latest News
+- Livemint
+- + 19 more Cities Trending Astrology HTCity WPL 2026 Horoscope 2026 Car and Bike Technology US News HT Premium HT The Next Voice Games HT Bangla HT Telugu Business Real Estate Education Latest News Livemint
+- Cities
+- Trending
+- Astrology
+- HTCity
+- WPL 2026
+- Horoscope 2026
+- Car and Bike
+- Technology
+- US News
+- HT Premium
+- HT The Next Voice
+- Games
+- HT Bangla
+- HT Telugu
+- Business
+- Real Estate
+- Education
+- Latest News
+- Livemint
+
+## reddit
+
+## Latest from reddit
+
+## ₹ 72,000 in Gurgaon vs 8,000 AED in Dubai: Man's career dilemma sparks debate
+
+## From ₹ 21,000 salary to ₹ 2 crore annual revenue: Man shares career journey
+
+## Reddit down? Users say app and website are not working
+
+## Woman asks if she should dump boyfriend because he kisses her before work
+
+## Employee with US degree, 3-year FAANG experience struggles to find job in India
+
+### Join Hindustan Times
+
+## Create free account and unlock exciting features like
+
+- About Us
+- Contact us
+- Terms of use
+- Privacy policy
+- Weather Today
+- HT Newsletters
+- Subscription
+- Print Ad Rates
+- Code of Ethics
+- Site Map
+- RSS Feeds
+- Home
+- HTLS 2025
+- Astrology
+- Lifestyle
+- Entertainment
+- Elections
+- Trending
+- Videos
+- Education
+- Photos
+- Sports
+- Cities
+- Daily Digest
+- Quickreads
+- Opinion
+- Analysis
+- For You
+- Following
+- Science
+- HT Games
+- Product Hub
+- Live Hindustan
+- Podcasts
+- Bangla News
+- Telugu News
+- Weather
+- Technology
+- Real Estate
+- Latest News
+- India News Budget 2026
+- Budget 2026
+- Cricket Live Cricket Score Cricket Players ICC Rankings Cricket Schedule
+- Live Cricket Score
+- Cricket Players
+- ICC Rankings
+- Cricket Schedule
+- World News Iran Protest US News
+- Iran Protest
+- US News
+- Cities Delhi Mumbai Bengaluru Gurugram Noida Hyderabad Chennai Kolkata Bhopal Chandigarh Dehradun Indore Jaipur Lucknow Patna Pune Ranchi Other Cities
+- Delhi
+- Mumbai
+- Bengaluru
+- Gurugram
+- Noida
+- Hyderabad
+- Chennai
+- Kolkata
+- Bhopal
+- Chandigarh
+- Dehradun
+- Indore
+- Jaipur
+- Lucknow
+- Patna
+- Pune
+- Ranchi
+- Other Cities
+- Business Budget 2026 Income Tax Calculator Petrol Prices Diesel Prices Gold Rate Silver Rate Smart Money
+- Budget 2026
+- Income Tax Calculator
+- Petrol Prices
+- Diesel Prices
+- Gold Rate
+- Silver Rate
+- Smart Money
+- Lifestyle Fitness Fashion Health Relationships Art and Culture Travel Recipes Festivals Pet Brunch
+- Fitness
+- Fashion
+- Health
+- Relationships
+- Art and Culture
+- Travel
+- Recipes
+- Festivals
+- Pet
+- Brunch
+- Entertainment Bollywood TV Web Series Music Hollywood Telugu Cinema Tamil Cinema Anime
+- Bollywood
+- Web Series
+- Music
+- Hollywood
+- Telugu Cinema
+- Tamil Cinema
+- Anime
+- Education News Engineering Exams Board Exams Study Abroad JEE Exam Results Admission News Employment News Competitive Exams BBA Colleges Engineering Colleges Medical Colleges BCA Colleges BBA Exams BCA Exams Medical Exams
+- Engineering Exams
+- Board Exams
+- Study Abroad
+- JEE
+- Exam Results
+- Admission News
+- Employment News
+- Competitive Exams
+- BBA Colleges
+- Engineering Colleges
+- Medical Colleges
+- BCA Colleges
+- BBA Exams
+- BCA Exams
+- Medical Exams
+- Astrology Horoscope Horoscope 2026 Love Horoscope Tarot Chinese Panchang Festival Calendar Compatibility Calculator Career Horoscope Manifestation Transits
+- Horoscope
+- Horoscope 2026
+- Love Horoscope
+- Tarot
+- Chinese
+- Panchang
+- Festival Calendar
+- Compatibility Calculator
+- Career Horoscope
+- Manifestation
+- Transits
+- HT Premium E-Paper The Economist Articles The Wall Street Journal HT Insider HT Insight
+- E-Paper
+- The Economist Articles
+- The Wall Street Journal
+- HT Insider
+- HT Insight
+- Elections 2025 Parties Key Faces Schedule
+- Parties
+- Key Faces
+- Schedule
+- Videos india news infocus HT Insight Explainer Video On The Record HT Weekend Aur Batao Vikram Chandra Daily Wrap
+- india news
+- infocus
+- HT Insight
+- Explainer Video
+- On The Record
+- HT Weekend
+- Aur Batao
+- Vikram Chandra Daily Wrap
+- Photos Entertainment Photos Lifestyle Photos News Photos
+- Entertainment Photos
+- Lifestyle Photos
+- News Photos
+- Sports US Sports WWE Football Tennis Hockey Other Sports
+- US Sports
+- WWE
+- Football
+- Tennis
+- Hockey
+- Other Sports
+- HT Insight Public Health Economic Policy International Affairs Climate Change Gender Equality knowledge future tech Governance
+- Public Health
+- Economic Policy
+- International Affairs
+- Climate Change
+- Gender Equality
+- knowledge
+- future tech
+- Governance
+- More from HT HT Epaper HT Brand Studio LiveMint Auto HT Tech HT School HT Premium
+- HT Epaper
+- HT Brand Studio
+- LiveMint
+- Auto
+- HT Tech
+- HT School
+- HT Premium
+- Explore Hindustan Times
+- HT Newsletters
+- Weather Today
+- About Us
+- Contact Us
+- Privacy Policy
+- Terms of Use
+- Print Ad Rates
+- Code of Ethics
+- Sitemap
+- RSS Feeds
+- Subscription - Terms of Use
+- Privacy and Cookie Settings
+
+--------------------

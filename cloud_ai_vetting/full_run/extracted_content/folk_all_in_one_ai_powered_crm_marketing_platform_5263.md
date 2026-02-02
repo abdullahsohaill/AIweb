@@ -1,0 +1,104 @@
+# Folk - All-in-one AI Powered CRM & Marketing Platform
+**URL:** https://try.folk.app/yark80lpm9tx
+**Page Title:** folk, like the sales assistant your team never had
+--------------------
+
+
+## The CRM that works for you
+
+folk CRM captures the full context of your relationships in one beautifully simple CRM. AI Assistants learn from this data to automate busywork.
+4,9
+Product hunt
+4,8
+Chrome store
+4,5
+G2 review
+
+## A CRM enabling multi-channel. Assistants working on your behalf.
+
+Follow-up Assistant
+Scans your conversations to identify optimal follow-up timing and draft emails
+Email scan
+WhatsApp scan
+Draft follow-up
+001
+Analyzer
+Recap Assistant
+Automatically summarizes notes and interactions and shares a short brief
+Scans emails
+Scans notes
+Suggest next steps
+002
+synthesizer
+Research Assistant
+Automatically enriches companies and generates detailed research notes
+Web scan
+Research notes
+Enrichment
+003
+Researcher
+Workflow Assistant
+Automates email sending and personalization based on chosen triggers
+Trigger scan
+Email generation
+Email sending
+004
+automator
+
+## Follow-up Assistant
+
+The Follow-up Assistant helps you follow up at the right time, with the right context, so you never miss an opportunity to move a deal forward.
+Using AI, it analyzes your email and WhatsApp conversations to detect when a discussion has gone inactive and there’s a pending next step. When this happens, you receive a notification with a personalized follow-up suggestion, pre-written in your tone of voice and tailored to the conversation history.
+It works on:
+- Email (Google or Microsoft): conversations with at least two recent exchanges.
+- WhatsApp: active chats with an unresolved next step.You can control who it applies to, when a conversation is considered inactive, and which groups are included.
+You stay in control: choose when a conversation is considered inactive, which contacts or groups are included, and where you receive notifications. Suggestions appear in-app, by email, and directly on contact profiles, making it easy to take action and keep deals moving forward.
+
+## Recap Assistant
+
+The Recap Assistant gives you an instant, AI-generated summary of your relationship with any person, company, or deal in folk.
+It scans recent interactions, emails, meetings, notes, WhatsApp messages, LinkedIn activity, and more, to produce a concise brief that answers key questions at a glance: who last interacted, what was discussed or decided, and what the next steps are.
+Instead of scrolling through long threads or trying to recall context, you get a structured recap with an overview, key discussion points, and upcoming actions. You can also customize the recap format to match your sales methodology (MEDDIC, BANT, or custom), so summaries reflect what matters most to your workflow.
+Recaps are generated on demand, updated whenever you refresh them, and visible only to you. This makes the Recap Assistant ideal for preparing calls, re-engaging leads, handing off accounts, or quickly switching context across multiple deals, ensuring nothing falls through the cracks.
+
+## Research Assistant
+
+Instead of manually researching companies across multiple tools, the assistant enriches profiles directly in folk and generates context-rich research notes you can rely on for conversations, pitches, and follow-ups. You can run research on a single company or in bulk across a group, from both table and pipeline views.
+The Research Assistant helps you save hours by automatically finding, updating, and organizing company insights—so your database stays accurate, consistent, and ready to use.
+The assistant enriches key company data such as industry, company size, foundation date, funding details, website and social links, location, and a short company description. It also generates a research note with relevant insights, powered by trusted providers like People Data Labs (enrichment) and Perplexity (research notes).
+You can customize the research note by adding specific questions or themes, and the assistant will apply them consistently every time.
+
+## Workflow Assistant
+
+The Workflow Assistant helps you automate email outreach using simple, trigger-based workflows inside your groups.
+You can define when a workflow should run, such as when a person is created or when a specific field is updated, and automatically send a personalized email. Workflows can include optional filters, so actions only run on the right contacts (for example, only when a lead’s status becomes “Qualified”).
+Emails can be written from scratch or based on templates with variables like name, company, or custom fields. If AI personalization is enabled, folk enhances each message using the latest shared interactions and public notes, ensuring emails stay relevant and contextual.
+Once live, each workflow generates a campaign where you can track results such as sent, opened, replied, or bounced emails. You can preview emails before sending, manage workflows’ statuses (active, inactive, blocked), and control usage through monthly credit limits.
+The Workflow Assistant lets you scale outreach while staying consistent and efficient, without manual follow-ups.
+
+### Capture contacts fast as lightning
+
+### Sales research, done for you
+
+### Personal outreach, at scale
+
+### Get the full story about every lead
+
+### Sell together, close faster
+
+## Finally, a CRM connected to your stack
+
+### Get a single source of truth with tens of integrations
+
+### Shape the exact data model your business needs
+
+### Chat with your CRM on your favorite AI tools
+
+### Build whatever integration you need with the folk API
+
+## Loved by closers
+
+## Your data is safe with us
+
+
+--------------------

@@ -1,0 +1,621 @@
+# llms.txt
+**URL:** https://docs.social.plus/llms.txt
+**Page Title:** 
+--------------------
+
+### (Raw Extraction Fallback)
+
+# social.plus docs
+
+## Social+ Docs
+
+- [social.plus](/readme.md): social.plus offers Chat and Social SDKs to streamline app development. Dive into our UI Kits and documentation to spark your creativity.
+- [Announcements](/announcements.md): Release notes, key changes and deprecation notices.
+- [Technical FAQ](/technical-faq.md): Explore our Technical FAQ for quick answers to common questions about Social Plus products. Get troubleshooting tips, best practices, and insights to optimize your technical experience.
+- [Installation and Authentication](/getting-started/installation-and-authentication.md): This section outlines how you can set up your SP project and contains all the tutorial links you'll need to get going.
+- [Install iOS SDK](/getting-started/installation-and-authentication/install-ios-sdk.md): The social.plus SDK for iOS is delivered as a binary .xcframework file
+- [Install Android SDK](/getting-started/installation-and-authentication/install-android-sdk.md): The social.plus SDK for Android is delivered via Jitpack repository.
+- [Install JavaScript SDK (Deprecated)](/getting-started/installation-and-authentication/install-js-sdk.md): The social.plus SDK for JavaScript is delivered as an npm module.
+- [Install TypeScript SDK](/getting-started/installation-and-authentication/install-ts-reactnative-sdk.md): The social.plus SDK for TypeScript is delivered as an npm module.
+- [Install Flutter SDK](/getting-started/installation-and-authentication/install-flutter-sdk.md): The social.plus SDK for Flutter is available on PubDev
+- [Install SDK for Ionic](/getting-started/installation-and-authentication/install-sdk-ionic.md): Use our social.plus SDK with the Ionic Framework
+- [Core Concepts](/social-plus-sdk/core-concepts.md): Our Core Concepts section will outline functionality and information that is pertinent to all of our Chat SDK Modules.
+- [Session State](/social-plus-sdk/core-concepts/session-state.md)
+- [User](/social-plus-sdk/core-concepts/user.md)
+- [Create User](/social-plus-sdk/core-concepts/user/create-user.md)
+- [Get User Information](/social-plus-sdk/core-concepts/user/get-user-information.md)
+- [Search and Query Users](/social-plus-sdk/core-concepts/user/search-and-query-users.md)
+- [Update User Information](/social-plus-sdk/core-concepts/user/update-user-information.md)
+- [Delete User](/social-plus-sdk/core-concepts/user/delete-user.md)
+- [Roles & Permissions](/social-plus-sdk/core-concepts/user/user-permission.md)
+- [User Token Management](/social-plus-sdk/core-concepts/user/user-token-management.md)
+- [Flag / Unflag User](/social-plus-sdk/core-concepts/user/flag-unflag-user.md)
+- [Files, Images, and Videos](/social-plus-sdk/core-concepts/files-images-and-videos.md)
+- [File Handling](/social-plus-sdk/core-concepts/files-images-and-videos/file.md)
+- [Image Handling](/social-plus-sdk/core-concepts/files-images-and-videos/image-handling.md)
+- [Video Handling](/social-plus-sdk/core-concepts/files-images-and-videos/video-handling.md)
+- [Push Notifications](/social-plus-sdk/core-concepts/push-notifications.md)
+- [iOS Push Notification Certificate Setup](/social-plus-sdk/core-concepts/push-notifications/ios-push-notification-certificate-setup.md): Process to setup iOS push notification certificates to receive notification from social.plusSDK / social.plusUIKit.
+- [Android Push Notifications Initialization](/social-plus-sdk/core-concepts/push-notifications/android-push-notifications-initialization.md)
+- [React Native Push Notifications Initialization](/social-plus-sdk/core-concepts/push-notifications/react-native-push-notifications-initialization.md)
+- [Register and Unregister Push Notifications on a Device](/social-plus-sdk/core-concepts/push-notifications/register-and-unregister-push-notifications-on-a-device.md)
+- [Push Notification Toggles](/social-plus-sdk/core-concepts/push-notifications/push-notification-toggles.md)
+- [User Push Notification Settings](/social-plus-sdk/core-concepts/push-notifications/push-notification-toggles/user-push-notification-settings.md)
+- [Channel Push Notification Settings](/social-plus-sdk/core-concepts/push-notifications/push-notification-toggles/channel-push-notification-settings.md)
+- [Community Push Notification Settings](/social-plus-sdk/core-concepts/push-notifications/push-notification-toggles/community-push-notification-settings.md)
+- [Mentions](/social-plus-sdk/core-concepts/mentions.md)
+- [Poll](/social-plus-sdk/core-concepts/poll.md)
+- [Ads](/social-plus-sdk/core-concepts/ads.md)
+- [Get Ads and Settings](/social-plus-sdk/core-concepts/ads/get-ads-and-settings.md)
+- [Ad Impressions](/social-plus-sdk/core-concepts/ads/ad-impressions.md)
+- [Presence State](/social-plus-sdk/core-concepts/presence-state.md)
+- [Heartbeat Sync](/social-plus-sdk/core-concepts/presence-state/heartbeat-sync.md)
+- [User Presence](/social-plus-sdk/core-concepts/presence-state/user-presence.md)
+- [Channel Presence](/social-plus-sdk/core-concepts/presence-state/channel-presence.md)
+- [Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections.md)
+- [iOS Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections/ios.md)
+- [Android Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections/data-stream.md): Live Objects are supported in the Android SDK with RxJava Data Streaming
+- [Javascript Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections/js.md)
+- [TypeScript Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections/typescript-live-objects-collections.md)
+- [Flutter Live Objects/Collections](/social-plus-sdk/core-concepts/live-objects-collections/ios-1.md)
+- [Realtime Events](/social-plus-sdk/core-concepts/realtime-events.md)
+- [Social Realtime Events](/social-plus-sdk/core-concepts/realtime-events/social-realtime-events.md)
+- [Chat Realtime Events](/social-plus-sdk/core-concepts/realtime-events/chat-realtime-events.md)
+- [Error Handling](/social-plus-sdk/core-concepts/error-handling.md)
+- [Content Moderation](/social-plus-sdk/core-concepts/content-moderation.md)
+- [Logging](/social-plus-sdk/core-concepts/logging.md)
+- [Chat](/social-plus-sdk/chat.md): social.plus Chat SDK allows you to easily create full-featured in-app Chat experience
+- [Channels](/social-plus-sdk/chat/channels.md): Our channels enable developers to implement different types of chat messaging capabilities into their applications easily
+- [Create Channel](/social-plus-sdk/chat/channels/create-channel.md)
+- [Query Channels](/social-plus-sdk/chat/channels/query-channels.md)
+- [Get Channel](/social-plus-sdk/chat/channels/get-channel.md)
+- [Get Channels](/social-plus-sdk/chat/channels/get-channels.md)
+- [Update Channel](/social-plus-sdk/chat/channels/update-channel.md)
+- [Join/Leave Channel](/social-plus-sdk/chat/channels/join-leave-channel.md)
+- [Subchannel](/social-plus-sdk/chat/channels/subchannel.md)
+- [Message Preview](/social-plus-sdk/chat/channels/message-preview.md)
+- [Unread Count](/social-plus-sdk/chat/channels/unread-count.md)
+- [Channel Unread Count](/social-plus-sdk/chat/channels/unread-count/channel-unread-count.md)
+- [Start / stop message read receipt sync](/social-plus-sdk/chat/channels/unread-count/start-stop-message-read-receipt-sync.md)
+- [Mark Message as Read](/social-plus-sdk/chat/channels/unread-count/mark-message-as-read.md)
+- [Message Delivery Status](/social-plus-sdk/chat/channels/unread-count/message-delivery-status.md)
+- [Observe reading count](/social-plus-sdk/chat/channels/unread-count/observe-reading-count.md)
+- [Read Status & Unread Count (Legacy)](/social-plus-sdk/chat/channels/read-status-and-unread-count-legacy.md): For Android, iOS, JS SDK version 6.5.0 and below and TS SDK version v0.0.1-beta.42.3
+- [Channel Moderation](/social-plus-sdk/chat/channels/channel-moderation.md)
+- [Query Members](/social-plus-sdk/chat/channels/query-members.md)
+- [Search Members](/social-plus-sdk/chat/channels/search-members.md)
+- [Archive Channels](/social-plus-sdk/chat/channels/archive-channels.md)
+- [Messaging](/social-plus-sdk/chat/messaging.md)
+- [Send a Message](/social-plus-sdk/chat/messaging/send-a-message.md)
+- [Text Message](/social-plus-sdk/chat/messaging/send-a-message/text-message.md)
+- [Image Message](/social-plus-sdk/chat/messaging/send-a-message/image-message.md)
+- [Audio Message](/social-plus-sdk/chat/messaging/send-a-message/audio-message.md)
+- [Video Message](/social-plus-sdk/chat/messaging/send-a-message/video-message.md)
+- [File Message](/social-plus-sdk/chat/messaging/send-a-message/file-message.md)
+- [Custom Message](/social-plus-sdk/chat/messaging/send-a-message/custom-message.md)
+- [Reply to a Message](/social-plus-sdk/chat/messaging/send-a-message/reply-to-a-message.md)
+- [Query and Filter Messages](/social-plus-sdk/chat/messaging/query-and-filter-messages.md)
+- [Get and View a Message](/social-plus-sdk/chat/messaging/get-and-view-a-message.md)
+- [Edit and Delete Messages](/social-plus-sdk/chat/messaging/edit-and-delete-messages.md)
+- [Message Reaction](/social-plus-sdk/chat/messaging/message-reaction.md): Interactions are more fun when you can express yourself! Let users react using emojis, stickers, or thumbs up to messages.
+- [Mention in Messages](/social-plus-sdk/chat/messaging/mention-in-messages.md)
+- [Flag/Unflag a Message](/social-plus-sdk/chat/messaging/flag-unflag-a-message.md)
+- [Moderation](/social-plus-sdk/chat/moderation.md): Moderation is an important feature for building a safe community that encourages user participation and engagement.
+- [Roles and Permission](/social-plus-sdk/chat/moderation/roles-and-permission.md)
+- [Mute/Unmute a List of Channel Members](/social-plus-sdk/chat/moderation/mute-unmute-a-list-of-channel-members.md)
+- [Ban/Unban a List of Channel Members](/social-plus-sdk/chat/moderation/ban-unban-a-list-of-channel-members.md): When a user is banned in a channel, they are removed from a channel and no longer able to participate or observe messages in that channel.
+- [Channel Rate-Limiting](/social-plus-sdk/chat/moderation/channel-rate-limiting.md)
+- [Social](/social-plus-sdk/social.md)
+- [Posts](/social-plus-sdk/social/posts.md): Here's an overview of posts and how you can get started with integrating them into your applications
+- [Create Post](/social-plus-sdk/social/posts/create-post.md)
+- [Clip Post](/social-plus-sdk/social/posts/create-post/clip-post.md)
+- [Text Post](/social-plus-sdk/social/posts/create-post/text-post.md)
+- [Image Post](/social-plus-sdk/social/posts/create-post/image-post.md)
+- [File Post](/social-plus-sdk/social/posts/create-post/file-post.md)
+- [Video Post](/social-plus-sdk/social/posts/create-post/video-post.md)
+- [Live Stream Post](/social-plus-sdk/social/posts/create-post/live-stream-post.md)
+- [Poll Post](/social-plus-sdk/social/posts/create-post/poll-post.md)
+- [Custom Post](/social-plus-sdk/social/posts/create-post/custom-post.md)
+- [Query Post](/social-plus-sdk/social/posts/query-post.md)
+- [Get Post](/social-plus-sdk/social/posts/get-post.md)
+- [Viewing Post Content](/social-plus-sdk/social/posts/viewing-post-content.md)
+- [Edit Post](/social-plus-sdk/social/posts/edit-post.md): Editing and changing post details and content
+- [Delete Post](/social-plus-sdk/social/posts/delete-post.md)
+- [Mention in Post](/social-plus-sdk/social/posts/mention-in-post.md)
+- [Flag / Unflag Post](/social-plus-sdk/social/posts/flag-unflag-post.md)
+- [Post Review](/social-plus-sdk/social/posts/post-review.md)
+- [Post Impression](/social-plus-sdk/social/posts/post-impression.md)
+- [Pinned Post](/social-plus-sdk/social/posts/pinned-post.md)
+- [Stories](/social-plus-sdk/social/stories.md): Here's an overview of stories and how you can get started with integrating them into your application
+- [Get Global Story Targets](/social-plus-sdk/social/stories/get-global-story-targets.md)
+- [Create Story](/social-plus-sdk/social/stories/create-story.md)
+- [Get Stories](/social-plus-sdk/social/stories/get-stories.md)
+- [Delete Story](/social-plus-sdk/social/stories/delete-story.md)
+- [Get Story Targets](/social-plus-sdk/social/stories/get-story-targets.md)
+- [Story Impressions](/social-plus-sdk/social/stories/story-impressions.md)
+- [Comments](/social-plus-sdk/social/comments.md): Here's an overview of how you can get started integrating comments into your applications
+- [Create Comment](/social-plus-sdk/social/comments/create-comment.md): Here's an overview of how you can start integrating comments into your applications
+- [Query Comment](/social-plus-sdk/social/comments/query-comment.md)
+- [View Comment](/social-plus-sdk/social/comments/view-comment.md)
+- [Get Comment](/social-plus-sdk/social/comments/get-comment.md)
+- [Get Latest Comment](/social-plus-sdk/social/comments/get-latest-comment.md)
+- [Edit Comment](/social-plus-sdk/social/comments/edit-comment.md)
+- [Delete Comment](/social-plus-sdk/social/comments/delete-comment.md)
+- [Flag/Unflag](/social-plus-sdk/social/comments/flag-unflag.md)
+- [Get Comment Reaction Data](/social-plus-sdk/social/comments/get-comment-reaction-data.md)
+- [Mention in Comment](/social-plus-sdk/social/comments/mention-in-comment.md)
+- [Reactions](/social-plus-sdk/social/reactions.md): Let users react to messages, posts, and comments, which are visible to others.
+- [Query Reactions](/social-plus-sdk/social/reactions/query-reactions.md)
+- [Add / Remove Reaction](/social-plus-sdk/social/reactions/add-remove-reaction.md)
+- [Live Reaction](/social-plus-sdk/social/live-reaction.md)
+- [Feed](/social-plus-sdk/social/feed.md): Let your users showcase their unique personality right in their timelines.
+- [Custom Post Ranking](/social-plus-sdk/social/feed/custom-post-ranking.md)
+- [Query Global Feed](/social-plus-sdk/social/feed/query-global-feed.md)
+- [Communities](/social-plus-sdk/social/communities.md): Build and nurture vibrant communities where users can exchange and connect.
+- [Create Community](/social-plus-sdk/social/communities/create-community.md)
+- [Get Community](/social-plus-sdk/social/communities/get-community.md)
+- [Query Communities](/social-plus-sdk/social/communities/query-communities.md)
+- [Update Community](/social-plus-sdk/social/communities/update-community.md)
+- [Delete Community](/social-plus-sdk/social/communities/delete-community.md)
+- [Join/Leave Community](/social-plus-sdk/social/communities/join-leave-community.md)
+- [Community Invitation](/social-plus-sdk/social/communities/community-invitation.md)
+- [Trending and Recommended Communities](/social-plus-sdk/social/communities/trending-and-recommended-communities.md)
+- [Query Community Members](/social-plus-sdk/social/communities/query-community-members.md)
+- [Community Moderation](/social-plus-sdk/social/communities/community-moderation.md)
+- [Community Categories](/social-plus-sdk/social/communities/community-categories.md)
+- [Follow/Unfollow](/social-plus-sdk/social/follow-unfollow.md)
+- [Get Connection Status and Connection Counter](/social-plus-sdk/social/follow-unfollow/get-connection-status-and-connection-counter.md)
+- [Follow/Unfollow User](/social-plus-sdk/social/follow-unfollow/follow-unfollow-user.md)
+- [Get Follower/Following List](/social-plus-sdk/social/follow-unfollow/get-follower-following-list.md)
+- [Accept/Decline Follow Request](/social-plus-sdk/social/follow-unfollow/accept-decline-follow-request.md)
+- [Block and Unblock User](/social-plus-sdk/social/block-and-unblock-user.md)
+- [Intelligent Search](/social-plus-sdk/social/intelligent-search.md)
+- [Intelligent Search - Post](/social-plus-sdk/social/intelligent-search/intelligent-search-post.md)
+- [Intelligent Search - Community](/social-plus-sdk/social/intelligent-search/intelligent-search-community.md)
+- [Notification tray](/social-plus-sdk/social/notification-tray.md)
+- [Get Notification Tray Seen](/social-plus-sdk/social/notification-tray/get-notification-tray-seen.md)
+- [Mark Notification Tray Seen](/social-plus-sdk/social/notification-tray/mark-notification-tray-seen.md)
+- [Query Notification Tray Item](/social-plus-sdk/social/notification-tray/query-notification-tray-item.md)
+- [Mark Notification Tray Item Seen](/social-plus-sdk/social/notification-tray/mark-notification-tray-item-seen.md)
+- [Video](/social-plus-sdk/video.md)
+- [Live Stream](/social-plus-sdk/video/live-stream.md): Host your events virtually and see community interaction as it happens.
+- [iOS](/social-plus-sdk/video/ios.md): This module allows for richer, interactive experiences by enabling video stories and live streaming on your application.
+- [View & Play Live Stream](/social-plus-sdk/video/ios/view-play.md): Host your events virtually and see community interaction as it happens.
+- [Broadcast Live Stream](/social-plus-sdk/video/ios/broadcast.md)
+- [Push Notifications](/social-plus-sdk/video/ios/push-notification.md): Ensure that your users don’t miss important content from each other.
+- [Android](/social-plus-sdk/video/android.md): This module allows for richer, interactive experiences by enabling video stories and live streaming in your application.
+- [View & Play Live Stream](/social-plus-sdk/video/android/view-play.md): Host your events virtually and see community interaction as it happens.
+- [Broadcast Live Stream](/social-plus-sdk/video/android/broadcast.md)
+- [Push Notifications](/social-plus-sdk/video/android/push-notification.md): Ensure that your users don’t miss important content from each other.
+- [Flutter](/social-plus-sdk/video/flutter.md): This module allows for richer, interactive experiences by enabling video stories and live streaming in your application.
+- [View & Play Live Stream](/social-plus-sdk/video/flutter/view-play.md): Host your events virtually and see community interaction as it happens.
+- [Push Notifications](/social-plus-sdk/video/flutter/push-notification.md): Ensure that your users don’t miss important content from each other.
+- [Typescript](/social-plus-sdk/video/web.md): This module allows for richer, interactive experiences by enabling video stories and live streaming on your application.
+- [View & Play Live Stream](/social-plus-sdk/video/web/view-and-play-live-stream.md): Host your events virtually and see community interaction as it happens.
+- [Push Notifications](/social-plus-sdk/video/web/push-notification.md): Ensure that your users don’t miss important content from each other.
+- [React Native](/social-plus-sdk/video/react-native.md): This module allows for richer, interactive experiences by enabling video stories and live streaming in your application.
+- [View & Play Live Stream](/social-plus-sdk/video/react-native/view-and-play-live-stream.md): Host your events virtually and see community interaction as it happens.
+- [Broadcast Live Stream](/social-plus-sdk/video/react-native/broadcast-live-stream.md): Host your events virtually and see community interaction as it happens.
+- [Changelogs & Versioning](/social-plus-sdk/changelogs-and-versioning.md): These pages contain an overview of changes made to the social.plus SDKs, the latest version releases‌ , and version statuses.
+- [iOS](/social-plus-sdk/changelogs-and-versioning/ios.md): This page contains an overview of all relevant changes made to the iOS SDK and the latest version releases.
+- [Android](/social-plus-sdk/changelogs-and-versioning/android.md): This page contains an overview of all relevant changes made to the Android SDK and the latest version releases.
+- [TypeScript](/social-plus-sdk/changelogs-and-versioning/ts.md): This page contains an overview of all relevant changes made to the TypeScript SDK and the latest version releases.
+- [React Native](/social-plus-sdk/changelogs-and-versioning/react-native.md): This page contains an overview of all relevant changes made to the TypeScript (React Native) SDK and the latest version releases.
+- [Flutter (Beta)](/social-plus-sdk/changelogs-and-versioning/flutter-beta.md): This page contains an overview of all relevant changes made to the Flutter SDK and the latest version releases.
+- [React Native (Video)](/social-plus-sdk/changelogs-and-versioning/react-native-video.md): This page contains an overview of all relevant changes made to the social.plus UIKit's Broadcaster and Player modules.
+- [JavaScript (Deprecated)](/social-plus-sdk/changelogs-and-versioning/js.md): This page contains an overview of all relevant changes made to the JavaScript SDK and the latest version releases.
+- [UIKit 4](/social-plus-uikit/uikit-4.md)
+- [Installation Guide](/social-plus-uikit/uikit-4/installation-guide.md)
+- [iOS](/social-plus-uikit/uikit-4/installation-guide/ios.md): social.plus iOS UIKit Migration Guide
+- [Android](/social-plus-uikit/uikit-4/installation-guide/android.md): social.plus Android UIKit Installation Guide.
+- [Web React](/social-plus-uikit/uikit-4/installation-guide/web-react.md): Quick Start Guide for Integrating social.plus UIKit's Social Feature into React Applications.
+- [Flutter (Beta)](/social-plus-uikit/uikit-4/installation-guide/flutter-beta.md)
+- [React Native (Beta)](/social-plus-uikit/uikit-4/installation-guide/react-native-beta.md)
+- [Setup and Authentication](/social-plus-uikit/uikit-4/setup-and-authentication.md)
+- [iOS](/social-plus-uikit/uikit-4/setup-and-authentication/setup-and-authentication.md): With social.plus UIKit 2.3, we have introduced a new way to Authentication process. Just follow the guide below.
+- [Android](/social-plus-uikit/uikit-4/setup-and-authentication/setup-and-authentication-1.md)
+- [Web React](/social-plus-uikit/uikit-4/setup-and-authentication/web-react.md)
+- [Flutter (Beta)](/social-plus-uikit/uikit-4/setup-and-authentication/setup-and-authentication-2.md)
+- [React Native (Beta)](/social-plus-uikit/uikit-4/setup-and-authentication/react-native-beta.md)
+- [Customization](/social-plus-uikit/uikit-4/customization.md): Customizing UIKit v4 with config file.
+- [Dynamic UI](/social-plus-uikit/uikit-4/customization/dynamic-ui.md)
+- [Customization Basics](/social-plus-uikit/uikit-4/customization/customization-basics.md)
+- [Overriding Navigation Behaviour](/social-plus-uikit/uikit-4/customization/overriding-navigation-behaviour.md)
+- [Social](/social-plus-uikit/uikit-4/social.md)
+- [Discover & Search](/social-plus-uikit/uikit-4/social/discover-and-search.md)
+- [Social Home Page](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page.md)
+- [Top Navigation Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/top-navigation-component.md)
+- [Newsfeed Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/newsfeed-component.md)
+- [Empty Newsfeed Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/empty-newsfeed-component.md)
+- [Global Feed Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/global-feed-component.md)
+- [Create Post Menu Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/create-post-menu-component.md)
+- [Community Categories Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/community-categories-component.md)
+- [Recommended Communities Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/recommended-communities-component.md)
+- [Trending Communities Component](/social-plus-uikit/uikit-4/social/discover-and-search/social-home-page/trending-communities-component.md)
+- [Global Search Page](/social-plus-uikit/uikit-4/social/discover-and-search/global-search-page.md): This page provides an ability to search all communities and users.
+- [Top Search Bar Component](/social-plus-uikit/uikit-4/social/discover-and-search/global-search-page/top-search-bar-component.md)
+- [Community Search Result Component](/social-plus-uikit/uikit-4/social/discover-and-search/global-search-page/community-search-result-component.md): This component displays a list of filtered communities.
+- [User Search Result Component](/social-plus-uikit/uikit-4/social/discover-and-search/global-search-page/user-search-result-component.md): This component displays a list of filtered users.
+- [My Communities Search Page](/social-plus-uikit/uikit-4/social/discover-and-search/my-communities-search-page.md): This page provides an ability to search joined communities.
+- [All Categories Page](/social-plus-uikit/uikit-4/social/discover-and-search/all-categories-page.md)
+- [Communities By Category Page](/social-plus-uikit/uikit-4/social/discover-and-search/communities-by-category-page.md)
+- [Notification Tray](/social-plus-uikit/uikit-4/social/discover-and-search/notification-tray.md)
+- [Community](/social-plus-uikit/uikit-4/social/community.md)
+- [Community Setup Page](/social-plus-uikit/uikit-4/social/community/community-setup-page.md)
+- [Add Category Page](/social-plus-uikit/uikit-4/social/community/community-setup-page/add-category-page.md)
+- [Add Member Page](/social-plus-uikit/uikit-4/social/community/community-setup-page/add-member-page.md)
+- [Invite Member Page](/social-plus-uikit/uikit-4/social/community/community-setup-page/invite-member-page.md)
+- [Community Profile Page](/social-plus-uikit/uikit-4/social/community/community-profile-page.md)
+- [Community Header Component](/social-plus-uikit/uikit-4/social/community/community-profile-page/community-header-component.md)
+- [Community Feed Component](/social-plus-uikit/uikit-4/social/community/community-profile-page/community-feed-component.md)
+- [Community Pin Feed Component](/social-plus-uikit/uikit-4/social/community/community-profile-page/community-pin-feed-component.md)
+- [Community Image Feed Component](/social-plus-uikit/uikit-4/social/community/community-profile-page/community-image-feed-component.md)
+- [Community Video Feed Component](/social-plus-uikit/uikit-4/social/community/community-profile-page/community-video-feed-component.md)
+- [Pending Post Page](/social-plus-uikit/uikit-4/social/community/pending-post-page.md)
+- [Pending Post Content Component](/social-plus-uikit/uikit-4/social/community/pending-post-page/pending-post-content-component.md)
+- [Community Setting Page](/social-plus-uikit/uikit-4/social/community/community-setting-page.md)
+- [Community Notification Setting Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-notification-setting-page.md)
+- [Community Posts Notification Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-notification-setting-page/community-posts-notification-page.md)
+- [Community Comments Notification Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-notification-setting-page/community-comments-notification-page.md)
+- [Community Stories Notification Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-notification-setting-page/community-stories-notification-page.md)
+- [Community Post Permissions Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-post-permissions-page.md)
+- [Community Story Setting Page](/social-plus-uikit/uikit-4/social/community/community-setting-page/community-story-setting-page.md)
+- [Community Membership Page](/social-plus-uikit/uikit-4/social/community/community-membership-page.md)
+- [Community Pending Invitations Page](/social-plus-uikit/uikit-4/social/community/community-pending-invitations-page.md)
+- [Pending Request Page](/social-plus-uikit/uikit-4/social/community/pending-request-page.md)
+- [Pending Post List Component](/social-plus-uikit/uikit-4/social/community/pending-request-page/pending-post-list-component.md)
+- [Join Request Content Component](/social-plus-uikit/uikit-4/social/community/pending-request-page/join-request-content-component.md)
+- [User](/social-plus-uikit/uikit-4/social/user.md)
+- [User Profile Page](/social-plus-uikit/uikit-4/social/user/user-profile-page.md)
+- [User Profile Header Component](/social-plus-uikit/uikit-4/social/user/user-profile-page/user-profile-header-component.md)
+- [User Feed Component](/social-plus-uikit/uikit-4/social/user/user-profile-page/user-feed-component.md)
+- [User Image Feed Component](/social-plus-uikit/uikit-4/social/user/user-profile-page/user-image-feed-component.md)
+- [User Video Feed Component](/social-plus-uikit/uikit-4/social/user/user-profile-page/user-video-feed-component.md)
+- [Edit User Profile Page](/social-plus-uikit/uikit-4/social/user/edit-user-profile-page.md)
+- [Blocked User Page](/social-plus-uikit/uikit-4/social/user/blocked-user-page.md)
+- [User Relationship Page](/social-plus-uikit/uikit-4/social/user/user-relationship-page.md)
+- [User Pending Follow Request Page](/social-plus-uikit/uikit-4/social/user/user-pending-follow-request-page.md)
+- [Post](/social-plus-uikit/uikit-4/social/post.md)
+- [Post Details Page](/social-plus-uikit/uikit-4/social/post/post-details-page.md)
+- [Post Content Component](/social-plus-uikit/uikit-4/social/post/post-details-page/post-content-component.md)
+- [Post Composer Page](/social-plus-uikit/uikit-4/social/post/post-composer-page.md)
+- [Media Attachment Component](/social-plus-uikit/uikit-4/social/post/post-composer-page/media-attachment-component.md)
+- [Detailed Media Attachment Component](/social-plus-uikit/uikit-4/social/post/post-composer-page/detailed-media-attachment-component.md)
+- [Post Target Selection Page](/social-plus-uikit/uikit-4/social/post/post-target-selection-page.md): This page provides a list of joined communities that user can create a post on
+- [Poll Post Composer Page](/social-plus-uikit/uikit-4/social/post/poll-post-composer-page.md)
+- [Poll Target Selection Page](/social-plus-uikit/uikit-4/social/post/poll-target-selection-page.md): This page provides a list of joined communities that user can create a poll post on
+- [Livestream](/social-plus-uikit/uikit-4/social/livestream.md)
+- [Livestream Target Selection Page](/social-plus-uikit/uikit-4/social/livestream/livestream-target-selection-page.md)
+- [Livestream Creation Page](/social-plus-uikit/uikit-4/social/livestream/livestream-creation-page.md)
+- [Livestream Player Page](/social-plus-uikit/uikit-4/social/livestream/livestream-player-page.md)
+- [Livestream Terminated Page](/social-plus-uikit/uikit-4/social/livestream/livestream-terminated-page.md)
+- [Story](/social-plus-uikit/uikit-4/social/story.md)
+- [Story Target Tab Component](/social-plus-uikit/uikit-4/social/story/story-target-tab-component.md)
+- [Story Creation Page](/social-plus-uikit/uikit-4/social/story/story-creation-page.md): This page provides media picking and camera for story creation.
+- [Story Drafting Page](/social-plus-uikit/uikit-4/social/story/story-creation-page/story-drafting-page.md): This page provides draft preview for story creation.
+- [Story Viewing Page](/social-plus-uikit/uikit-4/social/story/story-viewing-page.md)
+- [Story Target Selection Page](/social-plus-uikit/uikit-4/social/story/story-target-selection-page.md): This page provides a list of feeds where users can create posts based on their selected story target.
+- [Clip](/social-plus-uikit/uikit-4/social/clip.md)
+- [Clip Post Creation Page](/social-plus-uikit/uikit-4/social/clip/clip-post-creation-page.md): This page provides media picking and camera for story creation.
+- [Draft Clip Page](/social-plus-uikit/uikit-4/social/clip/clip-post-creation-page/draft-clip-page.md)
+- [Clip Feed Page](/social-plus-uikit/uikit-4/social/clip/clip-feed-page.md)
+- [Comment & Reaction](/social-plus-uikit/uikit-4/social/comment-and-reaction.md)
+- [Comment Tray Component](/social-plus-uikit/uikit-4/social/comment-and-reaction/comment-tray-component.md): This component provide viewing comment, creating and editing, adding reaction.
+- [Reaction List Component](/social-plus-uikit/uikit-4/social/comment-and-reaction/reaction-list-component.md)
+- [Content moderation](/social-plus-uikit/uikit-4/social/content-moderation.md)
+- [Chat](/social-plus-uikit/uikit-4/chat.md)
+- [Recent chats (channel list)](/social-plus-uikit/uikit-4/chat/recent-chats-channel-list.md)
+- [Chat Home Page](/social-plus-uikit/uikit-4/chat/recent-chats-channel-list/chat-home-page.md)
+- [Chat List Component](/social-plus-uikit/uikit-4/chat/recent-chats-channel-list/chat-list-component.md)
+- [Archived Chat List Component](/social-plus-uikit/uikit-4/chat/recent-chats-channel-list/archived-chat-list-component.md)
+- [Amity Channel Create Conversation Page](/social-plus-uikit/uikit-4/chat/recent-chats-channel-list/amity-channel-create-conversation-page.md)
+- [Conversation Chat](/social-plus-uikit/uikit-4/chat/conversation-chat.md)
+- [AmityChatPage](/social-plus-uikit/uikit-4/chat/conversation-chat/amitychatpage.md)
+- [AmityConversationChatUserActionComponent](/social-plus-uikit/uikit-4/chat/conversation-chat/amitychatpage/amityconversationchatuseractioncomponent.md)
+- [AmityMessageComposer](/social-plus-uikit/uikit-4/chat/conversation-chat/amitymessagecomposer.md)
+- [Live Chat](/social-plus-uikit/uikit-4/chat/live-chat.md)
+- [Live Chat Page](/social-plus-uikit/uikit-4/chat/live-chat/live-chat-page.md): This page provides  a full functionalities of live chat
+- [Live Chat Header Component](/social-plus-uikit/uikit-4/chat/live-chat/live-chat-page/live-chat-header-component.md): This component displays channel info
+- [Live Chat Message List Component](/social-plus-uikit/uikit-4/chat/live-chat/live-chat-page/live-chat-message-list-component.md): This component provides a feed of messages
+- [Reaction List Component](/social-plus-uikit/uikit-4/chat/live-chat/live-chat-page/live-chat-message-list-component/reaction-list-component.md): This component enable uses to view reactions and the users who reacted on messages.
+- [Live Chat Compose Bar Component](/social-plus-uikit/uikit-4/chat/live-chat/live-chat-page/live-chat-compose-bar-component.md): This component enables message creation
+- [Group Chat](/social-plus-uikit/uikit-4/chat/group-chat.md)
+- [AmityGroupChatPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupchatpage.md)
+- [AmitySelectGroupMemberPage](/social-plus-uikit/uikit-4/chat/group-chat/amityselectgroupmemberpage.md)
+- [AmityCreateGroupChatPage](/social-plus-uikit/uikit-4/chat/group-chat/amitycreategroupchatpage.md)
+- [AmityGroupSettingPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage.md)
+- [AmityEditGroupProfilePage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amityeditgroupprofilepage.md)
+- [AmityEditGroupNotificationPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amityeditgroupnotificationpage.md)
+- [AmityEditGroupMemberPermissionsPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amityeditgroupmemberpermissionspage.md)
+- [AmityGroupMemberListPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amitygroupmemberlistpage.md)
+- [AmityGroupMemberActionComponent](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amitygroupmemberlistpage/amitygroupmemberactioncomponent.md)
+- [AmityAddGroupMemberPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amityaddgroupmemberpage.md)
+- [AmityBannedGroupMemberListPage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amitybannedgroupmemberlistpage.md)
+- [AmityGroupNotificationPreferencePage](/social-plus-uikit/uikit-4/chat/group-chat/amitygroupsettingpage/amitygroupnotificationpreferencepage.md)
+- [AmityMessageReportReasonComponent](/social-plus-uikit/uikit-4/chat/amitymessagereportreasoncomponent.md)
+- [UIKit 3](/social-plus-uikit/uikit-3.md)
+- [iOS (Deprecated)](/social-plus-uikit/uikit-3/ios.md): social.plus modules are ready-to-use — the only things left to do for our customers are integration and the front-end. Going the extra mile, we've created a UIKit with endless customizations.
+- [Overview](/social-plus-uikit/uikit-3/ios/overview.md)
+- [iOS UIKit Installation Guide](/social-plus-uikit/uikit-3/ios/ios-uikit-installation-guide.md): social.plus iOS UIKit Migration Guide
+- [Installing UIKit (deprecated)](/social-plus-uikit/uikit-3/ios/getting-started.md): Installing managed UIKit through Cocoapods, Carthage & SPM.
+- [Setup & Authentication](/social-plus-uikit/uikit-3/ios/setup-and-authentication.md): With social.plus UIKit 2.3, we have introduced a new way to Authentication process. Just follow the guide below.
+- [Using Themes](/social-plus-uikit/uikit-3/ios/theme.md)
+- [Social UIKit](/social-plus-uikit/uikit-3/ios/community.md): Our community group functionality within the social.plus UIKit will allow you to explore social features and how they will look in your app.
+- [Using as a whole feature with the default settings](/social-plus-uikit/uikit-3/ios/community/default-settings.md): The quickest way to start using the Community feature, all the default logic and navigation has already been defined.
+- [Our Components](/social-plus-uikit/uikit-3/ios/community/components.md): There are many components that you can use and integrate into your existing application.
+- [Community Home Page](/social-plus-uikit/uikit-3/ios/community/components/community-home-page.md): This page consists of two components represented in tabs.
+- [Newsfeed](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/newsfeed.md): This component consists of My community and Global feed components.
+- [Global Feed](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/newsfeed/global-feed.md): This component shows the global feed.
+- [My Community Preview](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/newsfeed/my-community-preview.md): This component shows a preview of the communities that the user has joined.
+- [Explore Tab](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/explore.md): This component consists of Recommend community, Top trending community, and Categories components.
+- [Recommended Community](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/explore/recommended-community.md): This component shows a list of recommended communities.
+- [Top Trending](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/explore/top-trending.md): This component shows up to five top trending communities.
+- [Categories](/social-plus-uikit/uikit-3/ios/community/components/community-home-page/explore/categories.md): This component shows a list of up to eight categories in alphabetical order.
+- [My Community Page](/social-plus-uikit/uikit-3/ios/community/components/community-page.md): This page shows a list of all communities that a user has joined sorted in alphabetical order.
+- [Category List Page](/social-plus-uikit/uikit-3/ios/community/components/category-list.md): This page shows a list of all categories sorted in alphabetical order.
+- [Community List by Category Page](/social-plus-uikit/uikit-3/ios/community/components/community-list.md): This page shows a list of all communities that belong to a category sorted in alphabetical order.
+- [Community Creation Page](/social-plus-uikit/uikit-3/ios/community/components/community-creation.md): This page provides a form for community creation.
+- [Community Profile Edit Page](/social-plus-uikit/uikit-3/ios/community/components/community-edit-page.md): This page provides a form for community profile update.
+- [Community Setting Page](/social-plus-uikit/uikit-3/ios/community/components/community-setting-page.md): This page provides option for user to manage the community.
+- [Community Push Notification Settings Page](/social-plus-uikit/uikit-3/ios/community/components/community-setting-page/community-push-notification-setting-page.md): This page allow user to set the push notification for each community.
+- [Community Push Notification Settings - Comment and Reply Relate Event Page](/social-plus-uikit/uikit-3/ios/community/components/community-setting-page/community-push-notification-setting-page/community-push-notification-setting-comment-and-reply-relate-event-page..md): Learn how to set push notifications for comment and reply.
+- [Community Push Notification Settings - Post Relate Event Page](/social-plus-uikit/uikit-3/ios/community/components/community-setting-page/community-push-notification-setting-page/community-push-notification-setting-post-relate-event-page..md): Where user can set the push notification related to posts.
+- [Post Creation Page](/social-plus-uikit/uikit-3/ios/community/components/post-creation.md): This page provides a form for post creation.
+- [Livestream Post](/social-plus-uikit/uikit-3/ios/community/components/post-creation/livestream-post.md): Host your events virtually and see community interaction as it happens
+- [Post Detail Page](/social-plus-uikit/uikit-3/ios/community/components/post-detail.md): This page shows content of a post including reactions and comments.
+- [Post Edit Page](/social-plus-uikit/uikit-3/ios/community/components/post-edit.md): This page provides a form to edit post content.
+- [Comment Creation](/social-plus-uikit/uikit-3/ios/community/components/comment-creation.md): This page provides information on creating comment.
+- [Comment Edit Page](/social-plus-uikit/uikit-3/ios/community/components/comment-edit-page.md): This page provides information on editing comment content.
+- [Community Profile Page](/social-plus-uikit/uikit-3/ios/community/components/community-profile-page.md): This page shows the profile of a community including its own feed.
+- [Community Feed](/social-plus-uikit/uikit-3/ios/community/components/community-profile-page/community-feed.md): This component shows a list of posts from a community feed.
+- [Media Gallery](/social-plus-uikit/uikit-3/ios/community/components/community-profile-page/media-gallery.md): This component shows a collection of images and videos posted in the community feed.
+- [Community Member Page](/social-plus-uikit/uikit-3/ios/community/components/community-member-page.md)
+- [User Profile Page](/social-plus-uikit/uikit-3/ios/community/components/user-profile-page.md): This page shows user profile information as well as user feed.
+- [User Feed](/social-plus-uikit/uikit-3/ios/community/components/user-profile-page/user-feed.md): This component shows a user feed of a specific user.
+- [User Profile Page (2.2)](/social-plus-uikit/uikit-3/ios/community/components/user-profile-page-2.2.md): This User profile page can support the Follow feature and User Privacy feature.
+- [User Feed (2.2)](/social-plus-uikit/uikit-3/ios/community/components/user-profile-page-2.2/user-feed-2.2.md): This component shows a user feed of a specific user.
+- [User Setting Page(2.2)](/social-plus-uikit/uikit-3/ios/community/components/user-setting-page-2.2.md)
+- [User Profile Edit Page](/social-plus-uikit/uikit-3/ios/community/components/user-profile-edit.md): This page allows a user to edit their own profile information.
+- [Following / Follower User List Page (2.2)](/social-plus-uikit/uikit-3/ios/community/components/following-follower-user-list-page.md)
+- [Follow Request Page (2.2)](/social-plus-uikit/uikit-3/ios/community/components/follow-request-page.md)
+- [Member Selection Page](/social-plus-uikit/uikit-3/ios/community/components/member-selection.md)
+- [Post Target Selection Page](/social-plus-uikit/uikit-3/ios/community/components/post-target.md): This page provides a list of community feeds that user can create a post on.
+- [Using Your Own Component](/social-plus-uikit/uikit-3/ios/community/own-component.md)
+- [Using Your Own Navigation Bar](/social-plus-uikit/uikit-3/ios/community/own-component/using-your-own-navigation-bar.md)
+- [Overriding UIKit Behaviour](/social-plus-uikit/uikit-3/ios/community/overriding-behavior.md)
+- [Feed UI Settings](/social-plus-uikit/uikit-3/ios/community/overriding-behavior/feed-ui-settings.md)
+- [Post Sharing](/social-plus-uikit/uikit-3/ios/community/overriding-behavior/feed-ui-settings/post-sharing.md)
+- [Post Rendering](/social-plus-uikit/uikit-3/ios/community/overriding-behavior/feed-ui-settings/post-rendering.md)
+- [Event Handling](/social-plus-uikit/uikit-3/ios/community/overriding-behavior/event-handling.md)
+- [Example](/social-plus-uikit/uikit-3/ios/community/overriding-behavior/event-handling/example.md)
+- [Roles & Permissions](/social-plus-uikit/uikit-3/ios/community/roles-permissions.md): From v1.8 onwards, UIKit provides the capability for you to manage roles & permissions via the integration with SDK.
+- [Chat UIKit](/social-plus-uikit/uikit-3/ios/chat.md)
+- [Using as a Whole Feature with the Default Settings](/social-plus-uikit/uikit-3/ios/chat/using-as-a-whole-feature-with-the-default-settings.md): This is the fastest way to use the chat function. All standard logics and navigations are already defined.
+- [Using Only Some Components](/social-plus-uikit/uikit-3/ios/chat/using-only-some-components.md): There are many components that you can use and integrate into your existing application.
+- [Chat Home Page](/social-plus-uikit/uikit-3/ios/chat/using-only-some-components/chat-home-page.md): This page consists of one component in a single tab.
+- [Recent chat](/social-plus-uikit/uikit-3/ios/chat/using-only-some-components/chat-home-page/recent-chat.md): This page shows a list of the most recent chats.
+- [Chat Room Page](/social-plus-uikit/uikit-3/ios/chat/using-only-some-components/chat-room-page.md): This page shows all the messages in a direct chat.
+- [Using your own component](/social-plus-uikit/uikit-3/ios/chat/using-your-own-component.md)
+- [Message Bubble](/social-plus-uikit/uikit-3/ios/chat/using-your-own-component/message-bubble.md): UIKit allows all types of message bubble to be replaced.
+- [Video UIKit](/social-plus-uikit/uikit-3/ios/video-uikit.md): Our video functionality within the social.plus UIKit will allows for richer, interactive experiences by enabling live streaming on your application
+- [Livestream](/social-plus-uikit/uikit-3/ios/video-uikit/livestream.md)
+- [Android (Deprecated)](/social-plus-uikit/uikit-3/android.md): social.plus modules are ready-to-use — the only things left to do for our customers are integration and front-end. Going the extra mile, we've created a UIKit with endless customizations.
+- [Overview](/social-plus-uikit/uikit-3/android/overview.md)
+- [Android UIKit Installation Guide](/social-plus-uikit/uikit-3/android/android-uikit-installation-guide.md): social.plus Android UIKit Installation Guide
+- [Installing UIKit (deprecated)](/social-plus-uikit/uikit-3/android/getting-started.md): The Android SDK is delivered via Jitpack repository.
+- [Setup & Authentication](/social-plus-uikit/uikit-3/android/setup-and-authentication.md)
+- [Using Themes](/social-plus-uikit/uikit-3/android/themes.md)
+- [Social UIKit](/social-plus-uikit/uikit-3/android/community.md)
+- [Using as a whole feature with the default settings](/social-plus-uikit/uikit-3/android/community/using-as-a-whole-feature-with-the-default-settings.md): This is the quickest way to start using the Community feature. All the default logic and navigations have already been defined.
+- [Our Components](/social-plus-uikit/uikit-3/android/community/using-only-some-components.md): There are many components that you can use and integrate into your existing application.
+- [Community Home Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page.md): This page consists of two components represented in tabs.
+- [Newsfeed](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/newsfeed.md): This page consists of two components - My community and Global feed.
+- [Global Feed](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/newsfeed/global-feed.md): This component shows the global feed.
+- [My Community Preview](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/newsfeed/my-community-preview.md): This component shows a preview of the communities that the user has joined.
+- [Explore Tab](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/explore.md): This component consists of three components - Recommend community, Top trending community, and Categories components.
+- [Recommended Community](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/explore/recommended-community.md): This component shows a list of recommended communities.
+- [Top Trending Community](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/explore/top-trending-community.md): This component shows up to five top trending communities.
+- [Categories](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-home-page/explore/categories.md): This component shows a list of up to eight categories in alphabetical order.
+- [My Community Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/my-community-page.md): This page shows a list of all communities that a user has joined, sorted in alphabetical order.
+- [Category List Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/category-list-page.md): This page shows a list of all categories sorted in alphabetical order.
+- [Community List By Category Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-list-by-category-page.md): This page shows a list of all communities that belong to a category sorted in alphabetical order.
+- [Community Creation Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-creation-page.md): This page provides a form for community creation.
+- [Community Profile Edit Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-profile-edit-page.md): This page provides a form for community profile update.
+- [Post Creation Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/post-creation-page.md): This page provides a form for post creation.
+- [Livestream Post](/social-plus-uikit/uikit-3/android/community/using-only-some-components/post-creation-page/livestream-post.md): Host your events virtually and see community interaction as it happens.
+- [Post Details Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/post-detail-page.md): This page shows content of a post including reactions and comments.
+- [Post Edit Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/post-edit-page.md): This page provides a form to edit post content.
+- [Comment Creation](/social-plus-uikit/uikit-3/android/community/using-only-some-components/comment-creation.md)
+- [Comment Edit Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/comment-edit-page.md)
+- [Community Profile Page (2.5)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-profile-page.md): This page shows profile of a community including its own feed.
+- [Community Feed (2.5)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-profile-page/community-feed.md): This component shows a list of posts from a community feed.
+- [Media Gallery](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-profile-page/media-gallery.md): This component shows a collection of images and videos posted in the community feed.
+- [Community Member Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/community-member-page.md): This page displays the list of members for a given community.
+- [User Profile Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-profile-page.md): This page shows user profile information as well as user feed.
+- [User Feed](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-profile-page/user-feed.md): This component shows a user feed of a specific user.
+- [User Profile Page (2.3)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-profile-page-2.2.md)
+- [User Feed (2.3)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-profile-page-2.2/user-feed-2.2.md)
+- [User Setting Page (2.3)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-setting-page-2.2.md): This page allows user to interact with the user profile.
+- [Following and Follower User List Page(2.3)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/following-and-follower-user-list-page-2.2.md)
+- [Follow Request Page (2.3)](/social-plus-uikit/uikit-3/android/community/using-only-some-components/follow-request-page-2.2.md)
+- [User Profile Edit Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/user-profile-edit-page.md): This page allows a user to edit user's own profile information.
+- [Member Selection Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/member-selection-page.md): This page provides a user picker.
+- [Post Target Selection Page](/social-plus-uikit/uikit-3/android/community/using-only-some-components/post-target-selection-page.md): This page provides a list of feed that user can create a post on
+- [Using Your Own Components](/social-plus-uikit/uikit-3/android/community/using-your-own-components.md)
+- [Using Your Own Navigation Bar](/social-plus-uikit/uikit-3/android/community/using-your-own-components/using-your-own-navigation-bar.md)
+- [Overriding UIKit Behaviour](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour.md)
+- [Overriding Global Behaviour](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/overriding-global-behaviour.md)
+- [Feed UI Settings](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/overriding-global-behaviour/feed-ui-settings.md)
+- [Post Sharing](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/overriding-global-behaviour/feed-ui-settings/post-sharing.md): Post sharing functionality is currently not available from the system. However, UIKit provides a ready made "share" button with an interface for users to specify their own post sharing behaviours.
+- [Post Rendering](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/overriding-global-behaviour/feed-ui-settings/post-rendering.md)
+- [Event Handling](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/event-handling.md)
+- [Example](/social-plus-uikit/uikit-3/android/community/overriding-uikit-behaviour/event-handling/example.md)
+- [Chat UIKit](/social-plus-uikit/uikit-3/android/chat-uikit.md)
+- [Using as a whole feature with the default settings](/social-plus-uikit/uikit-3/android/chat-uikit/using-as-a-whole-feature-with-the-default-settings.md): This is the quickest way to start using the Chat feature , all the default logic and navigations have already been defined.
+- [Using Only Some Components](/social-plus-uikit/uikit-3/android/chat-uikit/using-only-some-components.md): There are many components that you can use and integrate into your existing application.
+- [Chat Home Page](/social-plus-uikit/uikit-3/android/chat-uikit/using-only-some-components/chat-home-page.md): This page consists of one component in a single tab.
+- [Recent Chat](/social-plus-uikit/uikit-3/android/chat-uikit/using-only-some-components/chat-home-page/recent-chat.md): This page shows a list of the most recent chats.
+- [Chatroom Page](/social-plus-uikit/uikit-3/android/chat-uikit/using-only-some-components/chatroom-page.md): This page is a chatroom.
+- [Using Your Own Component](/social-plus-uikit/uikit-3/android/chat-uikit/using-your-own-component.md)
+- [Message Bubble](/social-plus-uikit/uikit-3/android/chat-uikit/using-your-own-component/message-bubble.md): UIKit allows all types of message bubble to be replaced.
+- [React (Deprecated)](/social-plus-uikit/uikit-3/web.md): social.plus modules are ready-to-use — the only things left to do for our customers are integration and front-end. Going the extra mile, we've created a UI Kit with endless customizations.
+- [Overview](/social-plus-uikit/uikit-3/web/overview.md)
+- [Web UIKit Installation Guide](/social-plus-uikit/uikit-3/web/web-uikit-installation-guide.md): social.plus Web UIKit Installation Guide.
+- [Installing UI Kit (deprecated)](/social-plus-uikit/uikit-3/web/install-ui-kit.md)
+- [Setup & Authentication](/social-plus-uikit/uikit-3/web/setup-and-authentication.md)
+- [Using Themes](/social-plus-uikit/uikit-3/web/using-themes.md)
+- [Social UIKit](/social-plus-uikit/uikit-3/web/social-uikit.md)
+- [Using as a whole feature with the default settings](/social-plus-uikit/uikit-3/web/social-uikit/using-as-a-whole-feature-with-the-default-settings.md): This is the quickest way to start using the Community feature. All the default logic and navigations have already been defined.
+- [Our Components](/social-plus-uikit/uikit-3/web/social-uikit/our-components.md): There are many components that you can use and integrate into your existing application.
+- [Community Home Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page.md): Show community feeds, search, or create new communities.
+- [Search Communities](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/search-communities.md): Easily search for communities by providing the community name.
+- [Newsfeed](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/newsfeed.md): View feeds from communities as well as member.
+- [Global Feed](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/newsfeed/global-feed.md): View feeds from communities as well as member.
+- [Explore](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/explore.md): Explore recommended and trending communities
+- [Recommended Communities](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/explore/recommended-community.md): This section shows a list of recommended communities.
+- [Top Trending Communities](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/explore/todays-trending.md): A list of the latest top trending communities.
+- [Categories](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-home-page/explore/categories.md): This section shows a list of community categories in alphabetical order.
+- [My Community](/social-plus-uikit/uikit-3/web/social-uikit/our-components/my-community-preview.md): This section shows a preview of the communities that you are a member.
+- [Community List By Category Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-list-by-category-page.md): This page shows a list of all communities that belong to a category sorted in alphabetical order.
+- [Community Creation Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-creation-page.md): This page provides a form for community creation.
+- [Community Settings](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-settings-page.md): This page provides option managing the community settings.
+- [Edit Profile Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-settings-page/community-profile-edit-page.md): This page provides a form for community profile update.
+- [Members](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-settings-page/members.md)
+- [Permissions](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-settings-page/permissions.md)
+- [Post Creation](/social-plus-uikit/uikit-3/web/social-uikit/our-components/post-creation-page.md): This section provides a form for post creation.
+- [Livestream Post](/social-plus-uikit/uikit-3/web/social-uikit/our-components/post-creation-page/livestream-post.md): See community interaction as it happens.
+- [Post Edit](/social-plus-uikit/uikit-3/web/social-uikit/our-components/post-edit-page.md): This page provides a form to edit post content.
+- [Comments](/social-plus-uikit/uikit-3/web/social-uikit/our-components/comments.md)
+- [Community Profile Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-profile-page.md): This page shows the profile of a community including its own feed.
+- [Community Feed](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-profile-page/community-feed.md): This section shows a list of posts from a community.
+- [Media Gallery](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-profile-page/media-gallery.md): This component shows a collection of images and videos posted in the community feed.
+- [Community Members Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-profile-page/community-members-page.md)
+- [Transfer Moderator Role](/social-plus-uikit/uikit-3/web/social-uikit/our-components/community-profile-page/transfer-moderator-role.md)
+- [User Profile](/social-plus-uikit/uikit-3/web/social-uikit/our-components/user-profile-page.md): This page shows user profile information as well as user feed.
+- [User Feed](/social-plus-uikit/uikit-3/web/social-uikit/our-components/user-profile-page/user-feed-2.2.md): This section shows the user feed of a specific user.
+- [Media Gallery](/social-plus-uikit/uikit-3/web/social-uikit/our-components/user-profile-page/media-gallery.md): This component shows a collection of images and videos posted in the user feed.
+- [Following / Follower User List Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/user-profile-page/following-follower-user-list-page.md)
+- [Follow Request Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/follow-request-page.md)
+- [Profile Settings Page](/social-plus-uikit/uikit-3/web/social-uikit/our-components/user-profile-edit-page.md): This section allows you to edit your own profile information.
+- [Using Your Own Component](/social-plus-uikit/uikit-3/web/social-uikit/using-your-own-component.md): social.plus UIKit will allow some parts of the component to be replaceable with your own component.
+- [Using Your Own Like Button for Posts](/social-plus-uikit/uikit-3/web/social-uikit/using-your-own-component/using-your-own-like-button-for-posts.md)
+- [Overriding UIKit Behaviour](/social-plus-uikit/uikit-3/web/social-uikit/overriding-uikit-behaviour.md): UIKIT allows the default behaviour to be overridden by custom logic.
+- [Post Rendering](/social-plus-uikit/uikit-3/web/social-uikit/overriding-uikit-behaviour/post-rendering.md)
+- [Chat UIKit](/social-plus-uikit/uikit-3/web/chat-uikit.md): Our chat functionality within the UIKit will allow you to explore how to best integrate and design messaging features and visually see how they will look in your app.
+- [Using as a Whole Feature with the Default Settings](/social-plus-uikit/uikit-3/web/chat-uikit/using-as-a-whole-feature-with-the-default-settings.md): This is the quickest way to start using the Chat feature, all the default logic and navigations have already been defined.
+- [Our Components](/social-plus-uikit/uikit-3/web/chat-uikit/chat-components.md)
+- [Recent Chat](/social-plus-uikit/uikit-3/web/chat-uikit/chat-components/recent-chat.md): This page shows a list of the most recent chats.
+- [Chat Room](/social-plus-uikit/uikit-3/web/chat-uikit/chat-components/chat-room.md): This page shows a list of the most recent chats.
+- [Message Bubble](/social-plus-uikit/uikit-3/web/chat-uikit/chat-components/message-bubble.md)
+- [Chat Details](/social-plus-uikit/uikit-3/web/chat-uikit/chat-components/chat-details.md)
+- [Event Handling](/social-plus-uikit/uikit-3/web/event-handling.md)
+- [Example](/social-plus-uikit/uikit-3/web/event-handling/example.md)
+- [Roles & Permissions](/social-plus-uikit/uikit-3/web/roles-and-permissions.md): As of v1.8, UIKit offers you the possibility to manage roles and permissions via integration with SDK.
+- [Flutter (Beta)](/social-plus-uikit/uikit-3/flutter.md): social.plus modules are ready-to-use — the only things left to do for our customers are integration and front-end. Going the extra mile, we've created a UIKit with endless customizations.
+- [Overview](/social-plus-uikit/uikit-3/flutter/overview.md)
+- [Flutter UIKit Installation Guide](/social-plus-uikit/uikit-3/flutter/flutter-uikit-installation-guide.md): Amity Flutter UIKit Migration Guide
+- [Setup & Authentication](/social-plus-uikit/uikit-3/flutter/setup-and-authentication.md): With social.plus UIKit 2.3, we have introduced a new way to Authentication process. Just follow the guide below.
+- [Using Themes](/social-plus-uikit/uikit-3/flutter/theme.md)
+- [Social UIKit](/social-plus-uikit/uikit-3/flutter/community.md): Our community group functionality within the social.plus UIKit will allow you to explore social features and how they will look in your app.
+- [Using as a whole feature with the default settings](/social-plus-uikit/uikit-3/flutter/community/default-settings.md): The quickest way to start using the Community feature, all the default logic and navigation has already been defined.
+- [React Native (Beta)](/social-plus-uikit/uikit-3/react-native-beta.md): social.plus modules are ready-to-use — the only things left to do for our customers are integration and front-end. Going the extra mile, we've created a UIKit with endless customizations.
+- [Setup & Authentication](/social-plus-uikit/uikit-3/react-native-beta/setup-and-authentication.md)
+- [Running the Sample App with Expo](/social-plus-uikit/uikit-3/react-native-beta/running-the-sample-app-with-expo.md)
+- [Changelogs](/social-plus-uikit/changelogs.md): These pages contain an overview of changes made to the social.plus UIKit and the latest version releases‌.
+- [iOS](/social-plus-uikit/changelogs/changelog.md): This page contains an overview of all relevant changes made to the social.plus UIKit modules and the latest version releases.
+- [Android](/social-plus-uikit/changelogs/changelog-1.md): On this page, you will find an overview of all relevant changes to the Social Plus UIKit modules and the latest version releases.
+- [Flutter](/social-plus-uikit/changelogs/flutter.md): On this page, you will find an overview of all relevant changes to the Social Plus UIKit modules and the latest version releases.
+- [Web (React)](/social-plus-uikit/changelogs/changelog-2.md): This page contains an overview of all relevant changes made to the social.plus UIKit modules and the latest version releases.
+- [React Native](/social-plus-uikit/changelogs/react-native.md): The sub-pages contain an overview of all relevant changes made to the Social Plus UIKit modules and the latest version releases.
+- [React Native Chat UIKit](/social-plus-uikit/changelogs/react-native/react-native-chat-uikit.md): This page contains an overview of all relevant changes made to the social.plus React Native Chat UIKit modules and the latest version releases.
+- [React Native Social UIKit](/social-plus-uikit/changelogs/react-native/react-native-social-uikit.md): This page contains an overview of all relevant changes made to the social.plus React Native Social UIKit modules and the latest version releases.
+- [social.plus Portal](/analytics-and-moderation/social+-portal.md)
+- [Getting Started](/analytics-and-moderation/social+-portal/getting-started.md)
+- [Application Management](/analytics-and-moderation/social+-portal/application-management.md)
+- [Account Management](/analytics-and-moderation/social+-portal/account-management.md)
+- [Dashboard](/analytics-and-moderation/social+-portal/dashboard.md)
+- [Raw Data Export](/analytics-and-moderation/social+-portal/dashboard/raw-data-export.md)
+- [Community-Level Analytics and Social Insights Filtering](/analytics-and-moderation/social+-portal/dashboard/community-level-analytics-and-social-insights-filtering.md)
+- [Changelogs](/analytics-and-moderation/social+-portal/changelogs.md)
+- [social.plus Console](/analytics-and-moderation/console.md): social.plus offers a ton of moderation tools and capabilities designed to offer greater control for the user. Moderation can occur both at the user level and the admin level.
+- [Moderation, Roles & Privileges](/analytics-and-moderation/console/moderation-roles-and-privileges.md): In order to have moderation privileges, a user has to be assigned a role. Currently, we offer three tiers of roles for users and one tier for admins.
+- [Chat Management](/analytics-and-moderation/console/chat-management.md)
+- [Channel Management](/analytics-and-moderation/console/chat-management/channel-management.md)
+- [Message Management](/analytics-and-moderation/console/chat-management/messaging-management.md)
+- [Chat Activities (Beta)](/analytics-and-moderation/console/chat-management/chat-activities-beta.md)
+- [Social Management](/analytics-and-moderation/console/social-management.md)
+- [Communities](/analytics-and-moderation/console/social-management/communities.md): Learn how to manage your communities with SP Console
+- [Posts](/analytics-and-moderation/console/social-management/social-management.md)
+- [Post Viewing and Management](/analytics-and-moderation/console/social-management/social-management/social-management.md)
+- [Post Creation](/analytics-and-moderation/console/social-management/social-management/social-management-1.md)
+- [Post Pinning and Featuring](/analytics-and-moderation/console/social-management/social-management/post-pinning-and-featuring.md): Pin and unpin posts in communities highlight the important content, with pinned posts easily accessible in the ‘Pinned’ tab of the community feed.
+- [Comments](/analytics-and-moderation/console/social-management/social-management-1.md)
+- [Comment Viewing and Management](/analytics-and-moderation/console/social-management/social-management-1/comment-viewing-and-management.md)
+- [Comment Creation and Reply](/analytics-and-moderation/console/social-management/social-management-1/comment-creation-and-reply.md)
+- [Stories](/analytics-and-moderation/console/social-management/stories.md): View & Manage Community Stories.
+- [User & Content Management](/analytics-and-moderation/console/user-and-content-management.md)
+- [User Social History](/analytics-and-moderation/console/user-and-content-management/user-social-history.md)
+- [Moderation Feed](/analytics-and-moderation/console/user-and-content-management/moderation-feed.md)
+- [Admin Access Control](/analytics-and-moderation/console/admin-access-control.md)
+- [Livestream Moderation](/analytics-and-moderation/console/livestream-moderation.md): Enabling safe and engaging live-streaming experiences.
+- [Premium Ads](/analytics-and-moderation/console/premium-ads.md): With Premium Ads, unlock new avenues for growth and profitability, all within your own social ecosystem.
+- [Setting Up Premium Ads](/analytics-and-moderation/console/premium-ads/setting-up-premium-ads.md): This page provides instructions for effectively managing your Premium Ads by creating, editing, and deleting them.
+- [Setting Up Advertiser Profile](/analytics-and-moderation/console/premium-ads/setting-up-advertiser-profile.md): This page provides instructions for effectively managing your Advertiser Profile by creating, editing, and deleting them.
+- [Settings](/analytics-and-moderation/console/settings.md)
+- [Image Moderation](/analytics-and-moderation/console/settings/image-moderation.md): Creating safer online communities for all!
+- [Push Notifications](/analytics-and-moderation/console/settings/push-notifications.md)
+- [Security](/analytics-and-moderation/console/settings/security.md): The menu dedicated to security asset management such as API Key, Server Key.
+- [Admin Token Management](/analytics-and-moderation/console/settings/security/admin-token-management.md)
+- [Brand Settings](/analytics-and-moderation/console/settings/brand-settings.md)
+- [AI Content Moderation](/analytics-and-moderation/console/ai-content-moderation.md): Creating safer communities for all
+- [Changelogs](/analytics-and-moderation/console/changelogs.md)
+- [social.plus APIs and Services](/analytics-and-moderation/social+-apis-and-services.md): A number of administrative functions can only be accessed with the social.plus APIs.
+- [Network Settings](/analytics-and-moderation/social+-apis-and-services/network-settings.md)
+- [Generate User Last Activity Report](/analytics-and-moderation/social+-apis-and-services/generate-user-last-activity-report.md)
+- [Pre-Hook Event](/analytics-and-moderation/social+-apis-and-services/pre-hook-event.md)
+- [Beta Features](/developers/beta-features.md)
+- [Enhance Moderation](/developers/beta-features/enhance-moderation.md): Bring AI to auto moderate contents and create safer online communities.
+- [Search Posts API](/developers/beta-features/search-posts-api.md)
+- [Content Search V2 (Deprecated)](/developers/beta-features/content-search-v2-deprecated.md)
+- [Webhook Events](/developers/beta-features/real-time-events.md)
+- [Notification Tray](/developers/beta-features/notification-tray.md)
+- [Block User](/developers/beta-features/block-user.md)
+- [User Activity](/developers/beta-features/user-activity.md)
+- [Migration Guides](/developers/migration-guides.md): The following pages contain the migration guides of our SDKs
+- [SDK v7 Unread count Migration guide](/developers/migration-guides/sdk-v7-unread-count-migration-guide.md)
+- [FCM legacy API Migration Guide](/developers/migration-guides/fcm-legacy-api-migration-guide.md)
+- [SDK v6.26.0 Unread Count Migration Guide](/developers/migration-guides/sdk-v6.26.0-unread-count-migration-guide.md)
+- [JS SDK to TS SDK Migration Guide](/developers/migration-guides/js-sdk-to-ts-sdk-migration-guide.md)
+- [Web UIKit v3.0 Migration Guide](/developers/migration-guides/web-uikit-v3.0-migration-guide.md)
+- [iOS UIKit V3.0 Migration Guide](/developers/migration-guides/ios-uikit-v3.0-migration-guide.md)
+- [iOS SDK v7.0.0 Migration Guide](/developers/migration-guides/ios-sdk-v7.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate from 6.x.x version to v7.0.0. AmitySDK 7.0.0 is the major release of our SDK.
+- [iOS SDK v6.0.0 Migration Guide](/developers/migration-guides/ios-sdk-v6.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate to the social.plus SDK iOS 6.0.0 version.
+- [iOS SDK v6.9.0 Deprecation Note](/developers/migration-guides/ios-sdk-v6.0.0-migration-guide/ios-sdk-v6.9.0-deprecation-note.md)
+- [iOS SDK v6.8.0 Deprecation Note](/developers/migration-guides/ios-sdk-v6.0.0-migration-guide/ios-sdk-v6.8.0-deprecation-note.md)
+- [iOS SDK v6.7.0 Deprecation Note](/developers/migration-guides/ios-sdk-v6.0.0-migration-guide/ios-sdk-v6.7.0-deprecation-note.md)
+- [iOS SDK v6.5.0 Deprecation Note](/developers/migration-guides/ios-sdk-v6.0.0-migration-guide/ios-sdk-v6.5.0-deprecation-note.md)
+- [Android SDK v7.0.0 Migration Guide](/developers/migration-guides/android-sdk-v7.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate from 6.x.x version to v7.0.0. AmitySDK 7.0.0 is the major release of our SDK.
+- [Android SDK v6.0.0 Migration Guide](/developers/migration-guides/android-sdk-v6.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate to the social.plus SDK Android 6.0.0 version.
+- [Android SDK v.6.20.0 Deprecation Note](/developers/migration-guides/android-sdk-v6.0.0-migration-guide/android-sdk-v.6.20.0-deprecation-note.md)
+- [Android SDK v.6.19.0 Deprecation Note](/developers/migration-guides/android-sdk-v6.0.0-migration-guide/android-sdk-v.6.19.0-deprecation-note.md)
+- [Android SDK v6.10.0 Deprecation Note](/developers/migration-guides/android-sdk-v6.0.0-migration-guide/android-sdk-v6.10.0-deprecation-note.md)
+- [Android SDK v6.9.0 Deprecation Note](/developers/migration-guides/android-sdk-v6.0.0-migration-guide/android-sdk-v6.9.0-deprecation-note.md)
+- [Android SDK v6.5.0 Deprecation Note](/developers/migration-guides/android-sdk-v6.0.0-migration-guide/android-sdk-v6.5.0-deprecation-note.md)
+- [TS SDK v7.0.0 Migration Guide](/developers/migration-guides/ts-sdk-v7.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate from 6.x.x version to v7.0.0. AmitySDK 7.0.0 is the major release of our SDK.
+- [TS SDK v6.0.0 Migration Guide](/developers/migration-guides/ts-sdk-v6.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate to the social.plus TS SDK 6.0.0 version.
+- [TS SDK v6.4.6 Deprecation Note](/developers/migration-guides/ts-sdk-v6.0.0-migration-guide/ts-sdk-v6.4.6-deprecation-note.md)
+- [TS SDK v6.8.0 Deprecation Note](/developers/migration-guides/ts-sdk-v6.0.0-migration-guide/ts-sdk-v6.8.0-deprecation-note.md)
+- [Web SDK v5.0.0 Migration Guide](/developers/migration-guides/web-sdk-v5.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate to the social.plus SDK Web 5.0.0 version.
+- [Flutter SDK v7.0.0 Migration Guide](/developers/migration-guides/flutter-sdk-v7.0.0-migration-guide.md): This guide is to provide information about breaking changes and how to migrate from 6.x.x version to v7.0.0. AmitySDK 7.0.0 is the major release of our SDK.
+- [Flutter SDK beta Migration Guide](/developers/migration-guides/flutter-sdk-beta-migration-guide.md)
+- [Flutter SDK v0.21.0 Deprecation Note](/developers/migration-guides/flutter-sdk-beta-migration-guide/flutter-sdk-v0.21.0-deprecation-note.md)
+- [SDK API Reference](/developers/sdk-api-reference.md)
+- [Support](/miscellaneous/support.md)
+- [Code of conduct](/miscellaneous/support/code-of-conduct.md)
+- [Managed UI Kit - Deprecation](/miscellaneous/support/managed-ui-kit-deprecation.md): social.plus  Manage UI Kit - Deprecation Notice
+- [Contribute](/miscellaneous/support/contribute.md)
+- [Security](/miscellaneous/support/security.md)
+- [Announcements Archive](/miscellaneous/announcements.md): Release notes, key changes and deprecation notices
+
+
+--------------------

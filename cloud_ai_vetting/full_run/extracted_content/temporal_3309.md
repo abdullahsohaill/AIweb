@@ -1,0 +1,105 @@
+# Temporal
+**URL:** https://temporal.io
+**Page Title:** Durable Execution Solutions | Temporal
+--------------------
+
+New Year Sale | Save on Replay ‘26 with code NEWYEAR60 | May 5–7, 2026 | Get tickets ›
+
+## What if your code never failed?
+
+Failures happen. Temporal makes them irrelevant. Build applications that never lose state, even when everything else fails.
+[LINK: Run Locally](https://docs.temporal.io/quickstarts)
+
+### Write code as if failure doesn’t exist
+
+Distributed systems break, APIs fail, networks flake, and services crash. That’s not your problem anymore. Managing reliability shouldn’t mean constant firefighting.
+Temporal Workflows automatically capture state at every step, and in the event of failure, can pick up exactly where they left off.
+No lost progress, no orphaned processes, and no manual recovery required.
+
+### You have to see it to believe it
+
+Temporal doesn’t work like anything you’ve used before. Watch how we guarantee the Durable Execution of your code in the face of any failure.
+How It Works
+
+### Create failproof apps using our SDKs
+
+Write your business logic in the programming languages you already use with our native SDKs. Your days of writing reconciliation logic or boilerplate code are over.
+
+### Build Workflows that handle failures for you
+
+Write your business logic as code as a Temporal Workflow. Workflows might involve moving money between bank accounts, processing orders, deploying cloud infrastructure, training an AI model, or something else entirely.
+Because the full running state of a Workflow is durable and fault tolerant by default, your business logic can be recovered, replayed, or paused at any point.
+
+### Write Activities to handle and retry failure-prone logic
+
+APIs fail, networks time out, and users abandon sessions.
+Temporal treats these interactions as Activities: functions that retry automatically and recover seamlessly.
+
+### Replace your brittle state machines
+
+The Temporal Service persists the state of your application and has built-in retries, task queues, signals, and timers, to make sure your code always picks up where it left off.
+Host the Temporal Service yourself as part of the open-source project , or let us host it for you with Temporal Cloud .
+[LINK: open-source project](https://docs.temporal.io/develop/)
+
+### Get full visibility into your running code
+
+No more wasting time sifting through logs. Get visibility into the exact state of each of your Workflow executions.
+Common patterns and use cases
+Agents, MCP, & AI Pipelines
+Develop agents that survive real-world chaos, reliable MCP & orchestrate training pipelines.
+Humans-in-the-Loop
+No more duct-taping Workflows around human input: just clean, durable orchestration.
+Compensating Patterns (Saga)
+Make Saga easy: what if Saga was simply a try...catch?
+Long-running Workflows
+Run Workflows for days, weeks, or months without losing progress or adding complexity.
+Order Fulfillment
+One bad service shouldn’t break the cart. Temporal keeps the order moving.
+Durable Ledgers
+Track transactions with code you can trust down to the last cent.
+CI/CD
+Deploy with confidence. Temporal gives you clean retries, rollbacks, and visibility.
+Customer Acquisition
+Route leads, onboard users, and engage customers without dropped steps or hacks.
+DAG
+Don’t glue together DAGs with bash and hope. Temporal does it right.
+Global enterprises and top startups choose Temporal
+NVIDIA manages their GPU fleet across clouds with Temporal
+Salesforce migrated their monolith to Temporal
+Twilio left their homegrown systems  for Temporal Cloud
+Descript improved their AI uptime with Temporal
+One of the most interesting pieces of tech I've seen in years… Temporal does to backend and infra, what React did to frontend… the surface exposed to the developer is a beautiful "render()" function to organize your backend workflows.
+Guillermo Rauch
+Founder & CEO, Vercel
+Temporal's technology satisfied all of these requirements out of the box and allowed our developers to focus on business logic.
+Without Temporal's technology, we would've spent a significant amount of time rebuilding Temporal and would've very likely done a worse job.
+Mitchell Hashimoto
+Co-founder, Hashicorp
+Committed to the open-source community
+
+### 100% open-source
+
+MIT-licensed, built in the open, and backed by a thriving developer community.
+[LINK: 17,930 Stars](https://github.com/temporalio/temporal)
+As Reliable as Gravity
+
+### Fully battle tested, 9 years in production
+
+Temporal was built with over 20 years of development from the minds behind AWS SQS, AWS SWF, Azure Durable functions, and the Cadence project that powers Uber.
+Deploy it your way
+
+### One platform, two great hosting paths
+
+Temporal is an open-source project that you are free to use and host in your own environment. You can also let us host the Temporal Service for you with Temporal Cloud. Either way, we never see your code.
+Sign up for Temporal Cloud and get $1,000 in free credits ›
+Build invincible applications
+It sounds like magic, we promise it's not.
+[LINK: Documentation](https://docs.temporal.io/)
+[LINK: Code Base](https://github.com/temporalio)
+View Our Cookie Policy
+We use cookies and similar technologies to help personalize content,
+            tailor and measure ads, and provide a better experience. By clicking
+            Accept, you agree to this as outlined in our cookie policy .
+[LINK: cookie policy](https://docs.temporal.io/privacy-policy/)
+
+--------------------

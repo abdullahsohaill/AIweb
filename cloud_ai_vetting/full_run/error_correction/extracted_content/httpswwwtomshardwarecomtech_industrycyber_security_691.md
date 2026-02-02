@@ -1,0 +1,28 @@
+# https://www.tomshardware.com/tech-industry/cyber-security/perplexitys-ai-powered-comet-browser-leaves-users-vulnerable-to-phishing-scams-and-malicious-code-injection-brave-and-guardios-security-audits-call-out-paid-ai-browser
+**URL:** https://www.tomshardware.com/tech-industry/cyber-security/perplexitys-ai-powered-comet-browser-leaves-users-vulnerable-to-phishing-scams-and-malicious-code-injection-brave-and-guardios-security-audits-call-out-paid-ai-browser
+**Page Title:** Perplexity's AI-powered Comet browser leaves users vulnerable to phishing scams and malicious code injection — Brave and Guardio's security audits call out paid AI browser | Tom's Hardware
+--------------------
+
+- Facebook
+- Whatsapp
+- Reddit
+- Pinterest
+- Flipboard
+- Email
+Brave and Guardio have revealed serious vulnerabilities in the Comet AI browser that Perplexity released in July. Perplexity said that Comet "transforms how businesses interact with the internet" by "combining enterprise -grade security , powerful AI capabilities, and intuitive user experiences."
+That alone should have been enough to make users wary about the browser's security. Highlighting "enterprise-grade security" is like bragging about "military-grade encryption" in that it's a red flag, not a green one.
+It didn't take long to prove those suspicions correct. "When users ask [Comet] to 'Summarize this webpage,' Comet feeds a part of the webpage directly to its LLM without distinguishing between the user's instructions and untrusted content from the webpage," Brave said a month after the browser's debut. "This allows attackers to embed indirect prompt injection payloads that the AI will execute as commands."
+Brave demonstrated the potential impact of this vulnerability by embedding a malicious command in a Reddit post that could take over a Comet user's Perplexity account if they asked the browser to summarize the web page. Usually, the biggest threat from spending too much time on social platforms is brain rot, yet trying to avoid that with Comet's summarization features posed even greater risks.
+"This attack presents significant challenges to existing Web security mechanisms," Brave said. "When an AI assistant follows malicious instructions from untrusted webpage content, traditional protections such as same-origin policy (SOP) or cross-origin resource sharing (CORS) are all effectively useless. The AI operates with the user's full privileges across authenticated sessions, providing potential access to banking accounts, corporate systems, private emails, cloud storage, and other services."
+Guardio's research went a step further. The company demonstrated that Comet would also be willing to purchase a fake Apple Watch from a website that any human browser would likely identify as a potential scam. It also showed that Comet would scan an obvious phishing email, visit the malicious website, and prompt its user for their banking account credentials without any indication that something might be amiss.
+"These two cases prove that even the oldest tricks in the scammer's playbook become more dangerous in the hands of AI Browsing. The trust chain is the real game-changer: the human no longer engages directly with the suspicious content, never sees the red flags, and never gets the chance to make their own judgment," Guardio said. "Human intuition to evade harm is excluded from the process and AI becomes the single point of decision. Without strong AI guardrails, that decision is essentially a coin toss - and when your security is left to chance, it's only a matter of time before it lands on the wrong side."
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+Let's be clear: Comet is currently limited to Perplexity's Pro and Enterprise Pro customers, meaning people and businesses pay for access to the browser. In return, they have received a browser riddled with vulnerabilities independently discovered by two organizations that benefited more from disclosing them to the company and the public than they would have from exploiting the flaws themselves.
+It should also be said that Perplexity has bid more than twice its current valuation for Google 's Chrome browser. Comet is already built on top of Chromium, so it's not trying to buy a foundation for its AI browser; it's specifically looking to buy Chrome's existing market share. Given the findings from Brave, Guardio, and who-knows-who-else, that should be a terrifying prospect for anyone still using Chrome to browse the web.
+Follow Tom's Hardware on Google News to get our up-to-date news, analysis, and reviews in your feeds. Make sure to click the Follow button.
+Follow Tom's Hardware on Google News to get our up-to-date news, analysis, and reviews in your feeds. Make sure to click the Follow button.
+Nathaniel Mott is a freelance news and features writer for Tom's Hardware US, covering breaking news, security, and the silliest aspects of the tech industry.
+- "AI" is an issue where every company in the world has been forced by the moneybags to become an early-adopter of a pre-alpha, not-ready-for-prime-time technology. The piper will be paid soon in, at least, hundreds of billions of dollars. I just wonder if the conglomerates that own major news sources will allow that story to be written, or if we will simply see a number of quiet crises blamed on nonexistent problems. Reply
+- What's wrong with "military grade encryption?" Or really, military grade-anything? Reply
+
+--------------------

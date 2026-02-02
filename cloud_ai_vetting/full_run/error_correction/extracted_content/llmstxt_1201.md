@@ -1,0 +1,127 @@
+# llms.txt
+**URL:** https://docs.benzinga.com/llms.txt
+**Page Title:** 
+--------------------
+
+### (Raw Extraction Fallback)
+
+# Benzinga API Documentation
+
+## Docs
+
+- [Authentication](https://docs.benzinga.com/api-reference/authentication.md): How to authenticate your requests to the Benzinga API
+- [Analyst Insights](https://docs.benzinga.com/api-reference/calendar_api/analyst-insights/analyst-insights-v1.md): Returns analyst insights and research perspectives on securities, including detailed analysis and recommendations from financial analysts
+- [Overview](https://docs.benzinga.com/api-reference/calendar_api/analyst-insights/overview.md): Overview of the Analyst Insights API
+- [Blocktrade](https://docs.benzinga.com/api-reference/calendar_api/block-trade/blocktrade-v1.md): Returns block trade data, which includes unusually large trades that may indicate institutional trading activity
+- [Bulls VS Bears](https://docs.benzinga.com/api-reference/calendar_api/bulls-say-bears-say/latest-bull-and-bear-cases-for-a-given-ticker-symbol.md): Returns the latest bullish and bearish investment cases for a given stock ticker symbol. Bull cases present positive arguments for buying a stock, while bear cases present negative arguments against it.
+- [Overview](https://docs.benzinga.com/api-reference/calendar_api/bulls-say-bears-say/overview.md): Overview of the Bulls Say Bears Say API
+- [Conference Calls](https://docs.benzinga.com/api-reference/calendar_api/conference_calls/returns-conference-call-data.md): Returns Conference call data for a selected period and/or security. Conference calls are scheduled calls where company management discusses quarterly or annual financial results, business updates, and answers questions from analysts and investors.
+- [Consensus Ratings](https://docs.benzinga.com/api-reference/calendar_api/consensus_ratings/returns-analyst-ratings-consensus-data.md): Returns aggregated consensus analyst ratings data for a given ticker symbol. This endpoint provides consensus price targets, aggregate ratings distribution, and analyst counts based on recent analyst ratings.
+- [Dividends](https://docs.benzinga.com/api-reference/calendar_api/dividends/dividends-events-v22.md): Returns dividends data for a selected period and/or security, including both confirmed and unconfirmed dividend dates. V2.2 includes additional fields: confirmed, period, and year. This version provides more detailed information about dividend confirmation status and periodicity.
+- [Earnings](https://docs.benzinga.com/api-reference/calendar_api/earnings/returns-the-earnings-data.md): Returns earnings data for a selected period and/or security. Includes actual EPS and revenue figures, estimates, surprises, and historical comparisons. Earnings data is crucial for investors to assess company performance.
+- [Economics](https://docs.benzinga.com/api-reference/calendar_api/economics/returns-the-economic-calendar-data.md): Returns economic calendar data including economic indicators, releases, and reports from various countries. Includes actual values, consensus estimates, and prior values for economic events such as GDP, employment data, inflation metrics, and more.
+- [ERX Gaps](https://docs.benzinga.com/api-reference/calendar_api/erx-gaps/erx-gaps.md): Returns earnings reaction gap data, which tracks significant price gaps following earnings announcements
+- [Events](https://docs.benzinga.com/api-reference/calendar_api/events/events.md): Returns corporate events including investor meetings, conferences, and special announcements
+- [FDA](https://docs.benzinga.com/api-reference/calendar_api/fda/fda-approvals-clinical-trials-and-pdufa-dates.md): Returns FDA approvals, clinical trials, and PDUFA (Prescription Drug User Fee Act) dates for pharmaceutical and biotech companies. Includes information about drug development stages, trial results, approval outcomes, and regulatory milestones.
+- [Government Trade Reports](https://docs.benzinga.com/api-reference/calendar_api/government-trade-reports/government-trade-reports.md): Returns detailed government trade disclosure reports including periodic transaction reports filed by congressional members
+- [Government Trades](https://docs.benzinga.com/api-reference/calendar_api/government-trades/government-trades.md): Returns government official trades including transactions by members of the US House and Senate
+- [Overview](https://docs.benzinga.com/api-reference/calendar_api/government-trades/overview.md): Overview of the Government Trades API
+- [Guidance](https://docs.benzinga.com/api-reference/calendar_api/guidance/returns-guidance-data.md): Returns company guidance data including forward-looking earnings and revenue projections provided by company management. Includes EPS guidance ranges (min/max), revenue guidance ranges, and comparisons to prior guidance. Guidance is crucial for understanding management's expectations for future performance.
+- [Haltresume](https://docs.benzinga.com/api-reference/calendar_api/halt-resume/haltresume-v1.md): Returns trading halt and resume information for securities, including halt reasons and expected resumption times
+- [Insider Transaction](https://docs.benzinga.com/api-reference/calendar_api/insider-transaction/insider-transaction-filing.md): Returns insider transaction filings from SEC Form 4, including stock purchases, sales, and option exercises by company insiders
+- [Insider Transaction Owner](https://docs.benzinga.com/api-reference/calendar_api/insider-transaction/insider-transaction-owner.md): Returns information about insider transaction owners, including company officers, directors, and beneficial owners
+- [Overview](https://docs.benzinga.com/api-reference/calendar_api/insider-transaction/overview.md): Overview of the Insider Transactions API
+- [IPOs](https://docs.benzinga.com/api-reference/calendar_api/ipos/ipos-v21.md): Returns Initial Public Offering (IPO) data including pricing information, underwriters, deal status, and offering details
+- [Merger And Acquisition](https://docs.benzinga.com/api-reference/calendar_api/ma/returns-the-mergers-and-acquisitions-data.md): Returns mergers and acquisitions (M&A) data including deal announcements, completions, and details about acquiring and target companies. Includes deal size, payment type, deal status, and expected/completed dates for corporate consolidation activities.
+- [Offerings](https://docs.benzinga.com/api-reference/calendar_api/offerings/returns-secondary-offering-data.md): Returns secondary offering data for public companies issuing additional shares after their IPO. Includes offering price, proceeds, number of shares, shelf offerings, and whether securities are sold in portions over time or at the initial offering date.
+- [Unusual Options Activity](https://docs.benzinga.com/api-reference/calendar_api/option-activity/optionactivity-v1.md): Returns unusual options activity data, including large or unusual options trades that may signal informed trading
+- [Overview](https://docs.benzinga.com/api-reference/calendar_api/overview.md): Overview of Benzinga Calendar APIs
+- [Ratings](https://docs.benzinga.com/api-reference/calendar_api/ratings/returns-analyst-ratings-data.md): Returns analyst ratings data including upgrades, downgrades, initiations, and price target changes from Wall Street analysts. Includes current and prior ratings, price targets, analyst information, and ratings accuracy metrics when available.
+- [Ratings Analysts](https://docs.benzinga.com/api-reference/calendar_api/ratings_analysts/ratings-analysts.md): Returns the full list of analysts that are providing ratings
+- [Ratings Firms](https://docs.benzinga.com/api-reference/calendar_api/ratings_firms/ratings-firms.md): Returns the available firms providing analyst ratings
+- [Removed](https://docs.benzinga.com/api-reference/calendar_api/removed/removed-v2.md): Returns calendar events that have been removed or cancelled from the specified event types
+- [Splits](https://docs.benzinga.com/api-reference/calendar_api/splits/returns-the-splits-calendar-data.md): Returns stock split data including split ratios, announcement dates, ex-dates, and distribution dates. Stock splits occur when a company increases or decreases the number of outstanding shares to adjust the stock price. Includes information about whether the stock is optionable.
+- [Historical Bars](https://docs.benzinga.com/api-reference/data-api-proxy_api/bars/get-bars-v2.md): Retrieves historical OHLCV (Open, High, Low, Close, Volume) price bar data for specified securities. Returns aggregated price data based on the specified interval. Supports multiple ticker symbols and various time ranges including relative dates.
+- [Overview](https://docs.benzinga.com/api-reference/data-api-proxy_api/bars/overview.md): Overview of the Bars API
+- [Derived Figures And Ratios data](https://docs.benzinga.com/api-reference/data-api-proxy_api/derivedfiguresandratios/get-derived-figures-and-ratios-for-a-list-of-symbols.md): Retrieve derived financial figures and ratios for a list of symbols. Includes calculated metrics essential for financial analysis.
+- [Earning Ratios data](https://docs.benzinga.com/api-reference/data-api-proxy_api/earningratios/get-earning-ratios-for-a-list-of-symbols-isins-or-ciks.md): Retrieve earning ratios for a list of symbols. Includes metrics like P/E ratio, EPS, and other earnings-related ratios.
+- [Alpha Beta](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-alpha-beta-v21.md): Retrieve Alpha and Beta metrics for specified symbols. These metrics indicate volatility and performance relative to the market.
+- [Asset Classification](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-asset-classification-v21.md): Retrieve asset classification details for specified symbols, including sector, industry, and other classification metadata. Useful for portfolio categorization and analysis.
+- [Balance Sheet](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-balance-sheet-v3.md): Retrieve balance sheet data for specified symbols. Includes assets, liabilities, and equity details.
+- [Cash Flow](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-cash-flow-v3.md): Retrieve detailed cash flow statement data for specified symbols. Includes operating, investing, and financing cash flows.
+- [Company](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-company.md): Retrieves detailed company-specific financial data including key metrics, operational statistics, and historical financial performance. Provides a comprehensive view of company financials beyond basic fundamentals.
+- [Company Profile](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-company-profile-v21.md): Retrieves comprehensive company profile information including business description, industry classification, sector details, headquarters location, key executives, and other corporate metadata. Essential for understanding company background and organizational structure.
+- [Earnings Reports](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-earnings-reports-v21.md): Retrieves detailed earnings reports for specified securities including revenue, earnings per share (EPS), EBITDA, net income, and other key financial results from quarterly and annual reports. Essential for analyzing company financial performance and earnings trends over time.
+- [Financials](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-financials-v21.md): Retrieve financial statements for specified symbols. Includes data from balance sheets, income statements, and cash flow statements.
+- [Fundamentals](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-fundamentals-v3.md): Retrieves the latest generation of financial fundamentals data powered by Benzinga's enhanced data pipeline. Provides comprehensive financial statements, metrics, and ratios with improved data quality and coverage. Supports flexible date range queries and relative date specifications.
+- [Income Statement](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-income-statement-v3.md): Retrieves comprehensive income statement data for specified securities. Includes revenue, cost of goods sold, operating expenses, operating income, interest expense, taxes, net income, and earnings per share. Essential for analyzing company profitability and operational performance over time.
+- [Share Class](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-share-class.md): Retrieve share class information for specific symbols. Returns detailed share structure data including share class IDs, currency, and other related metadata.
+- [Share Class Profile](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-share-class-profile-v21.md): Retrieve profile information for share classes, providing details about the share class characteristics and associated metadata.
+- [Share Price Ratios](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/get-share-price-ratios-v3.md): Retrieve share price ratios for specified symbols. Includes metrics like price-to-earnings, price-to-sales, and other price-based ratios.
+- [Overview](https://docs.benzinga.com/api-reference/data-api-proxy_api/fundamentals/overview.md): Overview of the Company Fundamentals API
+- [Movers](https://docs.benzinga.com/api-reference/data-api-proxy_api/market-data/market-movers.md): Retrieves market movers data based on specified filters. Returns stocks that have moved significantly during the specified session and time range. Supports custom screener and movers queries for advanced filtering.
+- [Overview](https://docs.benzinga.com/api-reference/data-api-proxy_api/market-data/overview.md): Overview of the Market Data APIs
+- [Short Interest](https://docs.benzinga.com/api-reference/data-api-proxy_api/market-data/short-interest-data.md): Retrieves short interest data for specified securities. Includes information about shares sold short, days to cover, and short interest ratios. Supports optional FINRA report data and date range filtering.
+- [Operation Ratios](https://docs.benzinga.com/api-reference/data-api-proxy_api/operationratios/get-operation-ratios-v21.md): Retrieves operational efficiency ratios and metrics for specified securities. Includes key performance indicators such as asset turnover, inventory turnover, receivables turnover, payables period, and other operational metrics that measure how effectively a company utilizes its assets and manages operations.
+- [Delayed Quotes data](https://docs.benzinga.com/api-reference/data-api-proxy_api/quotedelayed/get-delayed-quotes-for-a-list-of-symbols.md): Get delayed quotes for a list of symbols
+- [Overview](https://docs.benzinga.com/api-reference/data-api-proxy_api/quotedelayed/overview.md): Overview of the Delayed Quotes API
+- [Valuation Ratios data](https://docs.benzinga.com/api-reference/data-api-proxy_api/valuationratios/get-valuation-ratios-for-a-list-of-symbols-isins-or-ciks.md): Retrieve valuation ratios for a list of symbols. Includes metrics like P/E, P/B, P/S, and other valuation metrics essential for investment analysis.
+- [Fetch Transcripts](https://docs.benzinga.com/api-reference/delivery_api/calls/fetch-all-calls.md): Retrieve a list of calls with optional filtering and pagination. By default, only COMPLETED calls are returned. Use status=ALL to return all statuses.
+- [Fetch Transcript By ID](https://docs.benzinga.com/api-reference/delivery_api/calls/fetch-call-by-id.md): Retrieve detailed information about a specific call by its ID
+- [Overview](https://docs.benzinga.com/api-reference/delivery_api/overview.md): Overview of the Conference Call Transcripts API
+- [Fetch Transcript Summaries](https://docs.benzinga.com/api-reference/delivery_api/summaries/fetch-summaries.md): Retrieve a list of summaries with pagination
+- [Fetch Transcript Summaries by ID](https://docs.benzinga.com/api-reference/delivery_api/summaries/fetch-summary-by-call-id.md): Retrieve summary details for a specific call ID
+- [Errors](https://docs.benzinga.com/api-reference/errors.md): How to handle errors and status codes from the Benzinga API
+- [Consensus Ratings Explained](https://docs.benzinga.com/api-reference/guides/consensus-ratings-explained.md): Learn how Benzinga calculates consensus ratings from individual analyst recommendations
+- [Introduction](https://docs.benzinga.com/api-reference/introduction.md): A brief introduction to the Benzinga API.
+- [Search Logos](https://docs.benzinga.com/api-reference/logo-api_api/logos/get-search-logos.md): Search Logos
+- [Sync Logos in bulk](https://docs.benzinga.com/api-reference/logo-api_api/logos/logo-bulk-sync.md): Bulk logos sync
+- [Overview](https://docs.benzinga.com/api-reference/logo-api_api/logos/overview.md): Comprehensive guide to searching and retrieving company, fund, and crypto logos using various identifiers
+- [Available News Channels](https://docs.benzinga.com/api-reference/news-api_api/channels/get-available-news-channels.md): Returns a list of all available news channels that can be used to filter news items. Channels can have sub-channels, but they will all be listed as their own item.
+- [News](https://docs.benzinga.com/api-reference/news-api_api/news/get-the-news-items.md): This REST API returns structured data for news. For optimal performance, limit the scope of the query using parameters such as tickers, date, and channels, or use updatedSince for deltas. Page offsets are limited from 0 - 100000.
+- [Why Is It Moving (WIIMs)](https://docs.benzinga.com/api-reference/news-api_api/news/get-wiims.md): This REST API returns structured data for news. For optimal performance, limit the scope of the query using parameters such as tickers, date, and channels, or use updatedSince for deltas. Page offsets are limited from 0 - 100000.
+- [Overview](https://docs.benzinga.com/api-reference/news-api_api/news/overview.md): Overview of the Newsfeed API
+- [Removed News Data](https://docs.benzinga.com/api-reference/news-api_api/news/returns-the-removed-news-data.md): Returns the removed news data. Filters the results to only include items that have been updated since the specified timestamp.
+- [Press Releases](https://docs.benzinga.com/api-reference/news-api_api/press-releases/get-press-releases.md): This REST API returns structured data for news. For optimal performance, limit the scope of the query using parameters such as tickers, date, and channels, or use updatedSince for deltas. Page offsets are limited from 0 - 100000.
+- [Overview](https://docs.benzinga.com/api-reference/news-api_api/press-releases/overview.md): Overview of Press Releases API
+- [Overview](https://docs.benzinga.com/api-reference/news-api_api/wiims/overview.md): Overview of Why Is It Moving (WIIMs)
+- [Newsquantified Data](https://docs.benzinga.com/api-reference/newsquantified-api_api/get-newsquantified-data.md): Retrieves quantified news analytics data with sentiment scores, relevance metrics, and market impact indicators. Returns structured data analyzing the quantitative aspects of news coverage including sentiment polarity, article counts, trending scores, and ticker-specific metrics. Use this endpoint to access machine-readable news analytics for algorithmic trading and quantitative research.
+- [Overview](https://docs.benzinga.com/api-reference/newsquantified-api_api/overview.md): Overview of the NewsQuantified API
+- [Ticker Trend Data](https://docs.benzinga.com/api-reference/ticker-trends-api_api/ticker-trends/get-ticker-trend-data.md): Retrieve trending data for specific tickers, including rank and change. Returns aggregated trend scores and activity levels across different time intervals.
+- [Ticker Trend List Data](https://docs.benzinga.com/api-reference/ticker-trends-api_api/ticker-trends/get-ticker-trend-list-data.md): Retrieve a list of trending tickers based on various metrics. Returns securities ordered by trending score across different time intervals.
+- [Overview](https://docs.benzinga.com/api-reference/ticker-trends-api_api/ticker-trends/overview.md): Overview of the Ticker Trends API
+- [Test Webhook Delivery](https://docs.benzinga.com/api-reference/webhook_api/test-webhook-delivery.md): This endpoint will send test data to your webhook endpoint so you may verify your integration
+- [What's New?](https://docs.benzinga.com/changelog/overview.md)
+- [Roadmap](https://docs.benzinga.com/changelog/roadmap.md): See what we're building next.
+- [Infrastructure Architecture](https://docs.benzinga.com/introduction/architecture.md): Enterprise-grade infrastructure powering Benzinga's 99.9% API availability with world-class monitoring and reliability
+- [FAQ](https://docs.benzinga.com/introduction/faq.md): Discover answers to your most pressing questions about Edgee.
+- [Quickstart](https://docs.benzinga.com/introduction/introduction.md): Get started with Benzinga APIs and access real-time market data, news, and more.
+- [Welcome to Benzinga](https://docs.benzinga.com/introduction/welcome.md): Welcome to Benzinga APIs Developer Documentation!
+- [Benzinga Java SDK](https://docs.benzinga.com/sdks/languages/java.md)
+- [Benzinga Node.js SDK](https://docs.benzinga.com/sdks/languages/node.md)
+- [Benzinga Python SDK](https://docs.benzinga.com/sdks/languages/python.md)
+- [SDKs](https://docs.benzinga.com/sdks/overview.md)
+- [null](https://docs.benzinga.com/services/overview.md)
+- [Connecting to TCP Server](https://docs.benzinga.com/tcp-reference/connection.md): This guide explains how to connect to the Benzinga TCP streaming server and start receiving real-time data.
+- [Go Client Library](https://docs.benzinga.com/tcp-reference/go-client.md): The `go-bztcp` package provides a pure-Go implementation of the Benzinga TCP protocol for streaming financial data. 
+- [Overview](https://docs.benzinga.com/tcp-reference/introduction.md): The Benzinga TCP streaming service provides real-time financial news and market data through a persistent TCP connection. This low-latency solution is ideal for applications requiring immediate access to market-moving information. 
+- [Message Format](https://docs.benzinga.com/tcp-reference/message-format.md): All messages from the Benzinga TCP stream are delivered as JSON objects. Each message represents a piece of financial content such as news, option alerts, or market events. 
+- [Python Client Library](https://docs.benzinga.com/tcp-reference/python-client.md): The `python-bztcp` package provides a pure-Python implementation of the Benzinga TCP protocol for streaming financial data. 
+- [Webhook Overview](https://docs.benzinga.com/webhook-reference/overview.md): Push Benzinga market data to your systems with resilient, filterable webhooks.
+- [Data Webhook Engine](https://docs.benzinga.com/webhook-reference/webhook-engine.md): Deliver Benzinga calendar, signal, and sentiment data directly to your webhook endpoints in real time.
+- [Authorization](https://docs.benzinga.com/widgets/authorization.md): How to authorize access to Benzinga Widgets
+- [Benzinga Widgets](https://docs.benzinga.com/widgets/overview.md): Embeddable financial data visualizations for your website
+- [Supported Actions](https://docs.benzinga.com/ws-reference/actions.md): Details about available actions for maintaining and replaying WebSocket sessions.
+- [Authentication](https://docs.benzinga.com/ws-reference/authentication.md): How to authenticate requests to the Benzinga API.
+- [Analyst Insights Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-analyst-insights-stream.md): Real-time analyst insights, ratings, and price targets for securities.
+- [Bulls/Bears Say Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-bulls-bears-say-stream.md): Real-time bull and bear case scenarios for securities.
+- [Earnings Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-calendar-earnings-stream.md): Real-time earnings announcements and financial results.
+- [Ratings Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-calendar-ratings-stream.md): Real-time analyst ratings and price target changes.
+- [Consensus Ratings Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-consensus-ratings-stream.md): Real-time aggregated consensus ratings and price targets.
+- [News Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-news-stream.md): Real-time news articles and updates from Benzinga.
+- [Transcripts Stream](https://docs.benzinga.com/ws-reference/data-websocket/get-transcripts-stream.md): Real-time earnings call transcripts sentence-by-sentence as they're spoken.
+- [Errors](https://docs.benzinga.com/ws-reference/errors.md): How Benzinga API responds when errors occur.
+- [Introduction](https://docs.benzinga.com/ws-reference/introduction.md): A brief introduction to real-time data streaming with Benzinga’s WebSocket API.
+
+
+--------------------

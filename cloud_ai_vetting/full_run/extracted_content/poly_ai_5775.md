@@ -1,0 +1,19143 @@
+# Poly AI
+**URL:** http://poly.ai
+**Page Title:** PolyAI : The world's most lifelike voice AI agents
+--------------------
+
+- Consent
+- Details
+- Ad Settings
+- About
+- Collect information about your geographical location which can be accurate to within several meters
+- Identify your device by actively scanning it for specific characteristics (fingerprinting)
+- Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. Cloudflare 1 Learn more about this provider cf.turnstile.u This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage Cookiebot 2 Learn more about this provider CookieConsent [x2] Stores the user's cookie consent state for the current domain Maximum Storage Duration : 1 year Type : HTTP Cookie Google 3 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Pending Maximum Storage Duration : 1 day Type : HTTP Cookie _GRECAPTCHA This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 180 days Type : HTTP Cookie _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Persistent Type : HTML Local Storage Greenhouse 5 Learn more about this provider _sp_root_domain_test_# [x3] Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maximum Storage Duration : Session Type : HTTP Cookie gh-test Pending Maximum Storage Duration : Session Type : HTML Local Storage snowplowOutQueue_job-board-renderer-tracker Pending Maximum Storage Duration : Persistent Type : HTML Local Storage HubSpot 5 Learn more about this provider rc::a This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : Persistent Type : HTML Local Storage rc::b This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::c This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::f This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage cookietest This cookie is used to determine if the visitor has accepted the cookie consent box. Maximum Storage Duration : Session Type : HTTP Cookie LinkedIn 1 Learn more about this provider li_gc Stores the user's cookie consent state for the current domain Maximum Storage Duration : 180 days Type : HTTP Cookie Vimeo 1 Learn more about this provider vuid Collects data on the user's visits to the website, such as which pages have been read. Maximum Storage Duration : 2 years Type : HTTP Cookie YouTube 16 Learn more about this provider __Secure-ROLLOUT_TOKEN HTTP cookie provided by youtube.com. It serves a marketing purpose and is associated with managing features or content delivery through A/B testing or feature rollouts. Could include personalized experiences, feature rollouts and experiments, and marketing optimization. Maximum Storage Duration : 180 days Type : HTTP Cookie __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTTP Cookie LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maximum Storage Duration : Session Type : HTTP Cookie LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maximum Storage Duration : Session Type : HTTP Cookie TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maximum Storage Duration : 1 day Type : HTTP Cookie VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maximum Storage Duration : 180 days Type : HTTP Cookie YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maximum Storage Duration : Session Type : HTTP Cookie YtIdbMeta#databases Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage challenges.cloudflare.com hsforms.com vimeo.com 4 _cfuvid [x4] Pending Maximum Storage Duration : Session Type : HTTP Cookie influ2.com 1 R Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. Maximum Storage Duration : 1 year Type : HTTP Cookie js-eu1.hs-scripts.com poly.ai vimeo.com 4 __cf_bm [x4] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- Cloudflare 1 Learn more about this provider cf.turnstile.u This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage
+- Cookiebot 2 Learn more about this provider CookieConsent [x2] Stores the user's cookie consent state for the current domain Maximum Storage Duration : 1 year Type : HTTP Cookie
+- Google 3 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Pending Maximum Storage Duration : 1 day Type : HTTP Cookie _GRECAPTCHA This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 180 days Type : HTTP Cookie _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Persistent Type : HTML Local Storage
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- Greenhouse 5 Learn more about this provider _sp_root_domain_test_# [x3] Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maximum Storage Duration : Session Type : HTTP Cookie gh-test Pending Maximum Storage Duration : Session Type : HTML Local Storage snowplowOutQueue_job-board-renderer-tracker Pending Maximum Storage Duration : Persistent Type : HTML Local Storage
+- HubSpot 5 Learn more about this provider rc::a This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : Persistent Type : HTML Local Storage rc::b This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::c This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage rc::f This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage cookietest This cookie is used to determine if the visitor has accepted the cookie consent box. Maximum Storage Duration : Session Type : HTTP Cookie
+- LinkedIn 1 Learn more about this provider li_gc Stores the user's cookie consent state for the current domain Maximum Storage Duration : 180 days Type : HTTP Cookie
+- Vimeo 1 Learn more about this provider vuid Collects data on the user's visits to the website, such as which pages have been read. Maximum Storage Duration : 2 years Type : HTTP Cookie
+- YouTube 16 Learn more about this provider __Secure-ROLLOUT_TOKEN HTTP cookie provided by youtube.com. It serves a marketing purpose and is associated with managing features or content delivery through A/B testing or feature rollouts. Could include personalized experiences, feature rollouts and experiments, and marketing optimization. Maximum Storage Duration : 180 days Type : HTTP Cookie __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTTP Cookie LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maximum Storage Duration : Session Type : HTTP Cookie LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maximum Storage Duration : Session Type : HTTP Cookie TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maximum Storage Duration : 1 day Type : HTTP Cookie VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maximum Storage Duration : 180 days Type : HTTP Cookie YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maximum Storage Duration : Session Type : HTTP Cookie YtIdbMeta#databases Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage
+- challenges.cloudflare.com hsforms.com vimeo.com 4 _cfuvid [x4] Pending Maximum Storage Duration : Session Type : HTTP Cookie
+- influ2.com 1 R Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. Maximum Storage Duration : 1 year Type : HTTP Cookie
+- js-eu1.hs-scripts.com poly.ai vimeo.com 4 __cf_bm [x4] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. Cookiebot 1 Learn more about this provider CookieConsentBulkSetting-# Enables cookie consent across multiple websites Maximum Storage Duration : 1 year Type : HTML Local Storage HubSpot 1 Learn more about this provider __hssrc Used to recognise the visitor's browser upon reentry on the website. Maximum Storage Duration : Session Type : HTTP Cookie
+- Cookiebot 1 Learn more about this provider CookieConsentBulkSetting-# Enables cookie consent across multiple websites Maximum Storage Duration : 1 year Type : HTML Local Storage
+- HubSpot 1 Learn more about this provider __hssrc Used to recognise the visitor's browser upon reentry on the website. Maximum Storage Duration : Session Type : HTTP Cookie
+- Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. Google 4 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _ga Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 2 years Type : HTTP Cookie _ga_# Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Maximum Storage Duration : 2 years Type : HTTP Cookie _gat Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : 1 day Type : HTTP Cookie _gid Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 1 day Type : HTTP Cookie HubSpot 3 Learn more about this provider __hssc Identifies if the cookie data needs to be updated in the visitor's browser. Maximum Storage Duration : 1 day Type : HTTP Cookie __hstc Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie hubspotutk Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie cdn.cr-relay.com 1 cookiecookie This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. Maximum Storage Duration : Session Type : HTTP Cookie webchat.us-1.polyai.app 1 dd_cookie_test_# Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- Google 4 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _ga Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 2 years Type : HTTP Cookie _ga_# Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Maximum Storage Duration : 2 years Type : HTTP Cookie _gat Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : 1 day Type : HTTP Cookie _gid Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 1 day Type : HTTP Cookie
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- HubSpot 3 Learn more about this provider __hssc Identifies if the cookie data needs to be updated in the visitor's browser. Maximum Storage Duration : 1 day Type : HTTP Cookie __hstc Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie hubspotutk Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie
+- cdn.cr-relay.com 1 cookiecookie This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. Maximum Storage Duration : Session Type : HTTP Cookie
+- webchat.us-1.polyai.app 1 dd_cookie_test_# Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. Meta Platforms, Inc. 1 Learn more about this provider _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maximum Storage Duration : 3 months Type : HTTP Cookie 6sc.co 1 6suuid Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting. Maximum Storage Duration : 400 days Type : HTTP Cookie Google 2 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maximum Storage Duration : Session Type : Pixel Tracker _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maximum Storage Duration : 3 months Type : HTTP Cookie HubSpot 4 Learn more about this provider lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage log/error Used to detect and log potential tracking errors. Maximum Storage Duration : Session Type : Pixel Tracker __ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : Session Type : Pixel Tracker LinkedIn 2 Learn more about this provider bcookie Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 year Type : HTTP Cookie lidc Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 day Type : HTTP Cookie StackAdapt 11 Learn more about this provider sa-user-id [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-user-id-v2 [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-user-id-v3 [x2] Collects data on the user across websites - This data is used to make advertisement more relevant. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-u-date Pending Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id-v2 Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id-v3 Collects data on the user across websites - This data is used to make advertisement more relevant. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-u-source Pending Maximum Storage Duration : Persistent Type : HTML Local Storage YouTube 2 Learn more about this provider __Secure-YNID Pending Maximum Storage Duration : 180 days Type : HTTP Cookie yt-icons-last-purged Pending Maximum Storage Duration : Persistent Type : HTML Local Storage b.6sc.co 1 v1/beacon/img.gif Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Session Type : Pixel Tracker j.6sc.co 3 _gd_session Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 1 day Type : HTTP Cookie _gd_svisitor Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 2 years Type : HTTP Cookie _gd_visitor Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 2 years Type : HTTP Cookie
+- Meta Platforms, Inc. 1 Learn more about this provider _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maximum Storage Duration : 3 months Type : HTTP Cookie
+- 6sc.co 1 6suuid Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting. Maximum Storage Duration : 400 days Type : HTTP Cookie
+- Google 2 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maximum Storage Duration : Session Type : Pixel Tracker _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maximum Storage Duration : 3 months Type : HTTP Cookie
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- HubSpot 4 Learn more about this provider lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage log/error Used to detect and log potential tracking errors. Maximum Storage Duration : Session Type : Pixel Tracker __ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : Session Type : Pixel Tracker
+- LinkedIn 2 Learn more about this provider bcookie Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 year Type : HTTP Cookie lidc Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- StackAdapt 11 Learn more about this provider sa-user-id [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-user-id-v2 [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-user-id-v3 [x2] Collects data on the user across websites - This data is used to make advertisement more relevant. Maximum Storage Duration : 1 year Type : HTTP Cookie sa-u-date Pending Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id-v2 Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-user-id-v3 Collects data on the user across websites - This data is used to make advertisement more relevant. Maximum Storage Duration : Persistent Type : HTML Local Storage sa-u-source Pending Maximum Storage Duration : Persistent Type : HTML Local Storage
+- YouTube 2 Learn more about this provider __Secure-YNID Pending Maximum Storage Duration : 180 days Type : HTTP Cookie yt-icons-last-purged Pending Maximum Storage Duration : Persistent Type : HTML Local Storage
+- b.6sc.co 1 v1/beacon/img.gif Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Session Type : Pixel Tracker
+- j.6sc.co 3 _gd_session Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 1 day Type : HTTP Cookie _gd_svisitor Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 2 years Type : HTTP Cookie _gd_visitor Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. Maximum Storage Duration : 2 years Type : HTTP Cookie
+- Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. StackAdapt 2 Learn more about this provider sa-u-date Pending Maximum Storage Duration : 30 days Type : HTTP Cookie sa-u-source Pending Maximum Storage Duration : 30 days Type : HTTP Cookie cdn.cr-relay.com 2 signals-sdk-session-id Pending Maximum Storage Duration : 1 day Type : HTTP Cookie signals-sdk-user-id Pending Maximum Storage Duration : 1 year Type : HTTP Cookie
+- StackAdapt 2 Learn more about this provider sa-u-date Pending Maximum Storage Duration : 30 days Type : HTTP Cookie sa-u-source Pending Maximum Storage Duration : 30 days Type : HTTP Cookie
+- cdn.cr-relay.com 2 signals-sdk-session-id Pending Maximum Storage Duration : 1 day Type : HTTP Cookie signals-sdk-user-id Pending Maximum Storage Duration : 1 year Type : HTTP Cookie
+- Most purposes explained in this notice rely on the storage or accessing of information from your device when you use an app or visit a website. For example, a vendor or publisher might need to store a cookie on your device during your first visit on a website, to be able to recognise your device during your next visits (by accessing this cookie each time).
+Vendors 773
+- A car manufacturer wants to promote its electric vehicles to environmentally conscious users living in the city after office hours. The advertising is presented on a page with related content (such as an article on climate change actions) after 6:30 p.m. to users whose non-precise location suggests that they are in an urban zone.
+- A large producer of watercolour paints wants to carry out an online advertising campaign for its latest watercolour range, diversifying its audience to reach as many amateur and professional artists as possible and avoiding showing the ad next to mismatched content (for instance, articles about how to paint your house). The number of times that the ad has been presented to you is detected and limited, to avoid presenting it too often.
+Vendors 730
+- If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
+- An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
+Vendors 590
+- An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
+- A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
+Vendors 592
+- You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).
+- You have viewed three videos on space exploration across different TV apps. An unrelated news platform with which you have had no contact builds a profile based on that viewing behaviour, marking space exploration as a topic of possible interest for other videos.
+Vendors 264
+- You read articles on vegetarian food on a social media platform and then use the cooking app of an unrelated company. The profile built about you on the social media platform will be used to present you vegetarian recipes on the welcome screen of the cooking app.
+- You have viewed three videos about rowing across different websites. An unrelated video sharing platform will recommend five other videos on rowing that may be of interest to you when you use your TV app, based on a profile built about you when you visited those different websites to watch online videos.
+Vendors 235
+- You have clicked on an advertisement about a “black Friday” discount by an online shop on the website of a publisher and purchased a product. Your click will be linked to this purchase. Your interaction and that of other users will be measured to know how many clicks on the ad led to a purchase.
+- You are one of very few to have clicked on an advertisement about an “international appreciation day” discount by an online gift shop within the app of a publisher. The publisher wants to have reports to understand how often a specific ad placement within the app, and notably the “international appreciation day” ad, has been viewed or clicked by you and other users, in order to help the publisher and its partners (such as agencies) optimise ad placements.
+Vendors 845
+- You have read a blog post about hiking on a mobile app of a publisher and followed a link to a recommended and related post. Your interactions will be recorded as showing that the initial hiking post was useful to you and that it was successful in interesting you in the related post. This will be measured to know whether to produce more posts on hiking in the future and where to place them on the home screen of the mobile app.
+- You were presented a video on fashion trends, but you and several other users stopped watching after 30 seconds. This information is then used to evaluate the right length of future videos on fashion trends.
+Vendors 403
+- The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
+- An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
+Vendors 545
+- A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
+- An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
+Vendors 633
+- A travel magazine has published an article on its website about the new online courses proposed by a language school, to improve travelling experiences abroad. The school’s blog posts are inserted directly at the bottom of the page, and selected on the basis of your non-precise location (for instance, blog posts explaining the course curriculum for different languages than the language of the country you are situated in).
+- A sports news mobile app has started a new section of articles covering the most recent football games. Each article includes videos hosted by a separate streaming platform showcasing the highlights of each match. If you fast-forward a video, this information may be used to select a shorter video to play next.
+Vendors 172
+- An advertising intermediary delivers ads from various advertisers to its network of partnering websites. It notices a large increase in clicks on ads relating to one advertiser, and uses data regarding the source of the clicks to determine that 80% of the clicks come from bots rather than humans.
+- Clicking on a link in an article might normally send you to another page or part of the article. To achieve this, 1°) your browser sends a request to a server linked to the website, 2°) the server answers back (“here is the article you asked for”), using technical information automatically included in the request sent by your device, to properly display the information / images that are part of the article you asked for. Technically, such exchange of information is necessary to deliver the content that appears on your screen.
+- When you visit a website and are offered a choice between consenting to the use of profiles for personalised advertising or not consenting, the choice you make is saved and made available to advertising providers, so that advertising presented to you respects that choice.
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 3 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 31 days
+- Consent expiry: 5 years 1 day
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 90 days)
+- Develop and improve services (Data Retention Period: 90 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 393 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Non-precise location data
+- 365 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 400 days
+- Consent expiry: 2 years 1 day
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+9 Dots Media Ltd
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 360 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 3650 days)
+- Use profiles to select personalised advertising (Data Retention Period: 3650 days)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- IP addresses
+- 60 days
+- Tracking method: Cookies only
+- Show details
+Accenture Song Brand Germany GmbH
+- Deliver and present advertising and content
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 720 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+AccountInsight Ltd
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Acxiom
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- IP addresses
+- Probabilistic identifiers
+- User-provided data
+- Privacy choices
+- 1 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 395 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Browsing and interaction data
+- 395 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- IP addresses
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 393 days
+- Consent expiry: 1 year 30 days 16 hours 30 minutes
+- Tracking method: Cookies and others
+- Show details
+adbility media GmbH
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+[LINK: https://docs.google.com/document/d/e/2PACX-1vQ2Hz0ETjEy-3B1KAdhFlh8weUp_SrzQ894uiA495OzEx3_zrQdmBijvP_F2UQM0i_NjPAX-b7gZirv/pub](https://docs.google.com/document/d/e/2PACX-1vQ2Hz0ETjEy-3B1KAdhFlh8weUp_SrzQ894uiA495OzEx3_zrQdmBijvP_F2UQM0i_NjPAX-b7gZirv/pub)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Adelaide Metrics Inc
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Match and combine data from other data sources
+- Device characteristics
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 90 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 90 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Aderize, Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Browsing and interaction data
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Device identifiers
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://api.adftech.com.br/privacy](https://api.adftech.com.br/privacy)
+[LINK: https://api.adftech.com.br/legitimate](https://api.adftech.com.br/legitimate)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance (Data Retention Period: 30 days)
+- Measure content performance (Data Retention Period: 30 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 30 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 day
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Users’ profiles
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices (Data Retention Period: 90 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+Adjust Digital A/S
+- Deliver and present advertising and content
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 396 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 7 days
+- Consent expiry: 7 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 3650 days
+- Consent expiry: 10 years
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 364 days 23 hours 59 minutes 58 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 7 days)
+- Use profiles to select personalised advertising (Data Retention Period: 7 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 12 hours
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Adnami Aps
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Save and communicate privacy choices
+- Device characteristics
+- Privacy choices
+- Consent expiry: 6 minutes
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 30 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 6 years 295 days 12 hours 19 minutes 24 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Develop and improve services
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 760 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 days
+- Consent expiry: 120 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 14 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- 360 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 364 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 14 days
+- Consent expiry: 14 days
+- Tracking method: Cookies only
+- Show details
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance (Data Retention Period: 30 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- 1 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 1824 days)
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 139 days 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Consent expiry: 300 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 14 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 14 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 14 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 400 days
+- Tracking method: Cookies and others
+- Show details
+Adssets AB
+- Deliver and present advertising and content
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Consent expiry: 1 year 364 days 4 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 93 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 93 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 730 days)
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 7 days
+- Consent expiry: 1 day
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content (Data Retention Period: 361 days)
+- Measure advertising performance
+- Measure content performance (Data Retention Period: 363 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 355 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Device identifiers
+- 60 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 60 days)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 days
+- Consent expiry: 100 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance (Data Retention Period: 400 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Use limited data to select advertising
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 730 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 2190 days
+- Consent expiry: 2 years 13 hours 20 minutes
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 390 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 15 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 180 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 120 days)
+- Develop and improve services (Data Retention Period: 120 days)
+- Use limited data to select content (Data Retention Period: 120 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 180 days)
+- Save and communicate privacy choices
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 365 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 10 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 120 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 360 days)
+- Develop and improve services
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 900 days)
+- Measure content performance (Data Retention Period: 900 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 900 days)
+- Develop and improve services (Data Retention Period: 365 days)
+- Use limited data to select content (Data Retention Period: 365 days)
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: Session
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 1824 days)
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 139 days 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 420 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Develop and improve services
+- Use limited data to select content
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Use limited data to select advertising
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 7 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 1825 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance (Data Retention Period: 1095 days)
+- Measure content performance (Data Retention Period: 1095 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 1095 days)
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: Session
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 9 years 355 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 800 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Amplified IntelligenceTechnologies
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 3650 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 180 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- Device characteristics
+- Non-precise location data
+- 30 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Non-precise location data
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 403 days
+- Consent expiry: 1 year 38 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 30 days
+- Consent expiry: 1 year 35 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 185 days 4 hours 26 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Device identifiers
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select content
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 14 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 14 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 390 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Device identifiers
+- Precise location data
+- 60 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Use limited data to select content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 1095 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 180 days)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 540 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Link different devices
+- IP addresses
+- Non-precise location data
+- 2555 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 14 days)
+- Develop and improve services (Data Retention Period: 30 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- 60 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 6 hours
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 30 days)
+- Use profiles to select personalised advertising (Data Retention Period: 30 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 45 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1080 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1826 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Users’ profiles
+- Privacy choices
+- 15 days
+- Consent expiry: 15 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 4320 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 60 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+AUDIOMOB LTD
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 100 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 730 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 730 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 400 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 1096 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 1812 days)
+- Use profiles to select personalised advertising (Data Retention Period: 1824 days)
+- Measure advertising performance
+- Develop and improve services
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- 1825 days
+- Consent expiry: 139 days 22 hours 29 minutes 39 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 14 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Create profiles for personalised advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices (Data Retention Period: 90 days)
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Browsing and interaction data
+- 180 days
+- Consent expiry: 1 year 1 day
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device identifiers
+- Consent expiry: Session
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Bannernow, Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 180 days)
+- Use profiles to select personalised advertising (Data Retention Period: 180 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 180 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 540 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+BE PIXEL NET LTDA
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 14 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 120 days
+- Consent expiry: 120 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 397 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 730 days
+- Consent expiry: 1 year 6 hours
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 1000 days)
+- Measure content performance (Data Retention Period: 1000 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 31 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Consent expiry: 60 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 425 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 93 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 60 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 365 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 10 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Users’ profiles
+- Privacy choices
+- 28 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 60 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 180 days)
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 7 days)
+- Save and communicate privacy choices (Data Retention Period: 60 days)
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- User-provided data
+- 90 days
+- Consent expiry: Session
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 88 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content (Data Retention Period: 88 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 395 days
+- Consent expiry: 1 year 30 days 16 hours 17 minutes 49 seconds
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Non-precise location data
+- 3650 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 days
+- Consent expiry: 7 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 3650 days
+- Consent expiry: Session
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Device characteristics
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Brame AG
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- User-provided data
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 386 days
+- Consent expiry: 1 year 21 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Brandhouse/Subsero A/S
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 360 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 30 days
+- Consent expiry: 10 years
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- 1825 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 730 days)
+- Measure content performance (Data Retention Period: 400 days)
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- 7 days
+- Consent expiry: 1 day
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 7 days)
+- Use profiles to select personalised advertising (Data Retention Period: 7 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Users’ profiles
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 day 46 minutes 40 seconds
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Create profiles to personalise content (Data Retention Period: 365 days)
+- Use profiles to select personalised content (Data Retention Period: 365 days)
+- Measure advertising performance (Data Retention Period: 1095 days)
+- Measure content performance (Data Retention Period: 1095 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 365 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 3 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Carbonatix LTD
+- Deliver and present advertising and content
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Cavai AS
+- Measure advertising performance
+- Deliver and present advertising and content
+- Browsing and interaction data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 730 days
+- Tracking method: Cookies only
+- Show details
+Channel99, Inc.
+- Measure advertising performance
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+CHEQ AI TECHNOLOGIES
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- 3650 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Device characteristics
+- User-provided data
+- 30 days
+- Consent expiry: 182 days 12 hours
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 366 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 57 days 20 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Claritas LLC
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 1 year 364 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance (Data Retention Period: 365 days)
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 1080 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Measure advertising performance (Data Retention Period: 365 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Use precise geolocation data
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 358 days 19 hours 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 4320 days
+- Consent expiry: 28 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 547 days
+- Consent expiry: 182 days 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 730 days)
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year 355 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Confiant Inc.
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Deliver and present advertising and content
+- IP addresses
+- Consent expiry: 7 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 2 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 15 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 180 days)
+- Develop and improve services (Data Retention Period: 180 days)
+- Use limited data to select content
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 730 days)
+- Deliver and present advertising and content (Data Retention Period: 730 days)
+- Device identifiers
+- Consent expiry: Session
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 180 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- 30 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 14 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Device characteristics
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+Creatopy INC
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 120 days)
+- Create profiles for personalised advertising (Data Retention Period: 120 days)
+- Use profiles to select personalised advertising (Data Retention Period: 120 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- IP addresses
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 366 days)
+- Use profiles to select personalised advertising (Data Retention Period: 366 days)
+- Create profiles to personalise content (Data Retention Period: 186 days)
+- Use profiles to select personalised content (Data Retention Period: 186 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 366 days)
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 92 days
+- Consent expiry: 1 year 30 days 23 hours 59 minutes 50 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1095 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Dando online LTD
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+DataDome SA
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 30 days
+- Consent expiry: 1 year 6 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 365 days
+- Consent expiry: 1 day
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 60 days)
+- Use profiles to select personalised advertising (Data Retention Period: 60 days)
+- Create profiles to personalise content (Data Retention Period: 60 days)
+- Use profiles to select personalised content (Data Retention Period: 60 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 31 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 180 days
+- Consent expiry: 1 year 182 days 20 hours 43 minutes 9 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 547 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+Demand Science US, LLC
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 1095 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 1 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 1 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 31 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content (Data Retention Period: 21 days)
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 365 days
+- Consent expiry: 2 years 91 days 19 hours 4 minutes 43 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 356 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 5 years 1 day 5 hours 6 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Match and combine data from other data sources
+- Device characteristics
+- 360 days
+- Consent expiry: 1 year 30 days 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 6 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year 32 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- 93 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 90 days
+- Tracking method: Cookies only
+- Show details
+DoubleVerify Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 45 days
+- Tracking method: Cookies only
+- Show details
+dpa-infocom GmbH
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Precise location data
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 12 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- Device characteristics
+- Browsing and interaction data
+- 700 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Non-precise location data
+- 3 days
+- Consent expiry: 15 seconds
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 2000 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Develop and improve services
+- Use limited data to select content (Data Retention Period: 29 days)
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 30 days)
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 1095 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 14 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 90 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 60 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 132 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 99 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Ensighten
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 1095 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 730 days)
+- Measure advertising performance
+- Deliver and present advertising and content (Data Retention Period: 730 days)
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 3 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 2190 days)
+- Use profiles to select personalised advertising (Data Retention Period: 2190 days)
+- Create profiles to personalise content (Data Retention Period: 2190 days)
+- Use profiles to select personalised content (Data Retention Period: 2190 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 2190 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 2190 days)
+- Use profiles to select personalised advertising (Data Retention Period: 2190 days)
+- Create profiles to personalise content (Data Retention Period: 2190 days)
+- Use profiles to select personalised content (Data Retention Period: 2190 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 2190 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 days
+- Consent expiry: 273 days 18 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 50 days
+- Consent expiry: 1 year 1 hour 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 720 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Create profiles to personalise content
+- Use profiles to select personalised content (Data Retention Period: 90 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 90 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 60 days
+- Consent expiry: 14 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 210 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 730 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 182 days 15 hours 20 minutes
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 1095 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 397 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 730 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Consent expiry: 1 year 1 day
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 4320 days
+- Consent expiry: 7 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Privacy choices
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 183 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 364 days)
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 21 years 329 days 10 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 394 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 5 days)
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 4320 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 2 years 12 hours
+- Tracking method: Cookies only
+- Show details
+Frame Advertising Ltd
+- Deliver and present advertising and content
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+fraud0 GmbH
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 730 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Link different devices
+- Actively scan device characteristics for identification
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 1825 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- 365 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 548 days)
+- Create profiles to personalise content (Data Retention Period: 548 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 548 days)
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Precise location data
+- Users’ profiles
+- 395 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 1 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- IP addresses
+- 90 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Authentication-derived identifiers
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 1 days)
+- Use profiles to select personalised advertising (Data Retention Period: 30 days)
+- Measure advertising performance
+- Measure content performance (Data Retention Period: 1827 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 1827 days)
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1096 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+GeoEdge
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 720 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 3285 days)
+- Use profiles to select personalised content (Data Retention Period: 3285 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content (Data Retention Period: 3285 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 37 days
+- Consent expiry: 1 year 175 days 16 minutes 40 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 1 day
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Users’ profiles
+- 180 days
+- Consent expiry: 180 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 1095 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 8 years 80 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 10 years 2 days 10 hours 12 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- 31 days
+- Consent expiry: 31 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 180 days)
+- Use profiles to select personalised advertising (Data Retention Period: 180 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 180 days)
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 548 days
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 300 days
+- Tracking method: Cookies and others
+- Show details
+Grabit Interactive Media Inc dba KERV Interctive
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- 1825 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 30 days 16 hours 18 minutes 18 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 395 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 720 days)
+- Use profiles to select personalised advertising (Data Retention Period: 720 days)
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 720 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Consent expiry: 5 years 5 days 1 second
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 45 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 1095 days)
+- Develop and improve services (Data Retention Period: 1095 days)
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 30 days)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 45 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 60 days
+- Consent expiry: 2 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Privacy choices
+- 45 days
+- Consent expiry: 4 days 12 hours
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use precise geolocation data
+- Device identifiers
+- Precise location data
+- 394 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+HUMAN
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 1095 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 396 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Consent expiry: 1 year 8 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Device characteristics
+- Device identifiers
+- 180 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 3650 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Non-precise location data
+- Precise location data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 99 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 60 days
+- Consent expiry: 1 year 6 hours
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 8 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 180 days)
+- Create profiles to personalise content (Data Retention Period: 90 days)
+- Measure advertising performance (Data Retention Period: 180 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 7 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+illuma technology limited
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Use limited data to select content
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 7 days)
+- Measure content performance (Data Retention Period: 7 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 7 days)
+- Develop and improve services (Data Retention Period: 7 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 10 hours 29 minutes 6 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 183 days)
+- Measure advertising performance (Data Retention Period: 90 days)
+- Develop and improve services (Data Retention Period: 30 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance (Data Retention Period: 180 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 92 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 395 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 10 years 348 days 23 hours 59 minutes 57 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 365 days)
+- Use profiles to select personalised content (Data Retention Period: 365 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 3 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Intango Ltd
+[LINK: https://docs.google.com/document/d/1-KCPkySw3Lum1Tco8WmyEMr5F9sQV9nQ/edit](https://docs.google.com/document/d/1-KCPkySw3Lum1Tco8WmyEMr5F9sQV9nQ/edit)
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+Integral Ad Science (incorporating ADmantX)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 1825 days)
+- Use profiles to select personalised advertising (Data Retention Period: 7 days)
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 1825 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1823 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1825 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 765 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 765 days)
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 40 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 15 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 360 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+IVO Media Ltd
+- Use limited data to select advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Device identifiers
+- Browsing and interaction data
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 180 days
+- Tracking method: Cookies and others
+- Show details
+Jetpack Digital LLC
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Browsing and interaction data
+- 3650 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 45 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- Device characteristics
+- Probabilistic identifiers
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 390 days)
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 395 days
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://developers.kameleoon.com/local-storage.html#list-of-collected-data](https://developers.kameleoon.com/local-storage.html#list-of-collected-data)
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+Kidoz Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 92 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 3650 days
+- Consent expiry: 92 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+Kiosked Ltd
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 14 days
+- Consent expiry: 13 days 23 hours 59 minutes 58 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 days
+- Consent expiry: 120 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 88 days)
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 3 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Browsing and interaction data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1825 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Precise location data
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 365 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 390 days
+- Consent expiry: 1 year 6 hours 40 minutes
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance (Data Retention Period: 365 days)
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 540 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 1 year 35 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 2555 days
+- Consent expiry: 3 years 1 second
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years 11 hours 38 minutes 24 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 10 years 2 days 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 31 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 720 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1095 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 366 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+Lugh Studio
+- Measure advertising performance
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- 1 days
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Identify devices based on information transmitted automatically
+- Device identifiers
+- 365 days
+- Consent expiry: 14 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 390 days)
+- Use profiles to select personalised advertising (Data Retention Period: 390 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 390 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 31 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 25 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Develop and improve services
+- Match and combine data from other data sources
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Tracking method: Cookies only
+- Show details
+Madington
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 45 days
+- Tracking method: Cookies only
+- Show details
+[LINK: https://developers.bluestack.app/privacy-policy](https://developers.bluestack.app/privacy-policy)
+[LINK: https://developers.bluestack.app/privacy-policy](https://developers.bluestack.app/privacy-policy)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 days
+- Consent expiry: 1 year 5 hours 48 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Link different devices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Marketing Science Consulting Group, lnc.
+- Ensure security, prevent and detect fraud, and fix errors
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Device identifiers
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- 365 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 180 days)
+- Use profiles to select personalised advertising (Data Retention Period: 180 days)
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 180 days)
+- Develop and improve services (Data Retention Period: 180 days)
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 180 days)
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 days
+- Consent expiry: 1 year 35 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 395 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance (Data Retention Period: 396 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 year 25 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 368 days)
+- Create profiles to personalise content
+- Measure advertising performance (Data Retention Period: 362 days)
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 361 days)
+- Save and communicate privacy choices (Data Retention Period: 368 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 365 days
+- Consent expiry: 364 days 13 hours 45 minutes 11 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Save and communicate privacy choices
+- Device identifiers
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Probabilistic identifiers
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 6 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 364 days
+- Consent expiry: 364 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- 365 days
+- Consent expiry: 2 years
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 123 days
+- Consent expiry: 62 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year 1 hour 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Mirando GmbH & Co KG
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 360 days
+- Consent expiry: 360 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 2557 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- IP addresses
+- Device identifiers
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 1 day
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 15 days 5 hours
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 730 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 150 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 4320 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 730 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1825 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 213 days 16 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content (Data Retention Period: 60 days)
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- 365 days
+- Consent expiry: 1 minutes 30 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 days
+- Consent expiry: 1 year 175 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 days
+- Consent expiry: 6 days 2 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 730 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 60 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 120 days)
+- Measure advertising performance (Data Retention Period: 30 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 45 days)
+- Use profiles to select personalised advertising (Data Retention Period: 45 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 45 days)
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Save and communicate privacy choices
+- Browsing and interaction data
+- Consent expiry: 1 hour
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://cdn.thenewsroom.io/docs/cookies.pdf](https://cdn.thenewsroom.io/docs/cookies.pdf)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Device identifiers
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+NEXD
+- Measure advertising performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- 2920 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 30 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 30 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 30 days)
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices (Data Retention Period: 30 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 45 days)
+- Develop and improve services (Data Retention Period: 396 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 45 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- Consent expiry: 120 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 10 days)
+- Use profiles to select personalised advertising (Data Retention Period: 10 days)
+- Measure advertising performance (Data Retention Period: 120 days)
+- Use limited data to select content (Data Retention Period: 120 days)
+- Non-precise location data
+- Consent expiry: 6 years 295 days 12 hours 19 minutes 24 seconds
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 180 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 1 days)
+- Measure advertising performance (Data Retention Period: 1096 days)
+- Develop and improve services (Data Retention Period: 10 days)
+- Deliver and present advertising and content (Data Retention Period: 1 days)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 7 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 390 days)
+- Match and combine data from other data sources
+- User-provided data
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services (Data Retention Period: 90 days)
+- Link different devices
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- Privacy choices
+- 183 days
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://api.recod3suite.com/privacypolicy.php](https://api.recod3suite.com/privacypolicy.php)
+[LINK: https://api.recod3suite.com/privacypolicy.php](https://api.recod3suite.com/privacypolicy.php)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1 days
+- Consent expiry: 1 day
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Develop and improve services
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 183 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 183 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 400 days
+- Consent expiry: 183 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- 90 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+OnCore Digital Media
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+One Tech Group GmbH
+- Use limited data to select advertising
+- Measure advertising performance
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content (Data Retention Period: 720 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 365 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Device identifiers
+- Authentication-derived identifiers
+- 365 days
+- Consent expiry: 1 year 30 days 16 hours 18 minutes 18 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Match and combine data from other data sources
+- IP addresses
+- Device identifiers
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 548 days
+- Consent expiry: 1 year 30 days 8 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Online Media Solutions LTD
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 3650 days)
+- IP addresses
+- Probabilistic identifiers
+- User-provided data
+- 365 days
+- Consent expiry: Session
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 30 days)
+- Use profiles to select personalised content (Data Retention Period: 30 days)
+- Measure advertising performance
+- Measure content performance
+- IP addresses
+- Device characteristics
+- Consent expiry: 50 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 750 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device identifiers
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 60 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 60 days)
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 60 days)
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 60 days)
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 60 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year 1 day
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 days
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 days
+- Consent expiry: 120 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance (Data Retention Period: 30 days)
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 1 year 30 days 16 hours 17 minutes 39 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/](https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/)
+[LINK: https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/](https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 2555 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Papirfly AS
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 400 days)
+- Measure content performance (Data Retention Period: 400 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services (Data Retention Period: 400 days)
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1825 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Peer39
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 180 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 182 days 12 hours 33 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 7 days)
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1096 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- User-provided data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Develop and improve services (Data Retention Period: 7 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 1 year 363 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance (Data Retention Period: 365 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Use limited data to select content
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 180 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 390 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 30 days)
+- Develop and improve services (Data Retention Period: 365 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 390 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year 30 days 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Playable ApS
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Non-precise location data
+- 90 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Playdigo Inc
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance (Data Retention Period: 1825 days)
+- Use limited data to select advertising
+- IP addresses
+- Device identifiers
+- User-provided data
+- Tracking method: Cookies only
+- Show details
+Polar Mobile Group Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 1095 days)
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 3650 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance (Data Retention Period: 364 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 days
+- Consent expiry: 7 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Precise location data
+- 3650 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 540 days
+- Consent expiry: 360 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Measure content performance (Data Retention Period: 1095 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 700 days
+- Tracking method: Cookies and others
+- Show details
+ProgrammaticX LTD
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 760 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Protected Media LTD
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 3650 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days 16 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Public Good Software Inc.
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 1825 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 30 days
+- Consent expiry: 60 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 57 days 20 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 7 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 40 days
+- Consent expiry: 5 years 2 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 182 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 182 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 366 days
+- Consent expiry: 5 years 5 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 300 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- 90 days
+- Consent expiry: Session
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Develop and improve services (Data Retention Period: 365 days)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 60 days)
+- Use profiles to select personalised advertising (Data Retention Period: 60 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Deliver and present advertising and content (Data Retention Period: 60 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 540 days)
+- Use profiles to select personalised advertising (Data Retention Period: 540 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 2555 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- IP addresses
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 365 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance (Data Retention Period: 730 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 730 days)
+- Develop and improve services (Data Retention Period: 730 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 390 days)
+- Use profiles to select personalised advertising (Data Retention Period: 390 days)
+- Create profiles to personalise content (Data Retention Period: 390 days)
+- Use profiles to select personalised content (Data Retention Period: 390 days)
+- Use limited data to select content (Data Retention Period: 4320 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 390 days)
+- Save and communicate privacy choices (Data Retention Period: 390 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Realtime Communication Sthlm AB
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Redbranch, Inc dba Fraudlogix
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 1 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1096 days
+- Consent expiry: 2 years
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- IP addresses
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use profiles to select personalised content
+- Measure content performance
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 180 days
+- Consent expiry: 180 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 180 days
+- Consent expiry: 180 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Link different devices
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- 4320 days
+- Consent expiry: 1 year 35 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 60 days
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 35 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Revolution Ad
+- Measure advertising performance
+- Measure content performance
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 4320 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Rockabox Media Ltd
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 3 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 360 days
+- Consent expiry: 360 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 565 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Sahar Media FZE
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- 30 days
+- Consent expiry: Session
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 395 days)
+- Create profiles for personalised advertising (Data Retention Period: 395 days)
+- Use profiles to select personalised advertising (Data Retention Period: 395 days)
+- Create profiles to personalise content (Data Retention Period: 395 days)
+- Use profiles to select personalised content (Data Retention Period: 395 days)
+- Measure advertising performance (Data Retention Period: 1125 days)
+- Measure content performance (Data Retention Period: 1125 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 1125 days)
+- Develop and improve services (Data Retention Period: 1125 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 395 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 395 days)
+- Create profiles for personalised advertising (Data Retention Period: 395 days)
+- Use profiles to select personalised advertising (Data Retention Period: 395 days)
+- Create profiles to personalise content (Data Retention Period: 395 days)
+- Use profiles to select personalised content (Data Retention Period: 395 days)
+- Measure advertising performance (Data Retention Period: 1125 days)
+- Measure content performance (Data Retention Period: 1125 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 1125 days)
+- Develop and improve services (Data Retention Period: 1125 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 395 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year 25 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 180 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year 30 days
+- Tracking method: Cookies and others
+- Show details
+Sarigato Sp. z o.o.
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- 60 days
+- Consent expiry: 60 days
+- Tracking method: Cookies only
+- Show details
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Precise location data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 89 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 139 days 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 10 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Seenthis AB
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- 3 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 days
+- Consent expiry: 2 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 7 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 14 days)
+- Use profiles to select personalised advertising (Data Retention Period: 14 days)
+- Create profiles to personalise content (Data Retention Period: 14 days)
+- Use profiles to select personalised content (Data Retention Period: 14 days)
+- Use limited data to select content (Data Retention Period: 14 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 14 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 13 days 23 hours 59 minutes 41 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content (Data Retention Period: 1460 days)
+- Use profiles to select personalised content (Data Retention Period: 1460 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 540 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year 25 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html](https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html)
+[LINK: https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html](https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 days
+- Consent expiry: 2 years 53 days 11 hours 20 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 393 days
+- Consent expiry: 1 year 28 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 393 days
+- Consent expiry: 1 year 28 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- 1 days
+- Tracking method: Cookies only
+- Show details
+Silverbullet Data Services Group
+- Measure advertising performance
+- Measure content performance
+- Deliver and present advertising and content
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 4320 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Develop and improve services
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Precise location data
+- 30 days
+- Consent expiry: 1 year 23 hours 59 minutes 59 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 385 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 14 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 185 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Sitewit, Corp
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year 6 hours
+- Tracking method: Cookies and others
+- Show details
+Skimbit Ltd
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Measure advertising performance
+- Measure content performance
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Browsing and interaction data
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 14 days
+- Consent expiry: 21 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 395 days)
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year 30 days 16 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 120 days
+- Consent expiry: Session
+- Tracking method: Cookies and others
+- Show details
+Smartico
+- Measure advertising performance
+- Deliver and present advertising and content
+- IP addresses
+- 7 days
+- Tracking method: Cookies only
+- Show details
+[LINK: https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf](https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf)
+[LINK: https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf](https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf)
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- 730 days
+- Consent expiry: 1 year 5 days 8 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure content performance
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Device characteristics
+- Browsing and interaction data
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 3600 days)
+- Measure content performance (Data Retention Period: 3600 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 3600 days)
+- Develop and improve services (Data Retention Period: 3600 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 91 days)
+- Use profiles to select personalised advertising (Data Retention Period: 91 days)
+- Create profiles to personalise content (Data Retention Period: 91 days)
+- Use profiles to select personalised content (Data Retention Period: 91 days)
+- Measure advertising performance (Data Retention Period: 4320 days)
+- Measure content performance (Data Retention Period: 4320 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 4320 days)
+- Develop and improve services (Data Retention Period: 4320 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 year 32 days 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- 1825 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- Probabilistic identifiers
+- Tracking method: Cookies only
+- Show details
+Somplo Ltd
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 30 days 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 548 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 548 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Privacy choices
+- Consent expiry: 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 2555 days
+- Consent expiry: 1 hour
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- 180 days
+- Consent expiry: 28 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+SpinX Pte Ltd
+- Deliver and present advertising and content
+- IP addresses
+- Device identifiers
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 2555 days
+- Consent expiry: 3 years 1 second
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 2555 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 1095 days)
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 100 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 days
+- Consent expiry: 364 days
+- Tracking method: Cookies and others
+- Show details
+Sqreem Technologies Private Limited
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Privacy choices
+- 364 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 365 days)
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 365 days)
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 548 days
+- Consent expiry: 364 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+Stream Eye OOD
+- Deliver and present advertising and content
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+streaMonkey GmbH
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 7 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 90 days)
+- Use profiles to select personalised advertising (Data Retention Period: 90 days)
+- Measure advertising performance (Data Retention Period: 365 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 365 days)
+- Develop and improve services (Data Retention Period: 90 days)
+- Save and communicate privacy choices (Data Retention Period: 90 days)
+- IP addresses
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 1 year 30 days 10 hours 1 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- IP addresses
+- Device characteristics
+- 365 days
+- Consent expiry: 1 hour 30 minutes
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 days
+- Consent expiry: 120 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 31 days
+- Consent expiry: 31 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Tracking method: Cookies and others
+- Show details
+- Measure advertising performance (Data Retention Period: 90 days)
+- Measure content performance (Data Retention Period: 87 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 60 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 60 days)
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 days
+- Consent expiry: 1 year 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 2 hours 13 minutes 20 seconds
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 539 days)
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 540 days
+- Consent expiry: 360 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising (Data Retention Period: 190 days)
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 190 days)
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices (Data Retention Period: 190 days)
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 3650 days
+- Consent expiry: 18 days 6 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Target Better Inc
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Probabilistic identifiers
+- Privacy choices
+- 60 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Device characteristics
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- IP addresses
+- Device identifiers
+- 1095 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Telecoming S.A.
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- 3650 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 3650 days
+- Consent expiry: 7 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 182 days 15 hours
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 93 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Use limited data to select content
+- IP addresses
+- Non-precise location data
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 4320 days
+- Consent expiry: 2 years 183 days 2 hours 33 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 minutes 30 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 90 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 395 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 180 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 132 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 365 days)
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 99 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content (Data Retention Period: 548 days)
+- Develop and improve services
+- Deliver and present advertising and content
+- Use precise geolocation data
+- Device identifiers
+- Privacy choices
+- 550 days
+- Consent expiry: 1 year 175 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 364 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 90 days)
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 397 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 13 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 days
+- Tracking method: Cookies and others
+- Show details
+TMT Digital Inc
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Device identifiers
+- Privacy choices
+- 3 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1825 days
+- Consent expiry: 5 years 1 day 9 hours 20 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure content performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 360 days
+- Consent expiry: 1 year 30 days 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 days
+- Consent expiry: 1 year 32 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Save and communicate privacy choices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 14 days
+- Consent expiry: 14 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 52 days)
+- Use profiles to select personalised advertising (Data Retention Period: 52 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices (Data Retention Period: 52 days)
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 45 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance (Data Retention Period: 730 days)
+- Measure content performance (Data Retention Period: 730 days)
+- Understand audiences through statistics or combinations of data from different sources (Data Retention Period: 730 days)
+- Develop and improve services (Data Retention Period: 730 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 366 days
+- Consent expiry: 1 year 1 day
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Consent expiry: 20 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 900 days
+- Consent expiry: 2 years 182 days 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- 60 days
+- Consent expiry: 60 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use profiles to select personalised advertising (Data Retention Period: 365 days)
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 730 days
+- Consent expiry: 2 years 13 hours 20 minutes
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year 175 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance (Data Retention Period: 360 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 60 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance (Data Retention Period: 14 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 6 minutes 5 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Develop and improve services
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Save and communicate privacy choices
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- Privacy choices
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 63 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Users’ profiles
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 180 days
+- Consent expiry: 180 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- User-provided data
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Save and communicate privacy choices
+- IP addresses
+- Users’ profiles
+- 90 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- User-provided data
+- Non-precise location data
+- 14 days
+- Consent expiry: 30 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 days
+- Consent expiry: 1 year 5 hours 49 minutes 12 seconds
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 days
+- Consent expiry: 6 days 2 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- 30 days
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- 1825 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising (Data Retention Period: 30 days)
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 30 days)
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 7 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 days
+- Consent expiry: 30 days 2 hours 13 minutes 20 seconds
+- Tracking method: Cookies only
+- Show details
+Videobot Ltd
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Device characteristics
+- Device identifiers
+- 1800 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- 90 days
+- Consent expiry: 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Deliver and present advertising and content
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 days
+- Tracking method: Cookies and others
+- Show details
+Visarity Technologies GmbH
+[LINK: https://primo.design/docs/PrivacyPolicyPrimo.html](https://primo.design/docs/PrivacyPolicyPrimo.html)
+[LINK: https://primo.design/docs/PrivacyPolicyPrimo.html](https://primo.design/docs/PrivacyPolicyPrimo.html)
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- 730 days
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 days
+- Consent expiry: 17 days 1 hour 40 minutes 36 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance (Data Retention Period: 4320 days)
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 30 days
+- Tracking method: Cookies and others
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device identifiers
+- Precise location data
+- Consent expiry: 12 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising (Data Retention Period: 59 days)
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 days
+- Consent expiry: 1 minutes
+- Tracking method: Cookies only
+- Show details
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Device characteristics
+- Non-precise location data
+- 90 days
+- Tracking method: Cookies only
+- Show details
+VRTCAL Markets Inc
+[LINK: https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+[LINK: https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+- Use limited data to select advertising
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Tracking method: Cookies and others
+- Show details
+Vudoo Pty Ltd
+- Measure advertising performance
+- Measure content performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+[LINK: https://docs.google.com/spreadsheets/d/1HMrCpWucCJOoWtqRi9AD1W_ylyxPuWInECUzuCg4-UI/edit#gid=0](https://docs.google.com/spreadsheets/d/1HMrCpWucCJOoWtqRi9AD1W_ylyxPuWInECUzuCg4-UI/edit#gid=0)
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Vyde Ltd.
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- 28 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 days
+- Consent expiry: 1 year 28 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- IP addresses
+- Consent expiry: 14 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 days
+- Consent expiry: 3 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 400 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1095 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 2 days
+- Consent expiry: 1 year 30 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 3650 days
+- Consent expiry: 5 years 2 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1825 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 396 days
+- Consent expiry: 2 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 180 days)
+- Save and communicate privacy choices
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- Actively scan device characteristics for identification
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising (Data Retention Period: 90 days)
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 30 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+xpln.ai SAS
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 days
+- Consent expiry: 2 years 20 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 540 days
+- Consent expiry: 2 years 20 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+YIELDBIRD SP. Z O.O.
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 1095 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 days
+- Consent expiry: 90 days
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 7 days)
+- Save and communicate privacy choices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Use limited data to select advertising
+- Measure advertising performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select advertising
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- Use precise geolocation data
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Create profiles to personalise content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 4320 days
+- Consent expiry: 1 year 6 hours
+- Tracking method: Cookies and others
+- Show details
+Zeit Agency ApS
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 30 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- Match and combine data from other data sources
+- Identify devices based on information transmitted automatically
+- Actively scan device characteristics for identification
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 5 years
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Save and communicate privacy choices
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 days
+- Consent expiry: 1 year
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Create profiles for personalised advertising
+- Use profiles to select personalised advertising
+- Create profiles to personalise content
+- Use profiles to select personalised content
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Match and combine data from other data sources
+- Link different devices
+- Identify devices based on information transmitted automatically
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 days
+- Consent expiry: 1 year 25 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Create profiles for personalised advertising (Data Retention Period: 360 days)
+- Use profiles to select personalised advertising (Data Retention Period: 360 days)
+- Create profiles to personalise content (Data Retention Period: 360 days)
+- Use profiles to select personalised content (Data Retention Period: 360 days)
+- Understand audiences through statistics or combinations of data from different sources
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Develop and improve services
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content (Data Retention Period: 360 days)
+- Save and communicate privacy choices (Data Retention Period: 360 days)
+- Link different devices
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1080 days
+- Consent expiry: 180 days
+- Tracking method: Cookies only
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Measure advertising performance
+- Measure content performance
+- Understand audiences through statistics or combinations of data from different sources
+- Develop and improve services
+- Use limited data to select content
+- Deliver and present advertising and content
+- Device characteristics
+- 90 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Measure advertising performance
+- Ensure security, prevent and detect fraud, and fix errors
+- Deliver and present advertising and content
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 730 days
+- Tracking method: Cookies and others
+- Show details
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+- Store and/or access information on a device
+- Use limited data to select advertising
+PolyAI raises 86M to transform how enterprises talk to their customers Read more
+
+## Make every customer feel heard. Instantly.
+
+Deliver the experience of your best agent at infinite scale.
+Request a demo
+Trusted by
+
+## Hearing is believing
+
+“Absolutely I would recommend PolyAI to other healthcare providers. I give them a five out five, they’re a game changer.”
+Lauren Sullivan
+Chief Information Officer
+72%
+reduction in Average Handle Time
+“PolyAI rose to the top because  of how authentic their voices  sounded and how adaptive the  technology was. It didn’t sound  robotic — it sounded like one of  our own agents.”
+Brianna Warner
+Customer Care Center Manager
+44%
+Decrease in abandonment rate
+“Our previous system was a touchtone IVR. With Peggy, we’re finally able to service our customers in a way we’ve never been able to before.”
+Kristin Punter
+Sr. Director CSO and Strategic WFM
+35,000
+labor hours saved
+“We chose PolyAI because they’re the best at delivering natural, human-sounding conversations. From the start, it was clear they could bring our brand voice to life. I’d recommend them to any restaurant looking to elevate guest experience without losing the human touch.”
+Selma Oliveira
+Chief Culture Officer, Fogo De Chão
+14%
+increase in revenue
+“When we heard PolyAI’s solution in Croatian, we knew that was what we wanted for our customers. Our customers can now get information quickly in their local language, and I’m really proud of what we’ve created together.”
+Vedran Mrvica
+Head of Contact Center, Zagrebačka banka
+14pt
+NPS increase
+“Implementing PolyAI has upped the game. When I have somebody else from another industry call me and ask me how we are doing it the right way, who could ask for more?”
+Ian Roberts
+Director of Technology and Operations
+21%
+call containment
+“Absolutely I would recommend PolyAI to other healthcare providers. I give them a five out five, they’re a game changer.”
+Lauren Sullivan
+Chief Information Officer
+72%
+reduction in Average Handle Time
+“PolyAI rose to the top because  of how authentic their voices  sounded and how adaptive the  technology was. It didn’t sound  robotic — it sounded like one of  our own agents.”
+Brianna Warner
+Customer Care Center Manager
+44%
+Decrease in abandonment rate
+“Our previous system was a touchtone IVR. With Peggy, we’re finally able to service our customers in a way we’ve never been able to before.”
+Kristin Punter
+Sr. Director CSO and Strategic WFM
+35,000
+labor hours saved
+“We chose PolyAI because they’re the best at delivering natural, human-sounding conversations. From the start, it was clear they could bring our brand voice to life. I’d recommend them to any restaurant looking to elevate guest experience without losing the human touch.”
+Selma Oliveira
+Chief Culture Officer, Fogo De Chão
+14%
+increase in revenue
+“When we heard PolyAI’s solution in Croatian, we knew that was what we wanted for our customers. Our customers can now get information quickly in their local language, and I’m really proud of what we’ve created together.”
+Vedran Mrvica
+Head of Contact Center, Zagrebačka banka
+14pt
+NPS increase
+“Implementing PolyAI has upped the game. When I have somebody else from another industry call me and ask me how we are doing it the right way, who could ask for more?”
+Ian Roberts
+Director of Technology and Operations
+21%
+call containment
+
+## Empathy with ROI. Better conversations drive real business value.
+
+Better conversations drive real business value.
+75% calls handled in 12 languages
+Global delivery company
+15 point increase in CSAT with no call abandonment
+Health insurance provider
+$7.2M revenue generation through 5+ minute calls.
+Hotel and casino brand
+60% reduction in seasonal hiring saving over $1m
+Retail clothing brand
+Request a demo
+Agent Studio
+
+## There is nothing more powerful than a conversation.
+
+Build seamless omnichannel experiences that sound and feel authentic to your brand without ever missing a beat. With agentic AI you can continuously improve, making the next conversation better than the last.
+Where EQ meets IQ
+Build, manage, and measure the impact of every conversation from your command center: Agent Studio.
+Many channels, one voice
+Deliver on brand experiences consistently through voice, chat, SMS, social, and beyond.
+Superhuman collaboration
+Work with agentic AI to improve conversations, uncover hidden opportunities, and transform your CX faster than ever.
+Watch video
+
+## Earn trust from the first word.
+
+Powerful automation
+Fully automate your most challenging support conversations to reduce costs, increase capacity, and deliver superior on-brand experiences to your customers.
+Unlimited scale
+Deploy industry-leading AI to handle enterprise-scale conversation volumes and engage customers instantly – in 45 languages and counting.
+Consistent CX
+Build loyalty, drive revenue, and stand out from the crowd by delivering consistent, connected conversational experiences across voice, chat, SMS, and beyond.
+Rich data
+Use AI to analyze every call as it happens and surface actionable data for operational improvements and discovering new opportunities.
+Agile excellence
+Adapt and refine your CX strategy faster than ever before with a user-friendly platform for creating rich, responsive conversational journeys.
+Secure reliability
+Automate with confidence thanks to the most advanced AI guardrails and data security protections to ensure that your agents always perform as expected.
+
+## Made for consumers. Built for enterprises.
+
+Security
+AI you can trust. 24/7 support and compliance certification to meet requirements in every industry — even the heavily regulated ones.
+Security
+Integrations
+No need to change your tech stack. Out-of-the-box and custom integrations make implementation safe and easy.
+Integrations
+Analytics
+Real-time insights. No data gaps, manual compiling, or business decisions based on guesswork.
+Data and Insights
+
+## Why enterprises and innovators choose PolyAI
+
+“Locations can go live with a branded, pre-trained voice assistant extremely quickly which means less time working on technology and more time delivering the perfect night out for our guests."
+– Randy Barnett, Chief Technology Officer at Melting Pot
+“With PolyAI, we’re giving guests a better experience while removing pressure from our teams. And crucially, we’re not missing bookings and potential revenue anymore.”
+– Richard Tallboy, Chief Information Officer at Côte Brasserie
+“It’s a great experience. It doesn’t have a bad day, it shows up to work every day, 24/7. I wish I could hire more agents that were that nice!”.
+– Brian Jeppesen, Director, Contact Center Operations at Golden Nugget
+“This is next-level conversational AI, and it’s far and away better than anything else I’ve heard in the market.”
+– Dan Eddie Customer Service Director at Simplyhealth
+“Locations can go live with a branded, pre-trained voice assistant extremely quickly which means less time working on technology and more time delivering the perfect night out for our guests."
+– Randy Barnett, Chief Technology Officer at Melting Pot
+“With PolyAI, we’re giving guests a better experience while removing pressure from our teams. And crucially, we’re not missing bookings and potential revenue anymore.”
+– Richard Tallboy, Chief Information Officer at Côte Brasserie
+“It’s a great experience. It doesn’t have a bad day, it shows up to work every day, 24/7. I wish I could hire more agents that were that nice!”.
+– Brian Jeppesen, Director, Contact Center Operations at Golden Nugget
+“This is next-level conversational AI, and it’s far and away better than anything else I’ve heard in the market.”
+– Dan Eddie Customer Service Director at Simplyhealth
+
+### Worth the read
+
+PolyAI surpasses $200 million in total funding
+Forrester report – Total Economic Impact™ of PolyAI
+Introducing Agent Studio: The only voice-first omnichannel platform for conversational AI
+
+## Ready to hear it for yourself?
+
+Get a personalized demo to learn how PolyAI can help you  drive measurable business value.
+
+## Request a demo
+
+
+--------------------

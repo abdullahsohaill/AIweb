@@ -1,0 +1,764 @@
+# Upstract
+**URL:** https://upstract.com
+**Page Title:** Upstract
+--------------------
+
+- Russia May Have Used Starlink-Guided Shahed Drones for the First Time, Ukrainian Official Says
+- Meirl
+- Tearful goodbyes as Japan returns pandas to China amid worsening ties
+- EU countries give final approval to Russian gas ban
+- Under Armour looking into data breach affecting customers’ email addresses
+- Chilean court extends detention of suspect accused of starting wildfire that killed 20
+- what is this sorcery
+- Savage!
+- More
+- I slept on a freezer so I could pay staff – you need to do everything it takes to succeed
+- Kash Patel’s Viral Line About Protesters Sparks Anger Online
+- Ukraine's drone forces commander says his pilots are hitting Russians at such close range that they're 'under our feet'
+- Latest details after Border Patrol kills Alex Pretti in Minneapolis
+- 'IT IS TOO LATE!': Trump Throws Sunday Fit Over His Biggest Obsession
+- Mark Tully, BBC correspondent known as the 'voice of India,' dies at 90
+- Armed attackers kill 11 at soccer field in Mexico's Salamanca
+- More
+- Jaxon Smith-Njigba Dominates NFC Championship Game, Mike Vrabel Leads Patriots to Super Bowl in First Season
+- Gold Surges Past $5,000 as Canada Tariff Risk, Shutdown Fears Add to Safe-Haven Demand
+- Gunmen open fire at soccer field in central Mexico, killing 11 and wounding 12
+- Updated winter storm warning: 4-8 inches of additional snow for Central NY
+- Sam Darnold's Contract Incentives for Seahawks Reaching NFL Super Bowl 60 Revealed
+- This Forgotten Cancer Vaccine’s Results Were So Unusual Scientists Revisited It 20 Years Later
+- Target CEO Joins Minnesota Businesses Urging ‘Deescalation’ After Latest Shooting In Minneapolis
+- More
+- Local Prosecution Is the Answer to Federal Lawlessness
+- ‘We Are Creating the Conditions for a Catastrophe.’ Three Columnists on the Shooting of Alex Pretti in Minneapolis
+- In Xi’s China, Top General’s Fall Shows Precariousness of Power
+- In Xi’s China, Top General’s Fall Shows Precariousness of Power
+- Gunmen Kill 11 After Soccer Match in Mexico
+- Trump’s Foreign Policy Is Stuck in the 16th Century
+- As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage
+- More
+- Winter weather
+- Some Republicans call for investigation after fatal shooting in Minneapolis
+- Myanmar completa unas elecciones diseñadas para que el ejército mantenga el control del gobierno
+- Trump's Greenland ambitions strain MAGA ties with Europe's far-right
+- Winter storm
+- Democrats vow to oppose homeland security funding bill. That increases the chance of a shutdown
+- Minneapolis shooting
+- More
+- The elephant in the room between Trump and oil execs: Iraq
+- Why federal tax refunds may be bigger than usual
+- Meta, TikTok and YouTube heading to trial to defend against youth addiction, mental health harm claims
+- Judge to hear arguments on Minnesota immigration crackdown as calls grow for probe into second fatal shooting
+- Xi has absolute control over China’s military. Now he wants more
+- Gun rights groups and legal experts question Trump administration’s stance on the Second Amendment after shooting
+- How weather may have caused private jet crash with 8 people on board
+- More
+- Jewelry heist suspect’s deportation left victims ‘in disbelief,’ lawyer says
+- Live updates: Court to hold hearings in Minnesota suits seeking to curb federal agents
+- Iranian forces massacred protesters fleeing burning market, witnesses say
+- Live updates: Minneapolis on edge as details emerge of deadly shooting
+- Federal agent secured gun from Minn. man before fatal shooting, videos show
+- An engineer-turned-baker shared his immigration story. Pie sales surged
+- How to claim tax breaks on overtime, tips and more this filing season
+- More
+- U.S. Airlines And Airports Brace For A Brutal Travel Day Amid Massive Winter Storm
+- FYI, You're Probably Walking On Icy Sidewalks All Wrong
+- Can't Deal With Your Phone's Tiny Keyboard? You Need This Game-Changing $30 Tech Purchase
+- Reviewers Swear By These Comfy, Flattering Bodysuits (And None Of Them Are Skims)
+- This Is What Ballerinas Use To Soothe Their Sore And Tired Feet
+- If You Use The Same Password For Different Websites, We Have Some Bad News For You
+- Your Choice Of Afternoon Snack Could Increase Your Risk Of Dementia
+- More
+- OpenAI wants to be a scientific research partner
+- Wall Street's playbook for 2026 already needs to be rewritten
+- WATCH: Jim VandeHei's blunt AI advice
+- GOP fractures grow as Minnesota shootings erode immigration crackdown support
+- Impeachment, hearings, shutdown: DHS and ICE are under siege by Congress like never before
+- Minnesota takes rare legal steps to ensure probe of Alex Pretti shooting
+- Trump officials stick "terrorist" label on Americans killed by DHS
+- More
+- Judge to hear case on Minnesota’s ICE crackdown after killings by federal agents – US politics live
+- Weather tracker: Severe storms grip US as snow, ice and deep freeze spread
+- Poem of the week: Song by Lady Mary Chudleigh
+- ‘Embarrassed’ v ‘force to be reckoned with’: Americans on Trump’s foreign interventions
+- ‘Our spirit can’t be broken’: Minneapolis city council member on resisting Trump’s immigration crackdown
+- ‘Pushes the nostalgia buttons’: why Enchanted is my feelgood movie
+- ‘Waterfalls saved me’: how photographing nature can heal the soul
+- More
+- Israel to reopen Gaza crossing after search for last dead hostage's body ends
+- At least three dead in Greece biscuit factory fire
+- The Traitors moves from TV to theatre with 'bold' West End show
+- Second body found in search for missing Christmas Day swimmers
+- Class bias should be illegal, culture review says
+- Channel Islands push back on Russian money claims
+- Inquiry into fatal Stonehaven train derailment to begin
+- More
+- Fiscal hawks set out to kill earmarks. They are very much alive
+- Winter storm tests US electric grid as outages spread
+- Republicans start raising concerns about Minneapolis shooting
+- Eleanor Holmes Norton won’t seek reelection as DC delegate
+- Trump’s return supercharges lobbying revenues
+- Democrats are shying away from climate messaging. One of their own is fighting back
+- Shutdown risk grows as Democrats revolt after Minneapolis shooting
+- More
+- The killing of Alex Pretti is a grim turning point
+- The world just passed a surprisingly positive milestone on nuclear weapons
+- How the prenup became mainstream
+- The Trump administration’s unchecked abuses in Minnesota
+- Can Minnesota prosecute the federal officers who just killed a man?
+- Can Minnesota prosecute the federal officers who just killed a man?
+- Minnesota officials want to find out the truth about Renee Good’s death. The federal government won’t let them
+- More
+- Geoffrey Mason death: TV producer of 1972 Munich Olympics hostage crisis, dies aged 85
+- Alex Pretti: Supporters raise over $1 million for family of ICU nurse killed by federal agents
+- Update in search for six people presumed dead in New Zealand landslide
+- ‘Steamnado’ phenomenon spotted in Texas as nation continues to battle frigid temperatures
+- New York governor leads calls for Kristi Noem to resign as Homeland Security Secretary: ‘She has forfeited her right to lead’
+- Saudi Arabia ‘scales back plans for 100-mile desert megacity’ after concerns raised over billions spent
+- Video of Alex Pretti honoring deceased veteran emerges after ICU nurse shot dead by federal agents
+- More
+- The end of The Line? Saudi Arabia 'will scale back its 100-mile long megacity to something "far smaller"' amid spiralling…
+- Britain has quietly repatriated ISIS-linked women and children held alongside Shamima Begum, camp director claims amid fears…
+[LINK: Britain has quietly repatriated ISIS-linked women and children held alongside Shamima Begum, camp director claims amid fears…](https://www.dailymail.co.uk/news/article-15497771/Britain-quietly-repatriated-ISIS-linked-women-children-held-alongside-Shamima-Begum-camp-director-claims-amid-fears-jihadists-escaping-amid-turmoil-Syria.html?ref=upstract.com)
+- Developer accused of causing planning 'apocalypse' in quaint Cornwall village after converting barn into £1m newbuild homes
+- Graduates claiming benefits surge to over 700,000 as one in three claim they are too sick to work
+- Pictured: The multi-millionaire caravan tycoon with 'links to the notorious Kinahan Cartel' who has been setting the Cotswolds…
+- Aussies lose it over politicians being given top honours in Australia Day awards: 'Is this satire?'
+- Endgame for Starmer: Andy Burnham warns Labour will LOSE Manchester by-election to Reform as 'lame duck' PM faces MPs' fury…
+- More
+- Brickbat: Durham Bully
+- Open Thread
+- Second Amendment Roundup: Four Points on the Wolford Argument
+- DHS Again Promises a Thorough Investigation of a Fatal Shooting After Prejudging the Outcome
+- The Trump Administration Is Lying About Gun Rights and the Death of Alex Pretti
+- Today in Supreme Court History: January 25, 1819
+- Ken Levine on BioShock, Ayn Rand, and Libertarianism
+- More
+- He Spent Decades Building the Religious Right. Now He’s Marching to Undo It
+- Some Conservatives Veer Off Party Line After DHS Agents Kill Another US Citizen
+- Nurses Union Calls ICE Agents “Public Health Threat” After Alex Pretti Killing
+- Inside the Largest Effort Ever to Save the Great Barrier Reef
+- Inside the Largest Effort Ever to Save the Great Barrier Reef
+- “It’s a Horror Show”: Anguish Sweeps Minneapolis After Federal Agents Kill Another Neighbor
+- Video Contradicts Trump Administration Account of Minneapolis Killing
+- More
+- Private Jet Carrying 8 People Crashes in Flames
+- Border Patrol Goon Goes on Posting Spree to Try to Justify Nurse Killing
+- ICE Civil War Breaks Out Over Bogus Claims About ICU Nurse
+- Trump Repeatedly Cornered for Truth Over ICU Nurse Killing
+- Melania Trump Reveals Full Tacky Horror of ‘Documentary’ Screening
+- ‘Blind Side’ Star, 41, Hospitalized After Collapsing
+- MAGA Lawyer Calls Out Melania’s Screening Amid ICE Unrest
+- More
+- Explosion at cookie factory in central Greece kills at least 4
+- A search for 6 presumed dead in a New Zealand landslide is expected to take days
+- Myanmar military using paramotors and gyrocopters for aerial attacks on civilians, opposition forces
+- How a purge of China's military leadership could impact the army and Taiwan
+- Mark Tully, BBC correspondent known as the 'voice of India,' dies at 90
+- Gunmen open fire at soccer field in central Mexico, killing 11 and wounding 12
+- Private jet carrying 8 passengers crashes in Bangor, Maine: FAA
+- More
+- Plane with 8 aboard crashes at Bangor, Maine airport after taking off in storm
+- 1/25/2026: Timothée Chalamet; Jamie Lee Curtis; Kate Winslet
+- ICE's Homeland Security Investigations leading probe into Alex Pretti shooting
+- What Trump officials say and what videos show in Alex Pretti's killing
+- Seahawks, Patriots set to meet in Super Bowl rematch
+- Sundance Film Festival saying goodbye to Park City, Utah
+- American Alex Honnold climbs 101-story skyscraper in Taipei without protective gear
+- More
+- Nvidia and Alphabet VC arms back AI startup Synthesia at $4 billion valuation
+- U.S. natural gas prices hit $6 for first time since 2022 amid massive winter storm
+- European markets head for flat to lower start to the new trading week
+- Europe-U.S. ties at their 'lowest' in NATO history, ex-EU chief says, as Trump goes 'America First'
+- Carney says Canada not pursuing free trade deal with China as Trump threatens 100% tariffs
+- CNBC Daily Open: Canada is drawing Trump's ire — and faces a 100% tariff
+- Another day another high: Gold surges past $5,000 as investors seek shelter from global risks
+- More
+- All eyes on Rubio as he navigates the world in 2 critical roles
+- DC Delegate Eleanor Holmes Norton is ending her reelection campaign for Congress
+- Israel launches 'large-scale operation' to locate last hostage in Gaza
+- Super Bowl 60 is set and it's a rematch from 11 years ago: Patriots vs. Seahawks
+- Power outages and canceled flights as winter storm brings snow, sleet and ice
+- Videos and eyewitnesses refute federal account of Minneapolis shooting
+- Senate Democrats and Republicans call for investigation into killing of Alex Pretti
+- More
+- Barack and Michelle Obama blast Trump and ICE conduct: 'This has to stop'
+- 'We're not going away': Rob Caughlan, fierce defender of the coastline and Surfrider leader, dies at the age of 82
+- Top Los Angeles federal prosecutor faces blistering criticism for response to Minneapolis shooting
+- Peaceful protest over Minneapolis shooting begins in downtown Los Angeles; Bass assails ICE
+- Dozens 'die' at L.A. City Hall to protest 290 traffic-related deaths in the city in 2025
+- Friends, students honor 'Miss Mayra,' elementary school teacher slain in North Hollywood
+- California's favorite lovebirds Jackie and Shadow welcome first egg of the year
+- More
+- “Those rights don’t count”: Bovino says Pretti forfeited 2nd Amendment rights in fatal shooting
+- “Saturday Night Live”: Trump throws self awards show to distract from ICE’s “freaks and psychos”
+- “The Rip” is a new low for Netflix’s mindless filmmaking
+- A MN nurse is dead as the government’s story falls apart
+- Cardamom, the spice you’re missing
+- “The memes will continue”: A fake presidency, but real tyranny
+- Jack Smith lays it out: Trump has shattered the rule of law
+- More
+- No clear plan to replace aging, but vital, Navy 'test ship,' GAO says
+- Ex-PM Han, special counsel appeal 23-yr prison sentence in insurrection case
+- Unification minister says review under way for special envoy to facilitate U.S.-N. Korea talks
+- Gunmen kill 11, injure 12 in central Mexico massacre
+- Pentagon’s Colby visits ‘model ally’ South Korea amid shifting U.S. defense strategy
+- Clinton, Obama warn U.S. values, rights at stake after Alex Pretti killing
+- On This Day, Jan. 26: 7.9-magnitude earthquake rocks western India
+- More
+- Kristi Noem’s Chances of Leaving Trump Cabinet Surge Over Alex Pretti Death
+- Storm Fern Warning As Heavy Snow To Hit 14 States
+- Putin Ally Predicts World's 'Nuclear Club' Will Grow
+- Prince Harry and Meghan's Sundance Appearance Sparks Debate
+- Alex Pretti GoFundMe Passes $1,000,000 Milestone
+- Bill Clinton Issues Warning on 'American Democracy': Read in Full
+- Charlie Kirk Post on 2nd Amendment Goes Viral After Alex Pretti Shooting
+- More
+- Trump Is Making an Enemy of the Gun Lobby
+- “CBS Evening News” With Tony Dokoupil Is a Right-Wing Show for Absolutely No One
+- We Can Fight This: Minnesota’s General Strike Shows How
+- Google’s AI Detection Tool Can’t Decide if Its Own AI Made Doctored Photo of Crying Activist
+- Man Feds Killed in Minneapolis Was an Observer, Eyewitnesses Say
+- Man Feds Killed in Minneapolis Was an Observer, Eyewitness Says
+- New Legal Documents Show Marco Rubio Targeted Students for Op-Eds and Protesting
+- More
+- OBAMA: RESIST!
+- Ill-timed White House Screening..
+- MAYE DAY: PATRIOTS BOOK SUPER BOWL..
+- Video..
+- GOVT SHUTDOWN THREAT OVER FUNDING
+- ICE KILLS ANOTHER AMERICAN
+- Did SNL call JD Vance 'gay'?
+- More
+- LEE CARTER: 45% of Americans calling themselves 'independent' aren't independent at all – they're just angry
+- Go big, then go smart: Trump, ICE and the law. How to skip the left’s PR trap
+- Mass immigration is economic warfare and few Americans understand why
+- California Post ushers in new era of journalism with ‘the DNA of the New York Post’
+- Anti-ICE agitators clash with federal agents at Minneapolis hotel, as agents deploy tear gas, flashbangs
+- Kristen Stewart plans dramatic exit from US over Trump's America-first film industry policies
+- Prince Harry and Meghan Markle make Sundance debut as they premiere Girl Scout documentary
+- More
+- What was to be fun Florida trip ends in 'cold-blooded' triple murder: Elderly tourists dead, suspect earlier beat murder rap
+- Bad Bunny blitzes Super Bowl fans with super 'queer' halftime show
+- ‘Gross’: WEF elites push for fake, lab-grown meat
+- Democrats threaten to shut down government over ICE funding: 'We are not powerless'
+- Rioter bit off part of federal agent's finger amid Minneapolis 'rampant assault,' DHS says
+- DHS: Armed suspect fatally shot by federal agent in Minneapolis; suspect 'violently resisted' disarming attempt
+- Woke UK video game backfires: 'Extremist' Amelia becomes viral symbol of British pride
+- More
+- Kenya’s bourse bets on M-Pesa to attract retail investors
+- Nigeria’s insecurity crisis is one of weak statehood
+- Rumors of staffing cuts spook Washington Post newsroom
+- Dangerous winter storm blasts US
+- US set to make its largest investment in rare earths
+- New Pentagon plan deprioritizes China
+- China’s top general is ousted as Xi ramps up crackdown
+- More
+- Don’t Feel Bad For Not Following These Parenting “Tips”
+- The New Game of Thrones Show Flashes Something … Huge in Episode 2. It’s Not Even the Most Impressive Part
+- Everyone Saw CBP Kill Alex Pretti
+- Don’t Let Them Tell You That Was Self-Defense
+- In Minnesota, the Fight Against ICE Is Also the Fight Against Authoritarianism
+- Alex Pretti’s Killing Turned My Neighborhood Into a War Zone. It’s Us Versus Ice
+- There’s Something Unusual Happening in Thrift Stores These Days
+- More
+- The Minneapolis Uprising
+- Believe Your Eyes
+- No Cap: SNL Just Killed Gen Z Slang
+- Another Death in Minneapolis
+- Forbearance
+- What MAGA Really Thinks of the Second Amendment
+- Yes, It’s Fascism
+- More
+- At least 10 people die, million without power as winter storm grips US
+- President Xi says India, China ‘friends, partners’ in Republic Day message
+- Video: Anti-ICE protest held in Minneapolis after second US citizen killed
+- US State Secretary Rubio speaks to Iraqi PM amid tensions with Iran
+- Al-Sharaa checkmates the SDF and Washington still wins
+- Israeli settlers chase Palestinian school bus in occupied West Bank
+- Ukraine’s security guarantees: What are they and why might they fall short?
+- More
+- Don’t Legitimize ‘Anti-Zionism.’ Defeat It
+- Why Is Trump Fed Up?
+- You Can’t Have It Both Ways on ‘Genocide’
+- A Trumpian Version of ‘Leading From Behind’
+- Make Them Retire?
+- Matt Gaetz and the Jewish Firebugs
+- Trump at Davos
+- More
+- Witnessing Another Public Killing in Minneapolis
+- The Battle for Minneapolis
+- “The Quiet House,” by Tessa Hadley
+- Play Shuffalo: Sunday, January 25, 2026
+- Restaurant Review: Wild Cherry
+- Gus Kenworthy Lived an Olympic Version of “Heated Rivalry”
+- Tessa Hadley Reads “The Quiet House”
+- More
+- "Bogan" is apparently the most successful 'Australian word' in history. Subby would have gone with "chazzwazzer" [PSA]
+- Seattle ranks No. 2 for quality of life but lags in affordability, study finds, mostly because No. 2 is all they pay you…
+- In the battle of Fark submitters versus AI, you submitted this with a better purple monkey dishwasher [Interesting]
+- Rollin', rollin', rollin'. Man my ass is frozen [Weird]
+- Bangor Airport closed due to private plane crashing upon takeoff [Scary]
+- If you were planning or thinking about getting a SSD, run for your wallet and get it now. Prices are about to go higher than…
+- Shiatler has canceled solar projects in Puerto Rico worth millions of dollars, as the island struggles with chronic power…
+- More
+- Some of the greatest novels are about how reading ruins lives
+- Crops and chicks grow together in Murray-Darling study on water sharing
+- Dr. West used complex algorithms to account for Earth's distorted shape
+- A real startup, run by fake people
+- 璇璣圖
+- Seize the means of fermentation
+- Visualizing Language
+- More
+- John le Carré’s ‘The Spy Who Came In From the Cold’ U.K. Tour Sets ‘Death in Paradise’ Star Ralf Little as Lead
+- Trailer for Ivo M. Ferreira’s Thriller ‘Projecto Global’ Debuts Ahead of Rotterdam Festival Premiere (EXCLUSIVE)
+- ‘Rock Springs’ Review: Kelly Marie Tran Stars in an Atmospheric Ghost Story of Literally Unearthed Atrocities
+- Netflix Spain Unveils New Projects From Oriol Paulo, Alberto Marini and Jon Sistiaga
+- Icarus Films Acquires U.S. and Canadian Rights to Lana Daher’s ‘Do You Love Me’ (EXCLUSIVE)
+- Beta Cinema Boards ‘Four Minus Three,’ Ahead of World Premiere at Berlinale, as Trailer Debuts (EXCLUSIVE)
+- ‘The Traitors’ Heading to London Stage in 2027
+- More
+- Seven dead as 185 million face winter alerts in central, eastern U.S. states
+- Clinton and Obama urge Americans to 'speak out' and take action after Minneapolis shootings
+- ‘A wake-up call to every American’: Former presidents Obama, Clinton blast Trump administration after Minneapolis deaths
+- Business jet with 8 on board crashes during takeoff in Maine
+- Minneapolis resident reacts to the shooting of Alex Pretti
+- Thousands of flights disrupted by massive winter storm
+- Minneapolis on edge after second fatal shooting involving federal officers
+- More
+- ‘Enough Is Enough’: Democrats Threaten Shutdown Over ICE Funding
+- ‘Historic’ Storm Leaves 880,000 Without Power and 11,000 Flights Canceled Across U.S
+- ‘We’re Not That Far Behind.’ Baidu’s Robin Li on China’s Push to Diffuse AI Throughout Society
+- Iran Protest Death Toll Could Top 30,000, According to Local Health Officials
+- Alex Pretti, Man Shot By Federal Agents in Minneapolis, Wanted to ‘Make a Difference’
+- Photos of Minneapolis Protests As City Erupts in Anger Over Killing By Federal Agent
+- People Are Panic Buying for the Winter Storm. An Expert Explains Why We Do It
+- More
+- Zelenskyy says U.S. security agreement for Ukraine is '100% ready' to be signed
+- Winter storm leaves hundreds of thousands of customers without power across the South
+- Carney says Canada not pursuing free trade deal with China as Trump threatens tariffs
+- More bodies recovered from landslide in Indonesia, with many still missing
+- Leader in smallpox eradication, Dr. William Foege, dies at 89
+- Families protest 5-year-old boy held at Texas facility separated from detained father
+- The last refuge for a tiny hummingbird facing extinction is an ancient forest in Ecuador
+- More
+- Four statements made by DHS about Alex Pretti’s shooting — and what these videos show that contradict them
+- Amanda Gorman honors Alex Pretti in new poem
+- Ted Cruz bashes Vance and Trump in secret recordings
+- The real reason Trump and MAGA are so quick to blame Minneapolis shooting victims
+- NRA warns against ‘demonizing law-abiding citizens’ after Pretti killing in Minneapolis
+- Federal officials deny Minnesota state investigators access into Pretti’s killing
+- ICE is clearly out of control. This week the Senate can actually do something about it
+- More
+- Your boss is about to pull back your gym benefits
+- Anna Kendrick says she was 'really jealous' watching her friends go to college
+- I moved to Thailand to recover from burnout. Living here has been harder — and better — than I expected
+- America's largest labor movement calls for ICE to leave Minnesota before 'anyone else is hurt or killed'
+- The CEOs of Minnesota's largest companies call for 'de-escalation' of tensions after second fatal ICE shooting
+- How to watch Rams vs. Seahawks: Live stream the NFC Championship free from anywhere
+- After my divorce, my kids move between homes every week. Buying 2 of everything reduced their stress
+- More
+- Private jet carrying 8 people crashes at Maine airport
+- Walz to Americans after latest Minnesota shooting: ‘What side do you want to be on?’
+- Bill Clinton on Minneapolis shooting: ‘The people in charge have lied to us’
+- Trump ‘reviewing everything’ following Minneapolis shooting
+- North Carolina Republican calls for ‘thorough and impartial’ investigation after latest Minneapolis shooting
+- Walz to Bondi after Minnesota shooting: ‘Go ahead and work on’ Epstein files
+- Murkowski on Minneapolis shooting: ICE officers ‘do not have carte blanche’
+- More
+- Winter storm live updates: Heavy snow blasts Northeast as U.S. battles impacts of 'catastrophic' ice accumulation
+- Yen hits over two-month high, markets on alert for intervention
+- Gold Surges Past $5,000 as Canada Tariff Risk, Shutdown Fears Add to Safe-Haven Demand
+- Oil prices rise as harsh winter disrupts US output
+- Gold Surges Above $5,000 on Shutdown Fears, Geopolitical Tensions - WSJ
+- Yen jumps in broad hit to dollar as Japan intervention risks grow
+- Winter Storm Live Updates: Major Storm Blasts U.S. With Snow and Ice, Leaving Thousands Without Power
+- More
+- Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds
+- Brisk Sales at Goodwill Suggest Wary Shoppers in an Uncertain Economy
+- Trump Hobbled the I.R.S. This C.E.O. Now Has to Make It Work
+- How Bad Are A.I. Delusions? We Asked People Treating Them
+- As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage
+- Most Fox News Reporting on Minneapolis Shooting Supports Official Version
+- Minnesota’s Biggest Companies Call for ‘De-escalation’ of Tensions
+- More
+- How Trump’s Greenland ambitions could destroy the modern world order
+- 106 housing markets are seeing falling home prices—and not a single one is in the Midwest
+- How America’s WHO exit could affect flu shots, outbreaks, and future pandemics
+- Thousands of travelers may have to pay extra fees at the airport next week
+- Winter Storm Fern 2026: These 2 weather maps track when snow and ice storms are forecast to hit states this weekend
+- Minnesota economic blackout: List of stores closed today, schedule of events, where to donate as anti-ICE protest kicks off
+- 3 things to know about Trump’s ‘Golden Dome’ and Greenland’s role in nuclear defense
+- More
+- Inside the 'house of horrors' where girl, 5, starved to death as dad played video games
+- Trump gives four demands to Tim Walz and Dem leaders amid 'division, chaos and violence'
+- Trump admits US used secret 'Discombobulator' weapon in Venezuela Maduro raid
+- FBI director Kash Patel defers to DHS when asked if Alex Pretti brandished a gun
+- Horrific tragedy struck after incest dad fathered two children with biological daughter
+- Sickening confession of incest son who was sleeping with his biological mom
+- Donald Trump has power to block as Chagos Islands deal faces collapse
+- More
+- This Weekend in Politics, Bulletin 293
+- Sunday Afternoon News Updates: The Cover-Up is in Full Swing — 1/25/26
+- IMPORTANT SUNDAY MESSAGE from Meidas Founder
+- A Citizen Murdered for Caring
+- SHAME ON CNN, CBS, AND ALL OF THEM!!
+- Saturday Updates: Trump Regime Murders Another Citizen in Minneapolis — 1/24/26
+- Vance-Loomer Feud Erupts, Divides MAGA
+- More
+- Why Liberal Religion Is Losing Ground
+- Kristi Noem’s Reckless Lies
+- Why Trump’s Credit-Card Crackdown Will Backfire
+- Niall Ferguson: The Arrogance of Trump’s Foreign-Policy Critics
+- The Great California Wealth Exodus
+- Things Worth Remembering: The Poem That Outlived the Holocaust
+- The Weekend Press: Which Beckham Do You Believe?
+- More
+- Russian Africa Corps mercenaries incorporate Madagascar into their expansion across the continent
+- The new treasure hunters: How metal-detecting became a way for women in the UK to bond
+- Mstyslav Chernov, a filmmaker who spans the red carpet and the trenches of Ukraine: ‘The world has never been as dangerous as…
+- The odyssey of gaining US citizenship under Trump
+- Iranians after the crackdown on protests: ‘Nobody cares about us’
+- US-Mexico trade ties remain strong despite tariffs and USMCA threats
+- More
+- Starmer has written Labour’s suicide note
+- Europe must talk to Russia
+- How MAiD killed Canada’s humanity
+- Britain’s Atlantic subordination
+- The trouble with Tucker Carlson
+- Farewell to London’s literary boomers
+- The West’s great infantile disorder
+- More
+- LEVER WEEKLY: Robber vs. Robber
+- How Democrats Are Enabling ICE
+- What Does Google’s AI Know About You?
+- How Democrat-Backed ICE “Reforms” Became A $20 Million Bodycam Giveaway
+- The Supreme Court’s Quiet War On Cuba
+- The Beltway Just Got A Tech Upgrade
+- Make Taxes, Not Trade War
+- More
+- "Space Oddity" and "Ziggy Stardust" sound beautiful in Portuguese
+- Game studio's fired CEO hijacked its domain, listed it for $6,666,666
+- New Mario movie gives Yoshi an Avengers-esque dramatic reveal for some reason
+- Exploring the very weirdest of fake video game brands
+- Fans decompile Banjo-Kazooie for native PC play
+- Congress wants a remote kill switch in every car
+- Sinners returning to IMAX after Oscar nominations
+- More
+- Frida Kahlo's Image Is on Paintings, Posters, Socks and Sanitary Pads. How Did Fridamania Come to Dominate Popular Culture?
+- Positive Thinking Might Boost Your Immune System's Responses to Vaccines, New Research Suggests
+- See the Stunning Artworks by the Winners and Featured Artists of This Boundary-Pushing National Portrait Competition
+- A Smaller Version of the Las Vegas Sphere May Be Coming to the Washington, D.C. Area
+- The Penguins That Thrive—and the Ones Left Behind—as Antarctica Warms
+- How Historically Black Schools Create and Preserve Their Own History Through Amazing Artifacts, From Paintings to Marching…
+- This Mysterious 407-Million-Year-Old Fossil May Represent a Previously Unknown Branch of Life
+- More
+- I thought this said “Winamp” and I got really excited...
+- Daft Punk Deep Cuts DJ Set
+- A review of Sven Beckert’s Capitalism. “‘No religion, no ideology, no philosophy,..
+- Nice piece about the forgotten queer artist Marlow Moss, whose work and..
+- A Chinese factory mistakenly stitched a frown on a Year of the..
+- How To Help if You are Outside Minnesota, including donating money, hassling..
+- Today, Minnesotans are striking (“no work, no school, no shopping”), protesting, and..
+- More
+- Margaret Atwood on Margaret Atwood. "This is a very long book that is very ample on seemingly insignificant matters and oddly…
+- Harold Bloom, James Wood, Jack Edwards. At just 27, Edwards, a YouTube and TikTok star, has become the most important literary…
+- Not too long ago, boredom was an understudied phenomenon. What's been learned? It doesn't foster
+- The unheralded Indian physicist Satyendra Nath Bose sent a letter to Einstein in 1924. It would alter the direction of quantum…
+- Russia’s forests "have been an obstacle and a sanctuary. They have also been both an object of reverence and fodder for…
+- How to write a novel for the age of the algorithm? Look to the literature of the past. Look to Thomas Bernhard
+- The war between writers and editors can be long, brutish, and nasty. "Every semicolon was a matter of life or death”
+- More
+- Scientists Discovered a Cow That Uses Tools Like a Chimpanzee
+- Behind the Blog: Signs of the Times
+- Scientists Got Men to Rate Penises by How Intimidating They Are. This Is What They Found
+- Aliens and Angel Numbers: Creators Worry Porn Platform ManyVids Is Falling Into ‘AI Psychosis’
+- Podcast: Here’s What Palantir Is Really Building
+- HAM Radio Operators in Belarus Arrested, Face the Death Penalty
+- Comic-Con Bans AI Art After Artist Pushback
+- More
+- Scientists Say Go Ahead, Keep Gooning
+- Job Seekers Sue Company Scanning Their Résumés Using AI
+- Scientists Intrigued by Unfamiliar Life Form
+- When You Learn How Low the 2025 Murder Rate Was, You’ll Realize How Profoundly the Media Has Failed the American People
+- Strange Mushroom Makes You See Tiny People Chilling on Every Surface
+- OnlyFans Rival Seemingly Succumbs to AI Psychosis, Which We Dare You to Try Explain to Your Parents
+- Children Starting School Are Trying to Swipe Books Like They’re Phones
+- More
+- El Weirdo in Panama City, Florida
+- From Bay to Bar: Exploring Panama City’s Legendary Oyster Scene
+- Kellie's Castle in Batu Gajah, Malaysia
+- Dala Horse in Mora, Minnesota
+- Muchachos in Kyoto, Japan
+- Penn State Obelisk in State College, Pennsylvania
+- Old Bayview Cemetery in Corpus Christi, Texas
+- More
+- Babies who attend daycare share 'good' germs, too
+- Quantum physicists just supersized Schrödinger’s cat
+- Want to live longer? The tiniest of lifestyle changes can dramatically boost longevity
+- Back from the dead, a black hole is erupting after a 100-million-year hiatus
+- How digital forensics could prove what’s real in the age of deepfakes
+- The inner lives of animals
+- How zoos are preparing animals for winter storm Fern
+- More
+- Mars's gravity may help control Earth’s cycle of ice ages
+- Bone cancer therapy unexpectedly makes tumours less painful
+- Sea turtles may be more resilient to global warming than we thought
+- Why singing, dancing and engaging with art is good for your health
+- Hybrid megapests evolving in Brazil are a threat to crops worldwide
+- SpaceX’s Starlink dodged 300,000 satellite collisions in 2025
+- Why biological clocks get our 'true age' wrong – and how AI could help
+- More
+- Sydney Sweeney Climbs Hollywood Sign with Bras in Legally Dicey Move
+- Ex-NFL Player Jeff Faine Lists Florida Farmhouse For $3.9 Million
+- Winter Skin Care
+- Betsy In 'Taxi Driver' 'Memba Her?!
+- Super Bowl LX Matchup Set, Seahawks vs. Patriots!
+- Cardi B Loses It Over Boyfriend Stefon Diggs Going to the Super Bowl With Patriots
+- 'Blind Side' Actor Quinton Aaron Hospitalized After Falling At Home
+- More
+- Katie Price shares first picture of mystery new husband who she married 'days after meeting'
+- You could be sitting on a fortune if you still own any of these iconic 90s video games
+- Natasha Lyonne opened up on time she was 'as good as dead' as actor admits to relapsing after years of sobriety
+- Woman left 'weeing 200 times a day' after ketamine addiction had worrying impact on her body
+- Inbetweeners star James Buckley earns huge amount after genius career move
+- Major question surrounding fatal Alex Pretti shooting as Trump says they're ‘reviewing everything’
+- Woman who filmed fatal Alex Pretti shooting reveals harrowing account of what she saw
+- More
+- How the Louvre’s Stolen Jewels Turned Up at Paris Couture Week, Courtesy of Schiaparelli
+- The Story of Máxima of the Netherlands' Mellerio Ruby Tiara
+- Harry Styles Is Wearing a Knitted T-Shirt on His New Album Cover. Patrick Carroll Designed It
+- JD Vance, Conservative Influencers, and Gen Z Nuns: After Charlie Kirk, the March for Life Seizes a Moment
+- Federal Agents Fatally Shoot Man in Minneapolis
+- A.G. Cook Is Charli xcx’s Secret Weapon—and Was Vital to The Moment
+- Narcotics Charges Added to Sexual Assault Trial For Marius Borg Høiby, the son of Norway's Crown Princess Mette-Marit
+- More
+- Natalie Portman, Olivia Wilde Speak Out Against ICE at Sundance Film Festival
+- Dave Grohl Confirms New Foo Fighters Album Is ‘Finished’
+- Hear Bob Weir’s Final Rolling Stone Interview: ‘I Look Forward to Dying’
+- I Paid $49 for Clavicular’s ‘Looksmaxxing’ Academy. Here’s What I Saw
+- Natasha Lyonne Reveals Relapse After Decades of Sobriety: ‘Recovery Is a Longlong Process’
+- ‘Zootopia 2’ Gets Digital and Physical Release Dates
+- How to Watch Rams vs. Seahawks NFC Championship Game Online
+- More
+- Inside Ellen DeGeneres and Portia de Rossi's Quiet New Life in England
+- Sister Wives' Meri Brown Details Toughest Part of Fertility Struggle
+- Taylor Swift & Travis Kelce's Moms Make Rare Joint Appearance
+- See Hilary Duff's Daughters Adorably Cheer Her on During Concert
+- Heated Rivalry's Hudson Williams & Connor Storrie Carry Olympic Torch
+- Kim Vo, Celebrity Hairstylist, Dead at 55
+- Prince Harry & Meghan Markle Make 1st Appearance at Sundance Festival
+- More
+- Rams-Seahawks Game Preempted By ‘Everybody Hates Chris’ Rerun
+- Stephen Miller Rings In Weekend By Cracking Open Cold Cadaver
+- Diana Chin and Tim Galchot
+- Artist Profile: A$AP Rocky
+- Entire French Populace Moved To Tears By Cartoon Of Robot Holding Flower
+- Onus Of Giving Parents Grandchildren Placed On Least Fucked-Up Sibling
+- ‘House Burping’ Gains Popularity In U.S
+- More
+- Family Are Shocked They’re Not Invited To Gay Son’s Extravagant Wedding: “You Disowned Me”
+- “The Government Doesn’t Care About Us”: Alex Pretti’s Parents Learned His Fate From A Reporter
+- 132 Photos Of Snowy Places That Look Straight Out Of A Fairytale
+- A Knight Of The Seven Kingdoms: Every Targaryen Actor And Where We’ve Seen Them Before
+- These Comics Show What Happens When Your Co-Workers Are Also Your Family (18 Pics)
+- Woman Leaves Family Vacation After Learning MIL Excluded Her Kids Only, Gets Accused Of Ruining It
+- Servers Are Sharing Customer Horror Stories And These 40 Are True Nightmares
+- More
+- No. 2 UConn seeks to maintain unblemished Big East mark vs. Providence
+- Seahawks' Sam Darnold Jokes About Super Bowl Appearance With 49ers, Talks 2018 QB Draft Class Feat
+- Dez Bryant Shares Text Promising DeMarcus Lawrence a Rolex If Seahawks Reached NFL Super Bowl 60
+- Davante Adams Reflects on 'Heartbreak' After Rams Eliminated by Seahawks in NFC Title Game
+- Sam Darnold Reflects on 'Seeing Ghosts' Remark in 2019 Patriots Game After Seahawks Reach Super Bowl
+- Sam Darnold's Contract Incentives for Seahawks Reaching NFL Super Bowl 60 Revealed
+- McVay Responds to Question About Stafford's Rams Future, 'What the Hell Kind of Question Is That?'
+- More
+- Transfer rumors, news: Man City eye Real Madrid's Alexander-Arnold
+- Darnold 'shut a lot of people up,' Macdonald says
+- Stafford mum on future as Rams left reeling in loss
+- Is defeating Madison Keys the breakthrough Jessica Pegula needed?
+- My first bet for Super Bowl LX: Back Seattle's offense in a high-scoring matchup
+- Super Bowl LX: Odds, trends, past winners and MVPs
+- Darnold, Seahawks outlast Rams to reach SB
+- More
+- Wait… Travis Scott Is in 'The Odyssey'?
+- Glasses Were the Coolest Accessory at Paris Men’s Fashion Week
+- Inside a Menswear Legend’s Last Dance at Hermès
+- You Don’t Need To Lift Heavy Weights To Build Bigger Muscles
+- It Actually Takes a Lot Longer Than You'd Think to Lose Muscle From Not Working Out
+- Zone 2 Training: Why Long, Easy Workouts Became the Biggest Thing in Fitness
+- You’re Probably Not Getting Enough Fiber: Add These 5 High-Fiber Foods to Your Plate
+- More
+- The Moment Doesn’t Take Charli XCX Seriously, & Neither Should We
+- Tea Scents Are 2026’s Next Big Fragrance Trend
+- Why Is No One Talking About This Drugstore Skin Tint Stick?
+- Spoil Your Favorite People With These Luxury Valentine’s Day Gifts
+- 17 Perfect Valentine’s Day Manicures, From Cat Eye To Polka Dots
+- The Ordinary’s New Milky Moisturizer Is For Everyone, But My Dry Skin Loves It Most
+- The Very Best Beauty Products Worth Your Money In 2026
+- More
+- Spoiler alert: Masked man is not time traveler 'stuck in 2055'
+- Posts claim man once jumped into LA's tar pits to save dog. They're misleading
+- 16 rumors involving Denmark, investigated
+- Would the SAVE Act require a birth certificate to vote and prevent married women from voting? What we know
+- Did former special counsel Jack Smith release all his files on Trump? Here's the truth
+- Did Denmark sell 'Epstein island' to the US in 1917?
+- 20 claims about videos and images related to ICE, investigated
+- More
+- TikTok broke in its first weekend with US ownership
+- Creators and communities everywhere take a stand against ICE
+- It doesn’t matter if Alex Pretti had a gun
+- Trusting your phone to Abxylute’s mobile controller requires a big leap of faith
+- Why won’t anyone stop ICE from masking?
+- Sony’s first clip earbuds don’t quite hit the mark
+- The great e-bike crackdown has begun
+- More
+- The best kitchen gadgets for 2026
+- How to watch the 2026 Super Bowl: Patriots vs. Seahawks channel, where to stream and more
+- Outside Parties is the creepiest Playdate game yet, and I'm kind of obsessed
+- Microsoft releases second emergency Windows 11 update to fix Outlook crashes
+- Apple reportedly plans to reveal its Gemini-powered Siri in February
+- Yoshi and Birdo arrive in new trailer for The Super Mario Galaxy Movie, along with an earlier release date
+- Report reveals that OpenAI's GPT-5.2 model cites Grokipedia
+- More
+- Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5
+- Why Minnesota Can't Do More to Stop ICE
+- No One Is Quite Sure Why Ice Is Slippery
+- Phonak Audeo Infinio Ultra Sphere Review: Premium Hearing Aids
+- How Long Should You Cold Plunge? We Asked Experts (2026)
+- The Lego Pokémon Line Shows Toys Are Only for Rich Adults Now
+- Bambu P1S Combo Review: Clean, Fast, 3D Printing
+- More
+- Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and…
+- Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in…
+- A deep dive into Apple's AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a…
+- A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like…
+- Power prices surge in Virginia, home to the world's largest data center hub; record demand is expected during the winter…
+- A deep dive into Apple's AI strategy reset, as it prepares to announce a Gemini-powered personalized Siri next month and a…
+- EquipmentShare, which runs a jobsite tech and equipment rental platform for the construction industry, raised $747.3M in its…
+- More
+- Filming ICE is legal but exposes you to digital tracking
+- Apple, What Have You Done?
+- UK House of Lords Votes to Extend Age Verification to VPNs
+- The Holy Grail of Linux Binary Compatibility: Musl and Dlopen
+[LINK: The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242?ref=upstract.com)
+- The Browser Is the Sandbox
+- Iran's internet blackout may become permanent, with access for elites only
+- Running the Stupid Cricut Software on Linux
+- More
+- Is Google Prioritizing YouTube and X Over News Publishers on Discover?
+- Startup Uses SpaceX Tech to Cool Data Centers With Less Power and No Water
+- New Linux/Android 2-in-1 Tablet 'Open Slate' Announced by Brax Technologies
+- KDE's 'Plasma Login Manager' Stops Supporting FreeBSD - Because Systemd
+- Washington State May Mandate 'Firearm Blueprint Detection Algorithms' For 3D Printers
+- Google Discover Replaces News Headlines With Sometimes Inaccurate AI-Generated Alternatives
+- Gasoline Out of Thin Air? It's a Reality!
+- More
+- It's Been Two Decades Since The First 'Diabeetus' Meme Appeared Online
+- Five Years Ago, Zoomers Replaced The Laughing Emoji With The Skull Emoji
+- Awesome, That's What It's Called
+- Who Is 'Lacari' And Why Is He Banned From Twitch And Kick? The Shocking 'Notepad Leak Incident' Explained
+- People Are Falling Into The 'AI Yelling Food' Video Hole And Learning A Few Things In The Process
+- Donald Trump's Push To Acquire Greenland Sets Off Flurry Of Memes Online
+- Trump's 'Board Of Peace' Charter Signed, Invoking Memes About Its Villainous Members
+- More
+- Daily Morning Awesomeness
+- GIFs that kept GIF-ing all damn week
+- You Laugh, You lose. That’s the Challenge!
+- Weekend Afternoon Randomness
+- More Things You’ve Heard a Bunch of Times That Aren’t Actually True At All
+- Best Photos of the Week!
+- Bottoms Up for The Triple-B!
+- More
+- MTG Marvel Super Heroes Commander deck leaks suggest more to come
+- Old School Runescape ignored the rules for 25 years — and it's not even close to dead yet
+- What time does Grounded 2's Toxic Tangle winter update release in your time zone?
+- Mappa and Netflix should adapt Absolute Batman into anime
+- What are Kenny's Born in Chaos quests in Fortnite?
+- All character locations in Fortnite Chapter 7 Season 1
+- MTG's most frustrating Commander has the bleakest survival story
+- More
+- The AirPods Pro 3 Are $50 Off Right Now
+- The GoPro Max2 Is $100 Off Right Now
+- Google's AI-Generated Headlines Are Here to Stay
+- Google Chrome Is About to Drop Support for These Macs
+- How to Survive a Massive Winter Storm
+- 10 Shows Like 'Landman' You Should Should Watch Next
+- Tesla Has Dropped This Basic Autopilot Feature, Forcing US Drivers Into Subscriptions
+- More
+- First, Make Me Care, by Gwern · Gwern.net
+- Native macOS Tab Bar with Split Panes for SwiftUI
+- Introduction to PostgreSQL Indexes | Hacker News
+- State Terror Has Arrived - The New York Times
+- Some C habits I employ for the modern day | Hacker News
+- Thariq on X: "We’re turning Todos into Tasks in Claude Code" / X
+- Gas Town's agent patterns, design bottlenecks, and vibecoding at scale | Hacker News
+- More
+- Doctective
+- iPhotron
+- APX Terminal
+- Liquid Timer v2
+- HeyTraders
+- Pola Browser
+- Cue
+- More
+- 27 Stylish Pieces You’ll Want If You’re Trying To Dress Less Boring
+- Spend $5K Decorating A Bedroom And I'll Guess If Your EXACT Birth Date
+- "My Wife Has Shocked Me In The Last Couple Of Years": 12 Stories By People Whose Friends And Family Unexpectedly Shifted To…
+- 25 Products That’ll Take Your Kitchen From Clutter City To Tidy Town
+- Reviewers Over 50 Simply Can’t Stop Raving About These 35 Magical Beauty Products
+- 31 Items So Dang Useful, You’ll Wish You Never Lived Without Them
+- 26 Products That’ll Make People Think You Live A Luxe Life, But Really You’re Just Good At Buying Nice-Looking Inexpensive…
+- More
+- How to maintain your composure
+- Thicker than blood
+- Computers can’t surprise
+- Sandcastles
+- No, willpower isn’t a muscle – here’s a better way to think of it
+- Dreams of the far Right
+- The immortality paradox
+- Try everything twice
+- The mudlark
+- More
+- 20+ Moments That Prove Quiet Kindness Is the Only Language Everyone Speaks
+- My Neighbor Refused to Help My Autistic Son, She Wasn’t Ready for My Revenge
+- 12 Stories That Capture the Sweet and Sour Memories of Blended Families
+- I Refused to Fire a Soon-to-Be-Mother and End Her Career Just Because I Am in HR
+- 18 Moments That Remind Us Kindness Takes Minutes but Stays Forever
+- My Parents Wanted a ‘Family Vacation’ on My Budget—I Made One Move They Didn’t Expect
+- 16 Moments That Show Kindness and Empathy Stay Warm in a Cold World
+- More
+Disasters and accidents
+- Sinking of MV Trisha Kerstin 3 At least 15 people are killed, 316 others are rescued and 28 are reported missing when a ROPAX ferry sinks near Basilan , Philippines . (AP via CNN)
+- At least 15 people are killed, 316 others are rescued and 28 are reported missing when a ROPAX ferry sinks near Basilan , Philippines . (AP via CNN)
+Armed conflicts and attacks
+- Gaza war Three Palestinians are killed by Israeli forces in two separate incidents in the Gaza Strip . (Reuters)
+- Three Palestinians are killed by Israeli forces in two separate incidents in the Gaza Strip . (Reuters)
+- Mexican drug war Eleven people are killed and 12 more injured in a mass shooting during a football match in Salamanca , Guanajuato , Mexico . ( Proceso )
+- Eleven people are killed and 12 more injured in a mass shooting during a football match in Salamanca , Guanajuato , Mexico . ( Proceso )
+Disasters and accidents
+- January 2026 North American winter storm In the United States over a million are left without power across the south with 10,000 flights cancelled due to the winter storm . (AP) (Al Jazeera) A Bombardier Challenger 650 carrying eight people crashes at Bangor International Airport in Maine , United States , during winter weather conditions. (CNN)
+- In the United States over a million are left without power across the south with 10,000 flights cancelled due to the winter storm . (AP) (Al Jazeera)
+- A Bombardier Challenger 650 carrying eight people crashes at Bangor International Airport in Maine , United States , during winter weather conditions. (CNN)
+- The death toll from the recent landslide in West Java , Indonesia , increases to 25 with 72 people still missing and believed to be buried under tonnes of mud, rocks and uprooted trees. (Sky News) (AP)
+- A merchant ship rescues one migrant in the Mediterranean Sea after a boat departing from Tunisia sinks, while authorities report that about 50 others are missing and presumed dead and transfer the survivor to Malta for medical treatment. (Reuters)
+- At least 72 people are injured when a lightning strike hits Jair Bolsonaro supporters during a march in Brasília , Brazil . (Times Now)
+Health and environment
+- Thailand launches its first effort to reintroduce endangered Indo-Pacific leopard shark s into the wild by releasing captive-bred juveniles near the Phuket province . (Reuters)
+International relations
+- Brazil–Mexico relations , Mexico–Peru relations Brazil assumes responsibility for representing Mexico 's diplomatic interests in Peru , including safeguarding the Mexican embassy in Lima , after Peru severed relations with Mexico following the granting of asylum to former prime minister Betssy Chávez . (Reuters)
+- Brazil assumes responsibility for representing Mexico 's diplomatic interests in Peru , including safeguarding the Mexican embassy in Lima , after Peru severed relations with Mexico following the granting of asylum to former prime minister Betssy Chávez . (Reuters)
+Law and crime
+- Embargo of Russian oil during the Russo-Ukrainian war French authorities place the Indian captain of an oil tanker intercepted by the French Navy in the Mediterranean Sea under questioning on suspicion of breaching sanctions on Russian oil shipments, while prosecutors open a preliminary inquiry after the vessel arrives at anchorage near Marseille and its crew remains aboard. (AP)
+- French authorities place the Indian captain of an oil tanker intercepted by the French Navy in the Mediterranean Sea under questioning on suspicion of breaching sanctions on Russian oil shipments, while prosecutors open a preliminary inquiry after the vessel arrives at anchorage near Marseille and its crew remains aboard. (AP)
+- Three gunmen open fire and throw grenade s in an ambush against a convoy carrying the mayor of Shariff Aguak , Maguindanao del Sur , Philippines , injuring two security forces. The perpetrators are later killed in a shootout with security forces. ( Sunstar )
+Politics and elections
+- 2025–26 Myanmar general election Citizens of Myanmar vote in the third and final phase to elect the nation's bicameral legislature . (AP) (Al Jazeera)
+- Citizens of Myanmar vote in the third and final phase to elect the nation's bicameral legislature . (AP) (Al Jazeera)
+January 26 : Australia Day ; Laba Festival in China (2026); Republic Day in India
+- 1841 – Commodore Gordon Bremer took formal possession of Hong Kong Island for the United Kingdom at Possession Point .
+- 1926 – Oliver Hutchinson (pictured) appeared on television in inventor John Logie Baird 's first successful demonstration of using the technology to show humans.
+- 1972 – JAT Flight 367 exploded in mid-air over Czechoslovakia; the only survivor of the 28 on board, flight attendant Vesna Vulović , fell 10,160 m (33,330 ft), setting the record for surviving the highest fall without a parachute.
+- 1991 – Somali Rebellion : Factions led by the warlord Mohamed Farrah Aidid and his rebel group, the United Somali Congress , ousted President Siad Barre .
+- 2001 – An earthquake in the Indian state of Gujarat killed at least 13,000 people, injured 167,000 others and destroyed nearly 400,000 homes.
+
+--------------------

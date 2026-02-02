@@ -1,0 +1,84 @@
+# Amara
+**URL:** https://amara.org
+**Page Title:** Video Subtitling, Captioning and Subtitle Translation Editor & Services - Amara Subtitling
+--------------------
+
+
+## Easily Add Subtitles to Your Videos Online
+
+## Subtitle Editor
+
+### Create video captions and subtitles, individually or as a team, using the online Amara Editor.
+
+## Subtitle Service
+
+### Order from our professional subtitle service, Amara On Demand.
+
+## Amara Subtitle Editor
+
+## Create and Edit Subtitles Online
+
+### The multi-award winning Amara Editor , a cloud-based do-it-yourself solution with state of the art subtitling features, is the heart of the Amara subtitling platform.
+
+### The multi-award winning Amara Editor, a cloud-based do-it-yourself solution with state of the art subtitling features, is the heart of the Amara subtitling platform.
+
+### Whether you work by yourself, as part of a team, manage a group of volunteers or external vendors, the Amara Editor combined with project and team management tools can help you to coordinate subtitle projects of all sizes.
+
+## Features
+
+Amara Editor – Easy to Learn and Use
+Caption, subtitle, translate and review work all within the multi-award winning Amara Editor. Use state of the art subtitling features like audio waveforms, adjustable playback speed, efficient short-cuts, and notes for easy communication.
+Workflows – Flexible and Customizable
+Manage the quality and consistency of your subtitling output by defining your own process. Amara provides customizable workflows for review and final approval of subtitles.
+Team Management Tools – Powerful and Intuitive
+Designate roles to your team members to define permissions. Managers can oversee workforce and projects, while linguists can find and complete tasks.
+Import and Export Subtitles Seamlessly
+The Amara Enterprise Platform is integrated with YouTube, Vimeo, and other video hosting sites for easy import and export of subtitles. The platform can also manage syncing for your localized metadata and video titles.
+API – Robust and Reliable
+Use the Amara API to save time by automating workflows and subtitling assignments. With the API, Amara’s functionality can be integrated into any existing system to customize workflows even more. Check out the Amara API documentation
+[LINK: Check out the Amara API documentation](https://apidocs.amara.org/)
+
+## Amara On Demand
+
+## Order Professional Subtitles, Captions, and Text Translations
+
+- Affordable, high-quality subtitles
+- Multiple formats and delivery options
+- 50+ languages - and more upon request
+- Committed to capturing the tone and meaning of your content
+
+### Our professional team will work with you to understand and meet your subtitling needs.
+
+### Amara’s 2,500+ passionate, professional linguists ensure your caption and translation needs are entrusted to native speakers.
+
+## PCF's mission
+
+## Building a More Inclusive Media Ecosystem
+
+### Amara is a project of the Participatory Culture Foundation (PCF), a nonprofit working to build a more inclusive media ecosystem since 2006.  We are driven to ensure that life-enriching content is available to everyone, whether or not they can hear or understand the language of the video.  By using Amara Services, volunteering to subtitle a video, or donating — you are helping to accomplish this mission.
+
+## Our Awards
+
+### The Tech Awards
+
+The Tech Awards is a program of The Tech Museum of Innovation wherein innovators are recognized for technological contributions which benefit the greatest number of people.
+
+### The FCC Chairman's AAA
+
+The Chairman's Awards for Advancement in Accessibility is an FCC program recognizing products, services, standards and other innovative developments that improve the experience of people with disabilities.
+
+### The UNAOC Intercultural Innovation Award
+
+The United Nations Alliance of Civilizations and the BMW Group aims to select and support the most innovative grassroots projects that encourage intercultural dialogue and cooperation around the world.
+
+## Join Our Growing Number of
+
+## Happy Customers
+
+## Our website uses cookies
+
+We use third-party analytical softwares to gather statistical information about our website visitors.
+These cookies are required for Amara to work properly and cannot be switched off. They include session informations and preference settings. Amara doesn’t share this data with any third-party providers.
+Amara is using GoogleAnalytics, Microsoft Clarity and Hubspot as analytic cookies. These cookies allow us to gather data about website visits, traffic sources and user journeys. We use this data to review and improve Amara for our users. You can block these cookies and then we will not be able to collect data during your visit.
+
+--------------------

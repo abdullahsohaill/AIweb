@@ -1,0 +1,136 @@
+# Node.js
+**URL:** https://nodejs.org/en/docs
+**Page Title:** Index | Node.js v25.5.0 Documentation
+--------------------
+
+[LINK: Skip to content](#apicontent)
+- About this documentation
+- Usage and example
+- Assertion testing
+- Asynchronous context tracking
+- Async hooks
+- Buffer
+- C++ addons
+- C/C++ addons with Node-API
+[LINK: C/C++ addons with Node-API](n-api.html)
+- C++ embedder API
+- Child processes
+- Cluster
+- Command-line options
+- Console
+- Crypto
+- Debugger
+- Deprecated APIs
+- Diagnostics Channel
+- DNS
+- Domain
+- Environment Variables
+- Errors
+- Events
+- File system
+- Globals
+- HTTP
+- HTTP/2
+- HTTPS
+- Inspector
+- Internationalization
+- Modules: CommonJS modules
+- Modules: ECMAScript modules
+- Modules: node:module API
+- Modules: Packages
+- Modules: TypeScript
+- Net
+- Path
+- Performance hooks
+- Permissions
+- Process
+- Punycode
+- Query strings
+- Readline
+- REPL
+- Report
+- Single executable applications
+- SQLite
+- Stream
+- String decoder
+- Test runner
+- Timers
+- TLS/SSL
+- Trace events
+- TTY
+- UDP/datagram
+- URL
+- Utilities
+- WASI
+- Web Crypto API
+- Web Streams API
+- Worker threads
+- Zlib
+- Code repository and issue tracker
+[LINK: Code repository and issue tracker](https://github.com/nodejs/node)
+- About this documentation
+- Usage and example
+- Assertion testing
+- Asynchronous context tracking
+- Async hooks
+- Buffer
+- C++ addons
+- C/C++ addons with Node-API
+[LINK: C/C++ addons with Node-API](n-api.html)
+- C++ embedder API
+- Child processes
+- Cluster
+- Command-line options
+- Console
+- Crypto
+- Debugger
+- Deprecated APIs
+- Diagnostics Channel
+- DNS
+- Domain
+- Environment Variables
+- Errors
+- Events
+- File system
+- Globals
+- HTTP
+- HTTP/2
+- HTTPS
+- Inspector
+- Internationalization
+- Modules: CommonJS modules
+- Modules: ECMAScript modules
+- Modules: node:module API
+- Modules: Packages
+- Modules: TypeScript
+- Net
+- Path
+- Performance hooks
+- Permissions
+- Process
+- Punycode
+- Query strings
+- Readline
+- REPL
+- Report
+- Single executable applications
+- SQLite
+- Stream
+- String decoder
+- Test runner
+- Timers
+- TLS/SSL
+- Trace events
+- TTY
+- UDP/datagram
+- URL
+- Utilities
+- WASI
+- Web Crypto API
+- Web Streams API
+- Worker threads
+- Zlib
+- Code repository and issue tracker
+[LINK: Code repository and issue tracker](https://github.com/nodejs/node)
+
+--------------------

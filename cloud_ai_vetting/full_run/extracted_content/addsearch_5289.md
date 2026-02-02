@@ -1,0 +1,204 @@
+# AddSearch
+**URL:** https://www.addsearch.com
+**Page Title:** AI Site Search & Recommendations Software - AddSearch
+--------------------
+
+- Consent
+- Details
+- [#IABV2SETTINGS#]
+- About
+- Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. Addsearch 2 Learn more about this provider elementor Used in context with the website's WordPress theme. The cookie allows the website owner to implement or change the website's content in real-time. Maximum Storage Duration : Persistent Type : HTML Local Storage wpEmojiSettingsSupports This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings. Maximum Storage Duration : Session Type : HTML Local Storage Cloudflare 1 Learn more about this provider cf.turnstile.u This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage Cookiebot 2 Learn more about this provider CookieConsent [x2] Stores the user's cookie consent state for the current domain Maximum Storage Duration : 1 year Type : HTTP Cookie Google 3 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Used to check if the user's browser supports cookies. Maximum Storage Duration : 1 day Type : HTTP Cookie rc::a This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : Persistent Type : HTML Local Storage rc::c This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage HubSpot 2 Learn more about this provider __hmpl Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products. Maximum Storage Duration : Session Type : HTML Local Storage HUBLYTICS_EVENTS_53 Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maximum Storage Duration : Session Type : HTML Local Storage LinkedIn 1 Learn more about this provider li_gc Stores the user's cookie consent state for the current domain Maximum Storage Duration : 180 days Type : HTTP Cookie addsearch.com hubapi.com t.co vimeo.com 6 __cf_bm [x6] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 1 day Type : HTTP Cookie challenges.cloudflare.com hsforms.com vimeo.com 4 _cfuvid [x4] This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. Maximum Storage Duration : Session Type : HTTP Cookie
+- Addsearch 2 Learn more about this provider elementor Used in context with the website's WordPress theme. The cookie allows the website owner to implement or change the website's content in real-time. Maximum Storage Duration : Persistent Type : HTML Local Storage wpEmojiSettingsSupports This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings. Maximum Storage Duration : Session Type : HTML Local Storage
+- Cloudflare 1 Learn more about this provider cf.turnstile.u This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Persistent Type : HTML Local Storage
+- Cookiebot 2 Learn more about this provider CookieConsent [x2] Stores the user's cookie consent state for the current domain Maximum Storage Duration : 1 year Type : HTTP Cookie
+- Google 3 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. test_cookie Used to check if the user's browser supports cookies. Maximum Storage Duration : 1 day Type : HTTP Cookie rc::a This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : Persistent Type : HTML Local Storage rc::c This cookie is used to distinguish between humans and bots. Maximum Storage Duration : Session Type : HTML Local Storage
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- HubSpot 2 Learn more about this provider __hmpl Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products. Maximum Storage Duration : Session Type : HTML Local Storage HUBLYTICS_EVENTS_53 Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maximum Storage Duration : Session Type : HTML Local Storage
+- LinkedIn 1 Learn more about this provider li_gc Stores the user's cookie consent state for the current domain Maximum Storage Duration : 180 days Type : HTTP Cookie
+- addsearch.com hubapi.com t.co vimeo.com 6 __cf_bm [x6] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- challenges.cloudflare.com hsforms.com vimeo.com 4 _cfuvid [x4] This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. Maximum Storage Duration : Session Type : HTTP Cookie
+- Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. HubSpot 1 Learn more about this provider messagesUtk Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. Maximum Storage Duration : 180 days Type : HTTP Cookie LinkedIn 1 Learn more about this provider lidc Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. Maximum Storage Duration : 1 day Type : HTTP Cookie Vimeo 2 Learn more about this provider player Saves the user's preferences when playing embedded videos from Vimeo. Maximum Storage Duration : 1 year Type : HTTP Cookie sync_active Contains data on visitor's video-content preferences - This allows the website to remember parameters such as preferred volume or video quality. The service is provided by Vimeo.com. Maximum Storage Duration : Persistent Type : HTML Local Storage
+- HubSpot 1 Learn more about this provider messagesUtk Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. Maximum Storage Duration : 180 days Type : HTTP Cookie
+- LinkedIn 1 Learn more about this provider lidc Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. Maximum Storage Duration : 1 day Type : HTTP Cookie
+- Vimeo 2 Learn more about this provider player Saves the user's preferences when playing embedded videos from Vimeo. Maximum Storage Duration : 1 year Type : HTTP Cookie sync_active Contains data on visitor's video-content preferences - This allows the website to remember parameters such as preferred volume or video quality. The service is provided by Vimeo.com. Maximum Storage Duration : Persistent Type : HTML Local Storage
+- Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. Google 2 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _ga Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 2 years Type : HTTP Cookie _ga_# Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Maximum Storage Duration : 2 years Type : HTTP Cookie HubSpot 4 Learn more about this provider __hssc Identifies if the cookie data needs to be updated in the visitor's browser. Maximum Storage Duration : 1 day Type : HTTP Cookie __hssrc Used to recognise the visitor's browser upon reentry on the website. Maximum Storage Duration : Session Type : HTTP Cookie __hstc Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie hubspotutk Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie Twitter Inc. 1 Learn more about this provider personalization_id This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile. Maximum Storage Duration : 400 days Type : HTTP Cookie Vimeo 1 Learn more about this provider vuid Collects data on the user's visits to the website, such as which pages have been read. Maximum Storage Duration : 2 years Type : HTTP Cookie
+- Google 2 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _ga Registers a unique ID that is used to generate statistical data on how the visitor uses the website. Maximum Storage Duration : 2 years Type : HTTP Cookie _ga_# Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. Maximum Storage Duration : 2 years Type : HTTP Cookie
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- HubSpot 4 Learn more about this provider __hssc Identifies if the cookie data needs to be updated in the visitor's browser. Maximum Storage Duration : 1 day Type : HTTP Cookie __hssrc Used to recognise the visitor's browser upon reentry on the website. Maximum Storage Duration : Session Type : HTTP Cookie __hstc Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie hubspotutk Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. Maximum Storage Duration : 180 days Type : HTTP Cookie
+- Twitter Inc. 1 Learn more about this provider personalization_id This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile. Maximum Storage Duration : 400 days Type : HTTP Cookie
+- Vimeo 1 Learn more about this provider vuid Collects data on the user's visits to the website, such as which pages have been read. Maximum Storage Duration : 2 years Type : HTTP Cookie
+- Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. Meta Platforms, Inc. 4 Learn more about this provider _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maximum Storage Duration : 3 months Type : HTTP Cookie lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage log/error Used to detect and log potential tracking errors. Maximum Storage Duration : Session Type : Pixel Tracker Google 5 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maximum Storage Duration : 3 months Type : HTTP Cookie IDE Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. Maximum Storage Duration : 400 days Type : HTTP Cookie pagead/1p-conversion/#/ Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Session Type : Pixel Tracker pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maximum Storage Duration : Session Type : Pixel Tracker _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Persistent Type : HTML Local Storage HubSpot 1 Learn more about this provider __ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : Session Type : Pixel Tracker LinkedIn 1 Learn more about this provider bcookie Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 year Type : HTTP Cookie Microsoft 7 Learn more about this provider _uetsid Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maximum Storage Duration : 1 day Type : HTTP Cookie _uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie _uetsid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetsid_exp Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetvid_exp Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage MUID Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains. Maximum Storage Duration : 1 year Type : HTTP Cookie Quora 1 Learn more about this provider _/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Maximum Storage Duration : Session Type : Pixel Tracker Reddit 3 Learn more about this provider _rdt_uuid [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 3 months Type : HTTP Cookie rp.gif Necessary for the implementation of the Reddit.com's share-button function. Maximum Storage Duration : Session Type : Pixel Tracker Twitter Inc. 3 Learn more about this provider i/adsct [x2] The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through Twitter advertisement content. Maximum Storage Duration : Session Type : Pixel Tracker muc_ads Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Maximum Storage Duration : 400 days Type : HTTP Cookie YouTube 17 Learn more about this provider __Secure-ROLLOUT_TOKEN Used to track user’s interaction with embedded content. Maximum Storage Duration : 180 days Type : HTTP Cookie __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTTP Cookie __Secure-YNID Pending Maximum Storage Duration : 180 days Type : HTTP Cookie LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maximum Storage Duration : Session Type : HTTP Cookie LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maximum Storage Duration : Session Type : HTTP Cookie TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maximum Storage Duration : 1 day Type : HTTP Cookie VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maximum Storage Duration : 180 days Type : HTTP Cookie YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maximum Storage Duration : Session Type : HTTP Cookie YtIdbMeta#databases Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage sc.lfeeder.com 5 _lfa Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : 1 year Type : HTTP Cookie _lfa_test_cookie_stored [x2] Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Session Type : HTTP Cookie _lfa Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Persistent Type : HTML Local Storage _lfa_expiry Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage tr-rc.lfeeder.com 1 [empty name] Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes. Maximum Storage Duration : Session Type : Pixel Tracker
+- Meta Platforms, Inc. 4 Learn more about this provider _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maximum Storage Duration : 3 months Type : HTTP Cookie lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maximum Storage Duration : Persistent Type : HTML Local Storage log/error Used to detect and log potential tracking errors. Maximum Storage Duration : Session Type : Pixel Tracker
+- Google 5 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maximum Storage Duration : 3 months Type : HTTP Cookie IDE Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. Maximum Storage Duration : 400 days Type : HTTP Cookie pagead/1p-conversion/#/ Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Session Type : Pixel Tracker pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maximum Storage Duration : Session Type : Pixel Tracker _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maximum Storage Duration : Persistent Type : HTML Local Storage
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- HubSpot 1 Learn more about this provider __ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels. Maximum Storage Duration : Session Type : Pixel Tracker
+- LinkedIn 1 Learn more about this provider bcookie Used by the social networking service, LinkedIn, for tracking the use of embedded services. Maximum Storage Duration : 1 year Type : HTTP Cookie
+- Microsoft 7 Learn more about this provider _uetsid Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maximum Storage Duration : 1 day Type : HTTP Cookie _uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 1 year Type : HTTP Cookie _uetsid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetsid_exp Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetvid Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : Persistent Type : HTML Local Storage _uetvid_exp Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage MUID Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains. Maximum Storage Duration : 1 year Type : HTTP Cookie
+- Quora 1 Learn more about this provider _/ad/75aa344edeef4dbfa3b3dd7cb5f40e6f/pixel Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Maximum Storage Duration : Session Type : Pixel Tracker
+- Reddit 3 Learn more about this provider _rdt_uuid [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maximum Storage Duration : 3 months Type : HTTP Cookie rp.gif Necessary for the implementation of the Reddit.com's share-button function. Maximum Storage Duration : Session Type : Pixel Tracker
+- Twitter Inc. 3 Learn more about this provider i/adsct [x2] The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through Twitter advertisement content. Maximum Storage Duration : Session Type : Pixel Tracker muc_ads Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. Maximum Storage Duration : 400 days Type : HTTP Cookie
+- YouTube 17 Learn more about this provider __Secure-ROLLOUT_TOKEN Used to track user’s interaction with embedded content. Maximum Storage Duration : 180 days Type : HTTP Cookie __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTTP Cookie __Secure-YNID Pending Maximum Storage Duration : 180 days Type : HTTP Cookie LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maximum Storage Duration : Session Type : HTTP Cookie LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maximum Storage Duration : Session Type : HTTP Cookie TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maximum Storage Duration : 1 day Type : HTTP Cookie VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maximum Storage Duration : 180 days Type : HTTP Cookie YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maximum Storage Duration : Session Type : HTTP Cookie YtIdbMeta#databases Used to track user’s interaction with embedded content. Maximum Storage Duration : Persistent Type : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Persistent Type : HTML Local Storage yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maximum Storage Duration : Session Type : HTML Local Storage
+- sc.lfeeder.com 5 _lfa Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : 1 year Type : HTTP Cookie _lfa_test_cookie_stored [x2] Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Session Type : HTTP Cookie _lfa Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes. Maximum Storage Duration : Persistent Type : HTML Local Storage _lfa_expiry Contains the expiry-date for the cookie with corresponding name. Maximum Storage Duration : Persistent Type : HTML Local Storage
+- tr-rc.lfeeder.com 1 [empty name] Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes. Maximum Storage Duration : Session Type : Pixel Tracker
+- Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. Google 1 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. g_state Pending Maximum Storage Duration : 180 days Type : HTTP Cookie Livestorm 1 Learn more about this provider themeAndMode Pending Maximum Storage Duration : Persistent Type : HTML Local Storage app.addsearch.com js-eu1.hubspot.com 2 hs-cta-interactions#cta [x2] Pending Maximum Storage Duration : Persistent Type : IndexedDB
+- Google 1 Learn more about this provider Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. g_state Pending Maximum Storage Duration : 180 days Type : HTTP Cookie
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+- Livestorm 1 Learn more about this provider themeAndMode Pending Maximum Storage Duration : Persistent Type : HTML Local Storage
+- app.addsearch.com js-eu1.hubspot.com 2 hs-cta-interactions#cta [x2] Pending Maximum Storage Duration : Persistent Type : IndexedDB
+
+## AI Search That Combines Instant Answers With Powerful Search Results. Live in Days.
+
+Drive accurate content and product discovery with fewer clicks. Optimize your internal search function for speed, typos, synonyms, recommendations, rankings, and more!
+Search Solutions Built for Websites of All Sizes
+- 1,800+ companies trust AddSearch’s AI-powered site search.
+- Full search implementation with technical support.
+- Fast setup for any CMS using our Crawler or API.
+
+## Grow Your Sales and Customer Satisfaction
+
+Better search functionality and user experience mean more conversions and loyalty. Make it easier for customers to find, buy and return to your website.
+Our custom search solution helps brands reap the following benefits:
+
+### Gain Insights into User Search Behavior
+
+Get a deeper understanding of how users navigate your site (without cookies). Find out what terms they use, the pages they visit, and the behaviors that shape their journey or spark engagement.
+
+### Deliver Faster Content and Product Discovery
+
+Transform how users interact with your site and help visitors find relevant content without having to dig through irrelevant results.
+
+### Stay Ahead of the Competition
+
+Companies can’t afford to lose customers due to poor search. Smart search features convert 216% more customers, yet only 15% of companies optimize for it. Outperform competitors by giving users the answers they need, right on your site.
+
+### Lower Support and Helpdesk Pressure
+
+Improve customer self-service by reducing the pressure on your helpdesk and inbox. Empower customers to answer their own questions through easy-to-find information.
+Understands user intent with support for synonyms and smart matching.
+Refine results by categories, content types, or custom metadata.
+Smart AI-generated summaries based on your content
+Tailored results based on relevance, user behavior and customizable ranking rules.
+
+## Enterprise Search, Fully Tailored to Your Needs
+
+AddSearch is a trusted vendor. We keep your data secure and compliant while you scale.
+
+## SOC 2 Certified for Secure Search
+
+AddSearch is SOC 2 certified, iterating our dedication to data security and privacy. We are committed to providing a top-tier site search solution that prioritizes protecting your valuable data.
+
+## Offering 99.99% Service Uptime
+
+We know uptime is critical, that’s why we deliver unmatched reliability, backed by a stellar 99.99% Service Level Agreements (SLA).
+
+## AddSearch’s Site Search in a Nutshell
+
+Everything you need to build smarter search and discovery.
+
+### Comprehensive Insights
+
+Get insights into website user search behavior with data on keywords, clicks, and click-through rates to better understand and improve search performance.
+
+### Visibility and Ranking Tools
+
+AddSearch leverages AI to identify trending patterns and reorganize search results accordingly. Our extensive set of Ranking Tools ensure that the most popular content is prioritized according to set ranking parameters (links, pricing, etc.) to help boost visibility.
+
+### Search Personalization
+
+Tailor individual search results based on user interactions. AddSearch’s personalized search engine reshapes the browsing journey in real-time.
+
+### Auto Synonyms
+
+Powered by OpenAI, our Automated Synonyms are designed to reduce bounce rates. We automatically expand searches with contextually relevant synonyms based on visitor search behavior. Available in 21 languages.
+
+### Smart Recommendations
+
+Our recommendation system is a tool to assist with upselling and content discovery. It helps you personalize site search experiences by providing smart, tailored recommendations that keep visitors engaged.
+
+### Pinned Results
+
+Decide which content appears on top of your site based on keywords. A powerful tool to enforce more visibility to the most important content and products.
+
+### Promotions
+
+Add promotions to your search results to bring spotlight to special offers or important announcements. Promotions appear when selected keywords are used. This feature is fully customizable in design.
+
+## Our Brand-New Standalone Solution: AI Answers
+
+With AI Answers, you can provide direct answers to visitors’ questions in the search input field. This solution can be used independently or as part of your current site search setup. It simply enhances your existing AI-powered site search features by handling more complex, conversational queries at scale.
+
+## Success Stories with Real Results
+
+AddSearch powers better search for businesses of all kinds, from online retailers to universities.
+See how our customers improved UX and increased conversions.
+
+### Nintex Moved from Coveo to AddSearch and Never Looked Back
+
+Nintex switched to AddSearch for a scalable, low-maintenance search solution that empowered their team and improved user experience.
+
+### How Soka University Took Control of Internal Search, No Developers Needed
+
+SUA empowered their internal teams to manage and customize search across multiple sites. No developer support required.
+
+### How ESAB Doubled Click-Through Rates on Key Products
+
+AddSearch’s built-in analytics, enhanced by ESAB’s own Google Analytics setup, gave the team visibility into top-performing search terms, no-result queries, and CTR.
+
+## Our Latest Blog Posts
+
+Stay up to date with search trends, best practices, and more. Our free resources are here to help you learn, grow, and get inspired.
+
+### Introducing AI Conversations: Your Website’s New Conversational Search Experience
+
+### Chatbot vs Conversational AI: Understanding the Evolution of Digital Conversations
+
+### Best Practices to Optimize Conversational AI Search on Your Website
+
+“The recommended search results are detailed and easy to read. The searches are highly accurate and return what the user is looking for.”
+Kirby I , CEO in Legal Services ( verified G2 user )
+
+## Get Started Now With a 14-Day Free Trial
+
+A better site search experience is right at your fingertips. Start understanding and managing your search performance today!
+
+## Frequently Asked Questions (FAQs)
+
+Learn more about site search and our cloud-based solution.
+
+### What is AI-Powered Site Search?
+
+AI-powered site search makes it easier to deliver faster, smarter search experiences. At AddSearch, AI is used to automate systems, reducing the need for manual tuning. Some of these features include Progressive Ranking and Automated Synonyms. However, our new AI Answers solution builds on these technologies to deliver instant answers using existing content.
+
+### How Does AddSearch Implement AI in Solutions?
+
+AddSearch leverages advanced AI technology from OpenAI to power all of our AI-driven features. This enables contextually accurate answers across 30 languages, making global search smarter and more effective. As search continues to evolve, we’re committed to delivering tools that truly transform how users find information.
+
+### How Long Does it Take to Implement AddSearch?
+
+AddSearch provides a custom search implementation that takes usually between 2-4 weeks, depending on the site complexity, how much content the site has and specific search functionalities. You can also sign up to the service yourself and get a search working on your website the same day, by using AddSearch ready-made search widget and easy-to-use search design tools.
+
+### Can AddSearch work with my CMS?
+
+AddSearch works with any CMS, including legacy ones. AddSearch also has native applications on WordPress and Shopify.
+
+### What is Personalized Search, and How Can I Set It Up?
+
+Personalized search customizes search results based on an individual user’s preferences, behavior, and historical interactions. With AddSearch, you can set up a personalized search in a couple of different ways. Just follow the steps on our documentation to get started. Read more .
+[LINK: Read more](https://www.addsearch.com/docs/result-management/implementing-personalization/)
+
+### Does AddSearch Work in My Language?
+
+AddSearch supports websites with more than 30 languages, so it very likely also supports your website. Additionally to the language, AddSearch provides Automated Synonyms Suggestions to ensure your search provides results for different words used in the same language.
+
+### Can I Get Content on Different Platforms Combined into One Search?
+
+Yes, with AddSearch, you can combine content from different websites, CMSs, and platforms. For example, you can have a blog on WordPress, products on Shopify, and customer support pages on another CMS. You can combine everything into one search.
+AddSearch Oy PL 8 FI-02611 Espoo Finland
+info@addsearch.com Corporate ID #: 2545782-4 VAT ID #: FI25457824
+About AddSearch Careers Contact Info Contact Support Product Product Updates Join Agency Partner Program Pricing
+Documentation API reference Webinars Blog Customers Privacy Policy Terms & Conditions
+[LINK: Documentation](https://www.addsearch.com/docs/addsearch-documentation/)
+[LINK: API reference](https://www.addsearch.com/docs/api/)
+Search Index Google Custom Search Autocomplete Search Site Search Statistics Faceted Search Voice Search Search UI Design
+
+--------------------

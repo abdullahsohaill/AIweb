@@ -1,0 +1,61 @@
+# Qwen2.5-3B-Instruct
+**URL:** https://huggingface.co/Qwen/Qwen2.5-3B-Instruct
+**Page Title:** Qwen/Qwen2.5-3B-Instruct · Hugging Face
+--------------------
+
+
+## Qwen2.5-3B-Instruct
+
+## Introduction
+
+Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvements upon Qwen2:
+- Significantly more knowledge and has greatly improved capabilities in coding and mathematics , thanks to our specialized expert models in these domains.
+- Significant improvements in instruction following , generating long texts (over 8K tokens), understanding structured data (e.g, tables), and generating structured outputs especially JSON. More resilient to the diversity of system prompts , enhancing role-play implementation and condition-setting for chatbots.
+- Long-context Support up to 128K tokens and can generate up to 8K tokens.
+- Multilingual support for over 29 languages, including Chinese, English, French, Spanish, Portuguese, German, Italian, Russian, Japanese, Korean, Vietnamese, Thai, Arabic, and more.
+This repo contains the instruction-tuned 3B Qwen2.5 model , which has the following features:
+- Type: Causal Language Models
+- Training Stage: Pretraining & Post-training
+- Architecture: transformers with RoPE, SwiGLU, RMSNorm, Attention QKV bias and tied word embeddings
+- Number of Parameters: 3.09B
+- Number of Paramaters (Non-Embedding): 2.77B
+- Number of Layers: 36
+- Number of Attention Heads (GQA): 16 for Q and 2 for KV
+- Context Length: Full 32,768 tokens and generation 8192 tokens
+For more details, please refer to our blog , GitHub , and Documentation .
+[LINK: blog](https://qwenlm.github.io/blog/qwen2.5/)
+[LINK: GitHub](https://github.com/QwenLM/Qwen2.5)
+[LINK: Documentation](https://qwen.readthedocs.io/en/latest/)
+
+## Requirements
+
+The code of Qwen2.5 has been in the latest Hugging face transformers and we advise you to use the latest version of transformers .
+With transformers<4.37.0 , you will encounter the following error:
+
+## Quickstart
+
+Here provides a code snippet with apply_chat_template to show you how to load the tokenizer and model and how to generate contents.
+
+## Evaluation & Performance
+
+Detailed evaluation results are reported in this 📑 blog .
+[LINK: 📑 blog](https://qwenlm.github.io/blog/qwen2.5/)
+For requirements on GPU memory and the respective throughput, see results here .
+[LINK: here](https://qwen.readthedocs.io/en/latest/benchmark/speed_benchmark.html)
+
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+
+## Model tree for Qwen/Qwen2.5-3B-Instruct
+
+Base model
+
+## Spaces using Qwen/Qwen2.5-3B-Instruct 100
+
+## Collection including Qwen/Qwen2.5-3B-Instruct
+
+## Paper for Qwen/Qwen2.5-3B-Instruct
+
+
+--------------------

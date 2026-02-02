@@ -1,0 +1,34 @@
+# OP.GG
+**URL:** https://op.gg
+**Page Title:** OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats
+--------------------
+
+
+## Stay overpowered with OP.GG for Desktop - your partner in-game!
+
+- Real-time auto rune setting
+Real-time auto rune setting
+- OP champions, team comps, and more
+OP champions, team comps, and more
+- In-game overlay features to help dominate
+In-game overlay features to help dominate
+- Latest meta and recommendations
+Latest meta and recommendations
+
+## LEC 2026
+
+### Standing
+
+- - GX 5W 2L 3
+- - KC 5W 2L 3
+- - FNC 4W 3L 1
+- - Navi 4W 3L 1
+- - VIT 4W 3L 1
+- - MKOI 4W 3L 1
+
+### Schedule
+
+- Preview SHFT 08:45 PM Navi 50.0% Prediction 50.0%
+- Preview TH 09:30 PM KCB 50.0% Prediction 50.0%
+
+--------------------

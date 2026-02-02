@@ -1,0 +1,76 @@
+# LPU™ Inference Engine
+**URL:** https://groq.com
+**Page Title:** Groq is fast, low cost inference.
+--------------------
+
+Inference is Fuel for AI
+
+## Groq delivers fast, low cost inference that doesn’t flake when things get real.
+
+Speed at a winning cost
+
+## The McLaren F1 Team chooses Groq for inference globally.
+
+The Groq LPU
+
+## LPU built for inference, exceptional speed and affordability at scale.
+
+Born for this. Literally.
+
+## To deliver different results, you need a different stack.
+
+## Others rely on GPUs alone. Our edge? Custom silicon.
+
+Groq pioneered the LPU in 2016, the first chip purpose-built for inference. Every design choice focuses on keeping intelligence fast and affordable.
+Benchmarks don’t ship. Workloads do.
+
+## Instant intelligence. Deployed worldwide.
+
+Inference works best when it’s local. Groq’s LPU-based stack runs in data centers across the world to deliver low-latency responses from the most intelligent models.
+The LPU is the cartridge. GroqCloud is the console.
+
+## Devs trust GroqCloud for inference that stays smart, fast and affordable.
+
+### What inference provider are you using or considering using to access models?
+
+Source: Artificial Analysis AI Adoption Survey 2025
+Partnership Spotlight
+
+## The McLaren Formula 1 Team chooses Groq for inference.
+
+The McLaren F1 Team is fueled by decision-making, analysis, development and real-time insights. So the McLaren F1 Team chose Groq.
+Don’t take our word for it.
+
+## Proof from the people shipping.
+
+If we have things where performance matters more, we come to Groq - you deliver real, working solutions, not just buzzwords.
+We optimized our infrastructure to its limits – but the breakthrough came with GroqCloud. Overnight, our chat speed surged 7.41x while costs fell by 89%. I was stunned. So, we tripled our token consumption. We simply can’t get enough.
+Groq has created immense savings and reduced so much overhead for us. We’ve been able to keep costs for our main offerings incredibly low, helping keep our premium plan at a reasonable price for students of all backgrounds.
+If we have things where performance matters more, we come to Groq - you deliver real, working solutions, not just buzzwords.
+We optimized our infrastructure to its limits – but the breakthrough came with GroqCloud. Overnight, our chat speed surged 7.41x while costs fell by 89%. I was stunned. So, we tripled our token consumption. We simply can’t get enough.
+Groq has created immense savings and reduced so much overhead for us. We’ve been able to keep costs for our main offerings incredibly low, helping keep our premium plan at a reasonable price for students of all backgrounds.
+SWITCH FASTER THAN YOU CAN READ THIS.
+
+## OpenAI compatible in just two lines.
+
+News
+
+## Featured
+
+- September 17, 2025 Groq Raises $750 Million as Inference Demand Surges
+
+### Groq Raises $750 Million as Inference Demand Surges
+
+- August 5, 2025 Day Zero Support for OpenAI Open Models
+
+### Day Zero Support for OpenAI Open Models
+
+- May 27, 2025 From Speed to Scale: How Groq Is Optimized for MoE & Other Large Models
+
+### From Speed to Scale: How Groq Is Optimized for MoE & Other Large Models
+
+## Build Fast
+
+Seamlessly integrate Groq starting with just a few lines of code
+
+--------------------

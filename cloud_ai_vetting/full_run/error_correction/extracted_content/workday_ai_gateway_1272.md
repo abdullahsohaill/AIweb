@@ -1,0 +1,59 @@
+# Workday AI Gateway
+**URL:** https://newsroom.workday.com/2023-09-27-Workday-Unveils-New-AI-and-ML-Services-to-Enhance-the-Developer-Experience-and-Power-the-Future-of-Work
+**Page Title:** Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work - Sep 27, 2023
+--------------------
+
+
+## Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work
+
+- Download PDF
+[LINK: Download PDF](https://newsroom.workday.com/2023-09-27-Workday-Unveils-New-AI-and-ML-Services-to-Enhance-the-Developer-Experience-and-Power-the-Future-of-Work?asPDF=1)
+- Share to LinkedIn
+[LINK: Share to LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnewsroom.workday.com%2F2023-09-27-Workday-Unveils-New-AI-and-ML-Services-to-Enhance-the-Developer-Experience-and-Power-the-Future-of-Work&title=See what’s new with Workday.&summary=&source=http%3A%2F%2Fnewsroom.workday.com)
+- Share to Twitter
+[LINK: Share to Twitter](https://twitter.com/share?url=http%3A%2F%2Fnewsroom.workday.com%2F2023-09-27-Workday-Unveils-New-AI-and-ML-Services-to-Enhance-the-Developer-Experience-and-Power-the-Future-of-Work&text=Workday%20Unveils%20New%20AI%20and%20ML%20Services%20to%20Enhance%20the%20Developer%20Experience%20and%20Power%20the%20Future%20of%20Work)
+- Share to Facebook
+[LINK: Share to Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnewsroom.workday.com%2F2023-09-27-Workday-Unveils-New-AI-and-ML-Services-to-Enhance-the-Developer-Experience-and-Power-the-Future-of-Work)
+Native Integration With AWS Empowers Developers to Build Advanced Capabilities in Workday Extend and Innovate Responsibly at Scale
+SAN FRANCISCO , Sept. 27, 2023 / PRNewswire / -- Workday, Inc. (NASDAQ: WDAY), a leader in enterprise cloud applications for finance and human resources , today announced significant enhancements to Workday Extend aimed at improving the developer experience and driving business and IT efficiency and innovation.
+[LINK: human resources](https://www.workday.com/en-us/products/human-capital-management/overview.html)
+These new capabilities are being showcased at Workday Rising , the company's annual customer conference, and include Workday AI Gateway, advanced developer technologies provided by Amazon Web Services (AWS), and a no-code/low-code toolset.
+"At Sun Life, we believe technology plays an integral role in supporting our mission to drive client, business, and employee success," said Eric Chung , director of HR systems management, Sun Life. "With Workday Extend, our developers can build and maintain our own apps in HR, enabling us to support important business needs quickly. And now with Workday AI and ML services, we will further grow our toolbox of capabilities to build new apps faster and with less risk because they're on the Workday platform."
+Ushering in a New Level of Intelligent App Creation With Workday AI Gateway
+Workday Extend helps organizations build customized capabilities, applications, and solutions for finance and people processes. To enable developers to create apps that drive business growth, while continuing to innovate in a secure and responsible way, Workday Extend is opening the power of AI and ML through Workday AI Gateway. Workday AI Gateway will provide developers with access to Workday AI and ML services, with planned services including:
+- Skills Analysis. Leverages Workday Skills Cloud to compare and contrast skills to help developers quickly extract relevant skills from text to continue to grow internal skills and developer capabilities.
+[LINK: Workday Skills Cloud](https://www.workday.com/en-us/products/human-capital-management/skills-cloud.html)
+- Sentiment Analysis. Supports analyzing digital text to determine if the emotional tone of a message is positive, neutral, or negative.
+- Document Intelligence. Leverages Workday's curated ML models to help users extract business-relevant fields from business documents like resumes, receipts, and generic documents.
+- ML Forecaster. Provides developers with a time series forecaster to make seasonal and non-seasonal predictions. The API accepts a list of historical values along with the start date of the historical series and a time horizon for the number of future forecasted intervals and optionally (e.g., seasonality), and responds with predictions for future dates.
+Because AI and ML are embedded in the core of the Workday platform, developers can build and deliver trusted finance and people apps.
+Accelerating Innovation With Advanced Developer Technologies
+To empower developers to accelerate their app innovation, Workday plans to support several AWS AI services natively in Workday Extend to enable developers to create Workday Extend apps with advanced features derived from using these hyperscale innovations.
+In addition to planned offerings of event-processing capabilities powered by Amazon EventBridge, customizable functions using AWS Lambda, and storage with Amazon Simple Storage Service (S3), Workday plans for Workday Extend to support AI services powered by AWS, including Amazon Comprehend, Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment, key phrases, images, videos, and across various languages – to rapidly build customized apps that support their unique and evolving business needs.
+Connectors from Workday Orchestrate to AWS services will enable developers to easily interact with AWS services while remaining protected with Workday security controls.
+Faster App Development With No-Code Building and Generative AI
+To enhance no-code experiences for developers and increase collaboration between the business and IT teams, Workday introduced new capabilities to App Builder, its no-code/low-code web-based developer toolset. These include code generation from data, which enables developers to generate code from a Workday business object using a visual experience; and page builder, which is a planned no-code visual experience that will help developers build full apps with clicks.
+In addition, Workday plans on further enhancing the developer experience with Developer Copilot, a new human-machine teaming capability that will leverage the power of generative AI to support the development lifecycle. Developer Copilot will be natively embedded into App Builder and will provide text-to-code generation capabilities to improve developer productivity and customer time-to-value by turning natural language into app code.
+These innovations will provide Workday Extend business developers with an intuitive, visual experience to create new apps faster while enabling the organization to consolidate systems, adapt to changing business needs, and deliver a more connected experience.
+"Workday Extend is the essential platform enabling customers and partners to build apps that support their unique finance and people needs," said Matt Grippo , general manager, cloud platform, Workday. "Our new Workday AI Gateway and native AWS integration opens the door to a world of new possibilities that allow developers to move fast, accelerate innovation, and deliver deep business value securely and responsibly at scale."
+Availability
+In late 2023, Workday will provide customers with new ways to get started with Workday Extend with the following offerings: Workday Extend Essentials and Workday Extend Professional.
+Workday AI Gateway will be available with Workday Extend Professional. AWS AI services are planned to be available to Workday Extend Professional customers in the first half of 2024. The code generation from data capability for App Builder is currently available as part of Workday Extend. The page builder capability for App Builder is planned to be available to early adopters in the first half of 2024 and generally available later that year.
+Developer Copilot is planned to begin rolling out to Workday Extend customers within the next 6 to 12 months.
+For More Information
+- Read the blog, " Workday DevCon 2023: Building the Future of Work Together ," by Matt Grippo , general manager, cloud platform, Workday.
+- Listen to the podcast, " How Workday and AWS Are Accelerating Innovation ."
+- Register to attend Workday Rising sessions in the digital program: Workday Extend Strategy and Vision: Your Platform for People and Money [PSV2230], Sept. 27 at 11:00am PDT . Workday Experience: Strategy and Vision [PSV2211], Sept. 27 at 12:30pm PDT . Workday AI and Machine Learning: Strategy and Vision [PSV2227], Sept. 27 at 1:45pm PDT .
+- Workday Extend Strategy and Vision: Your Platform for People and Money [PSV2230], Sept. 27 at 11:00am PDT .
+- Workday Experience: Strategy and Vision [PSV2211], Sept. 27 at 12:30pm PDT .
+- Workday AI and Machine Learning: Strategy and Vision [PSV2227], Sept. 27 at 1:45pm PDT .
+About Workday Workday is a leading provider of enterprise cloud applications for finance and human resources , helping customers adapt and thrive in a changing world. Workday applications for financial management, human resources, planning, spend management, and analytics are built with artificial intelligence and machine learning at the core to help organizations around the world embrace the future of work. Workday is used by more than 10,000 organizations around the world and across industries – from medium-sized businesses to more than 50% of the Fortune 500. For more information about Workday, visit workday.com .
+[LINK: human resources](https://www.workday.com/en-us/products/human-capital-management/overview.html)
+© 2023 Workday, Inc. All rights reserved. Workday and the Workday logo are registered trademarks of Workday, Inc. All other brand and product names are trademarks or registered trademarks of their respective holders.
+Forward-Looking Statements This press release contains forward-looking statements including, among other things, statements regarding Workday's plans, beliefs, and expectations. These forward-looking statements are based only on currently available information and our current beliefs, expectations, and assumptions. Because forward-looking statements relate to the future, they are subject to inherent risks, uncertainties, assumptions, and changes in circumstances that are difficult to predict and many of which are outside of our control. If the risks materialize, assumptions prove incorrect, or we experience unexpected changes in circumstances, actual results could differ materially from the results implied by these forward-looking statements, and therefore you should not rely on any forward-looking statements. Risks include, but are not limited to, risks described in our filings with the Securities and Exchange Commission ("SEC"), including our Form 10-Q for the fiscal quarter ended July 31, 2023 , and other reports that we have and will file with the SEC from time to time, which could cause actual results to vary from expectations. Workday assumes no obligation to, and does not currently intend to, update any such forward-looking statements after the date of this release.
+Any unreleased services, features, or functions referenced in this document, our website, or other press releases or public statements that are not currently available are subject to change at Workday's discretion and may not be delivered as planned or at all. Customers who purchase Workday services should make their purchase decisions based upon services, features, and functions that are currently available.
+SOURCE  Workday Inc.
+Subscribe
+Contact Media Relations
+
+--------------------

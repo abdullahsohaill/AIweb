@@ -1,0 +1,69 @@
+# Better BibTeX for Zotero
+**URL:** https://retorque.re/zotero-better-bibtex
+**Page Title:** Better BibTeX for Zotero
+--------------------
+
+
+## Better BibTeX for Zotero
+
+Better BibTeX (BBT) is a plugin for Zotero and Juris-M that makes it easier to manage bibliographic data, especially for people authoring documents using text-based toolchains (e.g. based on LaTeX / Markdown ).
+[LINK: Juris-M](https://juris-m.github.io)
+
+## Features
+
+### Facilities for generating citation keys
+
+- Automatically generate citation keys without key clashes! Generate citation keys that take into account existing keys in your library even when they are not part of the items you export. Prevent random breakage!
+- Generate citation keys based on contents of your items using citekey formulas .
+- Set your own, stable citation keys, drag and drop LaTeX citations, add other custom BibLaTeX fields.
+
+### Conversion between formats and encodings
+
+- Zotero does all its work in UTF-8 Unicode, which is absolutely the right thing to do. Unfortunately, for those shackled
+to BibTeX and who cannot (yet) move to BibLaTeX, unicode is a major PITA. Also, Zotero supports some simple HTML markup
+in your items that Bib(La)TeX won’t understand.
+Zotero does all its work in UTF-8 Unicode, which is absolutely the right thing to do. Unfortunately, for those shackled
+to BibTeX and who cannot (yet) move to BibLaTeX, unicode is a major PITA. Also, Zotero supports some simple HTML markup
+in your items that Bib(La)TeX won’t understand.
+- BBT will convert from/to HTML/LaTeX: <i>...</i> ⇔ \emph{...} / \textit{...} <b>...</b> ⇔ \textbf{...} <sup>...</sup> ⇔ \textsuperscript{...} and <sub>...</sub> ⇔ \textsubscript{...} . More can be added on request. BBT contains a comprehensive list of LaTeX constructs, so stuff like \"{o} or \"o will be converted to their unicode equivalents on import (e.g., \"{o} to ö ), and their unicode equivalents back to \"{o} if you have that option enabled (but you don’t have to if you use BibLaTeX, which has fairly good Unicode support). If you need literal LaTeX in your export: surround it with <script> … </script> (or <pre> … </pre> , which do the same) markers.
+BBT will convert from/to HTML/LaTeX:
+- <i>...</i> ⇔ \emph{...} / \textit{...}
+- <b>...</b> ⇔ \textbf{...}
+- <sup>...</sup> ⇔ \textsuperscript{...} and <sub>...</sub> ⇔ \textsubscript{...} .
+More can be added on request.
+BBT contains a comprehensive list of LaTeX constructs, so stuff like \"{o} or \"o will be converted to their unicode equivalents on import (e.g., \"{o} to ö ), and their unicode equivalents back to \"{o} if you have that option enabled (but you don’t have to if you use BibLaTeX, which has fairly good Unicode support).
+If you need literal LaTeX in your export: surround it with <script> … </script> (or <pre> … </pre> , which do the same) markers.
+
+### Facilities for exporting data from Zotero
+
+- Highly customized exports .
+- Fixes date field exports: export dates like ‘forthcoming’ as ‘forthcoming’ instead of empty, but normalize valid dates
+to unambiguous international format.
+- Auto export of collections or entire libraries when they change.
+- Pull export from the embedded webserver.
+- Automatic journal abbreviation .
+
+## Getting started
+
+To get started, read the installation instructions .
+
+## How does it work ?
+
+At its core, BBT behaves like any Zotero import/export module; anywhere you can export or import bibliography items in Zotero,
+you’ll find Better X listed among the choices.
+If nothing else, you could keep your existing workflow as-is, and just enjoy the improved LaTeX ↔ unicode translation on import and export and more accurate field mapping.
+Better BibTeX works from BibTeXing and Tame the
+BeaST for BibTeX, and The Biblatex Package for BibLaTeX, but
+since there isn’t really a definitive manual for either format that is universally followed by Bib(La)TeX
+editors/processors, I’m pragmatic about implementing what works.
+
+## Got problems? We got fixes!
+
+If you have any questions on BBT’s use, do not hesitate to file a GitHub issue and ask for help.
+[LINK: file a GitHub issue](https://github.com/retorquere/zotero-better-bibtex/issues/new/choose)
+If you’re reporting a bug in BBT, please take a moment to glance through the support request guidelines ; it will make sure I get your problem fixed as quick as possible.
+Clear bug reports commonly have really short time-to-fix, so if you report something, stick around – it may be done as you wait.
+The support request guidelines are very detailed, perhaps to the point of being off-putting, but please do not fret; these guidelines simply express my ideal bug submission.
+I of course prefer very clearly documented issue reports over fuzzy ones, but I prefer fuzzy ones over missed ones.
+
+--------------------

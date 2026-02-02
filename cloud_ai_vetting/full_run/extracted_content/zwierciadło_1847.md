@@ -1,0 +1,19404 @@
+# Zwierciadło
+**URL:** https://zwierciadlo.pl
+**Page Title:** Magazyn Zwierciadło - psychologia, kultura, uroda, moda, trendy
+--------------------
+
+- Zgoda
+- Szczegóły
+- Ustawienia reklam
+- O plikach cookies
+- Gromadzić dane dotyczące Twojej lokalizacji geograficznej z dokładnością nawet do kilku metrów
+- Identyfikować Twoje urządzenie, aktywnie analizując charakteryzującego je zbiory danych (fingerprinting, czyli wirtualny odcisk palca)
+- Niezbędne pliki cookie przyczyniają się do użyteczności strony poprzez umożliwianie podstawowych funkcji takich jak nawigacja na stronie i dostęp do bezpiecznych obszarów strony internetowej. Strona internetowa nie może funkcjonować poprawnie bez tych ciasteczek. Cookiebot 1 Dowiedz się więcej na temat tego dostawcy CookieConsent Stores the user's cookie consent state for the current domain Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP Eyeota 1 Dowiedz się więcej na temat tego dostawcy SERVERID This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP Gemius 1 Dowiedz się więcej na temat tego dostawcy Gtestem This cookie determines whether the browser accepts cookies. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP Google 1 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. test_cookie Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP H&amp;M 1 Dowiedz się więcej na temat tego dostawcy AKA_A2 This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP YouTube 1 Dowiedz się więcej na temat tego dostawcy GPS Used to determine whether the user is logged in on a YouTube account, when watching embedded videos. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP c.go-mpulse.net 1 RT This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. Maksymalny okres przechowywania : 7 dni Rodzaj : Plik cookie HTTP challenges.cloudflare.com truthsocial.com vimeo.com 3 _cfuvid [x3] W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP eurosport.tvn24.pl 6 debug This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.ack Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.inProgress Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.queue Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.reclaimEnd Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.reclaimStart Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML sf16-website-login.neutral.ttwstatic.com sf16-website-login.neutral.tiktokcdn-eu.com 2 msToken [x2] Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML truthsocial.com 1 __cflb Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP truthsocial.com platform.twitter.com vimeo.com 3 __cf_bm [x3] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP zasoby.zwierciadlo.pl truthsocial.com 2 sentryReplaySession [x2] Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML zwierciadlo.pl 4 JSESSIONID Preserves users states across page requests. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP readCookieValue W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP SESS# Preserves users states across page requests. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP testingCookieName W oczekiwaniu Maksymalny okres przechowywania : 400 dni Rodzaj : Plik cookie HTTP
+- Cookiebot 1 Dowiedz się więcej na temat tego dostawcy CookieConsent Stores the user's cookie consent state for the current domain Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP
+- Eyeota 1 Dowiedz się więcej na temat tego dostawcy SERVERID This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- Gemius 1 Dowiedz się więcej na temat tego dostawcy Gtestem This cookie determines whether the browser accepts cookies. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- Google 1 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. test_cookie Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy.
+- H&amp;M 1 Dowiedz się więcej na temat tego dostawcy AKA_A2 This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- YouTube 1 Dowiedz się więcej na temat tego dostawcy GPS Used to determine whether the user is logged in on a YouTube account, when watching embedded videos. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- c.go-mpulse.net 1 RT This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. Maksymalny okres przechowywania : 7 dni Rodzaj : Plik cookie HTTP
+- challenges.cloudflare.com truthsocial.com vimeo.com 3 _cfuvid [x3] W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- eurosport.tvn24.pl 6 debug This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.ack Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.inProgress Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.queue Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.reclaimEnd Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML #.#-#-#-#-#.reclaimStart Used to contain user’s survey and quiz answers in Local Storage. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- sf16-website-login.neutral.ttwstatic.com sf16-website-login.neutral.tiktokcdn-eu.com 2 msToken [x2] Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- truthsocial.com 1 __cflb Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- truthsocial.com platform.twitter.com vimeo.com 3 __cf_bm [x3] This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- zasoby.zwierciadlo.pl truthsocial.com 2 sentryReplaySession [x2] Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- zwierciadlo.pl 4 JSESSIONID Preserves users states across page requests. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP readCookieValue W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP SESS# Preserves users states across page requests. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP testingCookieName W oczekiwaniu Maksymalny okres przechowywania : 400 dni Rodzaj : Plik cookie HTTP
+- Pliki cookie dotyczące preferencji umożliwiają stronie zapamiętanie informacji, które zmieniają wygląd lub funkcjonowanie strony, np. preferowany język lub region, w którym znajduje się użytkownik. eurosport.tvn24.pl 1 loglevel Maintains settings and outputs when using the Developer Tools Console on current session. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- eurosport.tvn24.pl 1 loglevel Maintains settings and outputs when using the Developer Tools Console on current session. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Statystyczne pliki cookie pomagają właścicielem stron internetowych zrozumieć, w jaki sposób różni użytkownicy zachowują się na stronie, gromadząc i zgłaszając anonimowe informacje. Adobe Inc. 15 Dowiedz się więcej na temat tego dostawcy dextp This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP s_cc Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_plt [x2] Registers the website's speed and performance. This function can be used in context with statistics and load-balancing. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_pltp [x2] Stores data on the time spent on the website and its sub-pages, during the current session. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_ac [x3] W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP AMCVS_#AdobeOrg W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP gpv_pn Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP s_ips Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_ppv Saves information on what vertical percentage of a page has been displayed to the user. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_tp Registers if the user has visited or interacted with pages containing pictures or galleries rooting from third-party services. Used to improve website content and make statistical reports for the website. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP p.gif Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli Adocean 1 Dowiedz się więcej na temat tego dostawcy Gtest This cookie determines whether the browser accepts cookies. Maksymalny okres przechowywania : 7 dni Rodzaj : Plik cookie HTTP Blue Billywig 1 Dowiedz się więcej na temat tego dostawcy VMS_SESSION Collects data on visitor interaction with the website's video-content. This data is used to make the website's video-content more relevant towards the visitor. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP Chartbeat 2 Dowiedz się więcej na temat tego dostawcy _cbt [x2] Collects data such as visitors' IP address, geographical location and website navigation - This information is used for internal optimization and statistics for the website's operator. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP Gemius 6 Dowiedz się więcej na temat tego dostawcy Gdyn Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP Gdynp W oczekiwaniu Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP gstorage Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __gfp_64b [x2] Stores data on the time spent on the website and its sub-pages, during the current session. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP __gfp_s_64b Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP Google 3 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. _ga Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP _ga_# Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maksymalny okres przechowywania : 3 miesięcy Rodzaj : Plik cookie HTTP Soundcloud 1 Dowiedz się więcej na temat tego dostawcy number(#) Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML eurosport.tvn24.pl 3 muxData This cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video. Maksymalny okres przechowywania : 20 lat Rodzaj : Plik cookie HTTP NRBA_SESSION Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML com.batch.sessionId W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML ustat.info 1 ustat_# W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP widget.sndcdn.com 1 sc_anonymous_id Used in context with the 3D-view-function on the website. Maksymalny okres przechowywania : 10 lat Rodzaj : Plik cookie HTTP zwierciadlo.pl 1 wtgRates W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Adobe Inc. 15 Dowiedz się więcej na temat tego dostawcy dextp This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP s_cc Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_plt [x2] Registers the website's speed and performance. This function can be used in context with statistics and load-balancing. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_pltp [x2] Stores data on the time spent on the website and its sub-pages, during the current session. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_ac [x3] W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP AMCVS_#AdobeOrg W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP gpv_pn Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP s_ips Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_ppv Saves information on what vertical percentage of a page has been displayed to the user. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP s_tp Registers if the user has visited or interacted with pages containing pictures or galleries rooting from third-party services. Used to improve website content and make statistical reports for the website. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP p.gif Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli
+- Adocean 1 Dowiedz się więcej na temat tego dostawcy Gtest This cookie determines whether the browser accepts cookies. Maksymalny okres przechowywania : 7 dni Rodzaj : Plik cookie HTTP
+- Blue Billywig 1 Dowiedz się więcej na temat tego dostawcy VMS_SESSION Collects data on visitor interaction with the website's video-content. This data is used to make the website's video-content more relevant towards the visitor. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- Chartbeat 2 Dowiedz się więcej na temat tego dostawcy _cbt [x2] Collects data such as visitors' IP address, geographical location and website navigation - This information is used for internal optimization and statistics for the website's operator. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- Gemius 6 Dowiedz się więcej na temat tego dostawcy Gdyn Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP Gdynp W oczekiwaniu Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP gstorage Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __gfp_64b [x2] Stores data on the time spent on the website and its sub-pages, during the current session. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP __gfp_s_64b Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP
+- Google 3 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. _ga Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP _ga_# Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. Maksymalny okres przechowywania : 3 miesięcy Rodzaj : Plik cookie HTTP
+Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy.
+- Soundcloud 1 Dowiedz się więcej na temat tego dostawcy number(#) Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- eurosport.tvn24.pl 3 muxData This cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video. Maksymalny okres przechowywania : 20 lat Rodzaj : Plik cookie HTTP NRBA_SESSION Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML com.batch.sessionId W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- ustat.info 1 ustat_# W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP
+- widget.sndcdn.com 1 sc_anonymous_id Used in context with the 3D-view-function on the website. Maksymalny okres przechowywania : 10 lat Rodzaj : Plik cookie HTTP
+- zwierciadlo.pl 1 wtgRates W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Marketingowe pliki cookie stosowane są w celu śledzenia użytkowników na stronach internetowych. Celem jest wyświetlanie reklam, które są istotne i interesujące dla poszczególnych użytkowników i tym samym bardziej cenne dla wydawców i reklamodawców strony trzeciej. Meta Platforms, Inc. 3 Dowiedz się więcej na temat tego dostawcy lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maksymalny okres przechowywania : 3 miesięcy Rodzaj : Plik cookie HTTP Adform 2 Dowiedz się więcej na temat tego dostawcy C Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : 1 miesiąc Rodzaj : Plik cookie HTTP uid Registers a unique user ID that recognises the user's browser when visiting websites that use the same ad network. The purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads. Maksymalny okres przechowywania : 2 miesięcy Rodzaj : Plik cookie HTTP Adobe Inc. 10 Dowiedz się więcej na temat tego dostawcy _dp This cookie is set by the audience manager of a website in order to determine if any additional third-party cookies can be set in the visitor’s browser – third-party cookies are used to gather information or track visitor behavior on multiple websites. Third-party cookies are set by a third-party website or company. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP demdex Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP dpm Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP ibs:dpid=771dpuuid=google_error=15 W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli TEST_AMCV_COOKIE Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP TEST_AMCV_COOKIE_WRITE [x2] Determines whether the user has accepted the cookie consent box. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP everest_g_v2 Used for targeted ads and to document efficacy of each individual ad. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP everest_session_v2 Used for targeted ads and to document efficacy of each individual ad. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP AMCV_# Unique user ID that recognizes the user on returning visits Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP Adocean 2 Dowiedz się więcej na temat tego dostawcy _ao_chints W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML GAD Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP Cloudflare 1 Dowiedz się więcej na temat tego dostawcy cf.turnstile.u This cookie is used to distinguish between humans and bots. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML Gemius 1 Dowiedz się więcej na temat tego dostawcy receive-cookie-deprecation Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP Google 6 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. activity# W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli IDE W oczekiwaniu Maksymalny okres przechowywania : 400 dni Rodzaj : Plik cookie HTTP pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli pagead/gen_204 Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli csi Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML Spotify 2 Dowiedz się więcej na temat tego dostawcy sp_landing Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP sp_t Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP TikTok 3 Dowiedz się więcej na temat tego dostawcy ttwid Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP __tt_embed__mounting Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML __tt_embed__storage_test Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML Twitter Inc. 1 Dowiedz się więcej na temat tego dostawcy i/jot/embeds Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli YouTube 21 Dowiedz się więcej na temat tego dostawcy __Secure-ROLLOUT_TOKEN Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP __Secure-YNID W oczekiwaniu Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB nextId Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP requests Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP ServiceWorkerLogsDatabase#SWHealthLog Necessary for the implementation and functionality of YouTube video-content on the website. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP yt-icons-last-purged W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML YtIdbMeta#databases Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML eurosport.tvn24.pl 9 _boomr_akamaiXhrRetry Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML st Contains an visitor ID - This is used to track visitors' navigation and interaction on the website for internal website-optimization. Maksymalny okres przechowywania : 10 lat Rodzaj : Plik cookie HTTP s_ecid Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP BatchWebPush#BatchKVCustomData W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB BatchWebPush#BatchKVData W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB eurosport_user_timezone W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP playerVolumePreference W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML _uid Enables the visitor to share content from the website onto social media platforms or websites. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP _batch_ui_native_prompt_dismissed W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML get.optad360.io 1 ad-block W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML lightning.warnermediacdn.com 2 __tld__ [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP sf16-website-login.neutral.tiktokcdn-eu.com 7 __tea_cache_first_# Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __tea_cache_tokens_# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __tea_sdk_ab_version_# Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML PUMBAA_FREQ Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML SLARDARtiktok_web_embed Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML xmsi Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML xmst Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML sf16-website-login.neutral.ttwstatic.com 1 __tea_session_id_# Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML tiktokw.eu sf16-website-login.neutral.ttwstatic.com 2 msToken [x2] Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. Maksymalny okres przechowywania : 10 dni Rodzaj : Plik cookie HTTP tvn24.pl 2 eurosport_country_code W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP eurosport_is_eu W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP zasoby.zwierciadlo.pl 5 ES|#|EVENT|# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|GLOBAL_SEQ_NUM W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|INSTALLATION_ID W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|SEQ_NUM|# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|STORAGE_ID W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Meta Platforms, Inc. 3 Dowiedz się więcej na temat tego dostawcy lastExternalReferrer Detects how the user reached the website by registering their last URL-address. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. Maksymalny okres przechowywania : 3 miesięcy Rodzaj : Plik cookie HTTP
+- Adform 2 Dowiedz się więcej na temat tego dostawcy C Used to check if the user's browser supports cookies. Maksymalny okres przechowywania : 1 miesiąc Rodzaj : Plik cookie HTTP uid Registers a unique user ID that recognises the user's browser when visiting websites that use the same ad network. The purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads. Maksymalny okres przechowywania : 2 miesięcy Rodzaj : Plik cookie HTTP
+- Adobe Inc. 10 Dowiedz się więcej na temat tego dostawcy _dp This cookie is set by the audience manager of a website in order to determine if any additional third-party cookies can be set in the visitor’s browser – third-party cookies are used to gather information or track visitor behavior on multiple websites. Third-party cookies are set by a third-party website or company. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP demdex Via a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP dpm Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP ibs:dpid=771dpuuid=google_error=15 W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli TEST_AMCV_COOKIE Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP TEST_AMCV_COOKIE_WRITE [x2] Determines whether the user has accepted the cookie consent box. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP everest_g_v2 Used for targeted ads and to document efficacy of each individual ad. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP everest_session_v2 Used for targeted ads and to document efficacy of each individual ad. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP AMCV_# Unique user ID that recognizes the user on returning visits Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP
+- Adocean 2 Dowiedz się więcej na temat tego dostawcy _ao_chints W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML GAD Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP
+- Cloudflare 1 Dowiedz się więcej na temat tego dostawcy cf.turnstile.u This cookie is used to distinguish between humans and bots. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Gemius 1 Dowiedz się więcej na temat tego dostawcy receive-cookie-deprecation Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. Maksymalny okres przechowywania : 13 miesięcy Rodzaj : Plik cookie HTTP
+- Google 6 Dowiedz się więcej na temat tego dostawcy Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy. activity# W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli IDE W oczekiwaniu Maksymalny okres przechowywania : 400 dni Rodzaj : Plik cookie HTTP pagead/1p-user-list/# Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli pagead/gen_204 Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli csi Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli _gcl_ls Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+Niektóre dane gromadzone przez tego dostawcę służą do personalizacji i pomiaru skuteczności reklamy.
+- Spotify 2 Dowiedz się więcej na temat tego dostawcy sp_landing Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP sp_t Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP
+- TikTok 3 Dowiedz się więcej na temat tego dostawcy ttwid Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP __tt_embed__mounting Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML __tt_embed__storage_test Registers data on the performance of the website’s embedded video-content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- Twitter Inc. 1 Dowiedz się więcej na temat tego dostawcy i/jot/embeds Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : Sesyjne Rodzaj : Śledzenie pikseli
+- YouTube 21 Dowiedz się więcej na temat tego dostawcy __Secure-ROLLOUT_TOKEN Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP __Secure-YEC Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP __Secure-YNID W oczekiwaniu Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP LAST_RESULT_ENTRY_KEY Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP LogsDatabaseV2:V#||LogsRequestsStore Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB nextId Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP remote_sid Necessary for the implementation and functionality of YouTube video-content on the website. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP requests Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP ServiceWorkerLogsDatabase#SWHealthLog Necessary for the implementation and functionality of YouTube video-content on the website. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB TESTCOOKIESENABLED Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP VISITOR_INFO1_LIVE Tries to estimate the users' bandwidth on pages with integrated YouTube videos. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP YSC Registers a unique ID to keep statistics of what videos from YouTube the user has seen. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP yt-icons-last-purged W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML YtIdbMeta#databases Used to track user’s interaction with embedded content. Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB yt-remote-cast-available Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-cast-installed Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-connected-devices Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML yt-remote-device-id Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML yt-remote-fast-check-period Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-session-app Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML yt-remote-session-name Stores the user's video player preferences using embedded YouTube video Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- eurosport.tvn24.pl 9 _boomr_akamaiXhrRetry Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML st Contains an visitor ID - This is used to track visitors' navigation and interaction on the website for internal website-optimization. Maksymalny okres przechowywania : 10 lat Rodzaj : Plik cookie HTTP s_ecid Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. Maksymalny okres przechowywania : 2 lat Rodzaj : Plik cookie HTTP BatchWebPush#BatchKVCustomData W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB BatchWebPush#BatchKVData W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : IndexedDB eurosport_user_timezone W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP playerVolumePreference W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML _uid Enables the visitor to share content from the website onto social media platforms or websites. Maksymalny okres przechowywania : 180 dni Rodzaj : Plik cookie HTTP _batch_ui_native_prompt_dismissed W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- get.optad360.io 1 ad-block W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- lightning.warnermediacdn.com 2 __tld__ [x2] Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- sf16-website-login.neutral.tiktokcdn-eu.com 7 __tea_cache_first_# Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __tea_cache_tokens_# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML __tea_sdk_ab_version_# Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML PUMBAA_FREQ Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML SLARDARtiktok_web_embed Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML xmsi Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML xmst Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- sf16-website-login.neutral.ttwstatic.com 1 __tea_session_id_# Used by the social networking service, TikTok, for tracking the use of embedded services. Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- tiktokw.eu sf16-website-login.neutral.ttwstatic.com 2 msToken [x2] Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. Maksymalny okres przechowywania : 10 dni Rodzaj : Plik cookie HTTP
+- tvn24.pl 2 eurosport_country_code W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP eurosport_is_eu W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- zasoby.zwierciadlo.pl 5 ES|#|EVENT|# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|GLOBAL_SEQ_NUM W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|INSTALLATION_ID W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|SEQ_NUM|# W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML ES|#|STORAGE_ID W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- Nieklasyfikowane pliki cookie, to pliki, które są w procesie klasyfikowania, wraz z dostawcami poszczególnych ciasteczek. eurosport.tvn24.pl 5 wmConfigCacheStart-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagConfigEtag-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagConfig-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagResults-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagUserId-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML lightning.warnermediacdn.com 2 psm%3Atest W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP PsmCoppaPrivacyMode W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP onnetwork.tv 2 nd1778 W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP nv61313 W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP sf16-website-login.neutral.tiktokcdn-eu.com 1 HYBRID_SLARDAR_WEBtiktok_pns_web_runtime W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML truthsocial.com 2 truth:auth W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML truth:cf-confirmed W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML tvn24.pl 1 zephyr_is_cmp_enabled W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- eurosport.tvn24.pl 5 wmConfigCacheStart-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagConfigEtag-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagConfig-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagResults-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML wmFeatureFlagUserId-psmFFClient-EUROSPORT-eurosport.tvn24.pl W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- lightning.warnermediacdn.com 2 psm%3Atest W oczekiwaniu Maksymalny okres przechowywania : 1 rok Rodzaj : Plik cookie HTTP PsmCoppaPrivacyMode W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- onnetwork.tv 2 nd1778 W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP nv61313 W oczekiwaniu Maksymalny okres przechowywania : 1 dzień Rodzaj : Plik cookie HTTP
+- sf16-website-login.neutral.tiktokcdn-eu.com 1 HYBRID_SLARDAR_WEBtiktok_pns_web_runtime W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML
+- truthsocial.com 2 truth:auth W oczekiwaniu Maksymalny okres przechowywania : Stałe Rodzaj : Lokalny magazyn HTML truth:cf-confirmed W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Lokalny magazyn HTML
+- tvn24.pl 1 zephyr_is_cmp_enabled W oczekiwaniu Maksymalny okres przechowywania : Sesyjne Rodzaj : Plik cookie HTTP
+- Większość celów, o których mowa w niniejszym powiadomieniu, wiąże się z przechowywaniem lub uzyskiwaniem dostępu do informacji z Twojego urządzenia użytkownika, gdy korzystasz z aplikacji lub odwiedzasz witrynę internetową. Na przykład dostawca lub wydawca mogą umieścić pliki cookie na Twoim urządzeniu, gdy po raz pierwszy odwiedzasz witrynę internetową. Chodzi o możliwość rozpoznania urządzenia podczas kolejnych wizyt (w ramach każdorazowego dostępu do określonych plików cookie).
+Dostawca 773
+- Producent samochodów chce promować swoje pojazdy elektryczne wśród świadomych ekologicznie użytkowników żyjących w mieście, po godzinach pracy. Reklama wyświetla się na stronie z powiązaną treścią (np. w związku z artykułem na temat działań dotyczacych zmian klimatycznych) po godzinie 18:30. Jest widoczna dla użytkowników, których nieprecyzyjna lokalizacja wskazuje na to, że znajdują się w strefie miejskiej.
+- Duży producent akwareli chce przeprowadzić kampanię reklamową online dotyczącą najnowszej gamy oferowanego asortymentu. Zależy mu na dywersyfikacji odbiorców i chce dotrzeć do jak największej liczby amatorów malarstwa i profesjonalnych artystów. Wolałby, aby reklama nie pojawiała się obok niedopasowanych treści, na przykład przy artykule dotyczacym tego, jak pomalowac dom. Wykrywana jest liczba wyświetleń reklamy. Podlega ona ograniczeniom, tak aby użytkownik nie oglądał jej zbyt często.
+Dostawca 730
+- Jeśli przeczytałeś kilka artykułów o najlepszych akcesoriach rowerowych do kupienia, to informacja ta może zostać wykorzystana do stworzenia profilu o Tobie odnośnie do faktu, iż interesują Cię akcesoria rowerowe. Takiego profilu można użyć lub poprawić go później, w tej samej lub w innej witrynie bądź w aplikacji. Wszystko po to, żeby pokazać Ci reklamę konkretnej marki akcesoriów rowerowych. Jeśli spojrzysz również na konfigurator wyposażenia pojazdu  w witrynie producenta samochodów luksusowych, informacja ta może zostać powiązania z tym, że interesujesz się rowerami. Rzecz w tym, aby udoskonalić Twój profil  w oparciu o założenie, że interesujesz się luksusowym sprzętem rowerowy.
+- Firma odzieżowa chce wypromować nową linię ubrań dziecięcych najwyższej klasy. Nawiązuje kontakt z agencją, która obsługuje sieć sklepów odwiedzanych przez zamożnych klientów (np. eleganckich supermarketów). Firma odzieżowa prosi agencję o utworzenie profili młodych rodziców lub par, które prawdopodobnie są zamożne i mają od niedawna dzieci. Profile te mają być później wykorzystane do wyświetlania odpowiednich reklam w aplikacjach partnerów przeznaczonych dla młodych par.
+Dostawca 590
+- Sklep internetowy chce reklamować ograniczoną czasowo wyprzedaż butów do biegania. Sklep pragnie kierować reklamy do użytkowników, którzy wcześniej oglądali buty do biegania w aplikacji mobilnej. Technologie śledzące mogą być wykorzystywane do rozpoznawania, czy użytkownik wcześniej korzystał z aplikacji mobilnej do przeglądania butów do biegania. Chodzi o pokazanie odpowiednich reklam w aplikacji./ po to aby wyswietlic tobie odpowiednie technologie
+- Profil utworzony z myślą o spersonalizowanej reklamie w odniesieniu do osoby, która szuka akcesoriów rowerowych w witrynie internetowej, może zostać wykorzystany do wyświetlania odpowiedniej reklamy takich akcesoriów w aplikacji mobilnej innej organizacji.
+Dostawca 592
+- Przeczytałeś kilka artykułów na platformie mediów społecznościowych o tym, jak zbudować domek na drzewie. Informacje te mogą zostać dodane do Twojego profilu, aby oznaczyć Twoje zainteresowanie treściami związanymi z aktywnością na świeżym powietrzu oraz przewodnikami dla samouków (chodzi o umożliwienie personalizacji treści, tak aby na przykład w przyszłości wyświetlało Ci się więcej postów na blogach i artykułów na temat domków na drzewach czy drewnianych chatek w lesie).
+- Obejrzałeś trzy filmy na temat eksploracji przestrzeni kosmicznej w różnych aplikacjach telewizyjnych. Niezależna platforma informacyjna, z którą nie miałeś jeszcze do czynienia, tworzy profil oparty na dotychczasowych treściach przeglądanych przez Ciebie. Oznacza zatem eksplorację przestrzeni kosmicznej jako temat, który może Ci się wydać nteresujący w innych materiałach wideo.
+Dostawca 264
+- Czytasz artykuły na temat wegetarianizmu na pewnej platformie mediów społecznościowych. Następnie zaczynasz korzystać z aplikacji kulinarnej niezależnej firmy. Profil utworzony na Twój temat na platformie mediów społecznościowych będzie wykorzystywany do prezentowania Ci przepisów wegetariańskich na ekranie powitalnym aplikacji kulinarnej.
+- Obejrzałeś trzy filmy o wioślarstwie w różnych witrynach internetowych. Niezależna platforma udostępniająca materiały wideo zarekomenduje Ci  pięć innych filmów na temat wioślarstwa, które mogą Cię zainteresować podczas korzystania z aplikacji telewizyjnej – w oparciu o profil utworzony na Twój temat po odwiedzeniu przez Ciebie wspomnianych wcześniej witryn internetowych w celu obejrzenia filmów online.
+Dostawca 235
+- Kliknąłeś reklamę dotyczącą rabatów Black Friday oferowanych przez sklep internetowy na witrynie internetowej wydawcy i dokonałeś zakupu produktu. Twoje kliknięcie zostanie powiązane z tym zakupem. Dokonany zostanie pomiar Twojej interakcji celem sprawdzenia, ile kliknięć reklamy doprowadziło do zakupu.
+- Jesteś jedną z niewielu osób, które kliknęły reklamę dotyczącą zniżki z okazji „międzynarodowego dnia uznania”, oferowanej przez sklep internetowy z prezentami w aplikacji wydawcy. Wydawca chce uzyskać odpowiednie raporty, aby dowiedzieć się, jak często Ty lub inni użytkownicy oglądali konkretne reklamy w aplikacji, a w szczególności tę dotyczącą „międzynarodowego dnia uznania”. Rzecz w tym, aby pomóc wydawcy i jego partnerom (np. agencjom) w optymalizacji lokowania reklam.
+Dostawca 845
+- Przeczytałeś wpis na blogu o pieszej turystyce w aplikacji mobilnej wydawcy, po czym skorzystałeś z linku do polecanego i powiązanego postu. Twoja reakcja zostanie zarejestrowana, gdyż pozwala sądzić, że początkowy post dotyczący pieszych wędrówek był przydatny i udało się zainteresować Cię powiązanym postem. Odpowiednie wskaźniki zostaną zmierzone, aby dowiedzieć się, czy w przyszłości tworzyć więcej postów na temat pieszych wędrówek i gdzie je umieszczać na ekranie głównym aplikacji mobilnej.
+- Został Ci zaprezentowany materiał wideo o trendach modowych, ale przestałeś go oglądać po 30 sekundach. Ta informacja pozwala określić prawidłową długości przyszłych filmów o trendach modowych.
+Dostawca 403
+- Właściciel księgarni internetowej chce, aby raporty handlowe pokazywały odsetek odwiedzających, którzy odwiedzili witrynę i opuścili ją, nic nie kupiwszy, osób, które odwiedziły witrynę i kupiły ostatnią autobiografię celebryty miesiąca, jak również średni wiek i rozkład dystrybucji poszczególnych kategorii wśród kobiet i mężczyzn. Dane związane z nawigacją przez Ciebie po witrynie i Twoimi cechami osobistymi są następnie wykorzystywane i łączone z innymi odpowiednimi informacjami w celu wygenerowania wspomnianych statystyk.
+- Reklamodawca chce lepiej poznać preferencje odbiorców, którzy wchodzą w interakcje z jego reklamami. Zleca więc instytutowi badawczemu porównanie cech charakterystycznych użytkowników, którzy zareagowali na reklamę z typowymi atrybutami użytkowników podobnych platform na różnych urządzeniach. Wypracowane porównanie uświadamia reklamodawcy, że odbiorcy jego reklam uzyskują do nich dostęp głównie za pośrednictwem urządzeń mobilnych i są to zwykle osoby w wieku od 45 do 60 lat.
+Dostawca 545
+- Platforma technologiczna współpracująca z dostawcą mediów społecznościowych zauważa wzrost liczby użytkowników aplikacji mobilnych i wyciąga wniosek – na podstawie profili użytkowników – że wielu z nich korzysta z połączeń mobilnych. Decyduje się na skorzystanie z nowej technologii dostarczania reklam sformatowanych specjalnie pod kątem urządzeń mobilnych. Są to reklamy o niskiej przepustowości, a jednocześnie bardzo wysokiej efektywności.
+- Reklamodawca poszukuje nowej metody wyświetlania reklam na nowym typie urządzenia konsumenckiego. W związku z tym gromadzi informacje dotyczące sposobów interakcji użytkowników z nowym urządzeniem. Chciałby dowiedzieć się, czy może zbudować nowy mechanizm wyświetlania reklam na urządzeniu tego rodzaju.
+Dostawca 633
+- Magazyn podróżniczy opublikował w swojej witrynie internetowej artykuł na temat nowych kursów online prowadzonych przez szkołę językową, ukierunkowanych na ułatwianie komunikacji w czasie podróży. Wpisy na blogu szkoły są umieszczane bezpośrednio w dolnej części strony. Dobiera się je na podstawie Twojej nieprecyzyjnej lokalizacji  (na przykład wpisy na blogu wyjaśniające program kursów dotyczących języków innych niż język kraju, w którym się znajdujesz).
+- Aplikacja mobilna z wiadomościami sportowymi zaczęła publikować nową serię artykułów na temat ostatnich meczów piłkarskich. W każdym artykule są filmy (dostarczane przez niezależną platformę streamingową) z najciekawszymi fragmentami poszczególnych meczów. Jeżeli użytkownik przyspieszy jakiś film, może to oznaczać, że następny prezentowany materiał wideo powinien być krótszy.
+Dostawca 172
+- Pośrednik reklamowy dostarcza reklamy różnych reklamodawców do swojej sieci witryn partnerskich. Zauważa duży wzrost liczby kliknięć reklam odnoszących się do jednego reklamodawcy. Na podstawie danych dotyczących źródła kliknięć dochodzi do wniosku, że 80% kliknięć pochodzi od botów, a nie od ludzi.
+- Kliknięcie łącza w artykule zwykle kieruje użytkownika na inną stronę lub część artykułu. Aby to osiągnąć, 1) przeglądarka wysyła żądanie na serwer połączony z witryną internetową, 2) serwer odpowiada („oto artykuł, o który prosiłeś”), korzystając z informacji technicznych automatycznie zawartych w żądaniu wysłanym przez urządzenie, aby prawidłowo wyświetlić informacje/ilustracje będące częścią żądanego artykułu. Technicznie rzecz biorąc, taka wymiana informacji jest niezbędna do dostarczenia treści wyświetlanych na ekranie.
+- Gdy użytkownik odwiedza witrynę internetową i ma wybór między wyrażeniem zgody lub odmową korzystania z profili w związku z przekazywaniem personalizowanych reklam, decyzja podjęta przez użytkownika w tym zakresie zostaje zapisana i przekazana dostawcom reklam, tak aby prezentowane reklamy były z nią zgodne.
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 3 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 31 dni
+- Consent expiry: 5 lat 1 dzień
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 90 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 90 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 393 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Non-precise location data
+- 365 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 400 dni
+- Consent expiry: 2 lat 1 dzień
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+9 Dots Media Ltd
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 360 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 3650 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 3650 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- 60 dni
+- Tracking method: Cookies only
+- Show details
+Accenture Song Brand Germany GmbH
+- Dostarczanie i prezentowanie reklam i treści
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 720 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+AccountInsight Ltd
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Acxiom
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Probabilistic identifiers
+- User-provided data
+- Privacy choices
+- 1 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 395 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- 395 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 393 dni
+- Consent expiry: 1 rok 30 dni 16 hours 30 minutes
+- Tracking method: Cookies and others
+- Show details
+adbility media GmbH
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+[LINK: https://docs.google.com/document/d/e/2PACX-1vQ2Hz0ETjEy-3B1KAdhFlh8weUp_SrzQ894uiA495OzEx3_zrQdmBijvP_F2UQM0i_NjPAX-b7gZirv/pub](https://docs.google.com/document/d/e/2PACX-1vQ2Hz0ETjEy-3B1KAdhFlh8weUp_SrzQ894uiA495OzEx3_zrQdmBijvP_F2UQM0i_NjPAX-b7gZirv/pub)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Adelaide Metrics Inc
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Device characteristics
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 90 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 90 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Aderize, Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Device identifiers
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://api.adftech.com.br/privacy](https://api.adftech.com.br/privacy)
+[LINK: https://api.adftech.com.br/legitimate](https://api.adftech.com.br/legitimate)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 30 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 30 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 dzień
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Users’ profiles
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 90 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+Adjust Digital A/S
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 396 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 7 dni
+- Consent expiry: 7 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 3650 dni
+- Consent expiry: 10 lat
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 364 dni 23 hours 59 minutes 58 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 7 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 7 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 12 hours
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Adnami Aps
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device characteristics
+- Privacy choices
+- Consent expiry: 6 minutes
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 30 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 6 lat 295 dni 12 hours 19 minutes 24 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozwój i ulepszanie usług
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 760 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 dni
+- Consent expiry: 120 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 14 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- 360 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 364 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 14 dni
+- Consent expiry: 14 dni
+- Tracking method: Cookies only
+- Show details
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- 1 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 1824 dni)
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 139 dni 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Consent expiry: 300 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 14 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 14 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 14 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 400 dni
+- Tracking method: Cookies and others
+- Show details
+Adssets AB
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Consent expiry: 1 rok 364 dni 4 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 93 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 93 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 730 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 7 dni
+- Consent expiry: 1 dzień
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 361 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści (Okres przechowywania danych: 363 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 355 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device identifiers
+- 60 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 60 dni)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 dni
+- Consent expiry: 100 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 400 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 730 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 2190 dni
+- Consent expiry: 2 lat 13 hours 20 minutes
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 390 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 15 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 180 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 120 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 120 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 120 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 180 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 365 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 10 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 120 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 360 dni)
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 900 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 900 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 900 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 365 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 365 dni)
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: Sesyjne
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 1824 dni)
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 139 dni 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 420 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 7 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 1825 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 1095 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 1095 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 1095 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: Sesyjne
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 9 lat 355 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 800 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Amplified IntelligenceTechnologies
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 3650 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 180 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- Non-precise location data
+- 30 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Non-precise location data
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 403 dni
+- Consent expiry: 1 rok 38 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 1 rok 35 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 185 dni 4 hours 26 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Device identifiers
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 14 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 14 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 390 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Device identifiers
+- Precise location data
+- 60 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 1095 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 180 dni)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 540 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- IP addresses
+- Non-precise location data
+- 2555 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 14 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 30 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- 60 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 6 hours
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 30 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 45 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1080 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1826 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Users’ profiles
+- Privacy choices
+- 15 dni
+- Consent expiry: 15 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 4320 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 60 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+AUDIOMOB LTD
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 100 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 730 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 730 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 400 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 1096 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 1812 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 1824 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- 1825 dni
+- Consent expiry: 139 dni 22 hours 29 minutes 39 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 14 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 90 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Browsing and interaction data
+- 180 dni
+- Consent expiry: 1 rok 1 dzień
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device identifiers
+- Consent expiry: Sesyjne
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Bannernow, Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 180 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 540 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+BE PIXEL NET LTDA
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 14 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 120 dni
+- Consent expiry: 120 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 397 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 730 dni
+- Consent expiry: 1 rok 6 hours
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 1000 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 1000 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 31 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 60 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 425 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 93 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 60 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 365 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 10 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Users’ profiles
+- Privacy choices
+- 28 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 7 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 60 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- User-provided data
+- 90 dni
+- Consent expiry: Sesyjne
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 88 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 88 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 395 dni
+- Consent expiry: 1 rok 30 dni 16 hours 17 minutes 49 seconds
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Non-precise location data
+- 3650 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 90 dni
+- Consent expiry: 7 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 3650 dni
+- Consent expiry: Sesyjne
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Brame AG
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- User-provided data
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 386 dni
+- Consent expiry: 1 rok 21 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Brandhouse/Subsero A/S
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 360 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 10 lat
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- 1825 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 730 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 400 dni)
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- 7 dni
+- Consent expiry: 1 dzień
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 7 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 7 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Users’ profiles
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 dzień 46 minutes 40 seconds
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 365 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 1095 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 1095 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 365 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 3 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Carbonatix LTD
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Cavai AS
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 730 dni
+- Tracking method: Cookies only
+- Show details
+Channel99, Inc.
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+CHEQ AI TECHNOLOGIES
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- 3650 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- User-provided data
+- 30 dni
+- Consent expiry: 182 dni 12 hours
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 366 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 57 dni 20 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Claritas LLC
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 1 rok 364 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 365 dni)
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 1080 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 365 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 358 dni 19 hours 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 4320 dni
+- Consent expiry: 28 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 547 dni
+- Consent expiry: 182 dni 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 730 dni)
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok 355 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Confiant Inc.
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Consent expiry: 7 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 2 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 15 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 180 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 180 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 730 dni)
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 730 dni)
+- Device identifiers
+- Consent expiry: Sesyjne
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- 30 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 14 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device characteristics
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+Creatopy INC
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 120 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 120 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 120 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 366 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 366 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 186 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 186 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 366 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 92 dni
+- Consent expiry: 1 rok 30 dni 23 hours 59 minutes 50 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1095 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Dando online LTD
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+DataDome SA
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 30 dni
+- Consent expiry: 1 rok 6 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 365 dni
+- Consent expiry: 1 dzień
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 60 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 60 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 31 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 180 dni
+- Consent expiry: 1 rok 182 dni 20 hours 43 minutes 9 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 547 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+Demand Science US, LLC
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 1095 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 1 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 1 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 31 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 21 dni)
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 2 lat 91 dni 19 hours 4 minutes 43 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 356 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 5 lat 1 dzień 5 hours 6 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Device characteristics
+- 360 dni
+- Consent expiry: 1 rok 30 dni 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 6 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok 32 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- 93 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+DoubleVerify Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 45 dni
+- Tracking method: Cookies only
+- Show details
+dpa-infocom GmbH
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Precise location data
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 12 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Browsing and interaction data
+- 700 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Non-precise location data
+- 3 dni
+- Consent expiry: 15 seconds
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 2000 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 29 dni)
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 1095 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 14 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 90 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 60 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 132 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 99 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Ensighten
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 1095 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 730 dni)
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 730 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 3 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 2190 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 2190 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 2190 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 2190 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 2190 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 2190 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 2190 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 2190 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 2190 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 2190 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 dni
+- Consent expiry: 273 dni 18 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 50 dni
+- Consent expiry: 1 rok 1 hour 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 720 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 90 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 60 dni
+- Consent expiry: 14 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 210 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 730 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 182 dni 15 hours 20 minutes
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 1095 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 397 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 730 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Consent expiry: 1 rok 1 dzień
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 7 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Privacy choices
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 183 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 364 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 21 lat 329 dni 10 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 394 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 5 dni)
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 2 lat 12 hours
+- Tracking method: Cookies only
+- Show details
+Frame Advertising Ltd
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+fraud0 GmbH
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 730 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 1825 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- 365 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 548 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 548 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 548 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Precise location data
+- Users’ profiles
+- 395 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 1 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- IP addresses
+- 90 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Authentication-derived identifiers
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 1 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści (Okres przechowywania danych: 1827 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 1827 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1096 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+GeoEdge
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 720 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 3285 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 3285 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 3285 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 37 dni
+- Consent expiry: 1 rok 175 dni 16 minutes 40 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 1 dzień
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 180 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 1095 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 8 lat 80 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 10 lat 2 dni 10 hours 12 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- 31 dni
+- Consent expiry: 31 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 180 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 548 dni
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 300 dni
+- Tracking method: Cookies and others
+- Show details
+Grabit Interactive Media Inc dba KERV Interctive
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- 1825 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 30 dni 16 hours 18 minutes 18 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 395 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 720 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 720 dni)
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 720 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Consent expiry: 5 lat 5 dni 1 second
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 45 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 1095 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 1095 dni)
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 45 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 60 dni
+- Consent expiry: 2 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Privacy choices
+- 45 dni
+- Consent expiry: 4 dni 12 hours
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- Device identifiers
+- Precise location data
+- 394 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+HUMAN
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 1095 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 396 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Consent expiry: 1 rok 8 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Device identifiers
+- 180 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 3650 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Non-precise location data
+- Precise location data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 99 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 60 dni
+- Consent expiry: 1 rok 6 hours
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 8 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 180 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 7 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+illuma technology limited
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 7 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 7 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 7 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 7 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 10 hours 29 minutes 6 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 183 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 90 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 30 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści (Okres przechowywania danych: 180 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 92 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 395 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 10 lat 348 dni 23 hours 59 minutes 57 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 365 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 3 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Intango Ltd
+[LINK: https://docs.google.com/document/d/1-KCPkySw3Lum1Tco8WmyEMr5F9sQV9nQ/edit](https://docs.google.com/document/d/1-KCPkySw3Lum1Tco8WmyEMr5F9sQV9nQ/edit)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+Integral Ad Science (incorporating ADmantX)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 1825 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 7 dni)
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 1825 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1823 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1825 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 765 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 765 dni)
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 40 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 15 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 360 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+IVO Media Ltd
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device identifiers
+- Browsing and interaction data
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 180 dni
+- Tracking method: Cookies and others
+- Show details
+Jetpack Digital LLC
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- 3650 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 45 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Probabilistic identifiers
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 390 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 395 dni
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://developers.kameleoon.com/local-storage.html#list-of-collected-data](https://developers.kameleoon.com/local-storage.html#list-of-collected-data)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+Kidoz Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 92 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 3650 dni
+- Consent expiry: 92 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+Kiosked Ltd
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 14 dni
+- Consent expiry: 13 dni 23 hours 59 minutes 58 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 dni
+- Consent expiry: 120 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 88 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 3 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Browsing and interaction data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1825 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Precise location data
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 390 dni
+- Consent expiry: 1 rok 6 hours 40 minutes
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 365 dni)
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 540 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 1 rok 35 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 2555 dni
+- Consent expiry: 3 lat 1 second
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat 11 hours 38 minutes 24 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 10 lat 2 dni 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 31 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 720 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1095 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 366 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+Lugh Studio
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- 1 dni
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device identifiers
+- 365 dni
+- Consent expiry: 14 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 90 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 390 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 390 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 390 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 31 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 25 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Tracking method: Cookies only
+- Show details
+Madington
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 45 dni
+- Tracking method: Cookies only
+- Show details
+[LINK: https://developers.bluestack.app/privacy-policy](https://developers.bluestack.app/privacy-policy)
+[LINK: https://developers.bluestack.app/privacy-policy](https://developers.bluestack.app/privacy-policy)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 dni
+- Consent expiry: 1 rok 5 hours 48 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Marketing Science Consulting Group, lnc.
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device identifiers
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- 365 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 180 dni)
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 180 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 180 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 180 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 dni
+- Consent expiry: 1 rok 35 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 395 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści (Okres przechowywania danych: 396 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 rok 25 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 368 dni)
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 362 dni)
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 361 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 368 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 365 dni
+- Consent expiry: 364 dni 13 hours 45 minutes 11 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device identifiers
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Probabilistic identifiers
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 6 hours 40 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 364 dni
+- Consent expiry: 364 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- 365 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 123 dni
+- Consent expiry: 62 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok 1 hour 6 minutes 40 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Mirando GmbH & Co KG
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 360 dni
+- Consent expiry: 360 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 2557 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- Precise location data
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- IP addresses
+- Device identifiers
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 1 dzień
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 15 dni 5 hours
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 730 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 150 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 4320 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 730 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1825 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Precise location data
+- Users’ profiles
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 213 dni 16 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 60 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- 365 dni
+- Consent expiry: 1 minutes 30 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 540 dni
+- Consent expiry: 1 rok 175 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 6 dni 2 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 730 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 60 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 120 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 45 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 45 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 45 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Browsing and interaction data
+- Consent expiry: 1 hour
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://cdn.thenewsroom.io/docs/cookies.pdf](https://cdn.thenewsroom.io/docs/cookies.pdf)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Device identifiers
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+NEXD
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- 2920 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- 30 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 30 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 30 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 45 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 396 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 45 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- Consent expiry: 120 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 10 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 10 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 120 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 120 dni)
+- Non-precise location data
+- Consent expiry: 6 lat 295 dni 12 hours 19 minutes 24 seconds
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 180 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 1 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 1096 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 10 dni)
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 1 dni)
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 7 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 390 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- User-provided data
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 90 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Privacy choices
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Users’ profiles
+- Privacy choices
+- 183 dni
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://api.recod3suite.com/privacypolicy.php](https://api.recod3suite.com/privacypolicy.php)
+[LINK: https://api.recod3suite.com/privacypolicy.php](https://api.recod3suite.com/privacypolicy.php)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 1 dni
+- Consent expiry: 1 dzień
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozwój i ulepszanie usług
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 183 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 183 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 400 dni
+- Consent expiry: 183 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- 90 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+OnCore Digital Media
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+One Tech Group GmbH
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Device characteristics
+- Non-precise location data
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 720 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Device identifiers
+- Authentication-derived identifiers
+- 365 dni
+- Consent expiry: 1 rok 30 dni 16 hours 18 minutes 18 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device identifiers
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 548 dni
+- Consent expiry: 1 rok 30 dni 8 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Online Media Solutions LTD
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 3650 dni)
+- IP addresses
+- Probabilistic identifiers
+- User-provided data
+- 365 dni
+- Consent expiry: Sesyjne
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 30 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- IP addresses
+- Device characteristics
+- Consent expiry: 50 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 750 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device identifiers
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 60 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 60 dni)
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 60 dni)
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 60 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok 1 dzień
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 dni
+- Consent expiry: 120 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 400 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 1 rok 30 dni 16 hours 17 minutes 39 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/](https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/)
+[LINK: https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/](https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy/)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 2555 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Papirfly AS
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 400 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 400 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 400 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1825 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Peer39
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 180 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 182 dni 12 hours 33 minutes 20 seconds
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 7 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1096 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- User-provided data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 7 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 1 rok 363 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 365 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 180 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 390 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 30 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 365 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 390 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok 30 dni 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Playable ApS
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Non-precise location data
+- 90 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Playdigo Inc
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 4320 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 1825 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- IP addresses
+- Device identifiers
+- User-provided data
+- Tracking method: Cookies only
+- Show details
+Polar Mobile Group Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 1095 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- 3650 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści (Okres przechowywania danych: 364 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 90 dni
+- Consent expiry: 7 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Precise location data
+- 3650 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 540 dni
+- Consent expiry: 360 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności treści (Okres przechowywania danych: 1095 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 700 dni
+- Tracking method: Cookies and others
+- Show details
+ProgrammaticX LTD
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Browsing and interaction data
+- Privacy choices
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 760 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Protected Media LTD
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 3650 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni 16 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Public Good Software Inc.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 1825 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 30 dni
+- Consent expiry: 60 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 57 dni 20 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 7 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 40 dni
+- Consent expiry: 5 lat 2 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 182 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 182 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Non-precise location data
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 366 dni
+- Consent expiry: 5 lat 5 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 300 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- 90 dni
+- Consent expiry: Sesyjne
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 365 dni)
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 60 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 540 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 540 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 2555 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 365 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 730 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 730 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 730 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 390 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 390 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 390 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 390 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 4320 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 390 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 390 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Realtime Communication Sthlm AB
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Redbranch, Inc dba Fraudlogix
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- 1 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 1096 dni
+- Consent expiry: 2 lat
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- IP addresses
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 180 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 180 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- 4320 dni
+- Consent expiry: 1 rok 35 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 60 dni
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 35 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Revolution Ad
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- 4320 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Rockabox Media Ltd
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- 3 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Privacy choices
+- 360 dni
+- Consent expiry: 360 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 565 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Sahar Media FZE
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- 30 dni
+- Consent expiry: Sesyjne
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 395 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 395 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 395 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 395 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 395 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 1125 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 1125 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 1125 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 1125 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 395 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 395 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 395 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 395 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 395 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 395 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 1125 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 1125 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 1125 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 1125 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 395 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok 25 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 180 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok 30 dni
+- Tracking method: Cookies and others
+- Show details
+Sarigato Sp. z o.o.
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- IP addresses
+- Probabilistic identifiers
+- Browsing and interaction data
+- 60 dni
+- Consent expiry: 60 dni
+- Tracking method: Cookies only
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Precise location data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 89 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 139 dni 22 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 10 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Seenthis AB
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- 3 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 dni
+- Consent expiry: 2 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 7 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 14 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 14 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 14 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 14 dni)
+- Wykorzystywanie ograniczonych danych do wyboru treści (Okres przechowywania danych: 14 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 14 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 13 dni 23 hours 59 minutes 41 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 1460 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 1460 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 540 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok 25 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+[LINK: https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html](https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html)
+[LINK: https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html](https://s3-eu-west-1.amazonaws.com/public-legal-docs.offerista/offerista/en/privacy.html)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 dni
+- Consent expiry: 2 lat 53 dni 11 hours 20 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 393 dni
+- Consent expiry: 1 rok 28 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 393 dni
+- Consent expiry: 1 rok 28 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- 1 dni
+- Tracking method: Cookies only
+- Show details
+Silverbullet Data Services Group
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 4320 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozwój i ulepszanie usług
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Precise location data
+- 30 dni
+- Consent expiry: 1 rok 23 hours 59 minutes 59 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 385 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 14 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 185 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Sitewit, Corp
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok 6 hours
+- Tracking method: Cookies and others
+- Show details
+Skimbit Ltd
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Browsing and interaction data
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 14 dni
+- Consent expiry: 21 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 395 dni)
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok 30 dni 16 hours 30 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 120 dni
+- Consent expiry: Sesyjne
+- Tracking method: Cookies and others
+- Show details
+Smartico
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 7 dni
+- Tracking method: Cookies only
+- Show details
+[LINK: https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf](https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf)
+[LINK: https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf](https://www.smartmeanalytics.com/static/docs/Politica_privacidad_Smartmeanalytics.pdf)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- 730 dni
+- Consent expiry: 1 rok 5 dni 8 hours 53 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Device characteristics
+- Browsing and interaction data
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 3600 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 3600 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 3600 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 3600 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 91 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 91 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 91 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 91 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 4320 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 4320 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 4320 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 4320 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 1 rok 32 dni 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- 1825 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Probabilistic identifiers
+- Tracking method: Cookies only
+- Show details
+Somplo Ltd
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 30 dni 10 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 548 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- 548 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Privacy choices
+- Consent expiry: 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 2555 dni
+- Consent expiry: 1 hour
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- 180 dni
+- Consent expiry: 28 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+SpinX Pte Ltd
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device identifiers
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- 2555 dni
+- Consent expiry: 3 lat 1 second
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 2555 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 1095 dni)
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 100 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 28 dni
+- Consent expiry: 364 dni
+- Tracking method: Cookies and others
+- Show details
+Sqreem Technologies Private Limited
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Privacy choices
+- 364 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 365 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 548 dni
+- Consent expiry: 364 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+Stream Eye OOD
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+streaMonkey GmbH
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Privacy choices
+- 7 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam (Okres przechowywania danych: 365 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 365 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 90 dni)
+- IP addresses
+- Browsing and interaction data
+- Privacy choices
+- Consent expiry: 1 rok 30 dni 10 hours 1 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Device characteristics
+- 365 dni
+- Consent expiry: 1 hour 30 minutes
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Non-precise location data
+- 120 dni
+- Consent expiry: 120 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 31 dni
+- Consent expiry: 31 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Tracking method: Cookies and others
+- Show details
+- Pomiar efektywności reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 87 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 60 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 60 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 396 dni
+- Consent expiry: 1 rok 5 hours 48 minutes 46 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 2 hours 13 minutes 20 seconds
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 539 dni)
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 540 dni
+- Consent expiry: 360 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 190 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 190 dni)
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 190 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 3650 dni
+- Consent expiry: 18 dni 6 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+Target Better Inc
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Probabilistic identifiers
+- Privacy choices
+- 60 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Device characteristics
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Privacy choices
+- 365 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 120 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Device identifiers
+- 1095 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 180 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Telecoming S.A.
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- 3650 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 3650 dni
+- Consent expiry: 7 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 182 dni 15 hours
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 93 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- IP addresses
+- Non-precise location data
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 2 lat 183 dni 2 hours 33 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 minutes 30 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 90 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 395 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 180 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 132 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 365 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 99 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 548 dni)
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- Device identifiers
+- Privacy choices
+- 550 dni
+- Consent expiry: 1 rok 175 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- 364 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 90 dni)
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 397 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 13 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 1095 dni
+- Tracking method: Cookies and others
+- Show details
+TMT Digital Inc
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Device identifiers
+- Privacy choices
+- 3 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1825 dni
+- Consent expiry: 5 lat 1 dzień 9 hours 20 minutes
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 360 dni
+- Consent expiry: 1 rok 30 dni 17 hours 13 minutes 20 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 dni
+- Consent expiry: 1 rok 32 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 14 dni
+- Consent expiry: 14 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 52 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 52 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 52 dni)
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 45 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam (Okres przechowywania danych: 730 dni)
+- Pomiar efektywności treści (Okres przechowywania danych: 730 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł (Okres przechowywania danych: 730 dni)
+- Rozwój i ulepszanie usług (Okres przechowywania danych: 730 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- 366 dni
+- Consent expiry: 1 rok 1 dzień
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Consent expiry: 20 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 900 dni
+- Consent expiry: 2 lat 182 dni 12 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- User-provided data
+- Non-precise location data
+- 60 dni
+- Consent expiry: 60 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 365 dni)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Privacy choices
+- 730 dni
+- Consent expiry: 2 lat 13 hours 20 minutes
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok 175 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 7 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści (Okres przechowywania danych: 360 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 60 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam (Okres przechowywania danych: 14 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 60 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 6 minutes 5 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 730 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- Privacy choices
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 397 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 63 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Probabilistic identifiers
+- Users’ profiles
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Privacy choices
+- 180 dni
+- Consent expiry: 180 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- User-provided data
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Users’ profiles
+- 90 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- User-provided data
+- Non-precise location data
+- 14 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 1 rok 5 hours 49 minutes 12 seconds
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 6 dni 2 hours
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- 30 dni
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- 1825 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 30 dni)
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 30 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Non-precise location data
+- Privacy choices
+- 7 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 30 dni
+- Consent expiry: 30 dni 2 hours 13 minutes 20 seconds
+- Tracking method: Cookies only
+- Show details
+Videobot Ltd
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- Device identifiers
+- 1800 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- 90 dni
+- Consent expiry: 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 dni
+- Tracking method: Cookies and others
+- Show details
+Visarity Technologies GmbH
+[LINK: https://primo.design/docs/PrivacyPolicyPrimo.html](https://primo.design/docs/PrivacyPolicyPrimo.html)
+[LINK: https://primo.design/docs/PrivacyPolicyPrimo.html](https://primo.design/docs/PrivacyPolicyPrimo.html)
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- 730 dni
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Non-precise location data
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 17 dni 1 hour 40 minutes 36 seconds
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam (Okres przechowywania danych: 4320 dni)
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Precise location data
+- 30 dni
+- Tracking method: Cookies and others
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device identifiers
+- Precise location data
+- Consent expiry: 12 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 59 dni)
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- IP addresses
+- Device characteristics
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 60 dni
+- Consent expiry: 1 minutes
+- Tracking method: Cookies only
+- Show details
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Device characteristics
+- Non-precise location data
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+VRTCAL Markets Inc
+[LINK: https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+[LINK: https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Tracking method: Cookies and others
+- Show details
+Vudoo Pty Ltd
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Browsing and interaction data
+- Tracking method: Cookies only
+- Show details
+[LINK: https://docs.google.com/spreadsheets/d/1HMrCpWucCJOoWtqRi9AD1W_ylyxPuWInECUzuCg4-UI/edit#gid=0](https://docs.google.com/spreadsheets/d/1HMrCpWucCJOoWtqRi9AD1W_ylyxPuWInECUzuCg4-UI/edit#gid=0)
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+Vyde Ltd.
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- 4320 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- 28 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 395 dni
+- Consent expiry: 1 rok 28 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Consent expiry: 14 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 365 dni
+- Consent expiry: 3 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 400 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 1095 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Privacy choices
+- 2 dni
+- Consent expiry: 1 rok 30 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 3650 dni
+- Consent expiry: 5 lat 2 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Users’ profiles
+- Privacy choices
+- 1825 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 396 dni
+- Consent expiry: 2 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 180 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device identifiers
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- 180 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam (Okres przechowywania danych: 90 dni)
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Privacy choices
+- 30 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+xpln.ai SAS
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- 90 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 400 dni
+- Consent expiry: 2 lat 20 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 540 dni
+- Consent expiry: 2 lat 20 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+YIELDBIRD SP. Z O.O.
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Privacy choices
+- 1095 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 90 dni
+- Consent expiry: 90 dni
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 7 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Privacy choices
+- Consent expiry: 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Użycie dokładnych danych geolokalizacyjnych
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device identifiers
+- Authentication-derived identifiers
+- User-provided data
+- Privacy choices
+- 4320 dni
+- Consent expiry: 1 rok 6 hours
+- Tracking method: Cookies and others
+- Show details
+Zeit Agency ApS
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Browsing and interaction data
+- 30 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- Aktywne skanowanie charakterystyki urządzenia do celów identyfikacji
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 5 lat
+- Cookie expiry may be refreshed during the lifetime.
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 365 dni
+- Consent expiry: 1 rok
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Tworzenie profili w celu spersonalizowanych reklam
+- Wykorzystanie profili do wyboru spersonalizowanych reklam
+- Tworzenie profili w celu personalizacji treści
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dopasowanie i łączenie danych z innych źródeł
+- Łączenie różnych urządzeń
+- Identyfikacja urządzeń na podstawie informacji przesyłanych automatycznie
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Probabilistic identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 390 dni
+- Consent expiry: 1 rok 25 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Tworzenie profili w celu spersonalizowanych reklam (Okres przechowywania danych: 360 dni)
+- Wykorzystanie profili do wyboru spersonalizowanych reklam (Okres przechowywania danych: 360 dni)
+- Tworzenie profili w celu personalizacji treści (Okres przechowywania danych: 360 dni)
+- Wykorzystywanie profili w celu doboru spersonalizowanych treści (Okres przechowywania danych: 360 dni)
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozwój i ulepszanie usług
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści (Okres przechowywania danych: 360 dni)
+- Zapisanie decyzji dotyczących prywatności oraz informowanie o nich (Okres przechowywania danych: 360 dni)
+- Łączenie różnych urządzeń
+- IP addresses
+- Device characteristics
+- Device identifiers
+- Authentication-derived identifiers
+- Browsing and interaction data
+- User-provided data
+- Non-precise location data
+- Users’ profiles
+- Privacy choices
+- 1080 dni
+- Consent expiry: 180 dni
+- Tracking method: Cookies only
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Pomiar efektywności reklam
+- Pomiar efektywności treści
+- Rozumienie odbiorców dzięki statystyce lub kombinacji danych z różnych źródeł
+- Rozwój i ulepszanie usług
+- Wykorzystywanie ograniczonych danych do wyboru treści
+- Dostarczanie i prezentowanie reklam i treści
+- Device characteristics
+- 90 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Pomiar efektywności reklam
+- Zapewnienie bezpieczeństwa, zapobieganie oszustwom i naprawianie błędów
+- Dostarczanie i prezentowanie reklam i treści
+- IP addresses
+- Device characteristics
+- Non-precise location data
+- Privacy choices
+- 730 dni
+- Tracking method: Cookies and others
+- Show details
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+- Przechowywanie informacji na urządzeniu lub dostęp do nich
+- Wykorzystywanie ograniczonych danych do wyboru reklam
+
+## „Jestem nieszczęśliwy, że Polacy się tak podzielili”. Jurek Owsiak o Wielkiej Orkiestrze Świątecznej Pomocy, byciu dziadkiem i pomaganiu innym
+
+## Już 14 marca 6. edycja „Wolnych od stresu”
+
+## „To, jak mieszkamy i jak się ubieramy, mówi o nas więcej niż słowa” – mówi stylistka Karla Gruszecka
+
+## „Jak pokochać siebie i otworzyć się na miłość?” – Akademia Zwierciadła zaprasza na spotkanie z Katarzyną Miller
+
+## „Jestem nieszczęśliwy, że Polacy się tak podzielili”. Jurek Owsiak o Wielkiej Orkiestrze Świątecznej Pomocy, byciu dziadkiem i pomaganiu innym
+
+## Już 14 marca 6. edycja „Wolnych od stresu”
+
+## „To, jak mieszkamy i jak się ubieramy, mówi o nas więcej niż słowa” – mówi stylistka Karla Gruszecka
+
+## „Jak pokochać siebie i otworzyć się na miłość?” – Akademia Zwierciadła zaprasza na spotkanie z Katarzyną Miller
+
+## Najnowsze
+
+- Moda Moda męska go nie ogranicza. Dlaczego A$AP Rocky to najciekawiej ubrany mężczyzna dekady Karolina Liczbińska
+
+### Moda męska go nie ogranicza. Dlaczego A$AP Rocky to najciekawiej ubrany mężczyzna dekady
+
+- Horoskop Śnieżny Księżyc – 1 lutego pełnia w Lwie zapyta, czy jesteśmy autentyczni Aleksandra Nowakowska
+
+### Śnieżny Księżyc – 1 lutego pełnia w Lwie zapyta, czy jesteśmy autentyczni
+
+- Wywiady Hugo Tarres – najmłodszy Hamlet w historii polskiego teatru Zofia Fabjanowska
+
+### Hugo Tarres – najmłodszy Hamlet w historii polskiego teatru
+
+- Filmy 3 thrillery na CDA Premium, których zakończenia szokują. Jeden z nich został oparty na prawdziwych wydarzeniach Patrycja Fijałkowska
+
+### 3 thrillery na CDA Premium, których zakończenia szokują. Jeden z nich został oparty na prawdziwych wydarzeniach
+
+- „Wasabi nails” będą jednym z najgorętszych trendów w manicure w 2026. Oto 15 pomysłów na paznokcie w tym stylu
+- „Mam romans z żonatym facetem, który cały czas mówi o swojej żonie… Co mam robić?” Katarzyna Miller odpowiada
+- Te 2 „wady” mogą sprawić, że osiągniesz sukces zawodowy. Chociaż są piętnowane, według badań to supermoce
+- Najbardziej toksyczne pary w historii kina. Te filmy otworzą ci oczy na czerwone flagi w związku
+- 7 kremów z apteki na ekstremalnie suche, zniszczone dłonie. Formuły z ceramidami i mocznikiem, które profesjonalnie regenerują skórę
+
+## Spotkania
+
+### Hugo Tarres – najmłodszy Hamlet w historii polskiego teatru
+
+### „Sztukę robi się po to, żeby rozpuszczała granice i mentalne zatwardzenia” – mówi Justyna Wasilewska, którą podziwialiśmy ostatnio w „Heweliuszu”
+
+### Timothée Chalamet i Kylie Jenner – historia związku jednej z najbardziej zaskakujących par w show-biznesie
+
+### Historia miłości, która trwa mimo hejtu. Pierce Brosnan 30 lat temu oddał serce Keely Shaye Smith – i do dziś stoi u jej boku
+
+### Dorastała w skrajnej biedzie, została ikoną popkultury. Oto niezwykła historia Dolly Parton
+
+### Hollywood ją kocha, krytycy porównują do legend. Kim jest Jessie Buckley i dlaczego wszyscy mówią, że Oscar jest już tylko formalnością?
+
+### Agnieszka Maciąg: „Nie raz przekonałam się, że życie daje nam rzeczy o wiele piękniejsze i bardziej niesamowite, niż to sobie wyobrażamy”
+
+### Mark Brzezinski i Olga Leonowicz – historia miłości, która stała się misją
+
+### Cillian Murphy wyznaje: „Mam ROMO”. Co to właściwie znaczy? To zjawisko zrozumie wielu introwertyków
+
+### „Nie przyszłaś na ten świat po to, żeby uszczęśliwiać innych ludzi” – przekonuje Mel Robbins w rozmowie na temat książki „Pozwól im”
+
+## Felietony
+
+### Tu byłem 40 lat temu
+
+### Kiedyś to było…
+
+### Wiara w PESEL
+
+### Moda, która ma sens
+
+### Keto nie dla każdego
+
+### Odchodzenie
+
+### O uśmiechu
+
+### Na wzór
+
+### Tu byłem 40 lat temu
+
+### Kiedyś to było…
+
+### Wiara w PESEL
+
+### Moda, która ma sens
+
+### Keto nie dla każdego
+
+### Odchodzenie
+
+### O uśmiechu
+
+### Na wzór
+
+### Tu byłem 40 lat temu
+
+### Kiedyś to było…
+
+### Wiara w PESEL
+
+### Moda, która ma sens
+
+## Psychologia
+
+- Psychologia Przywilej, którego się nie dostrzega, prowadzi do arogancji – ostrzega psycholożka Marta Niedźwiecka Joanna Oleszczyk
+
+### Przywilej, którego się nie dostrzega, prowadzi do arogancji – ostrzega psycholożka Marta Niedźwiecka
+
+- Relacje „Mam romans z żonatym facetem, który cały czas mówi o swojej żonie… Co mam robić?” Katarzyna Miller odpowiada Patrycja Fijałkowska
+
+### „Mam romans z żonatym facetem, który cały czas mówi o swojej żonie… Co mam robić?” Katarzyna Miller odpowiada
+
+- Praca Te 2 „wady” mogą sprawić, że osiągniesz sukces zawodowy. Chociaż są piętnowane, według badań to supermoce Patrycja Fijałkowska
+
+### Te 2 „wady” mogą sprawić, że osiągniesz sukces zawodowy. Chociaż są piętnowane, według badań to supermoce
+
+- Psychologia 4 typy introwertyków – którym jesteś? Sprawdź, czy bliżej ci do społecznego, intelektualnego, lękliwego czy zdystansowanego Patrycja Klikowska
+
+### 4 typy introwertyków – którym jesteś? Sprawdź, czy bliżej ci do społecznego, intelektualnego, lękliwego czy zdystansowanego
+
+- Psychologia Działasz na pełnych obrotach, by zadowolić innych – a w środku czujesz wypalenie i pustkę? To może być depresja wysokofunkcjonująca Aleksandra Urbaniak
+
+### Działasz na pełnych obrotach, by zadowolić innych – a w środku czujesz wypalenie i pustkę? To może być depresja wysokofunkcjonująca
+
+- Relacje To nie elastyczność i dojrzałość, ale lęk i lenistwo. Te 4 zachowania zabijają miłość w długoletnich związkach Patrycja Fijałkowska
+
+### To nie elastyczność i dojrzałość, ale lęk i lenistwo. Te 4 zachowania zabijają miłość w długoletnich związkach
+
+- Psychologia Lady Gaga wsparła polską młodzież zagrożoną kryzysem psychicznym. Jej fundacja przekazała na ten cel 100 tysięcy dolarów Aleksandra Urbaniak
+
+### Lady Gaga wsparła polską młodzież zagrożoną kryzysem psychicznym. Jej fundacja przekazała na ten cel 100 tysięcy dolarów
+
+- Relacje „Gdzie są młodzi mężczyźni? Na garnuszku u mamusi”. O współczesnych gniazdownikach rozmawiamy z Wojciechem Eichelbergerem Alina Gutek
+
+### „Gdzie są młodzi mężczyźni? Na garnuszku u mamusi”. O współczesnych gniazdownikach rozmawiamy z Wojciechem Eichelbergerem
+
+- Kogo boi się narcyz? 4 typy ludzi, od których trzyma się z daleka
+- 11 rzeczy, które drażnią bystre osoby. Zwykli ludzie nie widzą w nich problemu
+- Jak zmanipulować manipulanta? 7 sposobów na to, jak go pokonać jego własną bronią
+- 4 inteligentne riposty, którymi odpowiesz na wścibskie pytania rodziny i znajomych. Pomagają uciąć niekomfortową rozmowę
+
+## Nasi Eksperci
+
+## Kultura
+
+### Oscary 2026: znamy pełną listę nominowanych filmów i twórców. Nie obyło się bez niespodzianek i kontrowersji
+
+### Oscary 2026: gdzie oglądać nominowane filmy? Wiele tytułów dostępnych jest już na platformach streamingowych
+
+### Oskary 2026: gala jeszcze przed nami, a mamy kilka rekordów! Kto już teraz może nazwać się zwycięzcą?
+
+### 10 cytatów z „Zimy Muminków”, które otulą cię w długie, mroźne wieczory. Rozgrzewają serce i przypominają nam, po co jest zima
+
+### 3 thrillery na CDA Premium, których zakończenia szokują. Jeden z nich został oparty na prawdziwych wydarzeniach
+
+### „67” zostało słowem roku 2025 według Dictionary.com. Co oznacza ulubiony zwrot pokolenia alfa?
+
+### 5 książek z wyższej półki, które zna każdy, ale niewielu naprawdę czytało. Dzięki nim zabłyśniesz w towarzystwie
+
+### Albert Einstein i jego 20 najcenniejszych cytatów. Są pełne mądrości życiowej – nie książkowej
+
+### Seriale na podstawie powieści Harlana Cobena. 8 propozycji do obejrzenia po seansie „O krok za daleko”
+
+## Moda
+
+### Moda męska go nie ogranicza. Dlaczego A$AP Rocky to najciekawiej ubrany mężczyzna dekady
+
+### 5 najważniejszych trendów w biżuterii, które będą rządzić w 2026 [zdjęcia z pokazów i modele od polskich marek]
+
+### Buty na mróz, breję i miejskie zaspy. Wybrałam 7 modeli śniegowców, które nie zawodzą zimą (i wyglądają świetnie)
+
+### 7 cytatów Valentino Garavaniego, które każda elegantka powinna znać na pamięć. „Ostatni cesarz mody” nie owijał w bawełnę
+
+### „Piękno chroni przed cynizmem” - mawiał Valentino Garavani. Ostatni z cesarzy włoskiej mody zmarł w wieku 93 lat
+
+### Chiara Ferragni nową twarzą globalnej kampanii Guess na sezon wiosna-lato 2026
+
+### 5 kolorów, które tej zimy noszą Paryżanki. Jeden z nich zastępuje im czerń
+
+### Jest elegancka, przedsiębiorcza i oszczędna. 6 wskazówek, jak w 2026 roku zostać frugal chic – kobietą, która kupuje mniej, ale mądrzej
+
+### Złote Globy 2026: Amal Clooney rozbiła bank. Prawniczka zapozowała w sukni z 1957 roku, w której przyćmiła gwiazdy Hollywood
+
+### Jak nosić białe jeansy zimą? 3 praktyczne i stylowe sposoby, które królują na ulicach światowych stolic mody
+
+### Sarenka to nowa panterka. To na ten zwierzęcy wzór w 2026 roku polują stylowe kobiety
+
+### Te ubrania i dodatki z nowych kolekcji polskich marek mają potencjał, by stać się hitem 2026 roku. Warto mieć je na radarze
+
+### 3 trendy, które oficjalnie przestają być modne w 2026 roku (i ich lepsze wersje)
+
+### Kupowanie używanych ubrań jako wyraz troski o planetę i powód do dumy? Chyba musimy porozmawiać
+
+### Pandora wkracza w świat epoki romansów i wypuszcza kolekcję biżuterii inspirowaną serialem „Bridgertonowie”
+
+### Zima 2026 należy do tych spodni. Oto 5 najmodniejszych modeli – od eleganckich po odważne
+
+### Najpiękniejsze swetry na zimę 2026 – oto 5 modeli, które zawsze warto mieć w szafie
+
+### Jest elegancka, przedsiębiorcza i oszczędna. 6 wskazówek, jak w 2026 roku zostać frugal chic – kobietą, która kupuje mniej, ale mądrzej
+
+### Złote Globy 2026: Amal Clooney rozbiła bank. Prawniczka zapozowała w sukni z 1957 roku, w której przyćmiła gwiazdy Hollywood
+
+### Jak nosić białe jeansy zimą? 3 praktyczne i stylowe sposoby, które królują na ulicach światowych stolic mody
+
+### Sarenka to nowa panterka. To na ten zwierzęcy wzór w 2026 roku polują stylowe kobiety
+
+### Te ubrania i dodatki z nowych kolekcji polskich marek mają potencjał, by stać się hitem 2026 roku. Warto mieć je na radarze
+
+### 3 trendy, które oficjalnie przestają być modne w 2026 roku (i ich lepsze wersje)
+
+### Kupowanie używanych ubrań jako wyraz troski o planetę i powód do dumy? Chyba musimy porozmawiać
+
+### Pandora wkracza w świat epoki romansów i wypuszcza kolekcję biżuterii inspirowaną serialem „Bridgertonowie”
+
+### Zima 2026 należy do tych spodni. Oto 5 najmodniejszych modeli – od eleganckich po odważne
+
+### Najpiękniejsze swetry na zimę 2026 – oto 5 modeli, które zawsze warto mieć w szafie
+
+### Jest elegancka, przedsiębiorcza i oszczędna. 6 wskazówek, jak w 2026 roku zostać frugal chic – kobietą, która kupuje mniej, ale mądrzej
+
+### Złote Globy 2026: Amal Clooney rozbiła bank. Prawniczka zapozowała w sukni z 1957 roku, w której przyćmiła gwiazdy Hollywood
+
+### Jak nosić białe jeansy zimą? 3 praktyczne i stylowe sposoby, które królują na ulicach światowych stolic mody
+
+### Sarenka to nowa panterka. To na ten zwierzęcy wzór w 2026 roku polują stylowe kobiety
+
+### Te ubrania i dodatki z nowych kolekcji polskich marek mają potencjał, by stać się hitem 2026 roku. Warto mieć je na radarze
+
+## Uroda
+
+### „Wasabi nails” będą jednym z najgorętszych trendów w manicure w 2026. Oto 15 pomysłów na paznokcie w tym stylu
+
+- Ta japońska technika mycia włosów pobudza ich wzrost lepiej niż wcierki
+- Takie brwi wciąż nosi wiele kobiet, ale w 2026 definitywnie wychodzą z mody. Jaki makijaż brwi jest dziś na czasie?
+- Nowa kampania marki The Ordinary obnaża wielkie kłamstwa branży beauty. Ten film pokaże ci, jak bardzo dajesz się nabrać
+- Perfumy do biura, które pomogą ci zrobić dobre wrażenie. 7 dyskretnych i eleganckich zapachów z klasą
+
+### 7 kremów z apteki na ekstremalnie suche, zniszczone dłonie. Formuły z ceramidami i mocznikiem, które profesjonalnie regenerują skórę
+
+### Czy zimno działa zbawiennie na skórę? Cała prawda o skin icing
+
+### Givenchy - Irresistible Eau De Parfum Nectar
+
+### Perfekcja, która inspiruje
+
+## Podcasty
+
+- Podcasty Co robi z nami ukryty stres? Kasia Miller: „U podłoża chorób leży nasza grzeczność” [„Przerwa na kawę z Kasią Miller”, s. 5, odc. 7] Joanna Olekszyk
+
+### Co robi z nami ukryty stres? Kasia Miller: „U podłoża chorób leży nasza grzeczność” [„Przerwa na kawę z Kasią Miller”, s. 5, odc. 7]
+
+- Podcasty Jak przerabiać toksyczne myśli? Kasia Miller: Wymyśliłam 5 kroków [Przerwa na kawę z Kasią Miller s. 5, odc. 6] Joanna Olekszyk
+
+### Jak przerabiać toksyczne myśli? Kasia Miller: Wymyśliłam 5 kroków [Przerwa na kawę z Kasią Miller s. 5, odc. 6]
+
+- Podcasty „Przerwa na kawę z Kasią Miller”, sezon 5, odc. 5: Jak się nie dać toksycznym ludziom? Joanna Olekszyk
+
+### „Przerwa na kawę z Kasią Miller”, sezon 5, odc. 5: Jak się nie dać toksycznym ludziom?
+
+- Podcasty „Przerwa na kawę z Kasią Miller”, sezon 5, odc. 4: Czy można być uzależnionym od miłości? Joanna Olekszyk
+
+### „Przerwa na kawę z Kasią Miller”, sezon 5, odc. 4: Czy można być uzależnionym od miłości?
+
+## Piękne miejsca
+
+### Na straży pamięci o zielarskiej tradycji i zwyczajach Podlasia
+
+### Na straży pamięci o zielarskiej tradycji i zwyczajach Podlasia
+
+### LUŠTICA BAY: morska bryza i 18 golfowych dołków
+
+### Karkonosze i Góry Izerskie jesienią. Najpiękniejsze trasy, które można przejść w jeden dzień – dla tych, którzy kochają samotność i spokój
+
+### Alpy na wyciągnięcie ręki
+
+### Dubaj – miasto przyszłości. Nie przegap tych 5 futurystycznych atrakcji
+
+### Remedium – więcej niż inwestycja. Gdańskie apartamenty zaprojektowane z myślą o codziennej wygodzie
+
+### Wybrano najpiękniejszą plażę nad Bałtykiem. Nazywają ją Majorką Północy
+
+## Wideo
+
+### „CV to jest jakaś wymyślona pop-persona, tacy ludzie nie istnieją”. O rekrutacjach spray and pray i rynku już nie-pracownika a wyczekiwania | „zaTASKowani 2”, odc. 14
+
+### Martyna Wojciechowska w wideo do sesji okładkowej „Zwierciadła”
+
+### „Zamartwianie się wchodzi w nawyk i powoduje lęk uogólniony”. Sylwia Sitkowska o tym, gdzie w ciele jest presja | „Ukryte piękno”, odc. 18
+
+### „Stan zapalny zaczyna się w tarczycy”. Dr Tadeusz Oleszczuk o tym, jak czytać onkopakiet | „Jak zdrowie”, odc. 12
+
+### Gdy luksus usypia czujność, a wolność staje się iluzją. Rozmowa z twórcami filmu „Glorious Summer”
+
+## Styl życia
+
+### Śnieżny Księżyc – 1 lutego pełnia w Lwie zapyta, czy jesteśmy autentyczni
+
+### Czy Myszka Miki nosi szelki – a może twój umysł płata ci figle? Rozwiąż quiz i przekonaj się, jak często padłaś ofiarą efektu Mandeli
+
+### Fundacja LOTTO im. Haliny Konopackiej i Robert Lewandowski wspólnie dla WOŚP
+
+### Ekspert z Harvardu: 6 codziennych nawyków, które spowalniają starzenie mózgu. Jeden z nich trwa tylko minutę
+
+### Poranki, które przestają być wyścigiem. Foodify odzyskuje dla nas czas
+
+### Dwa znaki zodiaku mają szansę na płomienny romans, a trzy mogą spotkać miłość w drodze do pracy. Oto horoskop tarotowy na walentynki 2026
+
+## Menopauza
+
+- Pielęgnacja Zaopiekuj się czule swoimi zmarszczkami! Agata Rucińska
+
+### Zaopiekuj się czule swoimi zmarszczkami!
+
+- Menopauza Objawy perimenopauzy – na co zwrócić uwagę po czterdziestce? Małgorzata Welman
+
+### Objawy perimenopauzy – na co zwrócić uwagę po czterdziestce?
+
+- Uroda Makijaż lekki jak piórko w stylu Pameli Anderson. 5 kroków do świetlistej i wypoczętej cery dla kobiet 50+ Martyna Małysiak
+
+### Makijaż lekki jak piórko w stylu Pameli Anderson. 5 kroków do świetlistej i wypoczętej cery dla kobiet 50+
+
+- Menopauza „Moje ciało powiedziało stop” – pisze Ola Laudańska, dzieląc się swoim doświadczeniem na temat menopauzy Aleksandra Laudańska
+
+### „Moje ciało powiedziało stop” – pisze Ola Laudańska, dzieląc się swoim doświadczeniem na temat menopauzy
+
+### Aktualne wydania
+
+Autopromocja
+- Joanna Kulig: „Chcę rozwinąć przestrzeń muzyczną”
+- Temat miesiąca: odstawienie alkoholu
+- Autorytety o nich rozmawiamy z pedagogiem i terapeutą
+- O stereotypach i lękach dotyczących bezpłodności
+- Temat numeru: Kiedy siada ci psyche
+- Co zmienia wczesną terapia spektrum autyzmu.
+- Jak reagować na przemoc rówieśniczą by pomóc dziecku?
+- Moralność. Kontekst się zmienia, więc czy jest coś stałego?
+
+### Newsletter
+
+Psychologia, związki, seks, wychowanie, świadome życie ‑ przegląd najlepszych artykułów
+DOŁĄCZ DO NAS
+
+### Psychologia
+
+Relacje
+Seks
+Praca
+Wychowanie
+
+### Spotkania
+
+Wywiady
+Podcasty
+Wideo
+Akademia Zwierciadła
+Kulisy naszych sesji
+
+### Kultura
+
+Filmy
+Seriale
+Muzyka
+Książki
+Sztuka
+
+### Moda
+
+Pokazy mody
+Kolekcje
+Stylizacje gwiazd
+Trendy
+Zakupy
+
+### Uroda
+
+Kosmetyki
+Pielęgnacja
+Makijaż
+Włosy
+Perfumy
+
+### Styl życia
+
+Quizy
+Psychotesty
+Horoskopy
+Zdrowie
+Podróże
+
+--------------------

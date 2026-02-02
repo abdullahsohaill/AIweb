@@ -1,0 +1,49 @@
+# Unique3D
+**URL:** https://wukailu.github.io/Unique3D
+**Page Title:** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+--------------------
+
+
+## Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+
+[LINK: Fangfu Liu](https://liuff19.github.io/)
+[LINK: Yueqi Duan](https://duanyueqi.github.io/)
+[LINK: Code](https://github.com/AiuniAI/Unique3D)
+
+## Abstract
+
+In this work, we introduce Unique3D , a novel
+            image-to-3D framework for efficiently generating high-quality 3D meshes
+            from single-view images, featuring state-of-the-art generation fidelity
+            and strong generalizability. Previous methods based on Score
+            Distillation Sampling (SDS) can produce diversified 3D results by
+            distilling 3D knowledge from large 2D diffusion model, but they usually
+            suffer from long per-case optimization time with inconsistent issues.
+            Recent works address the problem and generate better 3D results either
+            by finetuning a multi-view diffusion model or training a fast
+            feed-forward model. However, they still lack intricate textures and
+            complex geometries due to inconsistency and limited generated
+            resolution. To simultaneously achieve high fidelity, consistency, and
+            efficiency in single image-to-3D, we propose a novel framework Unique3D
+            that includes a multi-view diffusion model with a corresponding normal
+            diffusion model to generate multi-view images with their normal maps, a
+            multi-level upscale process to progressively improve the resolution of
+            generated orthographic multi-views, as well as an i n s tant
+            and c o nsistent me sh r econstruction algorithm called ISOMER , which fully integrates the color and geometric priors
+            into mesh results. Extensive experiments demonstrate that our Unique3D
+            significantly outperforms other image-to-3D baselines in terms of
+            geometric and textural details.
+
+## Method
+
+## Comparison
+
+## More Results
+
+## Interactable Meshes
+
+IKUN
+Person
+Icecream
+
+--------------------

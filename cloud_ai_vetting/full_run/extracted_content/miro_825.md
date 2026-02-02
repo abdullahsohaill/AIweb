@@ -1,0 +1,159 @@
+# Miro
+**URL:** https://miro.com
+**Page Title:** AI Innovation Workspace | Miro
+--------------------
+
+
+## Flow from idea to outcome in seconds
+
+INSIGHTS
+DATA TABLE
+AR City Explorer
+Travel App
+Group Planner
+Adventure Tracker
+Weather Alerts
+Visual Reference
+DOC
+Create a PRD Doc
+Untitled doc
+Press ‘/’ for options or start writing
+Choose a starting template
+Retrospective Summary
+Product Brief
+Research Synthesis
+Meeting Notes
+Tom
+Jess
+PROTOTYPE
+Drew
+Miro AI
+Rad
+Brie
+Product Marketer
+Design Assistant
+Maria
+
+## The only thing more important than moving fast is moving the needle
+
+See how over 250,000 companies are getting great done in Miro
+Aida
+Miro AI
+3.6x
+faster time to market
+50%
+shorter planning process
+faster time to market
+
+## 100M+
+
+## 250+
+
+## 6,000+
+
+“Being able to bring everyone together to plan in Miro ultimately means that the most impactful initiatives will happen at the right time – and customers will get the functionality they want.”
+Lucy Starling
+Product Operations Lead at ASOS
+Read Customer Study
+Jess
+Drew
+Let’s go with this fit for our summer collection
+
+## Experience the Innovation Workspace
+
+Slides
+Accelerate your team with collaborative AI workflows
+Learn more
+
+### Intelligent Canvas
+
+Empower teamwork on one, infinite, multiplayer canvas
+Learn more
+
+### Formats
+
+Move quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more
+Learn more
+
+### Blueprints
+
+Automate key processes and ensure your workflows are scalable, repeatable, and efficient
+Learn more
+
+### Enterprise Security & Scale
+
+Secure and scalable collaboration on an enterprise-grade platform you can trust
+Learn more
+
+### Integrations
+
+Connects with 250+ apps so teams stay aligned and productive in one scalable, secure workspace.
+Learn more
+Brie
+
+## Introducing Miro for Product Acceleration
+
+Break free from tool boundaries. Align faster. And ship what customers actually need—in one AI workspace.
+Explore the solution
+
+## Need help getting started?
+
+Pricing
+
+### Select a plan
+
+Templates
+
+### Get started fast
+
+Solution Partners
+
+### Explore the network
+
+Community
+
+### Connect with Miro users
+
+Blog
+
+### Dive in to ways of working
+
+Academy
+
+### Get started with Miro
+
+Home
+AI Innovation Workspace
+Product
+Solutions
+Resources
+Company
+Plans and Pricing
+English
+Miro
+© 2026
+Terms of Service
+Privacy Policy
+Manage Cookies
+Do Not Sell or Share My Personal Information
+
+## Cookies, anyone?
+
+## Privacy Preference Center
+
+### Manage Consent Preferences
+
+“Do Not Share/Do Not Sell My Personal Information” & Opting Out From Targeted Advertising: Miro may use personal information to support “targeted advertising,” “selling,” or “sharing,” as defined by applicable privacy laws, which may result in third parties receiving your personal information. Some states provide residents (or, in some cases, their authorized agents) with the right to opt out of “targeted advertising,” “selling,” or “sharing” of personal information. You or your legally authorized agent can move the toggle above to the left to opt out of the aforementioned activities on this digital property consistent with applicable law. 
+
+* Please note that, because these activities are based on online cookies, your opt-out choice is specific to this website. Also, if you clear your cookies on this browser or use another browser or device, you may need to opt out again on this property.  
+
+** If you choose to opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out.
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+### Cookie List
+
+
+--------------------

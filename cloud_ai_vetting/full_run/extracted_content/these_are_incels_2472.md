@@ -1,0 +1,37 @@
+# these are incels.
+**URL:** https://www.splcenter.org/hatewatch/2018/04/24/i-laugh-death-normies-how-incels-are-celebrating-toronto-mass-killing
+**Page Title:** "I laugh at the death of normies": How incels are celebrating the Toronto mass killing
+--------------------
+
+“That moment when this random dude killed more people than the supreme gentleman Elliot. I hope this guy wrote a manifesto because he could be our next new saint.”
+After Alek Minassian’s Toronto van rampage that left 10 dead and 15 injured Monday, speculation abounded about his motive. The 25-year-old suspect had not been on the radar of law enforcement, and authorities said the killings “were not national security related.”
+Then a Facebook post emerged from what appeared to be Minassian’s account. Posted the day of the attack, it hints at an unsettling motive.
+“Private (Recruit) Minassian Infantry 00010, wishing to speak to Sgt 4chan please,” it reads. “C23249161. The Incel Rebellion has already begun! We will overthrow all the Chads and Stacys! All hail the Supreme Gentleman Elliot Rodger!”
+At first glance, the language in the post invites a healthy dose of skepticism. Considering the enthusiasm with which internet trolls spin false narratives after a tragedy, this claim was met with caution. But recent reports suggest it is, in fact, authentic. Multiple news outlets say Facebook representatives have confirmed the veracity of the post, and Toronto Police in a press conference today indicated they also believe it is authentic.
+And what the post suggests – that Minassian was part of the “incel” community – bears further explanation.
+“Incels,” or “involuntary celibates,” are part of the online male supremacist ecosystem. The Southern Poverty Law Center added male supremacy to the ideologies tracked on the hate map this year, because of the way these groups consistently denigrate and dehumanize women, often including advocating physical and sexual violence against them. On the internet, the male supremacist ideology takes a few different forms. One of the newest forms is “incel.”
+Incels grew out of the pick-up artist movement, which purports to offer men strategies to persuade, pressure, cajole or trick women into sleeping with them. When those strategies (or “game”) unsurprisingly proved unsuccessful for many men, they became deeply bitter. To an incel, sex is a basic human right for all men. So the women who deny them that right are committing a heinous — and punishable — crime.
+Elliot Rodger provides the most chilling example of the most violent ends of this nihilistic, spiteful and self-centered ideology. He killed six people and injured 14 others in a mass shooting in California in 2014. He wrote a manifesto blaming women for his loneliness and the fact that he was still a virgin. “I’m the perfect guy and yet you throw yourselves at these obnoxious men instead of me, the supreme gentleman,” he wrote.
+Incels see Rodger as their patron saint. They celebrate his tactics, his body count and, of course, his manifesto, and write wistfully of a violent uprising yet to come. They glorify Rodger’s attack using the shorthand, “going ER.” After last year’s horrific mass shooting in Las Vegas, incels on Reddit praised Paddock for killing “normies,” and hastened to claim him as one of their own in the absence of a clearer motive. Shortly after, the r/incel subreddit was banned from the platform.
+With the revelation Minassian may be a Rodger admirer, the incel community is alight – some with indignation, but most with glee.
+“That moment when this random dude killed more people than the supreme gentleman Elliot,” said user Crustaciouse on incels.me, where many flocked after the Reddit ban. “I hope this guy wrote a manifesto because he could be our next new saint.”
+Users cheered the fact that Minassian killed more people than Rodger. A person with the username Letting Go opined that the women of Toronto deserved what they got.
+“As someone who visited Toronto at the beginning of the month, I can see how a man from that city could be driven to kill a bunch of people like that. The women up there are HORRIBLE — even the ethnic women. It would brighten my day if the majority of the victims were young c—- like the ones that I encountered on my trip.”
+Letting Go was jubilant when the identity of the first victim, a young woman, was revealed. “It’s a foid!” they said. “I have one celebratory beer for every victim that turns out to be a young woman between 18-35.”
+“Foid” is short for “femoid,” a term popular with incels that combines “female” and “humanoid,” suggesting women are not fully human, just humanlike.
+Some users were less wordy. User mikepence begged, “PLEASE BE TRUE PLEASE BE TRUE PLEASE BE TRUE.” KyloRen said simply, “Joyous day.”
+BlkPillPres wrote, “ER doesn’t always have to be violent, it just needs to be strategic and punish normies in some way, they need to be in constant fear for EVERY ASPECT OF THEIR LIFE, killing normies from my perspective is kinda pointless but this is still good, I prefer acid attacks to mass killings though, wonder who is going to do a ‘mass acid attack.’”
+When one user rained on the forum’s bloodthirsty parade, asking why posters were praising murder, user FeminismsCancer replied, “Are you serious? The murder of our enemies will of course be praised. It’s rational.”
+Incels.me had another thread, this one less certain: “The Facebook post allegedly made by the Toronto Van Attacker is most likely fake.”
+Here, users bemoaned the fact that this narrative of the attack would be used against them, some fearing that a newer incel subreddit, a slightly less vicious replacement called r/Braincels, would soon be banned. In an r/braincels Discord chat, Incel Executioner said, “We’re about to be holocausted lads.”
+A moderator of r/Braincels posted a disclaimer once speculation began heating up, stating the subreddit “does not support, encourage, or glorify any violence or physical harm, or those who commit such crimes.”
+“It’s 100% fake news, i think we as a community have the rigth (sic) to sue the media,” said use Ub2w, whose signature reads “Eugenics = Utopia.”
+Chadmarco added, “I want it to be true for the lulz.” And user Total Imbecile complained, “Im (sic) 99.9999% sure its fake, but you just have to love how everyone is so eager to bash ugly males, they dont (sic) even care that its fake at this point it seems, theyre (sic) out looking for whatever reason to shit on us.”
+Details about Minassian and his involvement with incels are still emerging. He was charged Tuesday with 10 counts of first-degree murder and 13 counts of attempted murder, and he will return to court on May 10.
+Meanwhile, the misogynists at incels.me continue their feverish discussion. User Crustaciouse began their own thread this afternoon, titled, “I laugh at the death of normies. They will die while we survive.”
+“Us incels spend most of our time inside, there’s no way we would ever be victims of an attack.
+But normies must now live with fear for the rest of their lives, they can’t go to school, the mall, or on a date without having to fear another incel attack,” they wrote. “And they should fear it, this is what happens when you leave us without any love or companionship.”
+Comments or suggestions? Send them to HWeditor@splcenter.org . Have tips about the far right? Please email: source@splcenter.org . Have documents you want to share? Submit here .
+Notifications
+
+--------------------

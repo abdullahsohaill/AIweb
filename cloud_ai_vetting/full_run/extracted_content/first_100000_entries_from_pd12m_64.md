@@ -1,0 +1,57 @@
+# first 100,000 entries from PD12M
+**URL:** https://huggingface.co/datasets/Spawning/PD12M/tree/main/metadata
+**Page Title:** Spawning/PD12M at main
+--------------------
+
+- pd12m.000.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.001.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.002.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.003.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.004.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.005.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.006.parquet 18.8 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.007.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.008.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.009.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.010.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.011.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.012.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.013.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.014.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.015.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.016.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.017.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.018.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.019.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.020.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.021.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.022.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.023.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.024.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.025.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.026.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.027.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.028.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.029.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.030.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.031.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.032.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.033.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.034.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.035.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.036.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.037.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.038.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.039.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.040.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.041.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.042.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.043.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.044.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.045.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.046.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.047.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.048.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+- pd12m.049.parquet 18.9 MB xet Partitioned metadata files into 100k rows (down from 1m). Metadata files also include a new column, source. Updated documentation to include source definition. about 1 year ago
+
+--------------------

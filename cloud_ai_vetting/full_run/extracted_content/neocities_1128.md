@@ -1,0 +1,64 @@
+# NeoCities
+**URL:** http://neocities.org
+**Page Title:** Neocities: Create your own free website!
+--------------------
+
+
+## Featured Sites
+
+## Our mission: To make the web fun again by giving you back control of how you express yourself online.
+
+### HTML editor, right in your browser
+
+No tools needed. With our easy-to-use HTML editor, you're ready to start building your awesome website right now.
+If you'd rather use your favorite desktop editor, no problem. Uploading files is as easy as drag-n-drop.
+
+### Welcome back, web surfing
+
+All Neocities sites are viewable and easily surfable in our website gallery .
+Using tags (our version of Web Rings) you can easily discover new sites related to your interests.
+
+### Follow your favorite Neocities sites
+
+Keep track of all your favorite sites by following them. Any changes to the sites automatically show up in your news feed. You'll also see what sites they follow.
+
+### Web creativity plus community
+
+Interact with your favorite web builders by posting comments, and sharing their sites on your social network of choice.
+
+### Zero Advertising, Zero AI Data Selling
+
+Neocities will never sell your data for AI training or put advertising on your site. Instead, we are funded directly by people just like you with supporter accounts and donations .
+
+### Fast Site Loading
+
+Neocities operates our own caching anycast CDN in over a dozen datacenters all over the world to quickly serve your site to visitors with strong SSL and support for HTTP/2. Our strict focus on static web hosting allows us to routinely out-perform the pricey cloud services on reliability, speed and uptime.
+
+### Developer Tools
+
+Our fast static hosting comes with a great in-browser HTML editor, easy file uploading, a command line tool , RSS feeds for every site, APIs for building developer applications, and much more!
+[LINK: APIs](/api)
+
+### Open Source
+
+We publish the code that powers the site for inspection. We want to win your trust—not lock you in.
+[LINK: publish](https://github.com/neocities)
+
+## 47,689,482,732
+
+### Site Hits
+
+## 12,952,456,444
+
+### Site Visitors
+
+## 301,239,819
+
+### Site Updates
+
+### Rather than a constantly rushing river of information, Neocities sites are like homes where users fix them up, spend time on them, and invite others to visit. — Rosy Hearts, Polygon . View All Press »
+
+## What are you waiting for? Start building your website now!
+
+
+--------------------

@@ -1,0 +1,123 @@
+# DevRev Customer Experience AI Agent
+**URL:** https://devrev.ai
+**Page Title:** Meet Computer, by DevRev. Your new AI teammate.
+--------------------
+
+
+## Work’s Work’s broken. broken. Let’s Let’s fix fix it. it.
+
+## Work’s Work’s broken. broken. Let’s Let’s fix fix it. it.
+
+Computer, Computer, by by DevRev, DevRev, is is your your new new AI AI teammate. teammate.
+LATEST LATEST
+The The conversational conversational computer: computer: towards towards human human agency agency
+LATEST LATEST
+The The conversational conversational computer: computer: towards towards human human agency agency
+WHAT COMPUTER DOES
+Computer Computer connects connects all all your your data. data.
+Structured, unstructured, and everything in-between. Computer unifies your data. Spreadsheets, emails, tickets, customer records, that great chart Tasha made in 2021. Everything. No more silos. Just one AI-ready source of truth.
+It It finds, finds, answers, answers, and and reasons. reasons.
+Computer doesn't just answer questions. Embedded in your full business context, it handles work that frees up teams and helps customers get answers faster. From quick summaries to resolving customer tickets, Computer is always ready to go.
+AI AI agents, agents, put put to to work. work.
+Computer's AI agents don't just suggest, they take action. Use Computer Agent Studio to extend Computer with agents that can create new tickets, update records, and coordinate work across teams while keeping your systems in sync. Solve customers' problems, route complex requests, deflect repetitive questions, even follow up with customers - all automatically.
+THE THE ELEVATOR ELEVATOR PITCH PITCH
+With With Computer, Computer, you you get... get...
+THE THE ELEVATOR ELEVATOR PITCH PITCH
+Unified, powerful search. Across tools like Google Workspace, Notion, your business apps, and the web.
+Effortless task automation. With specialized AI agents – and human oversight when you need it.
+Personalized, actionable feedback. For individuals, or teams.
+Real-time analytics. Identify trends, risks, and opportunities in your data.
+Insights on tap. Ask “why?” Ask “how?” Or brainstorm and innovate together.
+All All the the information information you you need, need, right right at at your your fingertips. fingertips.
+EXTEND EXTEND COMPUTER COMPUTER
+Personalize Personalize Computer, Computer, with with powerful powerful apps apps for for every every team. team.
+EXTEND EXTEND COMPUTER COMPUTER
+Extend Computer with purpose-built solutions that add new tools and interfaces to help your teams accomplish more.
+
+## Computer for Your Customers
+
+Improve resolution rates across every channel. Computer’s customer experience agents answer questions, resolve issues, and drive value – 24/7.
+
+## Computer for Support Teams
+
+Your command center for customer support: automatically resolve common tickets, route complex ones to the right subject matter experts, and keep every customer conversation on track.
+
+## Computer for Builders
+
+Build, test and release with clarity and focus. Computer connects people, handles issues, manages roadmaps, and automates time-killing tasks.
+
+## Computer for User Insights
+
+Track user behavior, feedback, and sentiment. So you fully understand your user’s experience – and make it even better.
+WHY WHY IT IT MATTERS MATTERS
+
+### Real Real results results for for your your customers customers and and teams. teams.
+
+WHY WHY IT IT MATTERS MATTERS
+85%
+of tickets resolved with no human intervention.
+50%
+reduction in customer support costs.
+hours saved per employee, every week.
+Be the first to try Computer
+You read all the way down here, so don’t try telling us you’re not interested. Sign up for the waitlist. Then never look back.
+News News
+Blog
+Oct 30, 2025
+The problem with "natural language to SQL" – and how Computer fixes it
+Blog
+Oct 30, 2025
+The fastest way from decision to done
+Blog
+Updates and News
+Nov 13, 2025
+Agent Studio: the agent era starts here (finally)
+Computer
+Meet Computer
+How Computer works
+Agent Studio
+Apps
+For support teams
+For your customers
+For builders
+For user insights
+Resources
+Blog
+Marketplace
+[LINK: DevRevU training](/docs/DevRevU)
+DevRevU training
+[LINK: Documentation](/docs)
+Documentation
+[LINK: API references](https://developer.devrev.ai/)
+API references
+Customers
+Case Studies
+Company
+About us
+Events
+Careers
+Initiatives
+Partner Program
+Startups Program
+Gr.ai.ce
+Legal
+Security
+SLA
+DPA
+Subprocessors
+Cookie Policy
+Privacy Policy
+Terms of Service
+Legal
+Security
+SLA
+DPA
+Subprocessors
+Cookie Policy
+Privacy Policy
+Terms of Service
+Language
+Status
+Certified Secure
+
+--------------------

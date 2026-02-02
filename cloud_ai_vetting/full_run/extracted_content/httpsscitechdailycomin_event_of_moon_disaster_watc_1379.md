@@ -1,0 +1,35 @@
+# https://scitechdaily.com/in-event-of-moon-disaster-watch-the-disturbing-mit-deepfake-video-of-nixon-announcing-apollo-11-tragedy/?expand\_article=1
+**URL:** https://scitechdaily.com/in-event-of-moon-disaster-watch-the-disturbing-mit-deepfake-video-of-nixon-announcing-apollo-11-tragedy
+**Page Title:** “In Event of Moon Disaster” – Watch the Disturbing MIT Deepfake Video of Nixon Announcing Apollo 11 Tragedy
+--------------------
+
+
+## “In Event of Moon Disaster” – Watch the Disturbing MIT Deepfake Video of Nixon Announcing Apollo 11 Tragedy
+
+New website from the MIT Center for Advanced Virtuality rewrites an important moment in history to educate the public on the dangers of deepfakes.
+Can you recognize a digitally manipulated video when you see one? It’s harder than most people realize. As the technology to produce realistic “deepfakes” becomes more easily available, distinguishing fact from fiction will only get more challenging. A new digital storytelling project from MIT’s Center for Advanced Virtuality aims to educate the public about the world of deepfakes with “In Event of Moon Disaster.”
+This provocative website showcases a “complete” deepfake (manipulated audio and video) of U.S. President Richard M. Nixon delivering the real contingency speech written in 1969 for a scenario in which the Apollo 11 crew were unable to return from the moon. The team worked with a voice actor and a company called Respeecher to produce the synthetic speech using deep learning techniques. They also worked with the company Canny AI to use video dialogue replacement techniques to study and replicate the movement of Nixon’s mouth and lips. Through these sophisticated AI and machine learning technologies, the seven-minute film shows how thoroughly convincing deepfakes can be.
+“Media misinformation is a longstanding phenomenon, but, exacerbated by deepfake technologies and the ease of disseminating content online, it’s become a crucial issue of our time,” says D. Fox Harrell, professor of digital media and of artificial intelligence at MIT and director of the MIT Center for Advanced Virtuality, part of MIT Open Learning. “With this project — and a course curriculum on misinformation being built around it — our powerfully talented XR Creative Director Francesca Panetta is pushing forward one of the center’s broad aims: using AI and technologies of virtuality to support creative expression and truth.”
+Alongside the film, moondisaster.org features an array of interactive and educational resources on deepfakes. Led by Panetta and Halsey Burgund, a fellow at MIT Open Documentary Lab, an interdisciplinary team of artists, journalists, filmmakers, designers, and computer scientists has created a robust, interactive resource site where educators and media consumers can deepen their understanding of deepfakes: how they are made and how they work; their potential use and misuse; what is being done to combat deepfakes; and teaching and learning resources.
+“This alternative history shows how new technologies can obfuscate the truth around us, encouraging our audience to think carefully about the media they encounter daily,” says Panetta.
+Also part of the launch is a new documentary, “To Make a Deepfake,” a 30-minute film by Scientific American , that uses “In Event of Moon Disaster” as a jumping-off point to explain the technology behind AI-generated media. The documentary features prominent scholars and thinkers on the state of deepfakes, on the stakes for the spread of misinformation and the twisting of our digital reality, and on the future of truth.
+The project is supported by the MIT Open Documentary Lab and the Mozilla Foundation, which awarded “In Event of Moon Disaster” a Creative Media Award last year. These awards are part of Mozilla’s mission to realize more trustworthy AI in consumer technology. The latest cohort of awardees uses art and advocacy to examine AI’s effect on media and truth.
+Says J. Bob Alotta, Mozilla’s vice president of global programs: “AI plays a central role in consumer technology today — it curates our news, it recommends who we date, and it targets us with ads. Such a powerful technology should be demonstrably worthy of trust, but often it is not. Mozilla’s Creative Media Awards draw attention to this, and also advocate for more privacy, transparency, and human well-being in AI.”
+“In Event of Moon Disaster” previewed last fall as a physical art installation at the International Documentary Film Festival Amsterdam, where it won the Special Jury Prize for Digital Storytelling; it was selected for the 2020 Tribeca Film Festival and Cannes XR. The new website is the project’s global digital launch, making the film and associated materials available for free to all audiences.
+The past few months have seen the world move almost entirely online: schools, talk shows, museums, election campaigns, doctor’s appointments — all have made a rapid transition to virtual. When every interaction we have with the world is seen through a digital filter, it becomes more important than ever to learn how to distinguish between authentic and manipulated media.
+“It’s our hope that this project will encourage the public to understand that manipulated media plays a significant role in our media landscape,” says co-director Burgund, “and that, with further understanding and diligence, we can all reduce the likelihood of being unduly influenced by it.”
+The video on this page is just the trailer. Visit MoonDisaster.org to watch the full short film.
+Never miss a breakthrough: Join the SciTechDaily newsletter. Follow us on Google and Google News .
+- Three Identical Strangers, One Pressing Question Kristen M. O'Dwyer , Blood
+- UFOS ARE REAL; THE MOON WALK WAS A FAKE Winston Huff , Life Support & Biosphere Science , 1994
+- USING CINEMATIC TECHNIQUES ON MOBILE DEVICES FOR CULTURAL TOURISM IVANA ALFARO , Information Technology & Tourism , 2005
+- Beyond the Frame: Use of Augmented Screenings as a Visual Methodology in Critical Event Studies Ian R. Lamond , Event Management , 2019
+- Forensics Analysis of Resampling via ConvNeXt Block Xiaogang Zhu , Journal of Circuits, Systems and Computers , 2022
+- Filmmaking, Affective Communication, and the Construction of Tourism Imaginaries: Putting The Wow Into Sustainable Whale Watching Tourism Culture & Communication
+- The Anatomy of a Digital Storytelling System: The Architecture van Limburg , Information Technology & Tourism , 2009
+- The Superposition Principle May Berenbaum , American Entomologist , 2018
+- Gatronomy and hypermediacy Rabia Nur Aksu , Journal of Gastronomy and Tourism , 2024
+- Michael Palin's Himalaya : Potential Impact of Television Travel Diaries on Destination Image Glover, Petra , Tourism Review International , 2012
+- Targeting settings
+
+--------------------

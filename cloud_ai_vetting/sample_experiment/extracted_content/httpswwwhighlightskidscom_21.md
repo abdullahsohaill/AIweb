@@ -1,0 +1,52 @@
+# https://www.highlightskids.com/
+**URL:** https://www.highlightskids.com
+**Page Title:** Highlights Kids
+--------------------
+
+
+## Calling all poets! Send us a poem. We may use it in a future issue!
+
+## Poll Question
+
+Check out this
+
+## Tongue Twister
+
+Twenty-two tired toads tied twine.
+
+## Tell Me How
+
+There are lots of ways to have fun when it’s raining outside. You could create some art or bake something with a parent. Or escape to a new world with a good book. You could build your own cozy reading fort, turn out the lights, and read with a flashlight. Or you could try balloon tennis. Attach a paper plate to a paint stick or ruler to make your tennis racket. Blow up a balloon and let the games begin!
+Check out this
+
+## Tongue Twister
+
+Twenty-two tired toads tied twine.
+Check out this
+
+## Tongue Twister
+
+A sweet treat in summer heat!
+Check out this
+
+## Tongue Twister
+
+Slimy, sticky squid swim south.
+Check out this
+
+## Tongue Twister
+
+Sparrows sing special silly songs.
+Check out this
+
+## Tongue Twister
+
+Silly snowmen make chilly children smile.
+Check out this
+
+## Tongue Twister
+
+I see icy ice skaters.
+You are about to leave
+
+--------------------

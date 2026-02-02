@@ -1,0 +1,104 @@
+# React Hook Form
+**URL:** https://react-hook-form.com
+**Page Title:** React Hook Form - performant, flexible and extensible form library
+--------------------
+
+Intuitive, feature-complete API providing a seamless experience to developers when building forms.
+
+### HTML standard
+
+Leverage existing HTML markup and validate your forms with our constraint-based validation API.
+
+### Super Light
+
+Package size matters. React Hook Form is a tiny library without any dependencies.
+
+### Performance
+
+Minimizes the number of re-renders, minimizes validate computation, and faster mounting.
+
+### Adoptable
+
+Since form state is inherently local, it can be easily adopted without other dependencies.
+Striving to provide the best user experience and bringing consistent validation strategies.
+SUPPORTED AND BACKED BY
+
+## Less code. More performant
+
+React Hook Form reduces the amount of code you need to write while removing unnecessary re-renders. Now dive in and explore with the following example:
+
+## React Hook Form
+
+## Isolate Re-renders
+
+You have the ability to isolate component re-renders which leads to better performance on your page or app. The following example demonstrates this:
+
+## Subscriptions
+
+Performance is an important aspect of user experience in terms of building forms. You will have the ability to subscribe to individual input and form State update without re-rendering the entire form.
+
+## Faster Mounting
+
+The following screenshots demonstrate how much faster component mounting is with React Hook Form compared to others:
+
+## React Hook Form
+
+- No. of mount(s) : 1
+- No. of committing change(s) : 1
+- Total time : 1800ms
+
+## Others
+
+- No. of mount(s) : 6
+- No. of committing change(s) : 1
+- Total time : 2070ms
+- No. of mount(s) : 17
+- No. of committing change(s) : 2
+- Total time : 2380ms
+
+## Highlights
+
+This project is getting recognized by the community and industry. It's helping more developers to build forms in React than ever.
+
+### Javascript Rising Star
+
+React Hook Form have matured and evolved around hooks. Simplifies a piece of React development.
+
+### React Open Source Awards
+
+The winner of 2020 GitNation React OS Award for the category of Productivity Booster.
+
+### Technology Radar
+
+The project is fortunate enough to be under the radar for the Languages & Frameworks section.
+
+## The Community
+
+Build and drive by the community. On a mission to make every React developer's life easier when it comes to building forms.
+This is where it's at. A React form library that is both well thought out and flexible enough to get out of your way when you need it to. After fussing around with React forms for years, switching to react-hook-form feels like a superpower. Everything runs faster and my code is cleaner.
+Creating a form is no more complicated while building a react application with the help of react-hook-form. Most of the time I use this package for creating a form as validation is so much simple here. It is the best form maker for me while I stop to work with formika. Very nice user interface and performance are good.
+The best React form library that I have ever used while building a react app because of its utility and simplicity. It has a lot of useful tools and doesn’t require much code compared to Formik, and Redux Form. As the number of re-renders in the application is small and mounting time is less it is super smooth.
+
+## Live Demo
+
+The following form demonstrates form validation in action. Each column represents what has been captured in the custom hook. You can also change fields in the form by clicking the EDIT button.
+
+## Watch
+
+ⓘ Change inputs value to update watched values
+
+## Errors
+
+ⓘ Validation errors will appear here
+
+## Touched
+
+ⓘ Touched fields will display here
+
+## Ready to get started?
+
+Form handling doesn't have to be painful. React Hook Form will help you write less code while achieving better performance.
+[LINK: API](/docs)
+[LINK: Edit](https://github.com/react-hook-form/documentation/edit/master/src/data//home.tsx)
+
+--------------------

@@ -1,0 +1,111 @@
+# Crushon.AI
+**URL:** https://crushon.ai
+**Page Title:** CrushOn AI - No Filter NSFW Character AI Chat - Spicy AI GF
+--------------------
+
+### (Raw Extraction Fallback)
+
+Home
+Recent Chats
+Create
+Rankings
+Profile
+Pricing
+Store
+Bonus
+Notifications
+Crushonai's Terms of Use
+Crush On AI's Privacy Policy
+Community Guidelines
+Affiliate Program
+Content Removal Policy
+Complaints Policy
+18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement
+© 2025 TECHIEPIE LTD. All Rights Reserved
+Strovolou 77, STROVOLOS CENTER, Flat/Office 301, Strovolos, 2018, Nicosia, Cyprus
+8 THE GREEN STE A DOVER, DE 19901
+AI Porn Chat
+AI Sex Chat
+Juicy Chat AI
+More
+Supercharge your Experience
+Search
+English
+Log In
+Characters
+Memories
+Creators
+Discover
+Gender All
+Animated
+Unfiltered
+All
+Image
+Target
+Action
+Alien
+Angel
+Animal
+Anime
+Anthro
+Any Pov
+Assistant
+Books
+Caring
+Cartoon
+Comedy
+Cute
+Demon
+Detective
+Elf
+Enemies to lovers
+Fairytale
+Fantasy
+Female Pov
+Feral
+Fictional
+Fluff
+Friend
+Game
+Genderless
+Giant
+Gothic
+Group Chat
+Hero
+Historical
+Magical
+Male Pov
+Monster
+Monster Girl
+Movie
+Multiple
+Muscle
+Mythology
+Non-English
+Non-human
+OC
+Pokemon
+Robot
+Royalty
+RPG
+Sci-Fi
+Story
+Vampire
+Virtual Human
+VTuber
+Wholesome
+All tags
+No characters available under current conditions.
+Welcome to CrushOn.AI
+
+Which gender are you interested in?
+
+Female
+Male
+Non-binary
+
+The operation frequency is too high, and the website will be temporarily unavailable. Please complete the verification process.
+
+Go to Verification
+
+--------------------

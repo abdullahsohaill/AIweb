@@ -1,0 +1,137 @@
+# GitLab Duo
+**URL:** https://about.gitlab.com/gitlab-duo
+**Page Title:** GitLab Duo
+--------------------
+
+
+## Ship faster with AI designed for software teams
+
+## AI across the software development lifecycle
+
+From planning and coding to securing and deploying, GitLab Duo supports software teams at every stage of their workflow.
+With GitLab Duo, you control which users, projects, and groups can use AI-powered capabilities. Also, your organization’s proprietary code and data aren’t used to train AI models.
+Give your developers a single platform that integrates the right AI model for each use case across the entire workflow, from understanding code to fixing security vulnerabilities.
+For organizations and teams to trust AI, it must be transparent. GitLab’s AI Transparency Center details how we uphold ethics and transparency in our AI-powered features.
+
+## Boost productivity with smart code assistance
+
+Write secure code faster with AI-powered suggestions in over 20 languages, available in your favorite IDE. Automate routine tasks and work to accelerate development cycles.
+Write secure code faster with AI-powered suggestions in over 20 languages, available in your favorite IDE. Automate routine tasks and work to accelerate development cycles.
+
+## Fortify your code with AI-powered security
+
+Understand and remediate vulnerabilities more efficiently. Get detailed explanations and auto-generated merge requests to assist with mitigating security risks.
+Understand and remediate vulnerabilities more efficiently. Get detailed explanations and auto-generated merge requests to assist with mitigating security risks.
+
+## Your AI companion throughout development
+
+Get real-time guidance across the entire software development lifecycle. Generate tests, explain code, refactor efficiently, and chat directly in your IDE or web interface.
+Get real-time guidance across the entire software development lifecycle. Generate tests, explain code, refactor efficiently, and chat directly in your IDE or web interface.
+
+## Quickly resolve CI/CD pipeline issues
+
+Work to save time troubleshooting with AI-assisted root cause analysis for CI/CD job failures. Get suggested fixes and focus on critical tasks.
+Work to save time troubleshooting with AI-assisted root cause analysis for CI/CD job failures. Get suggested fixes and focus on critical tasks.
+
+## Measure the ROI of your AI investment
+
+Track AI effectiveness in real-time. See concrete improvements in cycle times and deployment frequencies, quantifying your return on investment.
+Track AI effectiveness in real-time. See concrete improvements in cycle times and deployment frequencies, quantifying your return on investment.
+
+## Meet GitLab Duo Agent Platform
+
+The future of secure agentic AI software development. GitLab Duo Agent Platform lets your developers collaborate and work in parallel with multiple AI agents that have full context across your entire software development lifecycle.
+
+## GitLab Duo AI add-ons
+
+### GitLab Duo Pro
+
+- Code generation
+- Test generation
+- Code refactoring
+- Chat
+- AI user permissions
+
+### GitLab Duo Enterprise
+
+- Summarization tools
+- Expanded chat context
+- AI-assisted root cause analysis
+- AI-assisted code review
+- GitLab Duo Self-Hosted (optional) **
+- Vulnerability explanation *
+- Vulnerability remediation suggestions *
+* Requires GitLab Ultimate
+** Currently available for Self-Managed Premium and Ultimate customers only
+
+### GitLab named a Leader in the 2025 Gartner® Magic Quadrant™ for AI Code Assistants
+
+## Frequently Asked Questions
+
+An Ultimate license will allow for testing certain capabilities listed as Experiments or in Beta subject to the GitLab Testing Agreement . When new AI features move from Beta to General Availability, customers with either a Premium or Ultimate license may continue to use those capabilities by consuming GitLab Credits.
+The best results from Code Suggestions are expected for languages the Google Vertex AI Codey APIs directly support: C++, C#, Go, Google SQL, Java, JavaScript, Kotlin, PHP, Python, Ruby, Rust, Scala, Swift, and TypeScript.
+[LINK: Google Vertex AI Codey APIs](https://cloud.google.com/vertex-ai/generative-ai/docs/code/code-models-overview#supported_coding_languages)
+Our abstraction layer allows us to power AI capabilities with the suitable model for the right use case. Explore the language models used for each GitLab Duo feature here.
+[LINK: here.](https://docs.gitlab.com/ee/user/project/repository/code_suggestions/supported_extensions/)
+GitLab does not train generative AI models based on private (non-public) data. The vendors we work with also do not train models based on private data. Learn more here .
+[LINK: Learn more here](https://docs.gitlab.com/ee/user/gitlab_duo/data_usage/#training-data)
+Yes. GitLab has an open core business model that enables us to build with our customers, who can contribute new capabilities to our product.
+Output generated by GitLab Duo can be used at your discretion and, if a third-party claim arises from your use of the output generated by GitLab Duo, GitLab will step in and defend you. Learn more here.
+We don't intentionally restrict natural language, however we do expect English will provide the best results. From experimentation, writing the prompt in a language other than English provides a code suggestion tailored to that language (respecting the specific language syntax and reserved keywords).
+You can read about GitLab Duo data usage here . You can also learn more about how GitLab is implementing governance and transparency in GitLab Duo via our AI Transparency Center .
+[LINK: here](https://docs.gitlab.com/ee/user/gitlab_duo/data_usage.html)
+
+## Learn more about GitLab Duo
+
+### Discover ready-to-use prompts for GitLab's AI-powered development tools across the entire software lifecycle
+
+## Start shipping better software faster
+
+See what your team can do with the intelligent
+DevSecOps platform.
+
+## Privacy Preference Center
+
+## Privacy Preference Center
+
+- Your Privacy
+
+### Your Privacy
+
+- Strictly Necessary Cookies
+
+### Strictly Necessary Cookies
+
+- Functionality Cookies
+
+### Functionality Cookies
+
+- Performance and Analytics Cookies
+
+### Performance and Analytics Cookies
+
+- Targeting and Advertising Cookies
+
+### Targeting and Advertising Cookies
+
+- Ad User Data
+
+### Ad User Data
+
+- Ad Personalization
+
+### Ad Personalization
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. Cookie Policy User ID: 19f31325-2893-4cd7-afe4-87a1c07b31a8 This User ID will be used as a unique identifier while storing and accessing your preferences for future. Timestamp: --
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, enabling you to securely log into the site, filling in forms, or using the customer checkout.  GitLab processes any personal data collected through these cookies on the basis of our legitimate interest.
+These cookies enable helpful but non-essential website functions that improve your website experience. By recognizing you when you return to our website, they may, for example, allow us to personalize our content for you or remember your preferences. If you do not allow these cookies then some or all of these services may not function properly.  GitLab processes any personal data collected through these cookies on the basis of your consent
+These cookies allow us and our third-party service providers to recognize and count the number of visitors on our websites and to see how visitors move around our websites when they are using it. This helps us improve our products and ensures that users can easily find what they need on our websites. These cookies usually generate aggregate statistics that are not associated with an individual.  To the extent any personal data is collected through these cookies, GitLab processes that data on the basis of your consent.
+These cookies enable different advertising related functions.  They may allow us to record information about your visit to our websites, such as pages visited, links followed, and videos viewed so we can make our websites and the advertising displayed on it more relevant to your interests.  They may be set through our website by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other websites. GitLab processes any personal data collected through these cookies on the basis of your consent.
+Sets consent for sending user data to Google for advertising purposes.
+Sets consent for personalized advertising.
+
+### Cookie List
+
+- checkbox label label
+
+--------------------

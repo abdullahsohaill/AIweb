@@ -1,0 +1,157 @@
+# Rocket Money
+**URL:** https://www.rocketmoney.com
+**Page Title:** Find & Cancel Subscriptions, Track Your Spending, Create a Budget, and more | Rocket Money
+--------------------
+
+Features
+Learn
+
+## The money app that works for you
+
+Managing money is hard, but you don’t have to do it alone. Rocket Money empowers you to save more, spend less, see everything, and take back control of your financial life.
+Scan to download the app
+
+## Join 10 million+ members
+
+We’ve worked hard saving our members over $2.5 billion* and counting.
+*$2.5 billion in savings represents savings from bill negotiations after fees, subscription cancellations on an annualized basis, and deposits in smart savings. The total represents a gross figure and may not reflect the net savings of individual members. This calculation is based on internal data and has not been independently verified.
+
+## Get control over your subscriptions
+
+Rocket Money instantly finds and tracks your subscriptions. We’re there when you need us to cancel services so you don’t have to.
+
+## Stay on top of your everyday spending
+
+Get an effortless breakdown of your finances to see where your money is going and how to improve. We’ll notify you of important events that need your attention so you’re never caught off guard.
+
+## Put your financial goals on autopilot
+
+Turn on autopilot to save money without thinking about it. Rocket Money learns your habits and saves the right amount at the right time while helping you avoid overdraft fees.
+
+## Get more from your finances with Rocket Money Premium
+
+Premium is more than just software features! You’ll also get real access to humans who can help you cancel subscriptions, lower your bills or help with questions about your personal finances.
+
+### without Premium
+
+### Account Linking
+
+Link your checking, savings, credit cards, and investments accounts to see everything in one place.
+
+### Balance Alerts
+
+Get alerted when your checking account falls below a safe balance or when your credit spend is too high.
+
+### Subscription Management
+
+Our algorithm works its magic to find all of your recurring subscriptions and bills.
+
+### Spend Tracking
+
+With all of your accounts in one place, see and understand your spending trends.
+
+### with Premium
+
+You get everything on the free plan, plus these additional services:
+
+### Subscription Cancellation Assistant
+
+Let us cancel your subscriptions for you.
+
+### Automated Savings Plan
+
+Reach your financial goals with ease.
+
+### ...and more!
+
+Turbocharge your finances with net worth tracking, shared accounts, unlimited budgets, and more.
+
+## Explore more Rocket Money features
+
+### Track and understand your credit score
+
+Access your complete credit report and history. Get alerted to important changes that impact your score.
+Check my credit score
+
+### Get the best rates on your existing bills
+
+Our concierge will identify bills that can be lowered and negotiate on your behalf for the best rates available.
+Lower my bills
+
+### Create a budget that works for you
+
+Set up a budget that automatically monitors your spending by category and keeps you on track towards your goals.
+Build my budget
+
+### Understand and grow your net worth
+
+Get a full picture of your assets & debt in one place. Make improvements and track your financial journey over time.
+Calculate my net worth
+
+## Feel the love
+
+### No need to take our word for it! Here’s just a few of our thousands of 5 star reviews*.
+
+*Reviews may have been edited for clarity and/or conciseness.
+Rocket Money saved me over $200 in the first week alone! I realized I still had a subscription that I thought had been canceled, and when I contacted the merchant they refunded me. 🎉
+Jessica O.
+I'm an accountant/finance person and didn't think I would have much use for this app. I was wrong. The app keeps track of all my expenses, tells me when there is a difference in bills, helps me lower bills that compared to other people are too high. It does all of that and more in a simple to understand dashboard.
+Joel N.
+This is kind of wild. Also, I was wrong. Rocket Money is significantly better than mint.
+Peter Z.
+This app has helped me so much with budgeting and everything to do with my money!
+Stephen H.
+This app and financial management tips are great! I highly recommend it!
+Matthew W.
+Once you get used to it (short time), it's a phenomenal money saving tool.
+Peter O.
+The app is easy to set up and it keeps track of all my money. I love it. I never overdraw anymore.
+Stevie D.
+Quintessential money management app. Nothing but high remarks from me. The app has only gotten better from when I first used it. Cannot recommend it enough.
+Casey R.
+Used mint since it launched and really just wanted a basic tracking capability. Rocket Money is more than an alternative to the retired Mint... It's better.
+Mika A.
+Love this app! So useful for me since I'm so terrible with money. Keeps things easy now that my husband and I share an account.
+Whitney B.
+We have created a perhaps needlessly complex financial circumstance with multiple credit cards and accounts but Rocket Money has given us the wherewithal to stay on top of the situation. Highly recommended!
+Mike G.
+The Rocket Money app has been a gamechanger. It has helped me cancel subscriptions I didn’t know I had.  It is also helping me stay on track with my spending and budgeting. 10/10!
+Michelle G.
+Get a real estate agent handpicked for you and search the latest home listings.
+Buy a home, refinance or manage your mortgage online with America’s largest retail mortgage lender.*
+Save more, spend less, see everything, and take back control of your financial life.
+Get a personal loan to consolidate debt, renovate your home and more.
+Build and grow your wholesale lending business.
+Appraisal, title, and closing solutions that drive speed, confidence, and savings for Rocket clients.
+Manage Subscriptions
+Financial Goals
+Spending Insights
+Credit Scores
+Bill Negotiation
+Budgeting
+Net Worth
+Widgets
+Mint
+Monarch Money
+Origin
+YNAB
+Copliot
+Careers
+About us
+Company updates
+Frequently asked questions
+Rocket
+Security
+Contact us
+Help center
+Affiliates
+Press inquiries
+Terms of service
+Privacy policy
+Notice at collections
+Do Not Sell or Share My Personal Information
+© 2015-2025 Rocket Money All Rights Reserved
+We don’t accept cash, crypto, tacos, or private jets in exchange for your personal information. Some states (hi, California) have their own rules, so check out our Privacy Policy for the full scoop.
+Banking services provided by nbkc bank, member FDIC * Based on Rocket Mortgage data in comparison to public data records. Rocket Mortgage, LLC, Rocket Homes Real Estate LLC, Rocket Card, LLC, RockLoans Marketplace LLC (doing business as Rocket Loans) and Rocket Money, Inc. are separate operating subsidiaries of Rocket, LLC. Each company is a separate legal entity operated and managed through its own management and governance structure. Rocket Companies, Inc. (NYSE: RKT) is the sole managing member of Rocket, LLC. Apple and the Apple logo are trademarks of Apple Inc. registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Wear OS by Google and Google Play are trademarks of Google LLC.
+
+--------------------

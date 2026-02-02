@@ -1,0 +1,16 @@
+# this article
+**URL:** https://www.pcgamesn.com/cities-skylines-2/statement-paradox
+**Page Title:** Cities Skylines 2 missed expectations and must do better, Paradox says
+--------------------
+
+Ed Smith
+Updated: Feb 6, 2024
+Cities Skylines 2 has faced a difficult first six months. At launch, the city building sequel was criticized owing to a range of performance issues, particularly related to long loading times, stuttering, and texture detail. Since then, developer Colossal Order has worked tirelessly to deliver patches that not only remedy technical troubles, but also adjust various aspects of CS2's gameplay and simulation. Compared to the original Cities Skylines, the Cities Skylines 2 Steam player count is low - as of this writing, CS1 has more than 8,000 active players, while the sequel has 4,700. With official modding tools expected in the near future, there is a way back for Cities Skylines 2. But Paradox, the publisher behind CS2, and developer of Stellaris and Crusader Kings, says the game "can and must do better."
+Cities Skylines 2 mods have made a big difference so far, tweaking elements of the city building game to more closely match players' hopes and expectations. Likewise, we're still in the early days of the likely lifespan of Cities Skylines 2 . Colossal Order has created a rock-solid foundation with advanced building, economic, and traffic and road tools, and with a little fixing and growth, it seems completely possible that CS2 will become precisely the sequel it has the potential to be. Currently, however, Paradox says that "feelings are mixed" regarding both Cities 2 and other new games from 2023.
+"As for the release of new games, feelings are mixed," the publisher says in its latest financial report. "Cities Skylines 2 is the big release of the quarter, and we are upset that we didn't live up to players' performance expectations and couldn't release on all platforms at the same time. The game has still sold well, and by the end of the quarter we had sold more than a million copies. At the same time, it is clear that we can and must do better. Since release, we've been working hard on improvements and are fully committed to continuing to improve and develop the game, because we strongly believe in its future and are doing everything we can to get there."
+Colossal Order has recently released a new Cities Skylines 2 patch which aims to improve various aspects of the simulation, as well as provide performance fixes. Official tools and support for Cities Skylines 2 mods are expected to arrive in early 2024. Paradox, meanwhile, has launched the first demo for a huge new strategy game developed by C Prompt.
+Alternatively, you might want to try some of the best 4X games , or maybe the best grand strategy games available right now on PC.
+You can also follow us on Google News for daily PC games news, reviews, and guides, or grab our PCGN deals tracker to net yourself some bargains.
+Ed Smith Ed is a former PCGamesN deputy news editor. He's also written for Edge, Vice, Polygon, and the BBC.
+
+--------------------
