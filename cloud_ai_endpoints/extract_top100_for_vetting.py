@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Extract top 100 entries by rank for manual vetting.
+Extract all entries from top 100 FQDNs (by rank) for manual vetting.
 Outputs: tool name, URL, domain, and rank columns.
 
 Usage:
@@ -12,11 +12,11 @@ import os
 
 
 def main():
-    print("--- 🔝 EXTRACTING TOP 100 FOR VETTING ---")
+    print("--- 🔝 EXTRACTING TOP 100 FQDNs FOR VETTING ---")
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     input_csv = os.path.join(script_dir, "final_cloudAI.csv")
-    output_csv = os.path.join(script_dir, "top100_for_vetting.csv")
+    output_csv = os.path.join(script_dir, "top100_fqdns_for_vetting.csv")
     
     if not os.path.exists(input_csv):
         print(f"❌ Input file not found: {input_csv}")
@@ -26,7 +26,7 @@ def main():
     df = pd.read_csv(input_csv)
     print(f"✅ Loaded {len(df):,} entries")
     
-    # Find relevant columns (case-insensitive matching)
+    # Find relevant columns
     col_mapping = {
         'tool_name': None,
         'url': None,
@@ -49,32 +49,50 @@ def main():
     for key, val in col_mapping.items():
         print(f"   {key}: {val}")
     
-    # Ensure rank column exists for sorting
-    if col_mapping['rank'] is None:
-        print("❌ Could not find rank column!")
+    domain_col = col_mapping['domain']
+    rank_col = col_mapping['rank']
+    
+    if domain_col is None or rank_col is None:
+        print("❌ Could not find required columns!")
         return
     
-    # Sort by rank (ascending = best rank first)
-    df[col_mapping['rank']] = pd.to_numeric(df[col_mapping['rank']], errors='coerce')
-    df_sorted = df.sort_values(by=col_mapping['rank'], ascending=True)
+    # Exclude huggingface.co
+    df = df[~df[domain_col].str.lower().str.contains('huggingface.co', na=False)]
+    print(f"\nAfter excluding huggingface.co: {len(df):,} entries")
     
-    # Take top 100
-    df_top100 = df_sorted.head(100)
+    # Convert rank to numeric
+    df[rank_col] = pd.to_numeric(df[rank_col], errors='coerce')
+    
+    # Get unique FQDNs with their best (lowest) rank
+    fqdn_ranks = df.groupby(domain_col)[rank_col].min().reset_index()
+    fqdn_ranks = fqdn_ranks.sort_values(by=rank_col, ascending=True)
+    
+    # Take top 100 FQDNs
+    top_100_fqdns = fqdn_ranks.head(100)[domain_col].tolist()
+    print(f"Top 100 unique FQDNs selected")
+    
+    # Filter to include ALL entries from those 100 FQDNs
+    df_filtered = df[df[domain_col].isin(top_100_fqdns)]
+    
+    # Sort by rank
+    df_filtered = df_filtered.sort_values(by=rank_col, ascending=True)
     
     # Select only the relevant columns
     cols_to_keep = [v for v in col_mapping.values() if v is not None]
-    df_output = df_top100[cols_to_keep].copy()
+    df_output = df_filtered[cols_to_keep].copy()
     
     # Save
     df_output.to_csv(output_csv, index=False)
     
-    print(f"\n✅ Saved top 100 entries to: {output_csv}")
-    print(f"   Columns: {cols_to_keep}")
+    print(f"\n✅ Saved to: {output_csv}")
+    print(f"   Unique FQDNs: 100")
+    print(f"   Total entries: {len(df_output):,}")
     
     # Preview
-    print(f"\n📋 Preview (first 5):")
-    print(df_output.head().to_string(index=False))
+    print(f"\n📋 Preview (first 10):")
+    print(df_output.head(10).to_string(index=False))
 
 
 if __name__ == "__main__":
     main()
+
