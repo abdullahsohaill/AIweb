@@ -11,7 +11,8 @@
 **/*.txt
 **/*.log
 
-# Secrets
+# Secrets - exclude .env files everywhere
+**/.env
 .env
 
 # OS & IDE
