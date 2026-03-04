@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Extract all entries from top 100 FQDNs (by rank) for manual vetting.
+Extract all entries from top 400 FQDNs (by rank) for manual vetting.
 Outputs: tool name, URL, domain, and rank columns.
 
 Usage:
@@ -12,11 +12,11 @@ import os
 
 
 def main():
-    print("--- 🔝 EXTRACTING TOP 100 FQDNs FOR VETTING ---")
+    print(f"--- 🔝 EXTRACTING TOP 400 FQDNs FOR VETTING ---")
     
     script_dir = os.path.dirname(os.path.abspath(__file__))
     input_csv = os.path.join(script_dir, "final_cloudAI.csv")
-    output_csv = os.path.join(script_dir, "top100_fqdns_for_vetting.csv")
+    output_csv = os.path.join(script_dir, "top400_fqdns_for_vetting.csv")
     
     if not os.path.exists(input_csv):
         print(f"❌ Input file not found: {input_csv}")
@@ -68,12 +68,12 @@ def main():
     fqdn_ranks = df.groupby(domain_col)[rank_col].min().reset_index()
     fqdn_ranks = fqdn_ranks.sort_values(by=rank_col, ascending=True)
     
-    # Take top 100 FQDNs
-    top_100_fqdns = fqdn_ranks.head(100)[domain_col].tolist()
-    print(f"Top 100 unique FQDNs selected")
+    # Take top 400 FQDNs
+    top_400_fqdns = fqdn_ranks.head(400)[domain_col].tolist()
+    print(f"Top 400 unique FQDNs selected")
     
-    # Filter to include ALL entries from those 100 FQDNs
-    df_filtered = df[df[domain_col].isin(top_100_fqdns)]
+    # Filter to include ALL entries from those 400 FQDNs
+    df_filtered = df[df[domain_col].isin(top_400_fqdns)]
     
     # Sort by rank
     df_filtered = df_filtered.sort_values(by=rank_col, ascending=True)
@@ -86,7 +86,7 @@ def main():
     df_output.to_csv(output_csv, index=False)
     
     print(f"\n✅ Saved to: {output_csv}")
-    print(f"   Unique FQDNs: 100")
+    print(f"   Unique FQDNs: 400")
     print(f"   Total entries: {len(df_output):,}")
     
     # Preview

@@ -1,0 +1,189 @@
+{
+  "url": "https://www.salesforce.com",
+  "status": "success",
+  "error": null,
+  "timing": {
+    "start": "2026-03-01T16:30:46.396780+00:00",
+    "page_loaded": "2026-03-01T16:30:47.482860+00:00",
+    "consent_handled": "2026-03-01T16:30:52.483534+00:00",
+    "interaction_done": "2026-03-01T16:31:12.776833+00:00",
+    "ai_invocation_done": "2026-03-01T16:31:23.711288+00:00",
+    "capture_done": "2026-03-01T16:31:25.752048+00:00",
+    "end": "2026-03-01T16:31:25.752134+00:00"
+  },
+  "frames": [
+    {
+      "index": 0,
+      "url": "https://www.salesforce.com/",
+      "name": "",
+      "is_main": true,
+      "parent_url": null,
+      "html": "<html><head>\n<title>Access Denied</title>\n</head><body>\n<h1>Access Denied</h1>\n \nYou don't have permission to access \"http://www.salesforce.com/\" on this server.<p>\nReference #18.3d7b655f.1772382647.856f05d\n</p><p>https://errors.edgesuite.net/18.3d7b655f.1772382647.856f05d</p>\n\n\n</body></html>",
+      "inner_text": "Access Denied\nYou don't have permission to access \"http://www.salesforce.com/\" on this server.\n\nReference #18.3d7b655f.1772382647.856f05d\n\nhttps://errors.edgesuite.net/18.3d7b655f.1772382647.856f05d",
+      "is_detached": false,
+      "captured_phase": "post_ai_invocation",
+      "script_urls": []
+    },
+    {
+      "index": 0,
+      "url": "https://www.salesforce.com/",
+      "name": "",
+      "is_main": true,
+      "parent_url": null,
+      "html": "<html><head>\n<title>Access Denied</title>\n</head><body>\n<h1>Access Denied</h1>\n \nYou don't have permission to access \"http://www.salesforce.com/\" on this server.<p>\nReference #18.3d7b655f.1772382647.856f05d\n</p><p>https://errors.edgesuite.net/18.3d7b655f.1772382647.856f05d</p>\n\n\n</body></html>",
+      "inner_text": "Access Denied\nYou don't have permission to access \"http://www.salesforce.com/\" on this server.\n\nReference #18.3d7b655f.1772382647.856f05d\n\nhttps://errors.edgesuite.net/18.3d7b655f.1772382647.856f05d",
+      "is_detached": false,
+      "script_urls": []
+    }
+  ],
+  "network_requests": [
+    {
+      "url": "https://www.salesforce.com/",
+      "method": "GET",
+      "headers": {
+        "accept-language": "en-US",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"136\", \"HeadlessChrome\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "post_data": null,
+      "resource_type": "document",
+      "frame_url": "about:blank",
+      "is_navigation": true,
+      "response": {
+        "status": 403,
+        "status_text": "",
+        "headers": {
+          "ak-uuid": "0.3d7b655f.1772382647.856f05d",
+          "cache-control": "private, max-age=300",
+          "content-length": "370",
+          "content-type": "text/html",
+          "date": "Sun, 01 Mar 2026 16:30:47 GMT",
+          "expires": "Sun, 01 Mar 2026 16:35:47 GMT",
+          "mime-version": "1.0",
+          "server": "AkamaiGHost",
+          "server-timing": "cdn-cache; desc=HIT\nedge; dur=1\nak_p; desc=\"1772382647266_1600486205_139915357_34_20734_135_159_255\";dur=1",
+          "strict-transport-security": "max-age=86400"
+        },
+        "body": "<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;salesforce&#46;com&#47;\" on this server.<P>\nReference&#32;&#35;18&#46;3d7b655f&#46;1772382647&#46;856f05d\n<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;3d7b655f&#46;1772382647&#46;856f05d</P>\n</BODY>\n</HTML>\n"
+      }
+    }
+  ],
+  "cdp_requests": [
+    {
+      "request_id": "D93E99A0411299B02C14E2D97D0567FC",
+      "url": "https://www.salesforce.com/",
+      "method": "GET",
+      "resource_type": "Document",
+      "post_data": null,
+      "headers": {
+        "Accept-Language": "en-US",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"136\", \"HeadlessChrome\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      },
+      "initiator": {
+        "type": "other",
+        "url": "",
+        "stack_trace": []
+      },
+      "frame_id": "C6D3C9D28F28026E68307BD4AE9619D2",
+      "timestamp": 310270.155472,
+      "redirect_url": null
+    }
+  ],
+  "storage": {
+    "cookies": [
+      {
+        "name": "ak_loc",
+        "value": "cc:PK,ct:LAHORE,st:LAHORE,msa:LAHORE,pmsa:LAHORE",
+        "domain": "www.salesforce.com",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "AKA_A2",
+        "value": "A",
+        "domain": ".salesforce.com",
+        "path": "/",
+        "expires": 1772386247.444955,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Lax"
+      }
+    ],
+    "local_storage": {},
+    "session_storage": {}
+  },
+  "ai_detection": {
+    "elements_found": [
+      {
+        "type": "iframe",
+        "selector": "iframe[src*='salesforce.com']",
+        "text": "Iframe from salesforce.com",
+        "tag": "iframe",
+        "confidence": "high",
+        "frame_url": "https://www.salesforce.com/"
+      }
+    ],
+    "interactions": [],
+    "triggered": false,
+    "prechat_form_handled": false
+  },
+  "consent_handling": {
+    "extension_handled": false,
+    "fallback_used": false,
+    "popups_dismissed": 0
+  },
+  "permissions_requested": [
+    {
+      "name": "geolocation",
+      "state": "granted"
+    },
+    {
+      "name": "notifications",
+      "state": "granted"
+    },
+    {
+      "name": "camera",
+      "state": "granted"
+    },
+    {
+      "name": "microphone",
+      "state": "granted"
+    },
+    {
+      "name": "clipboard-read",
+      "state": "denied"
+    },
+    {
+      "name": "clipboard-write",
+      "state": "denied"
+    }
+  ],
+  "http_status": 403,
+  "voice_ai_detection": {
+    "voice_ai_triggered": false,
+    "elements_found": [],
+    "interactions": []
+  },
+  "ai_network_confirmation": {
+    "ai_confirmed": false,
+    "ai_endpoints_hit": [],
+    "conversational_payloads": [],
+    "websocket_connections": [],
+    "streaming_responses": []
+  },
+  "_metadata": {
+    "crawl_timestamp": "2026-03-01T16:31:25.761064+00:00",
+    "crawler_version": "0.2.0",
+    "domain": "www.salesforce.com"
+  }
+}
